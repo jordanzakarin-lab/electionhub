@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Battleground Congressional Races 2026 · ElectionHub</title>
+<meta name="description" content="Live results for 11 key U.S. Senate races and the 81 most competitive U.S. House races on the ballot Nov. 3, 2026.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: masthead, House-control bar, tally strip, filter bar, one results table per Cook rating group */
+:root{
+  --paper:#f7f5f0; --ink:#1b1a17; --muted:#6b675e; --rule:#d9d4c7; --panel:#ffffff;
+  --dem:#2457a6; --dem-soft:#c9d8f0; --dem-ink:#ffffff;
+  --rep:#b8332b; --rep-soft:#f0cdc9; --rep-ink:#ffffff;
+  --ind:#7a6a3a; --none:#ece8de; --warn:#8a5a00; --warn-bg:#fff1cc;
+  --display:"Playfair Display", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#161512; --ink:#ece8de; --muted:#a29d90; --rule:#38352e; --panel:#1e1c18;
+  --dem:#4f83d6; --dem-soft:#25385a; --dem-ink:#ffffff;
+  --rep:#d9584f; --rep-soft:#552824; --rep-ink:#ffffff;
+  --ind:#c4ad6a; --none:#2a2823; --warn:#ffd27a; --warn-bg:#3a2e12; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#161512; --ink:#ece8de; --muted:#a29d90; --rule:#38352e; --panel:#1e1c18;
+  --dem:#4f83d6; --dem-soft:#25385a; --dem-ink:#ffffff;
+  --rep:#d9584f; --rep-soft:#552824; --rep-ink:#ffffff;
+  --ind:#c4ad6a; --none:#2a2823; --warn:#ffd27a; --warn-bg:#3a2e12; color-scheme:dark}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:14px;line-height:1.45;margin:0;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 40px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+header{border-bottom:3px double var(--ink);padding-bottom:12px;display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 24px}
+h1{font-family:var(--display);font-weight:900;font-size:clamp(28px,4.5vw,44px);line-height:1;margin:0;text-wrap:balance}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+.kicker a{text-decoration:none}
+.kicker a:hover{text-decoration:underline}
+.dateline{font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase;display:flex;gap:14px;flex-wrap:wrap}
+.live{display:inline-flex;align-items:center;gap:6px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--rep)}
+@media (prefers-reduced-motion:no-preference){.dot{animation:pulse 2s infinite}}
+@keyframes pulse{50%{opacity:.3}}
+.sample{background:var(--warn-bg);color:var(--warn);border:1px solid var(--warn);padding:10px 14px;font-weight:600}
+.control{display:flex;flex-direction:column;gap:8px}
+.control h2{font-family:var(--display);font-weight:700;font-size:20px;margin:0}
+.bar{position:relative;height:28px;display:flex;background:var(--none);overflow:visible}
+.bar i{display:block;height:100%}
+.bar .dh{background:var(--dem-soft)} .bar .dw{background:var(--dem)}
+.bar .rh{background:var(--rep-soft)} .bar .rw{background:var(--rep)}
+.bar .iw{background:var(--ind)}
+.bar .dl{background:repeating-linear-gradient(135deg,var(--dem) 0 3px,var(--dem-soft) 3px 6px)}
+.bar .rl{background:repeating-linear-gradient(135deg,var(--rep) 0 3px,var(--rep-soft) 3px 6px)}
+.bar .gap{flex:1}
+.maj{position:absolute;top:-5px;bottom:-5px;width:2px;background:var(--ink)}
+.nums{display:flex;justify-content:space-between;gap:10px;font-family:var(--mono);font-size:12px;font-variant-numeric:tabular-nums;color:var(--muted);flex-wrap:wrap}
+.nums b{font-weight:500;font-size:14px}
+.tally{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.tile{padding:12px 16px;border-right:1px solid var(--rule)}
+.tile:last-child{border-right:0}
+.k{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.v{font-family:var(--display);font-weight:700;font-size:30px;line-height:1.1;font-variant-numeric:tabular-nums}
+.v small{font-family:var(--body);font-size:13px;font-weight:500;color:var(--muted)}
+.d{color:var(--dem)} .r{color:var(--rep)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:14px;height:10px;display:inline-block}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.filters button{font:500 13px var(--body);background:var(--panel);color:var(--ink);border:1px solid var(--rule);padding:6px 11px;cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.filters input{font:13px var(--body);background:var(--panel);color:var(--ink);border:1px solid var(--rule);padding:6px 10px;min-width:0;flex:1 1 180px;max-width:280px}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--dem);outline-offset:2px}
+.group{display:flex;flex-direction:column;gap:8px}
+.group h2{font-family:var(--display);font-weight:700;font-size:20px;margin:6px 0 0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.group h2 small{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted)}
+.tablebox{overflow-x:auto;border:1px solid var(--rule);background:var(--panel)}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+th,td{padding:8px 10px;text-align:left;white-space:nowrap;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:last-child td{border-bottom:0}
+th{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--panel)}
+td.num,th.num{text-align:right}
+.dist{font-weight:600}
+a.dist{color:inherit;text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:3px}
+a.dist:hover{text-decoration-color:currentColor}
+.sn{display:block;font-size:12px;color:var(--muted);font-weight:400}
+.note{display:block;font-size:12px;color:var(--muted);white-space:normal;max-width:220px}
+.res{font-weight:600;font-size:13px;min-width:120px}
+.res.D-WIN{background:var(--dem);color:var(--dem-ink)} .res.R-WIN{background:var(--rep);color:var(--rep-ink)} .res.I-WIN{background:var(--ind);color:#fff}
+.res.D-LEAD{background:var(--dem-soft);color:var(--ink);box-shadow:inset 6px 0 0 0 var(--dem)} .res.R-LEAD{background:var(--rep-soft);color:var(--ink);box-shadow:inset 6px 0 0 0 var(--rep)}
+.res.I-LEAD{background:var(--none);color:var(--ink);box-shadow:inset 6px 0 0 0 var(--ind)}
+.res.D-LEAD,.res.R-LEAD,.res.I-LEAD{padding-left:16px}
+.res.D-WIN .vv,.res.R-WIN .vv,.res.I-WIN .vv{color:inherit;opacity:.85}
+.res.NONE{color:var(--muted);font-weight:500}
+.rbar{display:flex;height:8px;margin-top:6px;background:var(--none);min-width:110px}
+.rbar i{display:block;height:100%}
+.rbar .D.won{background:var(--dem)} .rbar .R.won{background:var(--rep)}
+.rbar .D.lead{background:repeating-linear-gradient(135deg,var(--dem) 0 3px,var(--dem-soft) 3px 6px)}
+.rbar .R.lead{background:repeating-linear-gradient(135deg,var(--rep) 0 3px,var(--rep-soft) 3px 6px)}
+.rbar .D.early{background:var(--dem-soft)} .rbar .R.early{background:var(--rep-soft)}
+.res.D-WIN .rbar,.res.R-WIN .rbar,.res.I-WIN .rbar{padding:2px;background:var(--paper)}
+.rbar .mid{width:2px;background:var(--ink);margin:0 -1px;position:relative;z-index:1}
+.tag{font-family:var(--mono);font-size:10px;letter-spacing:.06em;margin-left:6px;padding:1px 4px;border:1px solid currentColor;display:inline-block;line-height:1.25;vertical-align:1px}
+.tag.maybe{border-style:dashed}
+.pill{font:600 12px var(--body);padding:3px 8px;white-space:nowrap}
+.pill.D{background:var(--dem);color:var(--dem-ink)} .pill.R{background:var(--rep);color:var(--rep-ink)}
+.pd{font-family:var(--mono);font-size:11px;padding:0 4px;margin-left:2px}
+.pd.D{color:var(--dem)} .pd.R{color:var(--rep)}
+.vv{display:block;font-family:var(--mono);font-size:12px;color:var(--muted)}
+.win{font-weight:600}
+.empty{padding:28px;color:var(--muted);text-align:center}
+footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:6px;border-top:1px solid var(--rule);padding-top:12px}
+a{color:inherit}
+.xlink{display:flex;justify-content:space-between;align-items:center;gap:8px 16px;flex-wrap:wrap;border:1px solid var(--rule);background:var(--panel);padding:10px 14px;text-decoration:none}
+.xlink b{font-family:var(--display);font-size:17px}
+.xlink span{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.xlink:hover b{text-decoration:underline}
+.chamber-h{font-family:var(--display);font-weight:900;font-size:28px;margin:10px 0 0;border-top:3px double var(--ink);padding-top:14px}
+#senate .group h2{font-size:28px;font-weight:900;border-top:3px double var(--ink);padding-top:14px;margin-top:0}
+#senate:empty{display:none}
+.rt{display:block;font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:2px}
+@media (max-width:640px){.nums span:nth-child(2){order:3;flex-basis:100%}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <p class="kicker">ElectionHub · Election Night · Nov. 3, 2026</p>
+      <h1>Battleground Congressional Races 2026</h1>
+    </div>
+    <div class="dateline">
+      <span class="live"><span class="dot" aria-hidden="true"></span><span id="scope">11 Senate · 81 House races</span></span>
+      <span id="updated">Loading…</span>
+    </div>
+  </header>
+
+  <a class="xlink" href="states/"><b>State legislature results →</b><span>Live results for all 88 state legislative chambers on the ballot</span></a>
+
+  <div class="sample" id="sampleBanner" hidden>Sample numbers for layout preview only. These are not real results; live results replace them after polls close on Nov. 3.</div>
+
+  <div class="filters" role="toolbar" aria-label="Filter races">
+    <button aria-pressed="true" data-f="all">All races</button>
+    <button aria-pressed="false" data-f="Toss Up">Toss ups</button>
+    <button aria-pressed="false" data-f="Lean D">Lean D</button>
+    <button aria-pressed="false" data-f="Lean R">Lean R</button>
+    <button aria-pressed="false" data-f="Likely D">Likely D</button>
+    <button aria-pressed="false" data-f="Likely R">Likely R</button>
+    <button aria-pressed="false" data-f="called">Called</button>
+    <button aria-pressed="false" data-f="flip">Seats flipped</button>
+    <input id="q" type="search" placeholder="State, district or candidate" aria-label="Search by state, district or candidate">
+  </div>
+
+  <section id="senate" aria-label="U.S. Senate"></section>
+
+  <h2 class="chamber-h">U.S. House</h2>
+
+  <section class="control" aria-label="House control">
+    <h2>Race for the House</h2>
+    <div id="houseBar"></div>
+    <div class="nums" id="houseNums"></div>
+  </section>
+
+  <section class="tally" id="tally" aria-label="Battleground summary"></section>
+
+  <div class="legend" aria-label="Bar key">
+    <span><i style="background:var(--dem-soft)"></i>D seats rated Solid</span>
+    <span><i style="background:var(--dem)"></i>D won</span>
+    <span><i style="background:repeating-linear-gradient(135deg,var(--dem) 0 3px,var(--dem-soft) 3px 6px)"></i>D leading, 60%+ counted</span>
+    <span><i style="background:var(--none);border:1px solid var(--rule)"></i>Not yet called</span>
+    <span><i style="background:repeating-linear-gradient(135deg,var(--rep) 0 3px,var(--rep-soft) 3px 6px)"></i>R leading, 60%+ counted</span>
+    <span><i style="background:var(--rep)"></i>R won</span>
+    <span><i style="background:var(--rep-soft)"></i>R seats rated Solid</span>
+    <span><i style="background:var(--ink);width:2px"></i>218 for a majority</span>
+  </div>
+
+
+  <div id="groups"><div class="empty">Loading races…</div></div>
+
+  <footer>
+    <span>The House bar starts from the seats Cook rates Solid for each party, which are assumed, not counted; the 81 races here are added as they are called. Hatched segments are uncalled races where a party leads with at least 60% of the expected vote counted. They show where the count is heading and never count toward control.</span>
+    <span id="srcs"></span>
+    <span>Results: official state results sites first, then AP and Decision Desk HQ calls as reported. Updates every 30 minutes on election night (8pm–3am ET), then hourly through Nov. 6. Alaska counts ranked-choice ballots after Election Day.</span>
+  </footer>
+</div>
+
+<script>
+(function(){
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
+  const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
+  const GROUPS = [['Toss Up','Toss ups'],['Lean D','Lean Democratic'],['Lean R','Lean Republican'],['Likely D','Likely Democratic'],['Likely R','Likely Republican']];
+  let BASE=null, DATA={races:[]}, RES=new Map(), filter='all', query='';
+
+  // One state per race: called (won), leading (uncalled, 60%+ counted, someone ahead), or neither
+  function stateOf(b){
+    const r = RES.get(b.id) || null;
+    const st = r ? r.status : '';
+    const ldr = r && r.leader;
+    const won = st==='Called' && ldr ? ldr : null;
+    const lead = !won && st==='Counting' && ldr && pctIn(r.reporting)>=60 ? ldr : null;
+    return {r, won, lead, flip: won && won!==b.held, wouldFlip: lead && lead!==b.held};
+  }
+
+  function houseBar(xs){
+    const h=BASE.house, t=h.total;
+    const c = {wD:0,wR:0,wI:0,lD:0,lR:0};
+    xs.forEach(x=>{ if(x.won==='D')c.wD++; else if(x.won==='R')c.wR++; else if(x.won)c.wI++; if(x.lead==='D')c.lD++; else if(x.lead==='R')c.lR++; });
+    const pD=h.safeD+c.wD, pR=h.safeR+c.wR, open=t-pD-pR-c.wI-c.lD-c.lR;
+    const w = n => (100*n/t).toFixed(3)+'%';
+    const seg=(cls,n,label)=> n>0?`<i class="${cls}" style="width:${w(n)}" title="${label}: ${n}"></i>`:'';
+    $('#houseBar').innerHTML = `<div class="bar" role="img" aria-label="Democrats ${pD}, Republicans ${pR}, ${open} not called; ${h.majority} needed for a majority">
+      ${seg('dh',h.safeD,'D Solid (Cook)')}${seg('dw',c.wD,'D won')}${seg('dl',c.lD,'D leading, 60%+ counted')}${seg('iw',c.wI,'Other won')}<span class="gap"></span>${seg('rl',c.lR,'R leading, 60%+ counted')}${seg('rw',c.wR,'R won')}${seg('rh',h.safeR,'R Solid (Cook)')}
+      <span class="maj" style="left:calc(${w(h.majority)} - 1px)" aria-hidden="true"></span></div>`;
+    const lp = n => n ? ` <small>+${n} leading</small>` : '';
+    const call = pD>=h.majority ? ' · Democrats reach 218' : pR>=h.majority ? ' · Republicans reach 218' : '';
+    $('#houseNums').innerHTML = `<span class="d"><b>D ${pD}</b>${lp(c.lD)}</span><span>${open} battlegrounds not called · ${h.majority} for majority${call}</span><span class="r"><b>R ${pR}</b>${lp(c.lR)}</span>`;
+    return c;
+  }
+
+  function tally(xs,c){
+    const called = xs.filter(x=>x.won).length;
+    const fD = xs.filter(x=>x.flip&&x.won==='D').length, fR = xs.filter(x=>x.flip&&x.won==='R').length;
+    const net = fD - fR;
+    $('#tally').innerHTML = `
+      <div class="tile"><div class="k">House races called</div><div class="v">${called}<small> of ${xs.length}</small></div></div>
+      <div class="tile"><div class="k">House battlegrounds won</div><div class="v"><span class="d">${c.wD}</span><small> D </small><span class="r">${c.wR}</span><small> R</small></div></div>
+      <div class="tile"><div class="k">House seats flipped</div><div class="v"><span class="d">${fD}</span><small> R→D </small><span class="r">${fR}</span><small> D→R</small></div></div>
+      <div class="tile"><div class="k">House net change</div><div class="v">${net>0?`<span class="d">D +${net}</span>`:net<0?`<span class="r">R +${-net}</span>`:'Even'}</div></div>`;
+  }
+
+  function raceBar(r){
+    const num = v => { const n = parseFloat(String(v==null?'':v).replace(/[^\d.]/g,'')); return isFinite(n)?n:null; };
+    let d = num(r.dem&&r.dem.pct), p = num(r.rep&&r.rep.pct);
+    if (d==null||p==null){ d = num(r.dem&&r.dem.votes); p = num(r.rep&&r.rep.votes); }
+    if (d==null||p==null||d+p<=0) return '';
+    const dw = (100*d/(d+p)).toFixed(1), rw = (100-dw).toFixed(1);
+    const s = r.status==='Called' ? 'won' : (pctIn(r.reporting)>=60 ? 'lead' : 'early');
+    return `<span class="rbar" role="img" aria-label="Two-party share: D ${dw}%, R ${rw}%"><i class="D ${s}" style="width:${dw}%"></i><i class="mid"></i><i class="R ${s}" style="width:${rw}%"></i></span>`;
+  }
+  const who = p => p==='D'||p==='R' ? p : p==='I' ? 'Ind.' : 'Other';
+  function resultCell(b,x){
+    const r = x.r;
+    if (!r || !r.status) return `<td class="res NONE">No results yet</td>`;
+    const pin = pctIn(r.reporting)>=0 ? `${pctIn(r.reporting)}% in` : '';
+    let cls='NONE', html='', sub='';
+    if (x.won){ cls=`${x.won==='D'||x.won==='R'?x.won:'I'}-WIN`; html=`${who(x.won)} win`; sub = r.calledBy?`Called by ${esc(r.calledBy)}`:''; }
+    else if (x.lead){ cls=`${x.lead==='D'||x.lead==='R'?x.lead:'I'}-LEAD`; html=`${who(x.lead)} leads`; sub=`Not called · ${pin}`; }
+    else if (r.status==='Counting'){ html='Too early to call'; sub=[r.leader?`${who(r.leader)} ahead`:'Counting', pin].filter(Boolean).join(' · '); }
+    else if (r.status==='Runoff'){ html='Headed to runoff'; sub=r.leader?`${who(r.leader)} finished first`:''; }
+    else if (r.status==='RCV'){ html='Ranked-choice count'; sub=r.leader?`${who(r.leader)} ahead in first round`:''; }
+    else html = esc(r.status);
+    const tag = x.flip ? '<span class="tag">FLIP</span>' : x.wouldFlip ? '<span class="tag maybe" title="Seat changes parties if the current leader holds on">WOULD FLIP</span>' : '';
+    return `<td class="res ${cls}">${html}${tag}${sub?`<span class="vv">${sub}</span>`:''}${raceBar(r)}</td>`;
+  }
+  function cand(name, live, win, isInc, ind){
+    const c = live && live.name ? live : {name};
+    const v = c.votes!=null&&c.votes!=='' ? `${fmt(c.votes)}${c.pct!=null&&c.pct!==''?' · '+c.pct+'%':''}` : '';
+    return `<span class="${win?'win':''}">${esc(c.name)}${ind?' <span class="vv" style="display:inline">(Ind.)</span>':''}${isInc?' <span class="vv" style="display:inline">(inc.)</span>':''}</span>${v?`<span class="vv">${v}</span>`:''}`;
+  }
+  // Ballotpedia page for the district, e.g. Arizona's_1st_Congressional_District, Texas'_34th_..., Alaska's_At-Large_...
+  function bpURL(b){
+    if (b.chamber==='S') return 'https://ballotpedia.org/United_States_Senate_'+(b.special?'special_':'')+'election_in_'+b.state.replace(/ /g,'_')+',_2026';
+    const n = parseInt(b.district,10), v = n%100, sfx = ['th','st','nd','rd'];
+    const ord = isNaN(n) ? 'At-Large' : n + (sfx[(v-20)%10] || sfx[v] || sfx[0]);
+    const poss = b.state + (/s$/.test(b.state) ? "'" : "'s");
+    return 'https://ballotpedia.org/' + (poss+'_'+ord+'_Congressional_District').replace(/ /g,'_');
+  }
+  function row(b,x){
+    const r = x.r || {};
+    const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">${b.demParty==='I'?'Ind.':'D'}+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="r">R+${Math.abs(mp).toFixed(1)}</span>`:'Even');
+    const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>`:'';
+    const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':'Republican'}</span>${b.chamber==='S'?`<span class="rt">Cook: ${esc(b.rating)}</span>`:''}`;
+    return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} Senate">${esc(b.state)}</a><span class="sn">${b.special?'Special election':'Senate'}</span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(b.state)}</span>`}</td>
+      <td>${inc}</td>
+      ${resultCell(b,x)}
+      <td>${cand(b.dem, r.dem, x.won==='D'||(b.demParty==='I'&&x.won==='I'), b.incumbent===b.dem, b.demParty==='I')}</td><td>${cand(b.rep, r.rep, x.won==='R', b.incumbent===b.rep)}</td>
+      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td></tr>`;
+  }
+
+  function matches(b,x){
+    if (filter==='called' && !x.won) return false;
+    if (filter==='flip' && !x.flip) return false;
+    if (/^(Toss Up|Lean D|Lean R|Likely D|Likely R)$/.test(filter) && b.rating!==filter) return false;
+    const q = query.trim().toLowerCase();
+    if (!q) return true;
+    const id = b.id.toLowerCase();
+    return id===q || id.replace('-0','-')===q.replace(/\s+/g,'-') || b.state.toLowerCase().includes(q) || b.st.toLowerCase()===q
+      || [b.dem,b.rep,b.incumbent].some(n=>n&&n.toLowerCase().includes(q));
+  }
+
+  const ORDER = {'Toss Up':0,'Lean D':1,'Lean R':2,'Likely D':3,'Likely R':4};
+  function renderSenate(){
+    const all = BASE.senate||[];
+    const rows = all.map(b=>[b,stateOf(b)]).filter(([b,x])=>matches(b,x)).sort((a,c)=>ORDER[a[0].rating]-ORDER[c[0].rating]||a[0].state.localeCompare(c[0].state));
+    if (!rows.length){ $('#senate').innerHTML=''; return; }
+    const xs = all.map(stateOf), called = xs.filter(x=>x.won).length;
+    const fD = xs.filter(x=>x.flip&&x.won==='D').length, fR = xs.filter(x=>x.flip&&x.won==='R').length, fI = xs.filter(x=>x.flip&&x.won==='I').length;
+    const flips = fD||fR||fI ? ` · flips: ${[fD?fD+' to D':'',fR?fR+' to R':'',fI?fI+' to Ind.':''].filter(Boolean).join(', ')}` : '';
+    const head = `<thead><tr><th>State</th><th>Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th></tr></thead>`;
+    $('#senate').innerHTML = `<section class="group"><h2>U.S. Senate <small>${all.length} key races · ${called} called${flips}</small></h2>
+      <div class="tablebox"><table>${head}<tbody>${rows.map(([b,x])=>row(b,x)).join('')}</tbody></table></div></section>`;
+  }
+
+  function render(){
+    renderSenate();
+    const xs = BASE.races.map(b=>stateOf(b));
+    const c = houseBar(xs); tally(xs,c);
+    const head = `<thead><tr><th>District</th><th>Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th></tr></thead>`;
+    const html = GROUPS.map(([key,label])=>{
+      const rows = BASE.races.map((b,i)=>[b,xs[i]]).filter(([b,x])=>b.rating===key && matches(b,x));
+      if (!rows.length) return '';
+      const called = rows.filter(([,x])=>x.won).length;
+      return `<section class="group" aria-label="${label}"><h2>${label} <small>${rows.length} race${rows.length>1?'s':''} · ${called} called</small></h2>
+        <div class="tablebox"><table>${head}<tbody>${rows.map(([b,x])=>row(b,x)).join('')}</tbody></table></div></section>`;
+    }).join('');
+    $('#groups').innerHTML = html || `<div class="empty">${filter==='flip'?'No seats have changed parties yet.':filter==='called'?'No races have been called yet.':'No House races match. Clear the search or pick another filter.'}</div>`;
+  }
+
+  document.addEventListener('click', e=>{
+    const b = e.target.closest('.filters button'); if (!b) return;
+    filter = b.dataset.f; document.querySelectorAll('.filters button').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); render();
+  });
+  let qt; $('#q').addEventListener('input', e=>{ clearTimeout(qt); qt=setTimeout(()=>{ query=e.target.value; render(); }, 150); });
+
+  async function loadData(){
+    try{
+      const res = await fetch('data.json?t='+Date.now(), {cache:'no-store'});
+      if (!res.ok) throw new Error(res.status);
+      DATA = await res.json(); DATA.races = DATA.races||[];
+      $('#sampleBanner').hidden = !DATA.sample;
+      const t = DATA.updated ? new Date(DATA.updated) : null;
+      $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
+    }catch(err){ if (!DATA.updated) $('#updated').textContent = 'Awaiting first results'; }
+    RES = new Map(DATA.races.map(r=>[String(r.id).toUpperCase(), r]));
+  }
+
+  async function boot(){
+    try{ const res = await fetch('baseline.json', {cache:'no-store'}); BASE = await res.json(); (BASE.senate||[]).forEach(s=>s.chamber='S'); }
+    catch(err){ $('#groups').innerHTML = '<div class="empty">The race list couldn\'t load. Refresh the page to try again.</div>'; return; }
+    $('#scope').textContent = `${(BASE.senate||[]).length} Senate · ${BASE.races.length} House races`;
+    $('#srcs').textContent = `Senate ratings: ${BASE.senateRatingsSource}. House races: ${BASE.ratingsSource} (Likely, Lean and Toss Up). ${BASE.candidatesSource}.`;
+    await loadData(); render();
+    const h = decodeURIComponent(location.hash.slice(1)); if (h){ const el=document.getElementById(h.toUpperCase()); if (el) el.scrollIntoView(); }
+    setInterval(async ()=>{ await loadData(); render(); }, 60000);
+  }
+  boot();
+})();
+</script>
+</body>
+</html>
