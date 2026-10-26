@@ -116,6 +116,7 @@ a{color:inherit}
 .xlink span{font-family:var(--mono);font-size:12px;color:var(--muted)}
 .xlink:hover b{text-decoration:underline}
 th.hb,td.hb{width:1%}
+td .i{color:var(--ind)}
 .ast{font-weight:700;color:var(--ink);margin-left:1px}
 .chamber-h{font-family:var(--display);font-weight:900;font-size:28px;margin:10px 0 0;border-top:3px double var(--ink);padding-top:14px}
 #senate .group h2{font-size:28px;font-weight:900;border-top:3px double var(--ink);padding-top:14px;margin-top:0}
@@ -186,8 +187,8 @@ th.hb,td.hb{width:1%}
   <div id="groups"><div class="empty">Loading races…</div></div>
 
   <footer>
-    <span>The House bar starts from the seats Cook rates Solid for each party, which are assumed, not counted; the 81 races here are added as they are called. Hatched segments are uncalled races where a party leads with at least 60% of the expected vote counted. They show where the count is heading and never count toward control.</span>
-    <span>Last margin: the winning party's lead over the runner-up in the seat's most recent general election (2024 for House seats; the year is shown for Senate seats). <b>*</b> District redrawn for 2026, so the margin is from the old lines.</span>
+    <span>The House bar starts from the seats Cook rates Solid for each party, which are assumed, not counted; the House races here are added as they are called. Hatched segments are uncalled races where a party leads with at least 60% of the expected vote counted. They show where the count is heading and never count toward control.</span>
+    <span>Last margin: the winning party's lead over the runner-up in the seat's most recent general election (2024 for House seats; the year is shown for Senate seats). "District redrawn" means the seat's lines changed for 2026, so its last margin is from the old district.</span>
     <span id="srcs"></span>
     <span>Results: official state results sites first, then AP and Decision Desk HQ calls as reported. Updates every 30 minutes on election night (8pm–3am ET), then hourly through Nov. 6. Alaska counts ranked-choice ballots after Election Day.</span>
   </footer>
@@ -284,11 +285,11 @@ th.hb,td.hb{width:1%}
     const v = L.unopposed ? `${L.party} unopp.` : `${L.party==='D'||L.party==='R'?L.party:'Ind.'}+${L.m.toFixed(1)}`;
     const yr = b.chamber==='S' ? `<span class="vv">${L.yr}</span>` : '';
     const tip = [L.note, L.redrawn?'District redrawn since 2024':''].filter(Boolean).join('; ');
-    return `<td class="num"${tip?` title="${esc(tip)}"`:''}><span class="${cls}">${v}</span>${L.redrawn?'<sup class="ast">*</sup>':''}${yr}</td>`;
+    return `<td class="num"${tip?` title="${esc(tip)}"`:''}><span class="${cls}">${v}</span>${yr}${L.redrawn?'<span class="vv">District redrawn</span>':''}</td>`;
   }
   function row(b,x){
     const r = x.r || {};
-    const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">${b.demParty==='I'?'Ind.':'D'}+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="r">${b.repParty==='I'?'Ind.':'R'}+${Math.abs(mp).toFixed(1)}</span>`:'Even');
+    const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">${b.demParty==='I'?'Ind.':'D'}+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="${b.repParty==='I'?'i':'r'}">${b.repParty==='I'?'Ind.':'R'}+${Math.abs(mp).toFixed(1)}</span>`:'Even');
     const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>`:'';
     const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':b.held==='R'?'Republican':'Independent'}</span>${b.chamber==='S'?`<span class="rt">Cook: ${esc(b.rating)}</span>`:b.alt?`<span class="rt">${esc(b.alt)}</span>`:''}`;
     return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} Senate">${esc(SN(b.state))}</a><span class="sn">${b.special?'Special election':'Senate'}</span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(SN(b.state))}</span>`}</td>
