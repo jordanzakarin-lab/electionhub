@@ -1803,6 +1803,24 @@
     "m": 10.3,
     "yr": 2020
    }
+  },
+  {
+   "id": "MN-SEN",
+   "st": "MN",
+   "state": "Minnesota",
+   "rating": "Likely D",
+   "held": "D",
+   "incumbent": null,
+   "open": true,
+   "dem": "Peggy Flanagan",
+   "rep": "Michele Tafoya",
+   "demParty": "D",
+   "special": false,
+   "last": {
+    "party": "D",
+    "m": 5.2,
+    "yr": 2020
+   }
   }
  ],
  "senateRatingsSource": "Cook Political Report Senate race ratings, Oct. 20, 2026",
