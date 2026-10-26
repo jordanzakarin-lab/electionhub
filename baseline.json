@@ -1524,15 +1524,15 @@
    "st": "CA",
    "state": "California",
    "district": "6",
-   "rating": "Watch",
-   "alt": "Sabato: Likely D",
+   "rating": "Redrawn",
+   "alt": "Cook: Solid D",
    "held": "I",
    "incumbent": "Kevin Kiley",
    "open": false,
    "dem": "Richard Pan",
    "rep": "Kevin Kiley",
    "repParty": "I",
-   "note": "Cook: Solid D; Sabato Likely D. Kiley left the GOP in March 2026 and runs without party preference",
+   "note": "Cook: Solid D after Prop. 50 redrew the district. Kiley left the GOP in March 2026 and runs without party preference",
    "last": {
     "yr": 2024,
     "party": "R",
@@ -1807,6 +1807,6 @@
  ],
  "senateRatingsSource": "Cook Political Report Senate race ratings, Oct. 20, 2026",
  "lastSource": "Last-election margins: Wikipedia's 2024 House and 2020/2022/2024 Senate election results",
- "otherSource": "Other forecasters: Split Ticket (Oct. 24, 2026) and Sabato's Crystal Ball (Oct. 20, 2026)",
- "redrawnSource": "Redistricting flips: seats Cook rates Solid for the other party after Texas, California and Tennessee redrew their maps"
+ "otherSource": "Other forecasters: seats Cook rates Solid that Sabato's Crystal Ball (Oct. 20, 2026) or Split Ticket (Oct. 24, 2026) rates Lean or Toss Up",
+ "redrawnSource": "Redistricting flips: seats Cook rates Solid for a party other than the one holding them, after Texas, California and Tennessee redrew their maps"
 }

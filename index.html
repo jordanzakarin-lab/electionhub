@@ -203,7 +203,7 @@ th.hb,td.hb{width:1%}
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
   const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
   const GROUPS = [['Toss Up','Toss ups'],['Lean D','Lean Democratic'],['Lean R','Lean Republican'],['Likely D','Likely Democratic'],['Likely R','Likely Republican'],['Watch','Also competitive, per other forecasters'],['Redrawn','Redistricting flips']];
-  const GNOTE = {Watch:'Cook rates these Solid, but other forecasters rate them competitive.', Redrawn:'Cook rates these Solid for the party that doesn\'t hold them now, because the state redrew its map. Expected flips, not toss ups.'};
+  const GNOTE = {Watch:'Cook rates these Solid, but Sabato\'s Crystal Ball or Split Ticket rates them Lean or Toss Up.', Redrawn:'Cook rates these Solid for a party other than the one holding them now, because the state redrew its map. Expected flips, not toss ups.'};
   let BASE=null, DATA={races:[]}, RES=new Map(), filter='all', query='';
 
   // One state per race: called (won), leading (uncalled, 60%+ counted, someone ahead), or neither
