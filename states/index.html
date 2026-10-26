@@ -189,6 +189,7 @@ th.hb,td.hb{width:1%}
 <script>
 (function(){
   const $ = s => document.querySelector(s);
+  const SN = n => String(n).replace(/^North Carolina$/,'N. Carolina').replace(/^South Carolina$/,'S. Carolina');
   const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
   let BASE=null, DATA={races:[],chambers:{}}, filter='all', query='', RACES=new Map(), CH=[];
@@ -260,7 +261,7 @@ th.hb,td.hb{width:1%}
   function barHTML(c,x){
     const t=c.total, h=c.hold;
     const seg=(cls,n,label)=> n>0?`<i class="${cls}" style="width:${pct(n,t)}" title="${label}: ${n}"></i>`:'';
-    return `<div class="bar" role="img" aria-label="${esc(c.state)} ${esc(c.name)}: Democrats ${x.projD}, Republicans ${x.projR}, ${x.uncalled} not called, ${c.majority} needed for a majority">
+    return `<div class="bar" role="img" aria-label="${esc(SN(c.state))} ${esc(c.name)}: Democrats ${x.projD}, Republicans ${x.projR}, ${x.uncalled} not called, ${c.majority} needed for a majority">
       ${seg('dh',h.D,'D seats not up')}${seg('dw',x.won.D,'D won')}${seg('dl',x.leadD||0,'D leading, 60%+ counted')}${seg('iw',x.projI,'Other')}<span class="gap"></span>${seg('rl',x.leadR||0,'R leading, 60%+ counted')}${seg('rw',x.won.R,'R won')}${seg('rh',h.R,'R seats not up')}
       <span class="maj" style="left:calc(${pct(c.majority,t)} - 1px)" aria-hidden="true"></span></div>`;
   }
@@ -283,7 +284,7 @@ th.hb,td.hb{width:1%}
     const nums = c.election ? `<div class="nums"><span class="d"><b>D ${x.projD}</b>${lp(x.leadD)}</span><span>${x.uncalled} not called · ${c.majority} for majority</span><span class="r"><b>R ${x.projR}</b>${lp(x.leadR)}</span></div>` : `<div class="nums"><span class="d"><b>D ${c.cur.D}</b></span><span>${c.majority} for majority</span><span class="r"><b>R ${c.cur.R}</b></span></div>`;
     const bar = c.election ? barHTML(c,x) : barHTML({...c,hold:{D:c.cur.D,R:c.cur.R,I:c.cur.I,V:c.cur.V}}, {won:{D:0,R:0,I:0},projD:c.cur.D,projR:c.cur.R,projI:0,uncalled:0});
     return `<details class="ch" id="${c.id}" data-id="${c.id}">
-      <summary><div class="nm"><b>${esc(c.state)} ${esc(c.name)}</b><span>${sub}</span></div>
+      <summary><div class="nm"><b>${esc(SN(c.state))} ${esc(c.name)}</b><span>${sub}</span></div>
         <div class="barcol">${bar}${nums}</div>${statusHTML(c,x)}</summary>
       <div class="inner" data-inner></div></details>`;
   }
@@ -353,7 +354,7 @@ th.hb,td.hb{width:1%}
     }
     return 'https://ballotpedia.org/'+path.replace(/ /g,'_');
   }
-  const distLink = (c,d,lbl) => `<a class="dist" href="${esc(bpURL(c,d))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(c.state)} ${esc(c.name)} ${esc(d)}">${esc(d)}${lbl||''}</a>`;
+  const distLink = (c,d,lbl) => `<a class="dist" href="${esc(bpURL(c,d))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(c.state))} ${esc(c.name)} ${esc(d)}">${esc(d)}${lbl||''}</a>`;
   // Party holding the seat(s), not the officeholder's name
   const PNAME = {D:'Democratic',R:'Republican',I:'Independent',NP:'Nonpartisan',L:'Libertarian'};
   const incHTML = list => {

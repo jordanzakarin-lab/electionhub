@@ -189,6 +189,7 @@ th.hb,td.hb{width:1%}
 <script>
 (function(){
   const $ = s => document.querySelector(s);
+  const SN = n => String(n).replace(/^North Carolina$/,'N. Carolina').replace(/^South Carolina$/,'S. Carolina');
   const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
   const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
@@ -282,7 +283,7 @@ th.hb,td.hb{width:1%}
     const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">${b.demParty==='I'?'Ind.':'D'}+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="r">R+${Math.abs(mp).toFixed(1)}</span>`:'Even');
     const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>`:'';
     const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':'Republican'}</span>${b.chamber==='S'?`<span class="rt">Cook: ${esc(b.rating)}</span>`:''}`;
-    return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} Senate">${esc(b.state)}</a><span class="sn">${b.special?'Special election':'Senate'}</span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(b.state)}</span>`}</td>
+    return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} Senate">${esc(SN(b.state))}</a><span class="sn">${b.special?'Special election':'Senate'}</span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(SN(b.state))}</span>`}</td>
       <td class="hb">${inc}</td>
       ${resultCell(b,x)}
       <td>${cand(b.dem, r.dem, x.won==='D'||(b.demParty==='I'&&x.won==='I'), b.incumbent===b.dem, b.demParty==='I')}</td><td>${cand(b.rep, r.rep, x.won==='R', b.incumbent===b.rep)}</td>
