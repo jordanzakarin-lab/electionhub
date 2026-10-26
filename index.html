@@ -121,6 +121,10 @@ th.hb,td.hb{width:1%}
 #senate:empty{display:none}
 .rt{display:block;font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:2px}
 @media (max-width:640px){.nums span:nth-child(2){order:3;flex-basis:100%}}
+.xlink{display:flex;justify-content:space-between;align-items:center;gap:8px 16px;flex-wrap:wrap;border:1px solid var(--rule);background:var(--panel);padding:10px 14px;text-decoration:none}
+.xlink b{font-family:var(--display);font-size:17px}
+.xlink span{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.xlink:hover b{text-decoration:underline}
 </style>
 </head>
 <body>
@@ -136,7 +140,9 @@ th.hb,td.hb{width:1%}
     </div>
   </header>
 
-  <a class="xlink" href="states/"><b>State legislature and governors race results →</b><span>Live results for all 88 state legislative chambers and 10 competitive governor's races</span></a>
+  <a class="xlink" href="states/"><b>State legislature results →</b><span>Live results for all 88 state legislative chambers on the ballot</span></a>
+
+  <a class="xlink" href="../"><b>State legislature and governors race results →</b><span>Live results for all 88 state legislative chambers and 10 competitive governor's races</span></a>
 
   <div class="sample" id="sampleBanner" hidden>Sample numbers for layout preview only. These are not real results; live results replace them after polls close on Nov. 3.</div>
 
