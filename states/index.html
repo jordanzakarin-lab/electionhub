@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>State Legislature Election Results 2026 · ElectionHub</title>
-<meta name="description" content="Live results for all 88 state legislative chambers on the ballot Nov. 3, 2026.">
+<meta name="description" content="Live results for all 88 state legislative chambers and 10 competitive governor's races on the ballot Nov. 3, 2026.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
@@ -133,6 +133,13 @@ th.hb,td.hb{width:1%}
   details.ch>summary{grid-template-columns:1fr auto;grid-template-areas:"nm st" "bar bar"}
   .nm{grid-area:nm} .st{grid-area:st;align-items:flex-end} .barcol{grid-area:bar}
 }
+.gov{display:flex;flex-direction:column;gap:8px}
+.gov h2{font-family:var(--display);font-weight:900;font-size:28px;margin:0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.gov h2 small{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted)}
+.gov .sn,.gov .rt{display:block;font-family:var(--mono);font-size:11px;color:var(--muted);font-weight:400;margin-top:2px;white-space:normal;max-width:240px}
+.gov .rt{white-space:nowrap}
+.gov td.num,.gov th.num{text-align:right}
+.leg-h{font-family:var(--display);font-weight:900;font-size:28px;margin:10px 0 0;border-top:3px double var(--ink);padding-top:14px}
 </style>
 </head>
 <body>
@@ -152,6 +159,10 @@ th.hb,td.hb{width:1%}
 
   <div class="sample" id="sampleBanner" hidden>Sample numbers for layout preview only. These are not real results; live results replace them after polls close on Nov. 3.</div>
 
+  <section class="gov" id="gov" aria-label="Governors" hidden></section>
+
+  <h2 class="leg-h" id="legHead">State legislatures</h2>
+
   <section class="tally" id="tally" aria-label="National summary"></section>
 
   <div class="legend" aria-label="Bar key">
@@ -170,7 +181,7 @@ th.hb,td.hb{width:1%}
     <button id="f-bg" aria-pressed="false" data-f="bg">Battlegrounds</button>
     <button id="f-called" aria-pressed="false" data-f="called">Control decided</button>
     <button id="f-flip" aria-pressed="false" data-f="flip">Chambers flipped</button>
-    <input id="q" type="search" placeholder="State, district or legislator" aria-label="Search chambers, districts or legislators">
+    <input id="q" type="search" placeholder="State, district or candidate" aria-label="Search governors, chambers, districts or legislators">
   </div>
 
   <section class="board" id="board" aria-label="Chambers"><div class="empty">Loading every chamber…</div></section>
@@ -192,7 +203,7 @@ th.hb,td.hb{width:1%}
   const SN = n => String(n).replace(/^North Carolina$/,'N. Carolina').replace(/^South Carolina$/,'S. Carolina');
   const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
-  let BASE=null, DATA={races:[],chambers:{}}, filter='all', query='', RACES=new Map(), CH=[];
+  let BASE=null, DATA={races:[],chambers:{},governors:[]}, filter='all', query='', RACES=new Map(), CH=[];
 
   function dkey(d){
     d = String(d).trim().toUpperCase().replace(/^(HD|SD|AD|LD|DISTRICT|DIST\.?)[\s-]*/,'').replace(/\s*(POS(ITION)?\.?\s*\d+)$/,'');
@@ -450,7 +461,65 @@ th.hb,td.hb{width:1%}
     return c.districts.some(r=> r.d.toLowerCase()===q || r.inc.some(([n])=>n.toLowerCase().includes(q)));
   }
 
+  // Governors: one row per race, same result states as the district tables (called, leading at 60%+ counted, or neither)
+  const GORDER = {'Toss Up':0,'Lean D':1,'Lean R':2,'Likely D':3,'Likely R':4,'Solid D':5,'Solid R':6};
+  function govState(b){
+    const r = (DATA.governors||[]).find(g=>String(g.id).toUpperCase()===b.id) || null;
+    const st = r ? r.status : '', ldr = r && r.leader;
+    const won = st==='Called' && ldr ? ldr : null;
+    const lead = !won && st==='Counting' && ldr && pctIn(r.reporting)>=60 ? ldr : null;
+    return {r, won, lead, flip: won && won!==b.held, wouldFlip: lead && lead!==b.held};
+  }
+  function govRow(b,x){
+    const r = x.r || {}, who = p => p==='D'||p==='R' ? p : p==='I' ? 'Ind.' : 'Other';
+    let res = '<td class="res NONE">No results yet</td>';
+    if (r.status){
+      const pin = pctIn(r.reporting)>=0 ? `${pctIn(r.reporting)}% in` : '';
+      let cls='NONE', html='', sub='';
+      if (x.won){ cls=(x.won==='D'||x.won==='R'?x.won:'D')+'-WIN'; html=`${who(x.won)} win`; sub=r.calledBy?`Called by ${esc(r.calledBy)}`:''; }
+      else if (x.lead){ cls=(x.lead==='D'||x.lead==='R'?x.lead:'D')+'-LEAD'; html=`${who(x.lead)} leads`; sub=`Not called · ${pin}`; }
+      else if (r.status==='Counting'){ html='Too early to call'; sub=[r.leader?`${who(r.leader)} ahead`:'Counting', pin].filter(Boolean).join(' · '); }
+      else if (r.status==='Runoff'){ html='Headed to runoff'; sub=r.leader?`${who(r.leader)} finished first`:''; }
+      else html = esc(r.status);
+      if (x.won && x.won!=='D' && x.won!=='R'){ cls='NONE'; }
+      const tag = x.flip ? '<span class="tag">FLIP</span>' : x.wouldFlip ? '<span class="tag maybe" title="Seat changes parties if the current leader holds on">WOULD FLIP</span>' : '';
+      res = `<td class="res ${cls}">${html}${tag}${sub?`<span class="vv">${sub}</span>`:''}${raceBar(r)}</td>`;
+    }
+    const c = (name, live, win, inc) => { const v = live && live.votes!=null && live.votes!=='' ? `${fmt(live.votes)}${live.pct!=null&&live.pct!==''?' · '+live.pct+'%':''}` : '';
+      return `<span class="${win?'win':''}">${esc((live&&live.name)||name)}${inc?' <span class="vv" style="display:inline">(inc.)</span>':''}</span>${v?`<span class="vv">${v}</span>`:''}`; };
+    const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">D+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="r">R+${Math.abs(mp).toFixed(1)}</span>`:'Even');
+    const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>` : '';
+    const L = b.last, lm = L ? `<span class="${L.party==='D'?'d':'r'}">${L.party}+${L.m.toFixed(1)}</span><span class="vv">${L.yr}</span>` : '';
+    const bp = 'https://ballotpedia.org/'+b.state.replace(/ /g,'_')+'_gubernatorial_election,_2026';
+    return `<tr id="${b.id}"><td><a class="dist" href="${esc(bp)}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} governor">${esc(SN(b.state))}</a>${b.note?`<span class="sn">${esc(b.note)}</span>`:''}</td>
+      <td class="hb"><span class="pill ${b.held}">${b.held==='D'?'Democratic':'Republican'}</span><span class="rt">Cook: ${esc(b.rating)}</span></td>
+      ${res}<td>${c(b.dem, r.dem, x.won==='D', b.incumbent===b.dem)}</td><td>${c(b.rep, r.rep, x.won==='R', b.incumbent===b.rep)}</td>
+      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td><td class="num">${lm}</td></tr>`;
+  }
+  function renderGov(){
+    const all = BASE.governors||[], el = $('#gov');
+    if (!all.length){ el.hidden = true; return; }
+    const q = query.trim().toLowerCase();
+    const xs = all.map(b=>[b,govState(b)]);
+    const rows = xs.filter(([b,x])=>{
+      if (filter==='called' && !x.won) return false;
+      if (filter==='flip' && !x.flip) return false;
+      if (!q) return true;
+      return b.state.toLowerCase().includes(q) || b.st.toLowerCase()===q || [b.dem,b.rep].some(n=>n&&n.toLowerCase().includes(q)) || q==='governor';
+    }).sort((a,c)=>GORDER[a[0].rating]-GORDER[c[0].rating]||a[0].state.localeCompare(c[0].state));
+    el.hidden = !rows.length;
+    $('#legHead').hidden = !rows.length;
+    if (!rows.length){ el.innerHTML=''; return; }
+    const called = xs.filter(([,x])=>x.won).length;
+    const fD = xs.filter(([,x])=>x.flip&&x.won==='D').length, fR = xs.filter(([,x])=>x.flip&&x.won==='R').length;
+    const flips = fD||fR ? ` · flips: ${[fD?fD+' to D':'',fR?fR+' to R':''].filter(Boolean).join(', ')}` : '';
+    el.innerHTML = `<h2>Governors <small>${all.length} key races · ${called} called${flips}</small></h2>
+      <div class="tablebox"><table><thead><tr><th>State</th><th class="hb">Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th><th class="num">Last margin</th></tr></thead>
+      <tbody>${rows.map(([b,x])=>govRow(b,x)).join('')}</tbody></table></div>`;
+  }
+
   function render(){
+    renderGov();
     const xs = new Map(CH.map(c=>[c.id,compute(c)]));
     const el = CH.filter(c=>c.election);
     let dCh=0,rCh=0,chg=0,chD=0,chR=0,sD=0,sR=0,called=0,fD=0,fR=0;
@@ -496,7 +565,7 @@ th.hb,td.hb{width:1%}
     try{
       const res = await fetch('data.json?t='+Date.now(), {cache:'no-store'});
       if (!res.ok) throw new Error(res.status);
-      DATA = await res.json(); DATA.races = DATA.races||[]; DATA.chambers = DATA.chambers||{};
+      DATA = await res.json(); DATA.races = DATA.races||[]; DATA.chambers = DATA.chambers||{}; DATA.governors = DATA.governors||[];
       $('#sampleBanner').hidden = !DATA.sample;
       const t = DATA.updated ? new Date(DATA.updated) : null;
       $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
@@ -508,8 +577,8 @@ th.hb,td.hb{width:1%}
     try{
       const res = await fetch('baseline.json', {cache:'no-store'}); BASE = await res.json(); CH = BASE.chambers;
     }catch(err){ $('#board').innerHTML = '<div class="empty">The chamber list couldn\'t load. Refresh the page to try again.</div>'; return; }
-    $('#scope').textContent = `${CH.filter(c=>c.election).length} chambers · ${BASE.totalSeatsUp.toLocaleString('en-US')} seats`;
-    $('#srcs').textContent = 'Seats, members and current makeup: ' + BASE.sources.join('; ') + '.' + (BASE.lastSource ? ' ' + BASE.lastSource + '; gaps filled from Wikipedia results pages.' : '');
+    $('#scope').textContent = `${(BASE.governors||[]).length} governors · ${CH.filter(c=>c.election).length} chambers · ${BASE.totalSeatsUp.toLocaleString('en-US')} seats`;
+    $('#srcs').textContent = (BASE.governorRatingsSource ? 'Governor ratings: ' + BASE.governorRatingsSource + '; last governor margins from official results. ' : '') + 'Seats, members and current makeup: ' + BASE.sources.join('; ') + '.' + (BASE.lastSource ? ' ' + BASE.lastSource + '; gaps filled from Wikipedia results pages.' : '');
     await loadData(); render();
     const h = decodeURIComponent(location.hash.slice(1));
     if (h){ const d=document.getElementById(h); if (d){ d.open=true; fillInner(d,false); d.scrollIntoView(); } }
