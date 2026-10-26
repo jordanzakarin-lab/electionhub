@@ -22,7 +22,12 @@
    "open": true,
    "dem": "Amish Shah",
    "rep": "Jay Feely",
-   "note": "Open: Schweikert running for governor"
+   "note": "Open: Schweikert running for governor",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 3.8
+   }
   },
   {
    "id": "AZ-06",
@@ -35,7 +40,12 @@
    "open": false,
    "dem": "JoAnna Mendoza",
    "rep": "Juan Ciscomani",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 2.5
+   }
   },
   {
    "id": "CA-48",
@@ -48,7 +58,13 @@
    "open": true,
    "dem": "Marni von Wilpert",
    "rep": "Jim Desmond",
-   "note": "Open: Issa retiring"
+   "note": "Open: Issa retiring",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 18.6,
+    "redrawn": true
+   }
   },
   {
    "id": "CO-08",
@@ -61,7 +77,12 @@
    "open": false,
    "dem": "Manny Rutinel",
    "rep": "Gabe Evans",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 0.8
+   }
   },
   {
    "id": "FL-25",
@@ -74,7 +95,13 @@
    "open": false,
    "dem": "Jared Moskowitz",
    "rep": "Scott Singer",
-   "note": "Moskowitz redistricted from FL-23"
+   "note": "Moskowitz redistricted from FL-23",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 9.0,
+    "redrawn": true
+   }
   },
   {
    "id": "IA-01",
@@ -87,7 +114,12 @@
    "open": false,
    "dem": "Christina Bohannan",
    "rep": "Mariannette Miller-Meeks",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 0.2
+   }
   },
   {
    "id": "IA-03",
@@ -100,7 +132,12 @@
    "open": false,
    "dem": "Sarah Trone Garriott",
    "rep": "Zach Nunn",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 3.8
+   }
   },
   {
    "id": "NC-11",
@@ -113,7 +150,13 @@
    "open": true,
    "dem": "Jamie Ager",
    "rep": "Jennifer Balkcom",
-   "note": "Open: Edwards withdrew"
+   "note": "Open: Edwards withdrew",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 13.6,
+    "redrawn": true
+   }
   },
   {
    "id": "NJ-07",
@@ -126,7 +169,12 @@
    "open": false,
    "dem": "Rebecca Bennett",
    "rep": "Thomas Kean Jr.",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 5.4
+   }
   },
   {
    "id": "NM-02",
@@ -139,7 +187,12 @@
    "open": false,
    "dem": "Gabe Vasquez",
    "rep": "Greg Cunningham",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 4.2
+   }
   },
   {
    "id": "PA-07",
@@ -152,7 +205,12 @@
    "open": false,
    "dem": "Bob Brooks",
    "rep": "Ryan Mackenzie",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 1.0
+   }
   },
   {
    "id": "PA-10",
@@ -165,7 +223,12 @@
    "open": false,
    "dem": "Janelle Stelson",
    "rep": "Scott Perry",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 1.2
+   }
   },
   {
    "id": "TX-34",
@@ -178,7 +241,13 @@
    "open": false,
    "dem": "Vicente Gonzalez",
    "rep": "Eric Flores",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 2.6,
+    "redrawn": true
+   }
   },
   {
    "id": "VA-02",
@@ -191,7 +260,12 @@
    "open": false,
    "dem": "Elaine Luria",
    "rep": "Jen Kiggans",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 3.8
+   }
   },
   {
    "id": "WA-03",
@@ -204,7 +278,12 @@
    "open": false,
    "dem": "Marie Gluesenkamp Perez",
    "rep": "John Braun",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 3.8
+   }
   },
   {
    "id": "WI-03",
@@ -217,7 +296,12 @@
    "open": false,
    "dem": "Rebecca Cooke",
    "rep": "Derrick Van Orden",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 2.8
+   }
   },
   {
    "id": "CA-22",
@@ -230,7 +314,13 @@
    "open": false,
    "dem": "Randy Villegas",
    "rep": "David Valadao",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 6.8,
+    "redrawn": true
+   }
   },
   {
    "id": "FL-14",
@@ -243,7 +333,13 @@
    "open": false,
    "dem": "Kathy Castor",
    "rep": "Mike Beltran",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 15.3,
+    "redrawn": true
+   }
   },
   {
    "id": "FL-22",
@@ -256,7 +352,13 @@
    "open": true,
    "dem": "Pia Dandiya",
    "rep": "Casey Askar",
-   "note": "Redrawn seat; Frankel running in FL-23"
+   "note": "Redrawn seat; Frankel running in FL-23",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 10.0,
+    "redrawn": true
+   }
   },
   {
    "id": "IA-02",
@@ -269,7 +371,12 @@
    "open": true,
    "dem": "Lindsay James",
    "rep": "Joe Mitchell",
-   "note": "Open: Hinson running for Senate"
+   "note": "Open: Hinson running for Senate",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 15.5
+   }
   },
   {
    "id": "KY-06",
@@ -282,7 +389,12 @@
    "open": true,
    "dem": "Zach Dembo",
    "rep": "Ralph Alvarado",
-   "note": "Open: Barr running for Senate"
+   "note": "Open: Barr running for Senate",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 26.8
+   }
   },
   {
    "id": "MI-04",
@@ -295,7 +407,12 @@
    "open": false,
    "dem": "Sean McCann",
    "rep": "Bill Huizenga",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 11.7
+   }
   },
   {
    "id": "MI-07",
@@ -308,7 +425,12 @@
    "open": false,
    "dem": "William Lawrence",
    "rep": "Tom Barrett",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 3.7
+   }
   },
   {
    "id": "MI-10",
@@ -321,7 +443,12 @@
    "open": true,
    "dem": "Christina Hines",
    "rep": "Mike Bouchard Jr.",
-   "note": "Open: James running for governor"
+   "note": "Open: James running for governor",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 6.1
+   }
   },
   {
    "id": "MT-01",
@@ -334,7 +461,12 @@
    "open": true,
    "dem": "Sam Forstag",
    "rep": "Aaron Flint",
-   "note": "Open: Zinke retiring"
+   "note": "Open: Zinke retiring",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 7.7
+   }
   },
   {
    "id": "NC-01",
@@ -347,7 +479,13 @@
    "open": false,
    "dem": "Don Davis",
    "rep": "Laurie Buckhout",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 1.7,
+    "redrawn": true
+   }
   },
   {
    "id": "NY-17",
@@ -360,7 +498,12 @@
    "open": false,
    "dem": "Cait Conley",
    "rep": "Mike Lawler",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 6.4
+   }
   },
   {
    "id": "OH-07",
@@ -373,7 +516,13 @@
    "open": false,
    "dem": "Brian Poindexter",
    "rep": "Max Miller",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 15.0,
+    "redrawn": true
+   }
   },
   {
    "id": "OH-09",
@@ -386,7 +535,13 @@
    "open": false,
    "dem": "Marcy Kaptur",
    "rep": "Derek Merrin",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 0.7,
+    "redrawn": true
+   }
   },
   {
    "id": "PA-08",
@@ -399,7 +554,12 @@
    "open": false,
    "dem": "Paige Cognetti",
    "rep": "Rob Bresnahan",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 1.6
+   }
   },
   {
    "id": "TX-15",
@@ -412,7 +572,13 @@
    "open": false,
    "dem": "Bobby Pulido",
    "rep": "Monica De La Cruz",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 14.2,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-35",
@@ -425,7 +591,13 @@
    "open": true,
    "dem": "Johnny Garcia",
    "rep": "Carlos De La Cruz",
-   "note": "Redrawn seat; Casar running in TX-37"
+   "note": "Redrawn seat; Casar running in TX-37",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 34.8,
+    "redrawn": true
+   }
   },
   {
    "id": "VA-01",
@@ -438,7 +610,12 @@
    "open": false,
    "dem": "Shannon Taylor",
    "rep": "Rob Wittman",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 12.8
+   }
   },
   {
    "id": "AK-AL",
@@ -451,7 +628,13 @@
    "open": false,
    "dem": "Eric Hafner",
    "rep": "Nick Begich III",
-   "note": "Ranked-choice count can take weeks"
+   "note": "Ranked-choice count can take weeks",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 2.4,
+    "note": "Final ranked-choice round"
+   }
   },
   {
    "id": "AL-02",
@@ -464,7 +647,13 @@
    "open": false,
    "dem": "Shomari Figures",
    "rep": "Rhett Marques",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 9.2,
+    "redrawn": true
+   }
   },
   {
    "id": "AZ-02",
@@ -477,7 +666,12 @@
    "open": false,
    "dem": "Jonathan Nez",
    "rep": "Eli Crane",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 9.0
+   }
   },
   {
    "id": "CO-04",
@@ -490,7 +684,12 @@
    "open": false,
    "dem": "Eileen Laubacher",
    "rep": "Lauren Boebert",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 11.6
+   }
   },
   {
    "id": "CO-05",
@@ -503,7 +702,12 @@
    "open": false,
    "dem": "Jessica Killin",
    "rep": "Jeff Crank",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 13.8
+   }
   },
   {
    "id": "FL-13",
@@ -516,7 +720,13 @@
    "open": false,
    "dem": "Leela Gray",
    "rep": "Anna Paulina Luna",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 9.6,
+    "redrawn": true
+   }
   },
   {
    "id": "FL-27",
@@ -529,7 +739,13 @@
    "open": false,
    "dem": "Eliott Rodriguez",
    "rep": "María Elvira Salazar",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 20.8,
+    "redrawn": true
+   }
   },
   {
    "id": "ME-02",
@@ -542,7 +758,12 @@
    "open": true,
    "dem": "Matthew Dunlap",
    "rep": "Paul LePage",
-   "note": "Open: Golden retiring"
+   "note": "Open: Golden retiring",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 0.6
+   }
   },
   {
    "id": "MN-01",
@@ -555,7 +776,12 @@
    "open": false,
    "dem": "Jake Johnson",
    "rep": "Brad Finstad",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 17.0
+   }
   },
   {
    "id": "NV-02",
@@ -568,7 +794,12 @@
    "open": true,
    "dem": "Teresa Benitez-Thompson",
    "rep": "David Flippo",
-   "note": "Open: Amodei retiring"
+   "note": "Open: Amodei retiring",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 19.0
+   }
   },
   {
    "id": "NY-21",
@@ -581,7 +812,12 @@
    "open": true,
    "dem": "Blake Gendebien",
    "rep": "Anthony Constantino",
-   "note": "Open: Stefanik retiring"
+   "note": "Open: Stefanik retiring",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 24.0
+   }
   },
   {
    "id": "OH-10",
@@ -594,7 +830,13 @@
    "open": false,
    "dem": "Kristina Knickerbocker",
    "rep": "Mike Turner",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 18.4,
+    "redrawn": true
+   }
   },
   {
    "id": "OH-15",
@@ -607,7 +849,13 @@
    "open": false,
    "dem": "Don Leonard",
    "rep": "Mike Carey",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 13.0,
+    "redrawn": true
+   }
   },
   {
    "id": "PA-01",
@@ -620,7 +868,12 @@
    "open": false,
    "dem": "Bob Harvie",
    "rep": "Brian Fitzpatrick",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 12.8
+   }
   },
   {
    "id": "SC-01",
@@ -633,7 +886,12 @@
    "open": true,
    "dem": "Nancy Lacore",
    "rep": "Jenny Costa Honeycutt",
-   "note": "Open: Mace running for governor"
+   "note": "Open: Mace running for governor",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 16.6
+   }
   },
   {
    "id": "TX-23",
@@ -646,7 +904,13 @@
    "open": true,
    "dem": "Katy Padilla Stout",
    "rep": "Brandon Herrera",
-   "note": "Vacant since Gonzales resigned in April"
+   "note": "Vacant since Gonzales resigned in April",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 24.6,
+    "redrawn": true
+   }
   },
   {
    "id": "WI-01",
@@ -659,7 +923,12 @@
    "open": false,
    "dem": "Mitchell Berman",
    "rep": "Bryan Steil",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 10.2
+   }
   },
   {
    "id": "CA-13",
@@ -672,7 +941,13 @@
    "open": false,
    "dem": "Adam Gray",
    "rep": "Kevin Lincoln",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 0.1,
+    "redrawn": true
+   }
   },
   {
    "id": "CA-45",
@@ -685,7 +960,13 @@
    "open": false,
    "dem": "Derek Tran",
    "rep": "Chuong Vo",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 0.2,
+    "redrawn": true
+   }
   },
   {
    "id": "IN-01",
@@ -698,7 +979,12 @@
    "open": false,
    "dem": "Frank Mrvan",
    "rep": "Barb Regnitz",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 8.5
+   }
   },
   {
    "id": "MI-08",
@@ -711,7 +997,12 @@
    "open": false,
    "dem": "Kristen McDonald Rivet",
    "rep": "Thomas Smith",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 6.6
+   }
   },
   {
    "id": "MN-02",
@@ -724,7 +1015,12 @@
    "open": true,
    "dem": "Matt Little",
    "rep": "Eric Pratt",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 13.5
+   }
   },
   {
    "id": "NE-02",
@@ -737,7 +1033,12 @@
    "open": true,
    "dem": "Denise Powell",
    "rep": "Brinker Harding",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 1.8
+   }
   },
   {
    "id": "NH-01",
@@ -750,7 +1051,12 @@
    "open": true,
    "dem": "Stefany Shaheen",
    "rep": "Anthony DiLorenzo",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 8.0
+   }
   },
   {
    "id": "NJ-09",
@@ -763,7 +1069,12 @@
    "open": false,
    "dem": "Nellie Pou",
    "rep": "Rosie Pino",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 4.9
+   }
   },
   {
    "id": "NV-01",
@@ -776,7 +1087,12 @@
    "open": false,
    "dem": "Dina Titus",
    "rep": "Carrie Buck",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 7.5
+   }
   },
   {
    "id": "NV-03",
@@ -789,7 +1105,12 @@
    "open": false,
    "dem": "Susie Lee",
    "rep": "Martin O'Donnell",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 2.8
+   }
   },
   {
    "id": "NV-04",
@@ -802,7 +1123,12 @@
    "open": false,
    "dem": "Steven Horsford",
    "rep": "Cody Whipple",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 8.1
+   }
   },
   {
    "id": "NY-03",
@@ -815,7 +1141,12 @@
    "open": false,
    "dem": "Tom Suozzi",
    "rep": "Mike LiPetri",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 3.6
+   }
   },
   {
    "id": "NY-04",
@@ -828,7 +1159,12 @@
    "open": false,
    "dem": "Laura Gillen",
    "rep": "Jeanine Driscoll",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 2.2
+   }
   },
   {
    "id": "NY-19",
@@ -841,7 +1177,12 @@
    "open": false,
    "dem": "Josh Riley",
    "rep": "Peter Oberacker",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 2.2
+   }
   },
   {
    "id": "OH-01",
@@ -854,7 +1195,13 @@
    "open": false,
    "dem": "Greg Landsman",
    "rep": "Eric Conroy",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 9.2,
+    "redrawn": true
+   }
   },
   {
    "id": "OH-13",
@@ -867,7 +1214,13 @@
    "open": false,
    "dem": "Emilia Sykes",
    "rep": "Carey Coleman",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 2.2,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-28",
@@ -880,7 +1233,13 @@
    "open": false,
    "dem": "Henry Cuellar",
    "rep": "Tano Tijerina",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 5.6,
+    "redrawn": true
+   }
   },
   {
    "id": "VA-07",
@@ -893,7 +1252,12 @@
    "open": false,
    "dem": "Eugene Vindman",
    "rep": "Doug Ollivant",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 2.6
+   }
   },
   {
    "id": "AR-02",
@@ -906,7 +1270,12 @@
    "open": false,
    "dem": "Chris Jones",
    "rep": "French Hill",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 17.8
+   }
   },
   {
    "id": "CO-03",
@@ -919,7 +1288,12 @@
    "open": false,
    "dem": "Dwayne Romero",
    "rep": "Jeff Hurd",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 5.0
+   }
   },
   {
    "id": "FL-07",
@@ -932,7 +1306,13 @@
    "open": true,
    "dem": "Bale Dalton",
    "rep": "Ryan Elijah",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 13.0,
+    "redrawn": true
+   }
   },
   {
    "id": "FL-09",
@@ -945,7 +1325,13 @@
    "open": false,
    "dem": "Darren Soto",
    "rep": "Dan Green",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 12.5,
+    "redrawn": true
+   }
   },
   {
    "id": "FL-16",
@@ -958,7 +1344,13 @@
    "open": true,
    "dem": "Kelly Kirschner",
    "rep": "Sydney Gruters",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 19.0,
+    "redrawn": true
+   }
   },
   {
    "id": "IN-05",
@@ -971,7 +1363,12 @@
    "open": false,
    "dem": "J. D. Ford",
    "rep": "Victoria Spartz",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 18.6
+   }
   },
   {
    "id": "KS-02",
@@ -984,7 +1381,12 @@
    "open": false,
    "dem": "Don Coover",
    "rep": "Derek Schmidt",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 18.9
+   }
   },
   {
    "id": "MO-02",
@@ -997,7 +1399,12 @@
    "open": false,
    "dem": "Fred Wellman",
    "rep": "Ann Wagner",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 12.0
+   }
   },
   {
    "id": "NC-03",
@@ -1010,7 +1417,13 @@
    "open": false,
    "dem": "Raymond Smith Jr.",
    "rep": "Greg Murphy",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 54.8,
+    "redrawn": true
+   }
   },
   {
    "id": "NC-13",
@@ -1023,7 +1436,13 @@
    "open": false,
    "dem": "Paul Barringer",
    "rep": "Brad Knott",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 17.2,
+    "redrawn": true
+   }
   },
   {
    "id": "NE-01",
@@ -1036,7 +1455,12 @@
    "open": false,
    "dem": "Chris Backemeyer",
    "rep": "Mike Flood",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 20.2
+   }
   },
   {
    "id": "TX-09",
@@ -1049,7 +1473,13 @@
    "open": true,
    "dem": "Leticia Gutierrez",
    "rep": "Alex Mealer",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "unopposed": true,
+    "redrawn": true
+   }
   },
   {
    "id": "VA-05",
@@ -1062,7 +1492,12 @@
    "open": false,
    "dem": "Tom Perriello",
    "rep": "John McGuire",
-   "note": ""
+   "note": "",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 15.0
+   }
   }
  ],
  "senate": [
@@ -1077,7 +1512,12 @@
    "dem": "Mary Peltola",
    "rep": "Dan Sullivan",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "R",
+    "m": 12.7,
+    "yr": 2020
+   }
   },
   {
    "id": "GA-SEN",
@@ -1090,7 +1530,13 @@
    "dem": "Jon Ossoff",
    "rep": "Mike Collins",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "D",
+    "m": 1.2,
+    "yr": 2021,
+    "note": "2021 runoff"
+   }
   },
   {
    "id": "NC-SEN",
@@ -1103,7 +1549,12 @@
    "dem": "Roy Cooper",
    "rep": "Michael Whatley",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "R",
+    "m": 1.8,
+    "yr": 2020
+   }
   },
   {
    "id": "ME-SEN",
@@ -1116,7 +1567,12 @@
    "dem": "Troy Jackson",
    "rep": "Susan Collins",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "R",
+    "m": 8.6,
+    "yr": 2020
+   }
   },
   {
    "id": "MI-SEN",
@@ -1129,7 +1585,12 @@
    "dem": "Abdul El-Sayed",
    "rep": "Mike Rogers",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "D",
+    "m": 1.7,
+    "yr": 2020
+   }
   },
   {
    "id": "OH-SEN",
@@ -1142,7 +1603,13 @@
    "dem": "Sherrod Brown",
    "rep": "Jon Husted",
    "demParty": "D",
-   "special": true
+   "special": true,
+   "last": {
+    "party": "R",
+    "m": 6.1,
+    "yr": 2022,
+    "note": "2022 (Vance), before his appointment as VP"
+   }
   },
   {
    "id": "TX-SEN",
@@ -1155,7 +1622,12 @@
    "dem": "James Talarico",
    "rep": "Ken Paxton",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "R",
+    "m": 9.6,
+    "yr": 2020
+   }
   },
   {
    "id": "KS-SEN",
@@ -1168,7 +1640,12 @@
    "dem": "Adam Hamilton",
    "rep": "Roger Marshall",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "R",
+    "m": 11.4,
+    "yr": 2020
+   }
   },
   {
    "id": "IA-SEN",
@@ -1181,7 +1658,12 @@
    "dem": "Josh Turek",
    "rep": "Ashley Hinson",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "R",
+    "m": 6.6,
+    "yr": 2020
+   }
   },
   {
    "id": "NE-SEN",
@@ -1194,7 +1676,13 @@
    "dem": "Dan Osborn",
    "rep": "Pete Ricketts",
    "demParty": "I",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "R",
+    "m": 25.2,
+    "yr": 2024,
+    "note": "2024 special election"
+   }
   },
   {
    "id": "SC-SEN",
@@ -1207,8 +1695,14 @@
    "dem": "Annie Andrews",
    "rep": "Darline Graham",
    "demParty": "D",
-   "special": false
+   "special": false,
+   "last": {
+    "party": "R",
+    "m": 10.3,
+    "yr": 2020
+   }
   }
  ],
- "senateRatingsSource": "Cook Political Report Senate race ratings, Oct. 20, 2026"
+ "senateRatingsSource": "Cook Political Report Senate race ratings, Oct. 20, 2026",
+ "lastSource": "Last-election margins: Wikipedia's 2024 House and 2020/2022/2024 Senate election results"
 }
