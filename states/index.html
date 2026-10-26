@@ -126,6 +126,8 @@ a.dist:hover{text-decoration-color:currentColor}
 .legend i{width:14px;height:10px;display:inline-block}
 footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:6px;border-top:1px solid var(--rule);padding-top:12px}
 a{color:inherit}
+.ast{font-weight:700;color:var(--ink);margin-left:1px}
+.lastm{cursor:help}
 @media (max-width:640px){
   details.ch>summary{grid-template-columns:1fr auto;grid-template-areas:"nm st" "bar bar"}
   .nm{grid-area:nm} .st{grid-area:st;align-items:flex-end} .barcol{grid-area:bar}
@@ -177,6 +179,7 @@ a{color:inherit}
 
   <footer>
     <span>Bars count seats toward the majority line: seats not up this year count for the party that holds them, then called races. A chamber is decided once one party's held and won seats reach the majority. Hatched segments are uncalled districts where a party leads with at least 60% of the expected vote counted; they show where the count is heading and never count toward control.</span>
+    <span>Last margin: the winning party's lead over the runner-up, in percentage points, in the seat's most recent general election (2024, or 2022 for seats with four-year terms; the year is shown when it isn't 2024). Multi-member districts compare the last winner with the first loser. Hover for the winner's name. <b>*</b> District lines have changed since that election, so the margin is from the old lines. Special elections held after 2024 aren't included.</span>
     <span id="srcs"></span>
     <span>Results: official state results sites first, then AP and Decision Desk HQ. Updates every 30 minutes on election night (8pm–3am ET), then hourly through Nov. 6.</span>
   </footer>
@@ -362,10 +365,33 @@ a{color:inherit}
     return main + (vac?`<span class="vv">${vac} vacant</span>`:'');
   };
 
+  // Last-election margin: the winning party's lead over the runner-up in the seat's most recent general election
+  function lastOne(L){
+    if (!L) return '';
+    const P = L.party==='D'||L.party==='R' ? L.party : L.party==='I' ? 'Ind.' : '';
+    const cls = L.party==='D'?'d':L.party==='R'?'r':'';
+    const v = L.unopposed ? `${P?P+' ':''}unopp.` : `${P}+${(+L.m).toFixed(1)}`;
+    return `<span class="${cls}">${v}</span>${L.redrawn?'<sup class="ast">*</sup>':''}`;
+  }
+  function lastTip(L){
+    if (!L) return '';
+    return [`${L.yr}${L.winner?': '+L.winner:''}${L.k>1?` (${L.k}-seat district: last winner vs. first loser)`:''}`, L.note, L.redrawn?(L.redrawnNote||(CUR&&CUR.redrawnNote)||'District lines changed since then'):''].filter(Boolean).join(' · ');
+  }
+  let CUR=null;
+  function lastCell(row, pos){
+    let L = row.last, L2 = row.last2;
+    if (pos && L2) { if (String(pos)==='2') L = L2; L2 = null; }
+    if (!L) return '<td class="num"><span class="vv">—</span></td>';
+    const yr = L.yr!==2024 ? `<span class="vv">${L.yr}</span>` : '';
+    const two = L2 ? ` · ${lastOne(L2)}` : '';
+    const tip = lastTip(L) + (L2 ? ' | Pos. 2 — '+lastTip(L2) : '');
+    return `<td class="num lastm" title="${esc(tip)}">${lastOne(L)}${two}${yr}</td>`;
+  }
   function districtRows(c, rows){
+    CUR = c;
     return rows.map(row=>{
       const inc = row.upInc || row.inc;
-      if (!row.up) return `<tr class="hold"><td>${distLink(c,row.d)}</td><td>${incHTML(row.inc)}</td><td colspan="5">Not up this year</td></tr>`;
+      if (!row.up) return `<tr class="hold"><td>${distLink(c,row.d)}</td><td>${incHTML(row.inc)}</td><td colspan="6">Not up this year</td></tr>`;
       const rs = RACES.get(c.st+'|'+c.ch+'|'+dkey(row.d))||[];
       if (!rs.length){
         // Before results: show the nominees on the ballot (from baseline), flag uncontested seats
@@ -375,7 +401,7 @@ a{color:inherit}
         const unop = nAll===1 ? (cD.length?'D uncontested':cR.length?'R uncontested':'Uncontested') : '';
         const lbl = 'On the ballot';
         const res = unop ? `<td class="res NONE">${unop}${!cD.length&&!cR.length?`<span class="vv">${esc(oth[0])}</span>`:''}</td>` : `<td class="res NONE">No results yet${oth.length&&!cD.length&&!cR.length?`<span class="vv">${lbl}: ${oth.map(esc).join(', ')}</span>`:''}</td>`;
-        return `<tr><td>${distLink(c,row.d)}${row.comp?'<span class="tag">KEY</span>':''}${row.special?'<span class="tag">SPECIAL</span>':''}</td><td>${incHTML(inc)}</td>${res}<td>${nm(cD)}</td><td>${nm(cR)}</td><td></td><td></td></tr>`;
+        return `<tr><td>${distLink(c,row.d)}${row.comp?'<span class="tag">KEY</span>':''}${row.special?'<span class="tag">SPECIAL</span>':''}</td><td>${incHTML(inc)}</td>${lastCell(row)}${res}<td>${nm(cD)}</td><td>${nm(cR)}</td><td></td><td></td></tr>`;
       }
       return rs.map(r=>{
         const res=resultOf(r), won=r.status==='Called';
@@ -383,7 +409,8 @@ a{color:inherit}
         const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>`:'';
         const flip = r.flip ? '<span class="tag">FLIP</span>' : (r.wouldFlip&&r.status==='Counting' ? '<span class="tag maybe" title="Seat changes parties if the current leader holds on">WOULD FLIP</span>' : '');
         const lbl = /pos/i.test(r.district) ? ' '+esc(String(r.district).match(/pos\w*\.?\s*\d+/i)[0]) : '';
-        return `<tr><td>${distLink(c,row.d,lbl)}${row.comp?'<span class="tag">KEY</span>':''}</td><td>${incHTML(inc)}</td>
+        const pos = (String(r.district).match(/pos\w*\.?\s*(\d+)/i)||[])[1];
+        return `<tr><td>${distLink(c,row.d,lbl)}${row.comp?'<span class="tag">KEY</span>':''}</td><td>${incHTML(inc)}</td>${lastCell(row,pos)}
           <td class="res ${res.cls}">${res.html}${flip}${res.sub?`<span class="vv">${res.sub}</span>`:''}${r.calledBy&&won?`<span class="vv">Called by ${esc(r.calledBy)}</span>`:''}${raceBar(r)}</td>
           <td>${cand(r.dem,won&&r.leader==='D')}</td><td>${cand(r.rep,won&&r.leader==='R')}</td>
           <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td></tr>`;
@@ -405,8 +432,8 @@ a{color:inherit}
       ? `${x.called} called · ${x.counting} still counting · ${c.up - x.called - x.counting} with no results yet${x.src?' · Seat count: '+esc(x.src):''}${x.asOf?' · '+esc(x.asOf):''}`
       : `Current members. This chamber's next regular election is in ${nextYear(c)}.${SPECIAL_NOTE[c.id]?' '+SPECIAL_NOTE[c.id]+'.':''}`;
     box.innerHTML = `<div class="meta">${meta}</div>
-      <div class="tablebox"><table><thead><tr><th>District</th><th>Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th></tr></thead>
-      <tbody>${rows.length?districtRows(c,rows):'<tr><td colspan="7" class="empty">No district list available for this chamber.</td></tr>'}</tbody></table></div>
+      <div class="tablebox"><table><thead><tr><th>District</th><th>Held by</th><th class="num">Last margin</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th></tr></thead>
+      <tbody>${rows.length?districtRows(c,rows):'<tr><td colspan="8" class="empty">No district list available for this chamber.</td></tr>'}</tbody></table></div>
       ${c.election&&holdN&&!showHold?`<button class="showhold" type="button" data-hold>Show the ${holdN} district${holdN>1?'s':''} not up this year</button>`:''}`;
     det._hold = showHold;
   }
@@ -480,7 +507,7 @@ a{color:inherit}
       const res = await fetch('baseline.json', {cache:'no-store'}); BASE = await res.json(); CH = BASE.chambers;
     }catch(err){ $('#board').innerHTML = '<div class="empty">The chamber list couldn\'t load. Refresh the page to try again.</div>'; return; }
     $('#scope').textContent = `${CH.filter(c=>c.election).length} chambers · ${BASE.totalSeatsUp.toLocaleString('en-US')} seats`;
-    $('#srcs').textContent = 'Seats, members and current makeup: ' + BASE.sources.join('; ') + '.';
+    $('#srcs').textContent = 'Seats, members and current makeup: ' + BASE.sources.join('; ') + '.' + (BASE.lastSource ? ' ' + BASE.lastSource + '; gaps filled from Wikipedia results pages.' : '');
     await loadData(); render();
     const h = decodeURIComponent(location.hash.slice(1));
     if (h){ const d=document.getElementById(h); if (d){ d.open=true; fillInner(d,false); d.scrollIntoView(); } }
