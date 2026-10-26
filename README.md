@@ -6,3 +6,5 @@ Live election-night results for Nov. 3, 2026, served at electionhub.org.
 - `/states/` — State Legislature Election Results: all 88 chambers (`states/index.html`, `states/baseline.json`, `states/data.json`)
 
 Mirrors stateselections.org (repo `jordanzakarin-lab/stateelections`). The election-night scheduled tasks push the same `data.json` files to both repos: `congress/data.json` there → `data.json` here, and root `data.json` there → `states/data.json` here.
+
+The site deploys through the "Deploy site" GitHub Actions workflow (.github/workflows/pages.yml) on every push to main.
