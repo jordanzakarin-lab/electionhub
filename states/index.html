@@ -203,7 +203,7 @@ th.hb,td.hb{width:1%}
   const SN = n => String(n).replace(/^North Carolina$/,'N. Carolina').replace(/^South Carolina$/,'S. Carolina');
   const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
-  let BASE=null, DATA={races:[],chambers:{},governors:[]}, filter='all', query='', RACES=new Map(), CH=[];
+  let GOVDATA=[], BASE=null, DATA={races:[],chambers:{},governors:[]}, filter='all', query='', RACES=new Map(), CH=[];
 
   function dkey(d){
     d = String(d).trim().toUpperCase().replace(/^(HD|SD|AD|LD|DISTRICT|DIST\.?)[\s-]*/,'').replace(/\s*(POS(ITION)?\.?\s*\d+)$/,'');
@@ -565,11 +565,16 @@ th.hb,td.hb{width:1%}
     try{
       const res = await fetch('data.json?t='+Date.now(), {cache:'no-store'});
       if (!res.ok) throw new Error(res.status);
-      DATA = await res.json(); DATA.races = DATA.races||[]; DATA.chambers = DATA.chambers||{}; DATA.governors = DATA.governors||[];
+      DATA = await res.json(); DATA.races = DATA.races||[]; DATA.chambers = DATA.chambers||{};
       $('#sampleBanner').hidden = !DATA.sample;
       const t = DATA.updated ? new Date(DATA.updated) : null;
       $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
     }catch(err){ if (!DATA.updated) $('#updated').textContent = 'Awaiting first results'; }
+    try{
+      const g = await fetch('governors.json?t='+Date.now(), {cache:'no-store'});
+      if (g.ok){ const j = await g.json(); GOVDATA = j.races||[]; if (j.sample) $('#sampleBanner').hidden = false; }
+    }catch(err){}
+    DATA.governors = GOVDATA;
     indexRaces();
   }
 
