@@ -6,9 +6,9 @@
  "house": {
   "total": 435,
   "majority": 218,
-  "safeD": 186,
-  "safeR": 168,
-  "note": "Seats Cook rates Solid for each party"
+  "safeD": 184,
+  "safeR": 165,
+  "note": "Seats Cook rates Solid for each party, minus the Solid seats listed on this page"
  },
  "races": [
   {
@@ -1499,6 +1499,107 @@
     "party": "R",
     "m": 15.0
    }
+  },
+  {
+   "id": "NY-01",
+   "st": "NY",
+   "state": "New York",
+   "district": "1",
+   "rating": "Watch",
+   "alt": "Split Ticket: Lean R",
+   "held": "R",
+   "incumbent": "Nick LaLota",
+   "open": false,
+   "dem": "Chris Gallant",
+   "rep": "Nick LaLota",
+   "note": "Cook: Solid R; Split Ticket Lean R, Sabato Likely R",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 10.4
+   }
+  },
+  {
+   "id": "CA-06",
+   "st": "CA",
+   "state": "California",
+   "district": "6",
+   "rating": "Watch",
+   "alt": "Sabato: Likely D",
+   "held": "I",
+   "incumbent": "Kevin Kiley",
+   "open": false,
+   "dem": "Richard Pan",
+   "rep": "Kevin Kiley",
+   "repParty": "I",
+   "note": "Cook: Solid D; Sabato Likely D. Kiley left the GOP in March 2026 and runs without party preference",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 11.0,
+    "redrawn": true,
+    "note": "Kiley's 2024 margin in the old 3rd District, as a Republican"
+   }
+  },
+  {
+   "id": "CA-01",
+   "st": "CA",
+   "state": "California",
+   "district": "1",
+   "rating": "Redrawn",
+   "alt": "Cook: Solid D",
+   "held": "R",
+   "incumbent": "James Gallagher",
+   "open": false,
+   "dem": "Mike McGuire",
+   "rep": "James Gallagher",
+   "note": "Redrawn under Prop. 50",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 30.6,
+    "redrawn": true
+   }
+  },
+  {
+   "id": "TX-32",
+   "st": "TX",
+   "state": "Texas",
+   "district": "32",
+   "rating": "Redrawn",
+   "alt": "Cook: Solid R",
+   "held": "D",
+   "incumbent": null,
+   "open": true,
+   "dem": "Dan Barrios",
+   "rep": "Jace Yarbrough",
+   "note": "Open: Julie Johnson running in the 33rd after Texas redrew its map",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 23.5,
+    "redrawn": true
+   }
+  },
+  {
+   "id": "TN-09",
+   "st": "TN",
+   "state": "Tennessee",
+   "district": "9",
+   "rating": "Redrawn",
+   "alt": "Cook: Solid R",
+   "held": "D",
+   "incumbent": null,
+   "open": true,
+   "dem": "Justin Pearson",
+   "rep": "Brent Taylor",
+   "note": "Open: Cohen not running after Tennessee split Memphis",
+   "last": {
+    "yr": 2024,
+    "party": "D",
+    "m": 45.6,
+    "redrawn": true
+   }
   }
  ],
  "senate": [
@@ -1705,5 +1806,7 @@
   }
  ],
  "senateRatingsSource": "Cook Political Report Senate race ratings, Oct. 20, 2026",
- "lastSource": "Last-election margins: Wikipedia's 2024 House and 2020/2022/2024 Senate election results"
+ "lastSource": "Last-election margins: Wikipedia's 2024 House and 2020/2022/2024 Senate election results",
+ "otherSource": "Other forecasters: Split Ticket (Oct. 24, 2026) and Sabato's Crystal Ball (Oct. 20, 2026)",
+ "redrawnSource": "Redistricting flips: seats Cook rates Solid for the other party after Texas, California and Tennessee redrew their maps"
 }

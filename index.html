@@ -102,7 +102,8 @@ a.dist:hover{text-decoration-color:currentColor}
 .tag{font-family:var(--mono);font-size:10px;letter-spacing:.06em;margin-left:6px;padding:1px 4px;border:1px solid currentColor;display:inline-block;line-height:1.25;vertical-align:1px}
 .tag.maybe{border-style:dashed}
 .pill{font:600 12px var(--body);padding:3px 8px;white-space:nowrap}
-.pill.D{background:var(--dem);color:var(--dem-ink)} .pill.R{background:var(--rep);color:var(--rep-ink)}
+.pill.D{background:var(--dem);color:var(--dem-ink)} .pill.R{background:var(--rep);color:var(--rep-ink)} .pill.I{background:var(--ind);color:#fff}
+.group .gnote{font-size:13px;color:var(--muted);margin:-4px 0 8px;max-width:760px}
 .pd{font-family:var(--mono);font-size:11px;padding:0 4px;margin-left:2px}
 .pd.D{color:var(--dem)} .pd.R{color:var(--rep)}
 .vv{display:block;font-family:var(--mono);font-size:12px;color:var(--muted)}
@@ -153,6 +154,8 @@ th.hb,td.hb{width:1%}
     <button aria-pressed="false" data-f="Lean R">Lean R</button>
     <button aria-pressed="false" data-f="Likely D">Likely D</button>
     <button aria-pressed="false" data-f="Likely R">Likely R</button>
+    <button aria-pressed="false" data-f="Watch">Other forecasters</button>
+    <button aria-pressed="false" data-f="Redrawn">Redistricting flips</button>
     <button aria-pressed="false" data-f="called">Called</button>
     <button aria-pressed="false" data-f="flip">Seats flipped</button>
     <input id="q" type="search" placeholder="State, district or candidate" aria-label="Search by state, district or candidate">
@@ -199,7 +202,8 @@ th.hb,td.hb{width:1%}
   const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
   const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
-  const GROUPS = [['Toss Up','Toss ups'],['Lean D','Lean Democratic'],['Lean R','Lean Republican'],['Likely D','Likely Democratic'],['Likely R','Likely Republican']];
+  const GROUPS = [['Toss Up','Toss ups'],['Lean D','Lean Democratic'],['Lean R','Lean Republican'],['Likely D','Likely Democratic'],['Likely R','Likely Republican'],['Watch','Also competitive, per other forecasters'],['Redrawn','Redistricting flips']];
+  const GNOTE = {Watch:'Cook rates these Solid, but other forecasters rate them competitive.', Redrawn:'Cook rates these Solid for the party that doesn\'t hold them now, because the state redrew its map. Expected flips, not toss ups.'};
   let BASE=null, DATA={races:[]}, RES=new Map(), filter='all', query='';
 
   // One state per race: called (won), leading (uncalled, 60%+ counted, someone ahead), or neither
@@ -235,7 +239,7 @@ th.hb,td.hb{width:1%}
     $('#tally').innerHTML = `
       <div class="tile"><div class="k">House races called</div><div class="v">${called}<small> of ${xs.length}</small></div></div>
       <div class="tile"><div class="k">House battlegrounds won</div><div class="v"><span class="d">${c.wD}</span><small> D </small><span class="r">${c.wR}</span><small> R</small></div></div>
-      <div class="tile"><div class="k">House seats flipped</div><div class="v"><span class="d">${fD}</span><small> R→D </small><span class="r">${fR}</span><small> D→R</small></div></div>
+      <div class="tile"><div class="k">House seats flipped</div><div class="v"><span class="d">${fD}</span><small> to D </small><span class="r">${fR}</span><small> to R</small></div></div>
       <div class="tile"><div class="k">House net change</div><div class="v">${net>0?`<span class="d">D +${net}</span>`:net<0?`<span class="r">R +${-net}</span>`:'Even'}</div></div>`;
   }
 
@@ -286,20 +290,20 @@ th.hb,td.hb{width:1%}
   }
   function row(b,x){
     const r = x.r || {};
-    const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">${b.demParty==='I'?'Ind.':'D'}+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="r">R+${Math.abs(mp).toFixed(1)}</span>`:'Even');
+    const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">${b.demParty==='I'?'Ind.':'D'}+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="r">${b.repParty==='I'?'Ind.':'R'}+${Math.abs(mp).toFixed(1)}</span>`:'Even');
     const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>`:'';
-    const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':'Republican'}</span>${b.chamber==='S'?`<span class="rt">Cook: ${esc(b.rating)}</span>`:''}`;
+    const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':b.held==='R'?'Republican':'Independent'}</span>${b.chamber==='S'?`<span class="rt">Cook: ${esc(b.rating)}</span>`:b.alt?`<span class="rt">${esc(b.alt)}</span>`:''}`;
     return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} Senate">${esc(SN(b.state))}</a><span class="sn">${b.special?'Special election':'Senate'}</span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(SN(b.state))}</span>`}</td>
       <td class="hb">${inc}</td>
       ${resultCell(b,x)}
-      <td>${cand(b.dem, r.dem, x.won==='D'||(b.demParty==='I'&&x.won==='I'), b.incumbent===b.dem, b.demParty==='I')}</td><td>${cand(b.rep, r.rep, x.won==='R', b.incumbent===b.rep)}</td>
+      <td>${cand(b.dem, r.dem, x.won==='D'||(b.demParty==='I'&&x.won==='I'), b.incumbent===b.dem, b.demParty==='I')}</td><td>${cand(b.rep, r.rep, x.won==='R'||(b.repParty==='I'&&x.won==='I'), b.incumbent===b.rep, b.repParty==='I')}</td>
       <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td>${lastCell(b)}</tr>`;
   }
 
   function matches(b,x){
     if (filter==='called' && !x.won) return false;
     if (filter==='flip' && !x.flip) return false;
-    if (/^(Toss Up|Lean D|Lean R|Likely D|Likely R)$/.test(filter) && b.rating!==filter) return false;
+    if (/^(Toss Up|Lean D|Lean R|Likely D|Likely R|Watch|Redrawn)$/.test(filter) && b.rating!==filter) return false;
     const q = query.trim().toLowerCase();
     if (!q) return true;
     const id = b.id.toLowerCase();
@@ -329,7 +333,7 @@ th.hb,td.hb{width:1%}
       const rows = BASE.races.map((b,i)=>[b,xs[i]]).filter(([b,x])=>b.rating===key && matches(b,x));
       if (!rows.length) return '';
       const called = rows.filter(([,x])=>x.won).length;
-      return `<section class="group" aria-label="${label}"><h2>${label} <small>${rows.length} race${rows.length>1?'s':''} · ${called} called</small></h2>
+      return `<section class="group" aria-label="${label}"><h2>${label} <small>${rows.length} race${rows.length>1?'s':''} · ${called} called</small></h2>${GNOTE[key]?`<p class="gnote">${GNOTE[key]}</p>`:''}
         <div class="tablebox"><table>${head}<tbody>${rows.map(([b,x])=>row(b,x)).join('')}</tbody></table></div></section>`;
     }).join('');
     $('#groups').innerHTML = html || `<div class="empty">${filter==='flip'?'No seats have changed parties yet.':filter==='called'?'No races have been called yet.':'No House races match. Clear the search or pick another filter.'}</div>`;
@@ -357,7 +361,7 @@ th.hb,td.hb{width:1%}
     try{ const res = await fetch('baseline.json', {cache:'no-store'}); BASE = await res.json(); (BASE.senate||[]).forEach(s=>s.chamber='S'); }
     catch(err){ $('#groups').innerHTML = '<div class="empty">The race list couldn\'t load. Refresh the page to try again.</div>'; return; }
     $('#scope').textContent = `${(BASE.senate||[]).length} Senate · ${BASE.races.length} House races`;
-    $('#srcs').textContent = `Senate ratings: ${BASE.senateRatingsSource}. House races: ${BASE.ratingsSource} (Likely, Lean and Toss Up). ${BASE.candidatesSource}. ${BASE.lastSource||''}.`;
+    $('#srcs').textContent = `Senate ratings: ${BASE.senateRatingsSource}. House races: ${BASE.ratingsSource} (Likely, Lean and Toss Up). ${BASE.otherSource?BASE.otherSource+'. ':''}${BASE.redrawnSource?BASE.redrawnSource+'. ':''}${BASE.candidatesSource}. ${BASE.lastSource||''}.`;
     await loadData(); render();
     const h = decodeURIComponent(location.hash.slice(1)); if (h){ const el=document.getElementById(h.toUpperCase()); if (el) el.scrollIntoView(); }
     setInterval(async ()=>{ await loadData(); render(); }, 60000);
