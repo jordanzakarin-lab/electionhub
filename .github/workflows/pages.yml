@@ -1,0 +1,35 @@
+# Publishes electionhub.org on every push to main.
+# Deploying through GitHub Actions avoids the 10-builds-per-hour soft limit
+# that applies to branch-based GitHub Pages builds.
+# Requires: Settings → Pages → Build and deployment → Source → "GitHub Actions".
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# On election night pushes arrive every few minutes; only the newest needs to go live.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
