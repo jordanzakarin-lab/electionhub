@@ -114,6 +114,7 @@ a{color:inherit}
 .xlink b{font-family:var(--display);font-size:17px}
 .xlink span{font-family:var(--mono);font-size:12px;color:var(--muted)}
 .xlink:hover b{text-decoration:underline}
+th.hb,td.hb{width:1%}
 .ast{font-weight:700;color:var(--ink);margin-left:1px}
 .chamber-h{font-family:var(--display);font-weight:900;font-size:28px;margin:10px 0 0;border-top:3px double var(--ink);padding-top:14px}
 #senate .group h2{font-size:28px;font-weight:900;border-top:3px double var(--ink);padding-top:14px;margin-top:0}
@@ -282,11 +283,10 @@ a{color:inherit}
     const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>`:'';
     const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':'Republican'}</span>${b.chamber==='S'?`<span class="rt">Cook: ${esc(b.rating)}</span>`:''}`;
     return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} Senate">${esc(b.state)}</a><span class="sn">${b.special?'Special election':'Senate'}</span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(b.state)}</span>`}</td>
-      <td>${inc}</td>
-      ${lastCell(b)}
+      <td class="hb">${inc}</td>
       ${resultCell(b,x)}
       <td>${cand(b.dem, r.dem, x.won==='D'||(b.demParty==='I'&&x.won==='I'), b.incumbent===b.dem, b.demParty==='I')}</td><td>${cand(b.rep, r.rep, x.won==='R', b.incumbent===b.rep)}</td>
-      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td></tr>`;
+      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td>${lastCell(b)}</tr>`;
   }
 
   function matches(b,x){
@@ -308,7 +308,7 @@ a{color:inherit}
     const xs = all.map(stateOf), called = xs.filter(x=>x.won).length;
     const fD = xs.filter(x=>x.flip&&x.won==='D').length, fR = xs.filter(x=>x.flip&&x.won==='R').length, fI = xs.filter(x=>x.flip&&x.won==='I').length;
     const flips = fD||fR||fI ? ` · flips: ${[fD?fD+' to D':'',fR?fR+' to R':'',fI?fI+' to Ind.':''].filter(Boolean).join(', ')}` : '';
-    const head = `<thead><tr><th>State</th><th>Held by</th><th class="num">Last margin</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th></tr></thead>`;
+    const head = `<thead><tr><th>State</th><th class="hb">Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th><th class="num">Last margin</th></tr></thead>`;
     $('#senate').innerHTML = `<section class="group"><h2>U.S. Senate <small>${all.length} key races · ${called} called${flips}</small></h2>
       <div class="tablebox"><table>${head}<tbody>${rows.map(([b,x])=>row(b,x)).join('')}</tbody></table></div></section>`;
   }
@@ -317,7 +317,7 @@ a{color:inherit}
     renderSenate();
     const xs = BASE.races.map(b=>stateOf(b));
     const c = houseBar(xs); tally(xs,c);
-    const head = `<thead><tr><th>District</th><th>Held by</th><th class="num">Last margin</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th></tr></thead>`;
+    const head = `<thead><tr><th>District</th><th class="hb">Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th><th class="num">Last margin</th></tr></thead>`;
     const html = GROUPS.map(([key,label])=>{
       const rows = BASE.races.map((b,i)=>[b,xs[i]]).filter(([b,x])=>b.rating===key && matches(b,x));
       if (!rows.length) return '';

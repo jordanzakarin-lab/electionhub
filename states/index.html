@@ -126,6 +126,7 @@ a.dist:hover{text-decoration-color:currentColor}
 .legend i{width:14px;height:10px;display:inline-block}
 footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:6px;border-top:1px solid var(--rule);padding-top:12px}
 a{color:inherit}
+th.hb,td.hb{width:1%}
 .ast{font-weight:700;color:var(--ink);margin-left:1px}
 .lastm{cursor:help}
 @media (max-width:640px){
@@ -391,7 +392,7 @@ a{color:inherit}
     CUR = c;
     return rows.map(row=>{
       const inc = row.upInc || row.inc;
-      if (!row.up) return `<tr class="hold"><td>${distLink(c,row.d)}</td><td>${incHTML(row.inc)}</td><td colspan="6">Not up this year</td></tr>`;
+      if (!row.up) return `<tr class="hold"><td>${distLink(c,row.d)}</td><td class="hb">${incHTML(row.inc)}</td><td colspan="6">Not up this year</td></tr>`;
       const rs = RACES.get(c.st+'|'+c.ch+'|'+dkey(row.d))||[];
       if (!rs.length){
         // Before results: show the nominees on the ballot (from baseline), flag uncontested seats
@@ -401,7 +402,7 @@ a{color:inherit}
         const unop = nAll===1 ? (cD.length?'D uncontested':cR.length?'R uncontested':'Uncontested') : '';
         const lbl = 'On the ballot';
         const res = unop ? `<td class="res NONE">${unop}${!cD.length&&!cR.length?`<span class="vv">${esc(oth[0])}</span>`:''}</td>` : `<td class="res NONE">No results yet${oth.length&&!cD.length&&!cR.length?`<span class="vv">${lbl}: ${oth.map(esc).join(', ')}</span>`:''}</td>`;
-        return `<tr><td>${distLink(c,row.d)}${row.comp?'<span class="tag">KEY</span>':''}${row.special?'<span class="tag">SPECIAL</span>':''}</td><td>${incHTML(inc)}</td>${lastCell(row)}${res}<td>${nm(cD)}</td><td>${nm(cR)}</td><td></td><td></td></tr>`;
+        return `<tr><td>${distLink(c,row.d)}${row.comp?'<span class="tag">KEY</span>':''}${row.special?'<span class="tag">SPECIAL</span>':''}</td><td class="hb">${incHTML(inc)}</td>${res}<td>${nm(cD)}</td><td>${nm(cR)}</td><td></td><td></td>${lastCell(row)}</tr>`;
       }
       return rs.map(r=>{
         const res=resultOf(r), won=r.status==='Called';
@@ -410,10 +411,10 @@ a{color:inherit}
         const flip = r.flip ? '<span class="tag">FLIP</span>' : (r.wouldFlip&&r.status==='Counting' ? '<span class="tag maybe" title="Seat changes parties if the current leader holds on">WOULD FLIP</span>' : '');
         const lbl = /pos/i.test(r.district) ? ' '+esc(String(r.district).match(/pos\w*\.?\s*\d+/i)[0]) : '';
         const pos = (String(r.district).match(/pos\w*\.?\s*(\d+)/i)||[])[1];
-        return `<tr><td>${distLink(c,row.d,lbl)}${row.comp?'<span class="tag">KEY</span>':''}</td><td>${incHTML(inc)}</td>${lastCell(row,pos)}
+        return `<tr><td>${distLink(c,row.d,lbl)}${row.comp?'<span class="tag">KEY</span>':''}</td><td class="hb">${incHTML(inc)}</td>
           <td class="res ${res.cls}">${res.html}${flip}${res.sub?`<span class="vv">${res.sub}</span>`:''}${r.calledBy&&won?`<span class="vv">Called by ${esc(r.calledBy)}</span>`:''}${raceBar(r)}</td>
           <td>${cand(r.dem,won&&r.leader==='D')}</td><td>${cand(r.rep,won&&r.leader==='R')}</td>
-          <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td></tr>`;
+          <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td>${lastCell(row,pos)}</tr>`;
       }).join('');
     }).join('');
   }
@@ -432,7 +433,7 @@ a{color:inherit}
       ? `${x.called} called · ${x.counting} still counting · ${c.up - x.called - x.counting} with no results yet${x.src?' · Seat count: '+esc(x.src):''}${x.asOf?' · '+esc(x.asOf):''}`
       : `Current members. This chamber's next regular election is in ${nextYear(c)}.${SPECIAL_NOTE[c.id]?' '+SPECIAL_NOTE[c.id]+'.':''}`;
     box.innerHTML = `<div class="meta">${meta}</div>
-      <div class="tablebox"><table><thead><tr><th>District</th><th>Held by</th><th class="num">Last margin</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th></tr></thead>
+      <div class="tablebox"><table><thead><tr><th>District</th><th class="hb">Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th><th class="num">Last margin</th></tr></thead>
       <tbody>${rows.length?districtRows(c,rows):'<tr><td colspan="8" class="empty">No district list available for this chamber.</td></tr>'}</tbody></table></div>
       ${c.election&&holdN&&!showHold?`<button class="showhold" type="button" data-hold>Show the ${holdN} district${holdN>1?'s':''} not up this year</button>`:''}`;
     det._hold = showHold;
