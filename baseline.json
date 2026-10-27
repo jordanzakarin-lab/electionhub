@@ -1808,7 +1808,7 @@
    "id": "MN-SEN",
    "st": "MN",
    "state": "Minnesota",
-   "rating": "Likely D",
+   "rating": "Lean D",
    "held": "D",
    "incumbent": null,
    "open": true,
@@ -1857,6 +1857,25 @@
     "party": "R",
     "m": 10.0,
     "yr": 2020
+   }
+  },
+  {
+   "id": "NH-SEN",
+   "st": "NH",
+   "state": "New Hampshire",
+   "rating": "Lean D",
+   "held": "D",
+   "incumbent": null,
+   "open": true,
+   "dem": "Chris Pappas",
+   "rep": "John E. Sununu",
+   "demParty": "D",
+   "special": false,
+   "last": {
+    "party": "D",
+    "m": 15.6,
+    "yr": 2020,
+    "note": "2020 (Shaheen), who is retiring"
    }
   }
  ],
