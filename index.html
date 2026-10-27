@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Battleground Congressional Races 2026 · ElectionHub</title>
-<meta name="description" content="Live results for 12 key U.S. Senate races and the 81 most competitive U.S. House races on the ballot Nov. 3, 2026.">
+<meta name="description" content="Live results for 13 key U.S. Senate races and the most competitive U.S. House races on the ballot Nov. 3, 2026.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
@@ -140,7 +140,7 @@ td .i{color:var(--ind)}
       <h1>Battleground Congressional Races 2026</h1>
     </div>
     <div class="dateline">
-      <span class="live"><span class="dot" aria-hidden="true"></span><span id="scope">12 Senate · 81 House races</span></span>
+      <span class="live"><span class="dot" aria-hidden="true"></span><span id="scope">13 Senate · 86 House races</span></span>
       <span id="updated">Loading…</span>
     </div>
   </header>
@@ -313,7 +313,7 @@ td .i{color:var(--ind)}
       || [b.dem,b.rep,b.incumbent].some(n=>n&&n.toLowerCase().includes(q));
   }
 
-  const ORDER = {'Toss Up':0,'Lean D':1,'Lean R':2,'Likely D':3,'Likely R':4};
+  const ORDER = {'Toss Up':0,'Lean D':1,'Lean R':2,'Likely D':3,'Likely R':4,'Solid D':5,'Solid R':6};
   function renderSenate(){
     const all = BASE.senate||[];
     const rows = all.map(b=>[b,stateOf(b)]).filter(([b,x])=>matches(b,x)).sort((a,c)=>ORDER[a[0].rating]-ORDER[c[0].rating]||a[0].state.localeCompare(c[0].state));
