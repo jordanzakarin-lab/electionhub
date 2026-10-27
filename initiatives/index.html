@@ -71,7 +71,10 @@ th,td{padding:8px 10px;text-align:left;white-space:nowrap;border-bottom:1px soli
 tr:last-child td{border-bottom:0}
 th{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--panel)}
 td.num,th.num{text-align:right}
-td.m{white-space:normal;min-width:240px;max-width:380px}
+td.jur{font-weight:600;white-space:normal}
+.group table{table-layout:fixed;min-width:860px}
+.group td.res{min-width:0}
+td.m{white-space:normal}
 .mn{font-weight:600}
 .bn{font-family:var(--mono);font-size:11px;margin-left:6px;padding:1px 5px;border:1px solid var(--rule);color:var(--muted);white-space:nowrap}
 .sn{display:block;font-size:12px;color:var(--muted)}
@@ -201,7 +204,7 @@ a{color:inherit}
     const margin = mp==null ? '' : mp>0 ? `<span class="ys">Yes+${Math.abs(mp).toFixed(1)}</span>` : mp<0 ? `<span class="ns">No+${Math.abs(mp).toFixed(1)}</span>` : 'Even';
     const desc = m.description ? `<span class="desc">${esc(m.description)}</span>` : '';
     const note = m.note ? `<span class="desc"><i>${esc(m.note)}</i></span>` : '';
-    return `<tr><td class="m"><span class="mn">${esc(m.measure)}</span>${m.ballotNo?`<span class="bn">${esc(m.ballotNo)}</span>`:''}<span class="sn">${esc(m.location)} · ${m.level==='Local'?'Local':'Statewide'}</span>${desc}${note}</td>
+    return `<tr><td class="jur">${esc(m.location)}</td><td class="m"><span class="mn">${esc(m.measure)}</span>${m.ballotNo?`<span class="bn">${esc(m.ballotNo)}</span>`:''}${desc}${note}</td>
       ${resultCell(m,s)}
       <td class="num">${side(m.yes,'ys')}</td><td class="num">${side(m.no,'ns')}</td>
       <td class="num">${margin}</td><td class="num">${esc(m.threshold||'Majority')}</td>
@@ -232,7 +235,7 @@ a{color:inherit}
       <div class="tile"><div class="k">Still counting</div><div class="v">${counting}<small> ${n('PASSING')} passing · ${n('FAILING')} failing</small></div></div>
       <div class="tile"><div class="k">Not yet reporting</div><div class="v">${on.length - n('PASS') - n('FAIL') - counting}</div></div>`;
     const cats = [...ORDER, ...[...new Set(on.map(firstCat))].filter(c=>!ORDER.includes(c))];
-    const THEAD = '<thead><tr><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
+    const THEAD = '<colgroup><col style="width:14%"><col style="width:32%"><col style="width:16%"><col style="width:8%"><col style="width:8%"><col style="width:8%"><col style="width:6%"><col style="width:8%"></colgroup><thead><tr><th>Jurisdiction</th><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
     const isCalled = m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';};
     const forceOpen = filter==='Local' || query.trim()!=='';
     const html = cats.map(c=>{
