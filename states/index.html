@@ -142,6 +142,8 @@ th.hb,td.hb{width:1%}
 .leg-h{font-family:var(--display);font-weight:900;font-size:28px;margin:10px 0 0;border-top:3px double var(--ink);padding-top:14px}
 .credit{font:13px/1.4 var(--body);color:var(--muted);margin:0 0 14px;padding-bottom:10px;border-bottom:1px solid var(--rule)}
 .credit a{color:var(--ink);font-weight:600;text-underline-offset:2px}
+.xlinks{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px}
+.xlinks .xlink{flex-direction:column;align-items:flex-start;gap:2px}
 </style>
 </head>
 <body>
@@ -158,7 +160,10 @@ th.hb,td.hb{width:1%}
     </div>
   </header>
 
-  <a class="xlink" href="../"><b>Battleground Congressional races →</b><span>Live results for 15 key U.S. Senate races and the most competitive House races</span></a>
+  <nav class="xlinks" aria-label="Other ElectionHub pages">
+    <a class="xlink" href="../"><b>Battleground Congressional races →</b><span>Key Senate and competitive House races</span></a>
+    <a class="xlink" href="../initiatives/"><b>Ballot initiatives →</b><span>Statewide and local measures</span></a>
+  </nav>
 
   <div class="sample" id="sampleBanner" hidden>Sample numbers for layout preview only. These are not real results; live results replace them after polls close on Nov. 3.</div>
 

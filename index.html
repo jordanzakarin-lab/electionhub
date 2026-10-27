@@ -127,8 +127,10 @@ td .i{color:var(--ind)}
 .xlink b{font-family:var(--display);font-size:17px}
 .xlink span{font-family:var(--mono);font-size:12px;color:var(--muted)}
 .xlink:hover b{text-decoration:underline}
+.xlinks{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px}
 .credit{font:13px/1.4 var(--body);color:var(--muted);margin:0 0 14px;padding-bottom:10px;border-bottom:1px solid var(--rule)}
 .credit a{color:var(--ink);font-weight:600;text-underline-offset:2px}
+.xlinks .xlink{flex-direction:column;align-items:flex-start;gap:2px}
 </style>
 </head>
 <body>
@@ -145,7 +147,10 @@ td .i{color:var(--ind)}
     </div>
   </header>
 
-  <a class="xlink" href="states/"><b>State legislature and governors race results →</b><span>Live results for all 88 state legislative chambers and 10 competitive governor's races</span></a>
+  <nav class="xlinks" aria-label="Other ElectionHub pages">
+    <a class="xlink" href="states/"><b>State legislatures and governors →</b><span>All 88 chambers and 10 governor's races</span></a>
+    <a class="xlink" href="initiatives/"><b>Ballot initiatives →</b><span>Statewide and local measures</span></a>
+  </nav>
 
   <div class="sample" id="sampleBanner" hidden>Sample numbers for layout preview only. These are not real results; live results replace them after polls close on Nov. 3.</div>
 
@@ -193,7 +198,7 @@ td .i{color:var(--ind)}
     <span>The House bar starts from the seats Cook rates Solid for each party, which are assumed, not counted; the House races here are added as they are called. Hatched segments are uncalled races where a party leads with at least 60% of the expected vote counted. They show where the count is heading and never count toward control.</span>
     <span>Last margin: the winning party's lead over the runner-up in the seat's most recent general election (2024 for House seats; the year is shown for Senate seats). "District redrawn" means the seat's lines changed for 2026, so its last margin is from the old district.</span>
     <span id="srcs"></span>
-    <span>Results: official state results sites first, then AP and Decision Desk HQ calls as reported. Updates every 30 minutes on election night (8pm–3am ET), then hourly through Nov. 6. Alaska counts ranked-choice ballots after Election Day.</span>
+    <span>Results: official state results sites first, then AP and Decision Desk HQ calls as reported. Updates every 15 minutes on election night (8pm–3am ET), then hourly through Nov. 6. Alaska counts ranked-choice ballots after Election Day.</span>
   </footer>
 </div>
 

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ballot Initiatives 2026 · ElectionHub</title>
+<meta name="description" content="Live results for progressive-priority ballot initiatives and measures on the ballot Nov. 3, 2026.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: masthead, tally strip, filter bar, one results table per issue category, then measures not on the ballot */
+:root{
+  --paper:#f7f5f0; --ink:#1b1a17; --muted:#6b675e; --rule:#d9d4c7; --panel:#ffffff;
+  --yes:#2b7a4b; --yes-soft:#cfe6d6; --yes-ink:#ffffff;
+  --no:#5d5850; --no-soft:#e2ded5; --no-ink:#ffffff;
+  --none:#ece8de; --warn:#8a5a00; --warn-bg:#fff1cc; --link:#2457a6;
+  --display:"Playfair Display", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#161512; --ink:#ece8de; --muted:#a29d90; --rule:#38352e; --panel:#1e1c18;
+  --yes:#4caf74; --yes-soft:#1f3d2a; --yes-ink:#0f1a12;
+  --no:#a29d90; --no-soft:#34312b; --no-ink:#161512;
+  --none:#2a2823; --warn:#ffd27a; --warn-bg:#3a2e12; --link:#4f83d6; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#161512; --ink:#ece8de; --muted:#a29d90; --rule:#38352e; --panel:#1e1c18;
+  --yes:#4caf74; --yes-soft:#1f3d2a; --yes-ink:#0f1a12;
+  --no:#a29d90; --no-soft:#34312b; --no-ink:#161512;
+  --none:#2a2823; --warn:#ffd27a; --warn-bg:#3a2e12; --link:#4f83d6; color-scheme:dark}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:14px;line-height:1.45;margin:0;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 40px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+.credit{font:13px/1.4 var(--body);color:var(--muted);margin:0 0 -4px;padding-bottom:10px;border-bottom:1px solid var(--rule)}
+.credit a{color:var(--ink);font-weight:600;text-underline-offset:2px}
+header{border-bottom:3px double var(--ink);padding-bottom:12px;display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 24px}
+h1{font-family:var(--display);font-weight:900;font-size:clamp(28px,4.5vw,44px);line-height:1;margin:0;text-wrap:balance}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+.kicker a{text-decoration:none}
+.kicker a:hover{text-decoration:underline}
+.dateline{font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase;display:flex;gap:14px;flex-wrap:wrap}
+.live{display:inline-flex;align-items:center;gap:6px}
+.dot{width:8px;height:8px;border-radius:50%;background:#b8332b}
+@media (prefers-reduced-motion:no-preference){.dot{animation:pulse 2s infinite}}
+@keyframes pulse{50%{opacity:.3}}
+.xlinks{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px}
+.xlink{display:flex;justify-content:space-between;align-items:center;gap:8px 16px;flex-wrap:wrap;border:1px solid var(--rule);background:var(--panel);padding:10px 14px;text-decoration:none;color:inherit}
+.xlink b{font-family:var(--display);font-size:17px}
+.xlink span{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.xlink:hover b{text-decoration:underline}
+.sample{background:var(--warn-bg);color:var(--warn);border:1px solid var(--warn);padding:10px 14px;font-weight:600}
+.tally{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.tile{padding:12px 16px;border-right:1px solid var(--rule)}
+.tile:last-child{border-right:0}
+.k{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.v{font-family:var(--display);font-weight:700;font-size:30px;line-height:1.1;font-variant-numeric:tabular-nums}
+.v small{font-family:var(--body);font-size:13px;font-weight:500;color:var(--muted)}
+.y{color:var(--yes)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.filters button{font:500 13px var(--body);background:var(--panel);color:var(--ink);border:1px solid var(--rule);padding:6px 11px;cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.filters select,.filters input{font:13px var(--body);background:var(--panel);color:var(--ink);border:1px solid var(--rule);padding:6px 10px;min-width:0}
+.filters input{flex:1 1 180px;max-width:280px}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--link);outline-offset:2px}
+.group{display:flex;flex-direction:column;gap:8px}
+.group h2{font-family:var(--display);font-weight:700;font-size:20px;margin:6px 0 0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.group h2 small{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted)}
+.tablebox{overflow-x:auto;border:1px solid var(--rule);background:var(--panel)}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+th,td{padding:8px 10px;text-align:left;white-space:nowrap;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:last-child td{border-bottom:0}
+th{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--panel)}
+td.num,th.num{text-align:right}
+td.m{white-space:normal;min-width:240px;max-width:380px}
+.mn{font-weight:600}
+.bn{font-family:var(--mono);font-size:11px;margin-left:6px;padding:1px 5px;border:1px solid var(--rule);color:var(--muted);white-space:nowrap}
+.sn{display:block;font-size:12px;color:var(--muted)}
+.desc{display:block;font-size:12px;color:var(--muted);margin-top:2px}
+.res{font-weight:600;font-size:13px;min-width:132px}
+.res.PASS{background:var(--yes);color:var(--yes-ink)}
+.res.FAIL{background:var(--no);color:var(--no-ink)}
+.res.PASSING{background:var(--yes-soft);color:var(--ink);box-shadow:inset 6px 0 0 0 var(--yes);padding-left:16px}
+.res.FAILING{background:var(--no-soft);color:var(--ink);box-shadow:inset 6px 0 0 0 var(--no);padding-left:16px}
+.res.NONE{color:var(--muted);font-weight:500}
+.res.PASS .vv,.res.FAIL .vv{color:inherit;opacity:.85}
+.rbar{position:relative;display:flex;height:8px;margin-top:6px;background:var(--none);min-width:120px}
+.rbar i{display:block;height:100%}
+.rbar .Y{background:var(--yes)} .rbar .N{background:var(--no)}
+.rbar .Y.early{background:var(--yes-soft)} .rbar .N.early{background:var(--no-soft)}
+.res.PASS .rbar,.res.FAIL .rbar{padding:2px;background:var(--paper)}
+.rbar .th{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--ink)}
+.vv{display:block;font-family:var(--mono);font-size:12px;color:var(--muted)}
+.ys{color:var(--yes);font-weight:600} .ns{color:var(--no);font-weight:600}
+.empty{padding:28px;color:var(--muted);text-align:center}
+details.off{border:1px solid var(--rule);background:var(--panel)}
+details.off summary{cursor:pointer;padding:10px 14px;font-family:var(--display);font-weight:700;font-size:17px}
+details.off summary small{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted);margin-left:8px}
+details.off ul{margin:0;padding:0 14px 12px 32px;display:grid;gap:4px}
+details.off li span{color:var(--muted)}
+footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:6px;border-top:1px solid var(--rule);padding-top:12px}
+a{color:inherit}
+.xlinks .xlink{flex-direction:column;align-items:flex-start;gap:2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="credit">Built by <a href="https://progressreport.news" target="_blank" rel="noopener">Progress Report</a>. <a href="https://www.progressreport.news/subscribe" target="_blank" rel="noopener">Subscribe</a>. <a href="https://www.gofundme.com/f/qjykw7-progressives-everywhere" target="_blank" rel="noopener">Support us</a>.</p>
+  <header>
+    <div>
+      <p class="kicker"><a href="../">ElectionHub</a> · Election Night · Nov. 3, 2026</p>
+      <h1>Ballot Initiatives 2026</h1>
+    </div>
+    <div class="dateline">
+      <span class="live"><span class="dot" aria-hidden="true"></span><span id="scope">Loading…</span></span>
+      <span id="updated">Loading…</span>
+    </div>
+  </header>
+
+  <nav class="xlinks" aria-label="Other ElectionHub pages">
+    <a class="xlink" href="../"><b>Battleground Congressional races →</b><span>Key Senate and competitive House races</span></a>
+    <a class="xlink" href="../states/"><b>State legislatures and governors →</b><span>All 88 chambers and 10 governor's races</span></a>
+  </nav>
+
+  <div class="sample" id="sampleBanner" hidden>Sample numbers for layout preview only. These are not real results; live results replace them after polls close on Nov. 3.</div>
+
+  <section class="tally" id="tally" aria-label="Summary"></section>
+
+  <div class="filters" role="toolbar" aria-label="Filter measures">
+    <button aria-pressed="true" data-f="all">All measures</button>
+    <button aria-pressed="false" data-f="called">Called</button>
+    <button aria-pressed="false" data-f="counting">Still counting</button>
+    <button aria-pressed="false" data-f="State">Statewide</button>
+    <button aria-pressed="false" data-f="Local">Local</button>
+    <select id="cat" aria-label="Issue"><option value="">All issues</option></select>
+    <input id="q" type="search" placeholder="State, city or measure" aria-label="Search by state, city or measure">
+  </div>
+
+  <div id="groups"><div class="empty">Loading measures…</div></div>
+
+  <details class="off" id="offBallot" hidden>
+    <summary>Not on the ballot<small id="offCount"></small></summary>
+    <ul id="offList"></ul>
+  </details>
+
+  <footer>
+    <span>Passing and failing are judged against each measure's threshold, marked by the line on its bar: a simple majority unless noted (Colorado constitutional amendments need 55%, many California local taxes need two-thirds, and Nebraska initiatives also need yes votes equal to 35% of all ballots cast). "Passing" or "Failing" is shown once at least 60% of the expected vote is counted; before that, the side that's ahead is shown as "too early to call." Measures are passed or failed only when AP, Decision Desk HQ or election officials call them.</span>
+    <span>Measures: Progress Report's 2026 ballot initiative tracker. Results: official state and county results sites first, then AP, Decision Desk HQ and Ballotpedia as reported. Updates every 30 minutes on election night (8pm–3am ET) and the morning after. West Coast counts continue for days.</span>
+  </footer>
+</div>
+
+<script>
+(function(){
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
+  const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
+  const ORDER = ['Tax Wealthy','Economic Justice','Education','Healthcare','Housing','Public Transit','Environment','Data Centers & AI','Voting & Democracy','Civil Rights & Repro','Initiative Process'];
+  let DATA = {measures:[]}, filter='all', cat='', query='';
+
+  const firstCat = m => String(m.category||'Other').split(' / ')[0].trim();
+  const num = v => { const n = parseFloat(v); return isFinite(n) ? n : null; };
+  // One state per measure: passed/failed (called), passing/failing (60%+ counted), early (ahead, under 60%), or no votes
+  function stateOf(m){
+    const yp = num(m.yes && m.yes.pct), np = num(m.no && m.no.pct), th = num(m.thresholdPct) ?? 50;
+    const hasVotes = yp!=null && np!=null;
+    if (m.status==='Called' && m.outcome) return {kind: m.outcome==='Passed' ? 'PASS' : 'FAIL', hasVotes, yp, np, th};
+    if (m.status==='Counting' && hasVotes){
+      const passing = yp >= th;
+      return {kind: pctIn(m.reporting)>=60 ? (passing?'PASSING':'FAILING') : 'EARLY', passing, hasVotes, yp, np, th};
+    }
+    return {kind:'NONE', hasVotes, yp, np, th};
+  }
+
+  function bar(m,s){
+    if (!s.hasVotes || s.yp+s.np<=0) return '';
+    const yw = (100*s.yp/(s.yp+s.np)).toFixed(1), nw = (100-yw).toFixed(1);
+    const e = (s.kind==='EARLY') ? ' early' : '';
+    return `<span class="rbar" role="img" aria-label="Yes ${s.yp}%, No ${s.np}%, needs ${esc(m.threshold||'majority')}"><i class="Y${e}" style="width:${yw}%"></i><i class="N${e}" style="width:${nw}%"></i><i class="th" style="left:calc(${s.th}% - 1px)" aria-hidden="true"></i></span>`;
+  }
+
+  function resultCell(m,s){
+    const pin = pctIn(m.reporting)>=0 ? `${pctIn(m.reporting)}% in` : '';
+    let cls='NONE', html='', sub='';
+    if (s.kind==='PASS'){ cls='PASS'; html='Passed'; sub = m.calledBy ? `Called by ${esc(m.calledBy)}` : ''; }
+    else if (s.kind==='FAIL'){ cls='FAIL'; html='Failed'; sub = m.calledBy ? `Called by ${esc(m.calledBy)}` : ''; }
+    else if (s.kind==='PASSING'){ cls='PASSING'; html='Passing'; sub=`Not called · ${pin}`; }
+    else if (s.kind==='FAILING'){ cls='FAILING'; html='Failing'; sub=`Not called · ${pin}`; }
+    else if (s.kind==='EARLY'){ html='Too early to call'; sub=[s.passing?'Yes ahead':'No ahead', pin].filter(Boolean).join(' · '); }
+    else html = esc(m.status==='Counting' ? 'Counting' : (m.status||'No results yet'));
+    return `<td class="res ${cls}">${html}${sub?`<span class="vv">${sub}</span>`:''}${bar(m,s)}</td>`;
+  }
+  const side = (o,cls) => o && o.votes!=null && o.votes!=='' ? `<span class="${cls}">${o.pct!=null&&o.pct!==''?o.pct+'%':''}</span><span class="vv">${fmt(o.votes)}</span>` : '';
+  function row(m){
+    const s = stateOf(m);
+    const mp = num(m.marginPts);
+    const margin = mp==null ? '' : mp>0 ? `<span class="ys">Yes+${Math.abs(mp).toFixed(1)}</span>` : mp<0 ? `<span class="ns">No+${Math.abs(mp).toFixed(1)}</span>` : 'Even';
+    const desc = m.description ? `<span class="desc">${esc(m.description)}</span>` : '';
+    const note = m.note ? `<span class="desc"><i>${esc(m.note)}</i></span>` : '';
+    return `<tr><td class="m"><span class="mn">${esc(m.measure)}</span>${m.ballotNo?`<span class="bn">${esc(m.ballotNo)}</span>`:''}<span class="sn">${esc(m.location)} · ${m.level==='Local'?'Local':'Statewide'}</span>${desc}${note}</td>
+      ${resultCell(m,s)}
+      <td class="num">${side(m.yes,'ys')}</td><td class="num">${side(m.no,'ns')}</td>
+      <td class="num">${margin}</td><td class="num">${esc(m.threshold||'Majority')}</td>
+      <td class="num"><span class="vv">${esc(m.reporting||'')}</span>${m.source?`<a href="${esc(m.source)}" target="_blank" rel="noopener">Results</a>`:''}</td></tr>`;
+  }
+
+  function matches(m){
+    const s = stateOf(m);
+    if (filter==='called' && !(s.kind==='PASS'||s.kind==='FAIL')) return false;
+    if (filter==='counting' && m.status!=='Counting') return false;
+    if ((filter==='State'||filter==='Local') && (m.level==='Local'?'Local':'State')!==filter) return false;
+    if (cat && !String(m.category).split(' / ').map(x=>x.trim()).includes(cat)) return false;
+    const q = query.trim().toLowerCase();
+    if (!q) return true;
+    return [m.location,m.measure,m.ballotNo,m.description,m.category].some(v=>v && String(v).toLowerCase().includes(q));
+  }
+
+  function render(){
+    const on = DATA.measures.filter(m=>m.status!=='Not on ballot');
+    const off = DATA.measures.filter(m=>m.status==='Not on ballot');
+    const xs = on.map(stateOf);
+    const n = k => xs.filter(s=>s.kind===k).length;
+    const counting = on.filter(m=>m.status==='Counting').length;
+    const local = on.filter(m=>m.level==='Local').length;
+    $('#scope').textContent = `${on.length} measures · ${on.length-local} statewide · ${local} local`;
+    $('#tally').innerHTML = `
+      <div class="tile"><div class="k">Passed</div><div class="v y">${n('PASS')}</div></div>
+      <div class="tile"><div class="k">Failed</div><div class="v">${n('FAIL')}</div></div>
+      <div class="tile"><div class="k">Still counting</div><div class="v">${counting}<small> ${n('PASSING')} passing · ${n('FAILING')} failing</small></div></div>
+      <div class="tile"><div class="k">Not yet reporting</div><div class="v">${on.length - n('PASS') - n('FAIL') - counting}</div></div>`;
+    const cats = [...ORDER, ...[...new Set(on.map(firstCat))].filter(c=>!ORDER.includes(c))];
+    const html = cats.map(c=>{
+      const rows = on.filter(m=>firstCat(m)===c && matches(m));
+      if (!rows.length) return '';
+      const called = rows.filter(m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';}).length;
+      return `<section class="group" aria-label="${esc(c)}"><h2>${esc(c)} <small>${rows.length} measure${rows.length>1?'s':''} · ${called} called</small></h2>
+        <div class="tablebox"><table><thead><tr><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>
+        <tbody>${rows.map(row).join('')}</tbody></table></div></section>`;
+    }).join('');
+    $('#groups').innerHTML = html || `<div class="empty">${filter==='called'?'No measures have been called yet.':'No measures match. Clear the search or pick another filter.'}</div>`;
+    $('#offBallot').hidden = !off.length;
+    $('#offCount').textContent = `${off.length} measures tracked earlier`;
+    $('#offList').innerHTML = off.map(m=>`<li><b>${esc(m.location)}:</b> ${esc(m.measure)}${m.note?` <span>— ${esc(m.note)}</span>`:''}</li>`).join('');
+  }
+
+  function fillCats(){
+    const have = new Set(DATA.measures.filter(m=>m.status!=='Not on ballot').flatMap(m=>String(m.category).split(' / ').map(x=>x.trim())));
+    const sel = $('#cat'), keep = sel.value;
+    sel.innerHTML = '<option value="">All issues</option>' + [...ORDER.filter(c=>have.has(c)), ...[...have].filter(c=>!ORDER.includes(c))].map(c=>`<option>${esc(c)}</option>`).join('');
+    sel.value = keep;
+  }
+
+  document.addEventListener('click', e=>{
+    const b = e.target.closest('.filters button'); if (!b) return;
+    filter = b.dataset.f; document.querySelectorAll('.filters button').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); render();
+  });
+  $('#cat').addEventListener('change', e=>{ cat = e.target.value; render(); });
+  let qt; $('#q').addEventListener('input', e=>{ clearTimeout(qt); qt=setTimeout(()=>{ query=e.target.value; render(); }, 150); });
+
+  async function load(){
+    try{
+      const res = await fetch('data.json?t='+Date.now(), {cache:'no-store'});
+      if (!res.ok) throw new Error(res.status);
+      DATA = await res.json(); DATA.measures = DATA.measures||[];
+      $('#sampleBanner').hidden = !DATA.sample;
+      const t = DATA.updated ? new Date(DATA.updated) : null;
+      $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
+      fillCats(); render();
+    }catch(err){
+      if (!DATA.measures.length) $('#groups').innerHTML = '<div class="empty">The measure list couldn\'t load. Refresh the page to try again.</div>';
+    }
+  }
+  load(); setInterval(load, 60000);
+})();
+</script>
+</body>
+</html>
