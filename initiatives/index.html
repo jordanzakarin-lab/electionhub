@@ -74,9 +74,9 @@ td.num,th.num{text-align:right}
 col.cplace{width:84px}
 td.jur{font-weight:600;white-space:normal;font-size:13px;line-height:1.3;padding-right:4px;overflow-wrap:normal;hyphens:manual}
 td.jur .jst{display:block;font-weight:500;color:var(--muted)}
-col.cres{width:16%} col.cn{width:8%}
+col.cres{width:200px} col.cn{width:84px}
 @media (max-width:640px){
-  .group table{width:542px !important;min-width:0 !important}
+  .group table{width:470px !important;min-width:0 !important}
   col.cplace{width:60px} col.cmeas{width:150px} col.cres{width:116px} col.cn{width:72px}
   .group th,.group td{padding:7px 6px}
   td.jur{font-size:11px;font-weight:500;letter-spacing:-.01em;padding-right:2px !important;overflow-wrap:normal}
@@ -85,7 +85,7 @@ col.cres{width:16%} col.cn{width:8%}
   .group td.res{font-size:12px;white-space:normal}
   .res.PASSING,.res.FAILING{padding-left:12px}
 }
-.group table{table-layout:fixed;min-width:720px}
+.group table{table-layout:fixed;min-width:640px}
 .group td.res{min-width:0}
 td.m{white-space:normal}
 .mn{font-weight:600}
@@ -216,14 +216,12 @@ a{color:inherit}
   }
   function row(m){
     const s = stateOf(m);
-    const mp = num(m.marginPts);
-    const margin = mp==null ? '' : mp>0 ? `<span class="ys">Yes+${Math.abs(mp).toFixed(1)}</span>` : mp<0 ? `<span class="ns">No+${Math.abs(mp).toFixed(1)}</span>` : 'Even';
     const desc = m.description ? `<span class="desc">${esc(m.description)}</span>` : '';
     const note = m.note ? `<span class="desc"><i>${esc(m.note)}</i></span>` : '';
     return `<tr><td class="jur">${jurHTML(m.location)}</td><td class="m"><span class="mn">${esc(m.measure)}</span>${m.ballotNo?`<span class="bn">${esc(m.ballotNo)}</span>`:''}${desc}${note}</td>
       ${resultCell(m,s)}
-      <td class="num">${margin}</td><td class="num">${esc(m.threshold||'Majority')}</td>
-      <td class="num"><span class="vv">${esc(m.reporting||'')}</span>${m.source?`<a href="${esc(m.source)}" target="_blank" rel="noopener">Results</a>`:''}</td></tr>`;
+      <td>${esc(m.threshold||'Majority')}</td>
+      <td><span class="vv">${esc(m.reporting||'')}</span>${m.source?`<a href="${esc(m.source)}" target="_blank" rel="noopener">Results</a>`:''}</td></tr>`;
   }
 
   function matches(m){
@@ -245,12 +243,10 @@ a{color:inherit}
     const local = on.filter(m=>m.level==='Local').length;
     $('#scope').textContent = `${on.length} measures · ${on.length-local} statewide · ${local} local`;
     $('#tally').innerHTML = `
-      <div class="tile"><div class="k">Passed</div><div class="v y">${n('PASS')}</div></div>
-      <div class="tile"><div class="k">Failed</div><div class="v">${n('FAIL')}</div></div>
       <div class="tile"><div class="k">Still counting</div><div class="v">${counting}<small> ${n('PASSING')} passing · ${n('FAILING')} failing</small></div></div>
       <div class="tile"><div class="k">Not yet reporting</div><div class="v">${on.length - n('PASS') - n('FAIL') - counting}</div></div>`;
     const cats = [...ORDER, ...[...new Set(on.map(firstCat))].filter(c=>!ORDER.includes(c))];
-    const THEAD = '<colgroup><col class="cplace"><col class="cmeas"><col class="cres"><col class="cn"><col class="cn"><col class="cn"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
+    const THEAD = '<colgroup><col class="cplace"><col class="cmeas"><col class="cres"><col class="cn"><col class="cn"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th>Needs</th><th>Reporting</th></tr></thead>';
     const isCalled = m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';};
     const forceOpen = filter==='Local' || query.trim()!=='';
     const html = cats.map(c=>{
