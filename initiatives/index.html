@@ -71,7 +71,10 @@ th,td{padding:8px 10px;text-align:left;white-space:nowrap;border-bottom:1px soli
 tr:last-child td{border-bottom:0}
 th{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--panel)}
 td.num,th.num{text-align:right}
-td.jur{font-weight:600;white-space:normal}
+col.cplace{width:84px}
+td.jur{font-weight:600;white-space:normal;font-size:13px;line-height:1.3;padding-right:4px;overflow-wrap:normal;hyphens:manual}
+td.jur .jst{display:block;font-weight:500;color:var(--muted)}
+@media (max-width:640px){col.cplace{width:76px}.group table{min-width:720px}td.jur{font-size:12px}}
 .group table{table-layout:fixed;min-width:860px}
 .group td.res{min-width:0}
 td.m{white-space:normal}
@@ -168,6 +171,7 @@ a{color:inherit}
   const ST = {Alabama:'AL',Alaska:'AK',Arizona:'AZ',Arkansas:'AR',California:'CA',Colorado:'CO',Connecticut:'CT',Delaware:'DE','District of Columbia':'DC','Washington, DC':'DC','Washington DC':'DC',Florida:'FL',Georgia:'GA',Hawaii:'HI',Idaho:'ID',Illinois:'IL',Indiana:'IN',Iowa:'IA',Kansas:'KS',Kentucky:'KY',Louisiana:'LA',Maine:'ME',Maryland:'MD',Massachusetts:'MA',Michigan:'MI',Minnesota:'MN',Mississippi:'MS',Missouri:'MO',Montana:'MT',Nebraska:'NE',Nevada:'NV','New Hampshire':'NH','New Jersey':'NJ','New Mexico':'NM','New York':'NY','North Carolina':'NC','North Dakota':'ND',Ohio:'OH',Oklahoma:'OK',Oregon:'OR',Pennsylvania:'PA','Rhode Island':'RI','South Carolina':'SC','South Dakota':'SD',Tennessee:'TN',Texas:'TX',Utah:'UT',Vermont:'VT',Virginia:'VA',Washington:'WA','West Virginia':'WV',Wisconsin:'WI',Wyoming:'WY'};
   // Statewide measures show the state's postal code; local ones keep "City, ST"
   const jur = loc => { const t = String(loc||'').trim(); return ST[t] || t; };
+  const jurHTML = loc => { const t = jur(loc), i = t.lastIndexOf(','); return i>0 ? `${esc(t.slice(0,i))}<span class="jst">${esc(t.slice(i+1).trim())}</span>` : esc(t); };
   const firstCat = m => String(m.category||'Other').split(' / ')[0].trim();
   const num = v => { const n = parseFloat(v); return isFinite(n) ? n : null; };
   // One state per measure: passed/failed (called), passing/failing (60%+ counted), early (ahead, under 60%), or no votes
@@ -207,7 +211,7 @@ a{color:inherit}
     const margin = mp==null ? '' : mp>0 ? `<span class="ys">Yes+${Math.abs(mp).toFixed(1)}</span>` : mp<0 ? `<span class="ns">No+${Math.abs(mp).toFixed(1)}</span>` : 'Even';
     const desc = m.description ? `<span class="desc">${esc(m.description)}</span>` : '';
     const note = m.note ? `<span class="desc"><i>${esc(m.note)}</i></span>` : '';
-    return `<tr><td class="jur">${esc(jur(m.location))}</td><td class="m"><span class="mn">${esc(m.measure)}</span>${m.ballotNo?`<span class="bn">${esc(m.ballotNo)}</span>`:''}${desc}${note}</td>
+    return `<tr><td class="jur">${jurHTML(m.location)}</td><td class="m"><span class="mn">${esc(m.measure)}</span>${m.ballotNo?`<span class="bn">${esc(m.ballotNo)}</span>`:''}${desc}${note}</td>
       ${resultCell(m,s)}
       <td class="num">${side(m.yes,'ys')}</td><td class="num">${side(m.no,'ns')}</td>
       <td class="num">${margin}</td><td class="num">${esc(m.threshold||'Majority')}</td>
@@ -238,7 +242,7 @@ a{color:inherit}
       <div class="tile"><div class="k">Still counting</div><div class="v">${counting}<small> ${n('PASSING')} passing · ${n('FAILING')} failing</small></div></div>
       <div class="tile"><div class="k">Not yet reporting</div><div class="v">${on.length - n('PASS') - n('FAIL') - counting}</div></div>`;
     const cats = [...ORDER, ...[...new Set(on.map(firstCat))].filter(c=>!ORDER.includes(c))];
-    const THEAD = '<colgroup><col style="width:14%"><col style="width:32%"><col style="width:16%"><col style="width:8%"><col style="width:8%"><col style="width:8%"><col style="width:6%"><col style="width:8%"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
+    const THEAD = '<colgroup><col class="cplace"><col><col style="width:16%"><col style="width:8%"><col style="width:8%"><col style="width:8%"><col style="width:6%"><col style="width:8%"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
     const isCalled = m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';};
     const forceOpen = filter==='Local' || query.trim()!=='';
     const html = cats.map(c=>{
