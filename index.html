@@ -294,7 +294,7 @@ td .i{color:var(--ind)}
     const r = x.r || {};
     const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">${b.demParty==='I'?'Ind.':'D'}+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="${b.repParty==='I'?'i':'r'}">${b.repParty==='I'?'Ind.':'R'}+${Math.abs(mp).toFixed(1)}</span>`:'Even');
     const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>`:'';
-    const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':b.held==='R'?'Republican':'Independent'}</span>${b.chamber==='S'?`<span class="rt">Cook: ${esc(b.rating)}</span>`:b.alt?`<span class="rt">${esc(b.alt)}</span>`:''}`;
+    const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':b.held==='R'?'Republican':'Independent'}</span>${b.chamber==='S'?`<span class="rt">${esc(b.ratingBy||'Cook')}: ${esc(b.rating)}</span>`:b.alt?`<span class="rt">${esc(b.alt)}</span>`:''}`;
     return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} Senate">${esc(SN(b.state))}</a><span class="sn">${b.special?'Special election':'Senate'}</span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(SN(b.state))}</span>`}</td>
       <td class="hb">${inc}</td>
       ${resultCell(b,x)}
