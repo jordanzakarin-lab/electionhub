@@ -238,7 +238,7 @@ a{color:inherit}
       <div class="tile"><div class="k">Still counting</div><div class="v">${counting}<small> ${n('PASSING')} passing · ${n('FAILING')} failing</small></div></div>
       <div class="tile"><div class="k">Not yet reporting</div><div class="v">${on.length - n('PASS') - n('FAIL') - counting}</div></div>`;
     const cats = [...ORDER, ...[...new Set(on.map(firstCat))].filter(c=>!ORDER.includes(c))];
-    const THEAD = '<colgroup><col style="width:14%"><col style="width:32%"><col style="width:16%"><col style="width:8%"><col style="width:8%"><col style="width:8%"><col style="width:6%"><col style="width:8%"></colgroup><thead><tr><th>Jurisdiction</th><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
+    const THEAD = '<colgroup><col style="width:14%"><col style="width:32%"><col style="width:16%"><col style="width:8%"><col style="width:8%"><col style="width:8%"><col style="width:6%"><col style="width:8%"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
     const isCalled = m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';};
     const forceOpen = filter==='Local' || query.trim()!=='';
     const html = cats.map(c=>{
