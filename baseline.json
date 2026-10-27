@@ -1826,7 +1826,7 @@
    "id": "FL-SEN",
    "st": "FL",
    "state": "Florida",
-   "rating": "Likely R",
+   "rating": "Solid R",
    "held": "R",
    "incumbent": "Ashley Moody",
    "open": false,
@@ -1839,11 +1839,10 @@
     "m": 16.4,
     "yr": 2022,
     "note": "2022 (Rubio), before his appointment as Secretary of State"
-   },
-   "ratingBy": "Inside Elections"
+   }
   }
  ],
- "senateRatingsSource": "Cook Political Report Senate race ratings, Oct. 20, 2026 (Florida: Inside Elections, Likely R, Oct. 15, 2026; Cook rates it Solid R)",
+ "senateRatingsSource": "Cook Political Report Senate race ratings, Oct. 20, 2026 (Florida: Solid R as of Oct. 6, 2026)",
  "lastSource": "Last-election margins: Wikipedia's 2024 House and 2020/2022/2024 Senate election results",
  "otherSource": "Other forecasters: seats Cook rates Solid that Sabato's Crystal Ball (Oct. 20, 2026) or Split Ticket (Oct. 24, 2026) rates Lean or Toss Up",
  "redrawnSource": "Redistricting flips: seats Cook rates Solid for a party other than the one holding them, after Texas, California and Tennessee redrew their maps"
