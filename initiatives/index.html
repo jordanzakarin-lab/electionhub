@@ -175,7 +175,7 @@ a{color:inherit}
   const ORDER = ['Tax Wealthy','Economic Justice','Education','Healthcare','Housing','Public Transit','Environment','Data Centers & AI','Voting & Democracy','Civil Rights & Repro','Initiative Process'];
   let DATA = {measures:[]}, filter='all', cat='', query='';
   const openLocal = new Set(['Data Centers & AI']);
-  const LABEL = {'Tax Wealthy':'Wealth Tax'};
+  const LABEL = {'Tax Wealthy':'Wealth Tax','Civil Rights & Repro':'Civil and Reproductive Rights'};
   const lab = c => LABEL[c] || c;
   // Measures filed only under Initiative Process are shown with Voting & Democracy
   const fixCat = m => { const c = String(m.category||'').trim(); if (c.split(' / ')[0].trim()==='Initiative Process') m.category = 'Voting & Democracy / ' + c; return m; };
