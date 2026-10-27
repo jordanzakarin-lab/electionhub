@@ -91,6 +91,17 @@ td.m{white-space:normal;min-width:240px;max-width:380px}
 .rbar .th{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--ink)}
 .vv{display:block;font-family:var(--mono);font-size:12px;color:var(--muted)}
 .ys{color:var(--yes);font-weight:600} .ns{color:var(--no);font-weight:600}
+details.loc{border:1px solid var(--rule);background:var(--panel)}
+details.loc>summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:6px 14px;flex-wrap:wrap;padding:10px 14px;font-weight:600}
+details.loc>summary::-webkit-details-marker{display:none}
+details.loc>summary:hover{background:var(--paper)}
+details.loc>summary .lc{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted)}
+details.loc>summary .chev{font-family:var(--mono);font-size:12px;font-weight:500;color:var(--link);white-space:nowrap}
+details.loc>summary .chev::after{content:"Show ▾"}
+details.loc[open]>summary .chev::after{content:"Hide ▴"}
+details.loc[open]>summary{border-bottom:1px solid var(--rule)}
+details.loc .tablebox{border:0}
+.nostate{font-size:13px;color:var(--muted);margin:0}
 .empty{padding:28px;color:var(--muted);text-align:center}
 footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:6px;border-top:1px solid var(--rule);padding-top:12px}
 a{color:inherit}
@@ -147,6 +158,9 @@ a{color:inherit}
   const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
   const ORDER = ['Tax Wealthy','Economic Justice','Education','Healthcare','Housing','Public Transit','Environment','Data Centers & AI','Voting & Democracy','Civil Rights & Repro','Initiative Process'];
   let DATA = {measures:[]}, filter='all', cat='', query='';
+  const openLocal = new Set();
+  // Measures filed only under Initiative Process are shown with Voting & Democracy
+  const fixCat = m => { const c = String(m.category||'').trim(); if (c.split(' / ')[0].trim()==='Initiative Process') m.category = 'Voting & Democracy / ' + c; return m; };
 
   const firstCat = m => String(m.category||'Other').split(' / ')[0].trim();
   const num = v => { const n = parseFloat(v); return isFinite(n) ? n : null; };
@@ -218,13 +232,24 @@ a{color:inherit}
       <div class="tile"><div class="k">Still counting</div><div class="v">${counting}<small> ${n('PASSING')} passing · ${n('FAILING')} failing</small></div></div>
       <div class="tile"><div class="k">Not yet reporting</div><div class="v">${on.length - n('PASS') - n('FAIL') - counting}</div></div>`;
     const cats = [...ORDER, ...[...new Set(on.map(firstCat))].filter(c=>!ORDER.includes(c))];
+    const THEAD = '<thead><tr><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
+    const isCalled = m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';};
+    const forceOpen = filter==='Local' || query.trim()!=='';
     const html = cats.map(c=>{
       const rows = on.filter(m=>firstCat(m)===c && matches(m));
       if (!rows.length) return '';
-      const called = rows.filter(m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';}).length;
-      return `<section class="group" aria-label="${esc(c)}"><h2>${esc(c)} <small>${rows.length} measure${rows.length>1?'s':''} · ${called} called</small></h2>
-        <div class="tablebox"><table><thead><tr><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>
-        <tbody>${rows.map(row).join('')}</tbody></table></div></section>`;
+      const st = rows.filter(m=>m.level!=='Local'), lo = rows.filter(m=>m.level==='Local');
+      const called = rows.filter(isCalled).length;
+      const parts = [st.length ? `${st.length} statewide` : '', lo.length ? `${lo.length} local` : '', `${called} called`].filter(Boolean).join(' · ');
+      const stHTML = st.length
+        ? `<div class="tablebox"><table>${THEAD}<tbody>${st.map(row).join('')}</tbody></table></div>`
+        : (filter==='Local' ? '' : '<p class="nostate">No statewide measures in this category.</p>');
+      const lc = lo.filter(isCalled).length;
+      const loHTML = lo.length
+        ? `<details class="loc" data-cat="${esc(c)}"${forceOpen||openLocal.has(c)?' open':''}><summary><span>Local measures <span class="lc">${lo.length} measure${lo.length>1?'s':''} · ${lc} called</span></span><span class="chev"></span></summary>
+            <div class="tablebox"><table>${THEAD}<tbody>${lo.map(row).join('')}</tbody></table></div></details>`
+        : '';
+      return `<section class="group" aria-label="${esc(c)}"><h2>${esc(c)} <small>${parts}</small></h2>${stHTML}${loHTML}</section>`;
     }).join('');
     $('#groups').innerHTML = html || `<div class="empty">${filter==='called'?'No measures have been called yet.':'No measures match. Clear the search or pick another filter.'}</div>`;
   }
@@ -240,6 +265,7 @@ a{color:inherit}
     const b = e.target.closest('.filters button'); if (!b) return;
     filter = b.dataset.f; document.querySelectorAll('.filters button').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); render();
   });
+  document.addEventListener('click', e=>{ const sm = e.target.closest('details.loc>summary'); if (!sm) return; const d = sm.parentElement; d.open ? openLocal.delete(d.dataset.cat) : openLocal.add(d.dataset.cat); });
   $('#cat').addEventListener('change', e=>{ cat = e.target.value; render(); });
   let qt; $('#q').addEventListener('input', e=>{ clearTimeout(qt); qt=setTimeout(()=>{ query=e.target.value; render(); }, 150); });
 
@@ -247,7 +273,7 @@ a{color:inherit}
     try{
       const res = await fetch('data.json?t='+Date.now(), {cache:'no-store'});
       if (!res.ok) throw new Error(res.status);
-      DATA = await res.json(); DATA.measures = DATA.measures||[];
+      DATA = await res.json(); DATA.measures = (DATA.measures||[]).map(fixCat);
       $('#sampleBanner').hidden = !DATA.sample;
       const t = DATA.updated ? new Date(DATA.updated) : null;
       $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
