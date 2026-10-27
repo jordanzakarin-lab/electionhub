@@ -74,7 +74,17 @@ td.num,th.num{text-align:right}
 col.cplace{width:84px}
 td.jur{font-weight:600;white-space:normal;font-size:13px;line-height:1.3;padding-right:4px;overflow-wrap:normal;hyphens:manual}
 td.jur .jst{display:block;font-weight:500;color:var(--muted)}
-@media (max-width:640px){col.cplace{width:76px}.group table{min-width:720px}td.jur{font-size:12px}}
+col.cres{width:16%} col.cn{width:8%}
+@media (max-width:640px){
+  .group table{width:684px !important;min-width:0 !important}
+  col.cplace{width:52px} col.cmeas{width:140px} col.cres{width:132px} col.cn{width:72px}
+  .group th,.group td{padding:7px 6px}
+  td.jur{font-size:11px;overflow-wrap:break-word}
+  td.m .mn{font-size:13px} td.m .desc{font-size:11px}
+  td.m .bn{display:inline-block;margin:2px 0 0}
+  .group td.res{font-size:12px;white-space:normal}
+  .res.PASSING,.res.FAILING{padding-left:12px}
+}
 .group table{table-layout:fixed;min-width:860px}
 .group td.res{min-width:0}
 td.m{white-space:normal}
@@ -242,7 +252,7 @@ a{color:inherit}
       <div class="tile"><div class="k">Still counting</div><div class="v">${counting}<small> ${n('PASSING')} passing · ${n('FAILING')} failing</small></div></div>
       <div class="tile"><div class="k">Not yet reporting</div><div class="v">${on.length - n('PASS') - n('FAIL') - counting}</div></div>`;
     const cats = [...ORDER, ...[...new Set(on.map(firstCat))].filter(c=>!ORDER.includes(c))];
-    const THEAD = '<colgroup><col class="cplace"><col><col style="width:16%"><col style="width:8%"><col style="width:8%"><col style="width:8%"><col style="width:6%"><col style="width:8%"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
+    const THEAD = '<colgroup><col class="cplace"><col class="cmeas"><col class="cres"><col class="cn"><col class="cn"><col class="cn"><col class="cn"><col class="cn"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
     const isCalled = m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';};
     const forceOpen = filter==='Local' || query.trim()!=='';
     const html = cats.map(c=>{
