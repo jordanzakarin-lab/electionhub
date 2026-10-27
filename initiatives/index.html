@@ -92,11 +92,6 @@ td.m{white-space:normal;min-width:240px;max-width:380px}
 .vv{display:block;font-family:var(--mono);font-size:12px;color:var(--muted)}
 .ys{color:var(--yes);font-weight:600} .ns{color:var(--no);font-weight:600}
 .empty{padding:28px;color:var(--muted);text-align:center}
-details.off{border:1px solid var(--rule);background:var(--panel)}
-details.off summary{cursor:pointer;padding:10px 14px;font-family:var(--display);font-weight:700;font-size:17px}
-details.off summary small{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted);margin-left:8px}
-details.off ul{margin:0;padding:0 14px 12px 32px;display:grid;gap:4px}
-details.off li span{color:var(--muted)}
 footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:6px;border-top:1px solid var(--rule);padding-top:12px}
 a{color:inherit}
 .xlinks .xlink{flex-direction:column;align-items:flex-start;gap:2px}
@@ -137,14 +132,10 @@ a{color:inherit}
 
   <div id="groups"><div class="empty">Loading measures…</div></div>
 
-  <details class="off" id="offBallot" hidden>
-    <summary>Not on the ballot<small id="offCount"></small></summary>
-    <ul id="offList"></ul>
-  </details>
 
   <footer>
     <span>Passing and failing are judged against each measure's threshold, marked by the line on its bar: a simple majority unless noted (Colorado constitutional amendments need 55%, many California local taxes need two-thirds, and Nebraska initiatives also need yes votes equal to 35% of all ballots cast). "Passing" or "Failing" is shown once at least 60% of the expected vote is counted; before that, the side that's ahead is shown as "too early to call." Measures are passed or failed only when AP, Decision Desk HQ or election officials call them.</span>
-    <span>Measures: Progress Report's 2026 ballot initiative tracker. Results: official state and county results sites first, then AP, Decision Desk HQ and Ballotpedia as reported. Updates every 30 minutes on election night (8pm–3am ET) and the morning after. West Coast counts continue for days.</span>
+    <span>Measures: Progress Report's 2026 ballot initiative tracker. Results: official state and county results sites first, then AP, Decision Desk HQ and Ballotpedia as reported. Updates every 30 minutes on election night (8pm–3am ET), then five times a day through Nov. 6 as late ballots are counted.</span>
   </footer>
 </div>
 
@@ -216,7 +207,6 @@ a{color:inherit}
 
   function render(){
     const on = DATA.measures.filter(m=>m.status!=='Not on ballot');
-    const off = DATA.measures.filter(m=>m.status==='Not on ballot');
     const xs = on.map(stateOf);
     const n = k => xs.filter(s=>s.kind===k).length;
     const counting = on.filter(m=>m.status==='Counting').length;
@@ -237,9 +227,6 @@ a{color:inherit}
         <tbody>${rows.map(row).join('')}</tbody></table></div></section>`;
     }).join('');
     $('#groups').innerHTML = html || `<div class="empty">${filter==='called'?'No measures have been called yet.':'No measures match. Clear the search or pick another filter.'}</div>`;
-    $('#offBallot').hidden = !off.length;
-    $('#offCount').textContent = `${off.length} measures tracked earlier`;
-    $('#offList').innerHTML = off.map(m=>`<li><b>${esc(m.location)}:</b> ${esc(m.measure)}${m.note?` <span>— ${esc(m.note)}</span>`:''}</li>`).join('');
   }
 
   function fillCats(){
