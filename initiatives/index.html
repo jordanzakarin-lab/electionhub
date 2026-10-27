@@ -76,7 +76,7 @@ td.jur{font-weight:600;white-space:normal;font-size:13px;line-height:1.3;padding
 td.jur .jst{display:block;font-weight:500;color:var(--muted)}
 col.cres{width:16%} col.cn{width:8%}
 @media (max-width:640px){
-  .group table{width:684px !important;min-width:0 !important}
+  .group table{width:540px !important;min-width:0 !important}
   col.cplace{width:52px} col.cmeas{width:140px} col.cres{width:132px} col.cn{width:72px}
   .group th,.group td{padding:7px 6px}
   td.jur{font-size:11px;overflow-wrap:break-word}
@@ -85,7 +85,7 @@ col.cres{width:16%} col.cn{width:8%}
   .group td.res{font-size:12px;white-space:normal}
   .res.PASSING,.res.FAILING{padding-left:12px}
 }
-.group table{table-layout:fixed;min-width:860px}
+.group table{table-layout:fixed;min-width:720px}
 .group td.res{min-width:0}
 td.m{white-space:normal}
 .mn{font-weight:600}
@@ -214,7 +214,6 @@ a{color:inherit}
     else html = esc(m.status==='Counting' ? 'Counting' : (m.status||'No results yet'));
     return `<td class="res ${cls}">${html}${sub?`<span class="vv">${sub}</span>`:''}${bar(m,s)}</td>`;
   }
-  const side = (o,cls) => o && o.votes!=null && o.votes!=='' ? `<span class="${cls}">${o.pct!=null&&o.pct!==''?o.pct+'%':''}</span><span class="vv">${fmt(o.votes)}</span>` : '';
   function row(m){
     const s = stateOf(m);
     const mp = num(m.marginPts);
@@ -223,7 +222,6 @@ a{color:inherit}
     const note = m.note ? `<span class="desc"><i>${esc(m.note)}</i></span>` : '';
     return `<tr><td class="jur">${jurHTML(m.location)}</td><td class="m"><span class="mn">${esc(m.measure)}</span>${m.ballotNo?`<span class="bn">${esc(m.ballotNo)}</span>`:''}${desc}${note}</td>
       ${resultCell(m,s)}
-      <td class="num">${side(m.yes,'ys')}</td><td class="num">${side(m.no,'ns')}</td>
       <td class="num">${margin}</td><td class="num">${esc(m.threshold||'Majority')}</td>
       <td class="num"><span class="vv">${esc(m.reporting||'')}</span>${m.source?`<a href="${esc(m.source)}" target="_blank" rel="noopener">Results</a>`:''}</td></tr>`;
   }
@@ -252,7 +250,7 @@ a{color:inherit}
       <div class="tile"><div class="k">Still counting</div><div class="v">${counting}<small> ${n('PASSING')} passing · ${n('FAILING')} failing</small></div></div>
       <div class="tile"><div class="k">Not yet reporting</div><div class="v">${on.length - n('PASS') - n('FAIL') - counting}</div></div>`;
     const cats = [...ORDER, ...[...new Set(on.map(firstCat))].filter(c=>!ORDER.includes(c))];
-    const THEAD = '<colgroup><col class="cplace"><col class="cmeas"><col class="cres"><col class="cn"><col class="cn"><col class="cn"><col class="cn"><col class="cn"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th class="num">Yes</th><th class="num">No</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
+    const THEAD = '<colgroup><col class="cplace"><col class="cmeas"><col class="cres"><col class="cn"><col class="cn"><col class="cn"></colgroup><thead><tr><th>Place</th><th>Measure</th><th>Result</th><th class="num">Margin</th><th class="num">Needs</th><th class="num">Reporting</th></tr></thead>';
     const isCalled = m=>{const k=stateOf(m).kind; return k==='PASS'||k==='FAIL';};
     const forceOpen = filter==='Local' || query.trim()!=='';
     const html = cats.map(c=>{
