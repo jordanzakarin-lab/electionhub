@@ -131,6 +131,18 @@ td .i{color:var(--ind)}
 .credit{font:13px/1.4 var(--body);color:var(--muted);margin:0 0 14px;padding-bottom:10px;border-bottom:1px solid var(--rule)}
 .credit a{color:var(--ink);font-weight:600;text-underline-offset:2px}
 .xlinks .xlink{flex-direction:column;align-items:flex-start;gap:2px}
+
+/* Phones: drop the Held by column (folded under the name) so Result fits on screen */
+.mh{display:none}
+@media (max-width:640px){
+  th.hb,td.hb{display:none}
+  .mh{display:block;font-family:var(--mono);font-size:11px;font-weight:600;margin-top:2px;white-space:normal}
+  .mh>span{white-space:nowrap}
+  .mh.D{color:var(--dem)} .mh.R{color:var(--rep)} .mh.I{color:var(--ind)}
+  .tablebox td:first-child{white-space:normal;min-width:96px;max-width:120px}
+  .res{white-space:normal;min-width:150px}
+  .rbar{min-width:0}
+}
 </style>
 </head>
 <body>
@@ -300,7 +312,7 @@ td .i{color:var(--ind)}
     const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">${b.demParty==='I'?'Ind.':'D'}+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="${b.repParty==='I'?'i':'r'}">${b.repParty==='I'?'Ind.':'R'}+${Math.abs(mp).toFixed(1)}</span>`:'Even');
     const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>`:'';
     const inc = `<span class="pill ${b.held}">${b.held==='D'?'Democratic':b.held==='R'?'Republican':'Independent'}</span>${b.chamber==='S'?`<span class="rt">${esc(b.ratingBy||'Cook')}: ${esc(b.rating)}</span>`:b.alt?`<span class="rt">${esc(b.alt)}</span>`:''}`;
-    return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} Senate">${esc(SN(b.state))}</a><span class="sn">${b.special?'Special election':'Senate'}</span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(SN(b.state))}</span>`}</td>
+    return `<tr id="${b.id}"><td>${b.chamber==='S' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} Senate">${esc(SN(b.state))}</a><span class="sn">${b.special?'Special election':'Senate'}</span><span class="mh ${b.held}"><span>${b.held==='D'?'D':b.held==='R'?'R':'Ind.'} held ·</span> <span class="mhr">${esc((b.ratingBy?b.ratingBy+': ':'')+b.rating)}</span></span>` : `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(SN(b.state))} ${esc(b.district)}">${esc(b.id)}</a><span class="sn">${esc(SN(b.state))}</span><span class="mh ${b.held}"><span>${b.held==='D'?'D':b.held==='R'?'R':'Ind.'} held ·</span> <span class="mhr">${esc(b.rating)}</span></span>`}</td>
       <td class="hb">${inc}</td>
       ${resultCell(b,x)}
       <td>${cand(b.dem, r.dem, x.won==='D'||(b.demParty==='I'&&x.won==='I'), b.incumbent===b.dem, b.demParty==='I')}</td><td>${cand(b.rep, r.rep, x.won==='R'||(b.repParty==='I'&&x.won==='I'), b.incumbent===b.rep, b.repParty==='I')}</td>

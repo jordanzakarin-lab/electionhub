@@ -144,6 +144,18 @@ th.hb,td.hb{width:1%}
 .credit a{color:var(--ink);font-weight:600;text-underline-offset:2px}
 .xlinks{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px}
 .xlinks .xlink{flex-direction:column;align-items:flex-start;gap:2px}
+
+/* Phones: drop the Held by column (folded under the name) so Result fits on screen */
+.mh{display:none}
+@media (max-width:640px){
+  #gov th.hb,#gov td.hb{display:none}
+  .mh{display:block;font-family:var(--mono);font-size:11px;font-weight:600;margin-top:2px;white-space:normal}
+  .mh>span{white-space:nowrap}
+  .mh.D{color:var(--dem)} .mh.R{color:var(--rep)} .mh.I{color:var(--ind)}
+  #gov td:first-child{white-space:normal;min-width:96px;max-width:120px}
+  #gov .res{white-space:normal;min-width:150px}
+  .rbar{min-width:0}
+}
 </style>
 </head>
 <body>
@@ -499,7 +511,7 @@ th.hb,td.hb{width:1%}
     const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>` : '';
     const L = b.last, lm = L ? `<span class="${L.party==='D'?'d':'r'}">${L.party}+${L.m.toFixed(1)}</span><span class="vv">${L.yr}</span>` : '';
     const bp = 'https://ballotpedia.org/'+b.state.replace(/ /g,'_')+'_gubernatorial_election,_2026';
-    return `<tr id="${b.id}"><td><a class="dist" href="${esc(bp)}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} governor">${esc(SN(b.state))}</a>${b.note?`<span class="sn">${esc(b.note)}</span>`:''}</td>
+    return `<tr id="${b.id}"><td><a class="dist" href="${esc(bp)}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} governor">${esc(SN(b.state))}</a>${b.note?`<span class="sn">${esc(b.note)}</span>`:''}<span class="mh ${b.held}"><span>${b.held==='D'?'D':b.held==='R'?'R':'Ind.'} held ·</span> <span class="mhr">${esc(b.rating)}</span></span></td>
       <td class="hb"><span class="pill ${b.held}">${b.held==='D'?'Democratic':'Republican'}</span><span class="rt">Cook: ${esc(b.rating)}</span></td>
       ${res}<td>${c(b.dem, r.dem, x.won==='D', b.incumbent===b.dem)}</td><td>${c(b.rep, r.rep, x.won==='R', b.incumbent===b.rep)}</td>
       <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td><td class="num">${lm}</td></tr>`;
