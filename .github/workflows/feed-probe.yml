@@ -1,0 +1,10 @@
+name: Feed probe (test branch only)
+on:
+  push:
+    branches: [feed-probe]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 feedtools/probe.py
