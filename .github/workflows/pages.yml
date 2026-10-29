@@ -14,10 +14,12 @@ permissions:
   pages: write
   id-token: write
 
-# On election night pushes arrive every few minutes; only the newest needs to go live.
+# On election night pushes arrive every few minutes. One deploy runs at a time and only the
+# newest waiting push deploys next; an in-progress deploy is never cancelled, because cancelling
+# deploy-pages midway can leave a stuck deployment that makes the next one fail.
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   deploy:
