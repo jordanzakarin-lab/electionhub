@@ -1,23 +1,25 @@
-NC contests 412
-['NC HOUSE OF REPRESENTATIVES DISTRICT 001 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 002 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 003 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 004 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 005 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 006 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 007 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 008 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 009 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 010 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 011 (VOTE FOR 1)', 'NC HOUSE OF REPRESENTATIVES DISTRICT 012 (VOTE FOR 1)']
-NC sample [{'cid': '0', 'cnm': 'NC HOUSE OF REPRESENTATIVES DISTRICT 105 (VOTE FOR 1)', 'vfr': '1', 'gid': '1273', 'lid': '1273', 'bnm': 'Tricia Ann Cotham', 'dtx': '', 'pty': 'REP', 'vct': '0', 'pct': '0.0000', 'prt': '0', 'ptl': '18', 'evc': '0', 'ovc': '0', 'avc': '0', 'pvc': '0', 'col': 'EB2326', 'ogl': 'NCH', 'ref': '0'}, {'cid': '0', 'cnm': 'NC HOUSE OF REPRESENTATIVES DISTRICT 105 (VOTE FOR 1)', 'vfr': '1', 'gid': '1273', 'lid': '1273', 'bnm': 'Ken McCool', 'dtx': '', 'pty': 'DEM', 'vct': '0', 'pct': '0.0000', 'prt': '0', 'ptl': '18', 'evc': '0', 'ovc': '0', 'avc': '0', 'pvc': '0', 'col': '1171B9', 'ogl': 'NCH', 'ref': '0'}]
-NC keys ['avc', 'bnm', 'cid', 'cnm', 'col', 'dtx', 'evc', 'gid', 'lid', 'ogl', 'ovc', 'pct', 'prt', 'ptl', 'pty', 'pvc', 'ref', 'vct', 'vfr']
+== 2024 test, no gate
+NC: 4 congressional, 170 legislative races with votes
+MN: 3 congressional, 135 legislative races with votes
+WA: 1 congressional, 98 legislative races with votes
+== 2026 with gate (should skip all)
+NC: polls not closed yet, skipped
+MN: polls not closed yet, skipped
+WA: polls not closed yet, skipped
+== rerun 2024 (should leave files unchanged)
+NC: 4 congressional, 170 legislative races with votes
+MN: 3 congressional, 135 legislative races with votes
+WA: 1 congressional, 98 legislative races with votes
+test-feeds:
+total 248
+drwxr-xr-x 2 runner runner   4096 Oct 29 02:35 .
+drwxr-xr-x 9 runner runner   4096 Oct 29 02:35 ..
+-rw-r--r-- 1 runner runner   4132 Oct 29 02:35 congress.json
+-rw-r--r-- 1 runner runner 237413 Oct 29 02:35 states.json
 
-WA Congressional "Race","Candidate","Party","Votes","PercentageOfTotalVotes","JurisdictionName"
-"President/Vice President","Kamala D. Harris / Tim Walz","Democratic Party Nominees",2245849,57.23,"Federal"
-"President/Vice President","Donald J. Trump / JD Vance","Republican Party Nominees",1530923,39.01,"Federal"
-"
-
-WA Legislative "Race","Candidate","Party","Votes","PercentageOfTotalVotes","JurisdictionName"
-"LEGISLATIVE DISTRICT 1 - State Senator","Derek Stanford","(Prefers Democratic Party)",60591,96.05,"Legislative"
-"LEGISLATIVE DISTRICT 1 - State Senator","WRITE-IN"," ",2490,3.95,"Legislative"
-"LEGISLATIVE DISTRICT 1 -
-
-WA AllState "Race","Candidate","Party","Votes","PercentageOfTotalVotes","JurisdictionName"
-"Initiative Measure No. 2066","Yes"," ",1941474,51.71,"State Executive"
-"Initiative Measure No. 2066","No"," ",1813169,48.29,"State Executive"
-"Initiative Measure No. 2109","Yes"," ",1364510,35.89,"State Executive"
-"I
-
-WA AllStateExceptLocal ERR HTTP Error 404: Not Found
-[]
+test-feeds-2026:
+total 16
+drwxr-xr-x 2 runner runner 4096 Oct 29 02:35 .
+drwxr-xr-x 9 runner runner 4096 Oct 29 02:35 ..
+-rw-r--r-- 1 runner runner  113 Oct 29 02:35 congress.json
+-rw-r--r-- 1 runner runner  113 Oct 29 02:35 states.json

@@ -1,0 +1,198 @@
+{
+ "updated": "2026-10-28T21:35:01-05:00",
+ "source": "official state results files (NC, MN, WA)",
+ "races": [
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Caleb Rudow",
+    "votes": 186977,
+    "pct": 43.2
+   },
+   "rep": {
+    "name": "Chuck Edwards",
+    "votes": 245546,
+    "pct": 56.8
+   },
+   "other": 0,
+   "marginPts": -13.6,
+   "marginVotes": 58569,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20241105/data/results_0.txt",
+   "asOf": "2026-10-28T21:35:01-05:00",
+   "feed": true,
+   "totalVotes": 432523,
+   "id": "NC-11"
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Don Davis",
+    "votes": 186341,
+    "pct": 49.5
+   },
+   "rep": {
+    "name": "Laurie Buckhout",
+    "votes": 180034,
+    "pct": 47.8
+   },
+   "other": 9949,
+   "marginPts": 1.7,
+   "marginVotes": 6307,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20241105/data/results_0.txt",
+   "asOf": "2026-10-28T21:35:01-05:00",
+   "feed": true,
+   "totalVotes": 376324,
+   "id": "NC-01"
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Gheorghe Cormos",
+    "votes": 72565,
+    "pct": 22.6
+   },
+   "rep": {
+    "name": "Greg Murphy",
+    "votes": 248276,
+    "pct": 77.4
+   },
+   "other": 0,
+   "marginPts": -54.8,
+   "marginVotes": 175711,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20241105/data/results_0.txt",
+   "asOf": "2026-10-28T21:35:01-05:00",
+   "feed": true,
+   "totalVotes": 320841,
+   "id": "NC-03"
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Frank Pierce",
+    "votes": 171835,
+    "pct": 41.4
+   },
+   "rep": {
+    "name": "Brad Knott",
+    "votes": 243655,
+    "pct": 58.6
+   },
+   "other": 0,
+   "marginPts": -17.2,
+   "marginVotes": 71820,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20241105/data/results_0.txt",
+   "asOf": "2026-10-28T21:35:01-05:00",
+   "feed": true,
+   "totalVotes": 415490,
+   "id": "NC-13"
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Amy Klobuchar",
+    "votes": 1792441,
+    "pct": 56.2
+   },
+   "rep": {
+    "name": "Royce White",
+    "votes": 1291712,
+    "pct": 40.5
+   },
+   "other": 105170,
+   "marginPts": 15.7,
+   "marginVotes": 500729,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20241105/ussenate.txt",
+   "asOf": "2026-10-28T21:35:01-05:00",
+   "feed": true,
+   "totalVotes": 3189323,
+   "id": "MN-SEN"
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Rachel Bohman",
+    "votes": 156375,
+    "pct": 41.4
+   },
+   "rep": {
+    "name": "Brad Finstad",
+    "votes": 220929,
+    "pct": 58.5
+   },
+   "other": 297,
+   "marginPts": -17.1,
+   "marginVotes": 64554,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20241105/ushouse.txt",
+   "asOf": "2026-10-28T21:35:01-05:00",
+   "feed": true,
+   "totalVotes": 377601,
+   "id": "MN-01"
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Angie Craig",
+    "votes": 231751,
+    "pct": 55.5
+   },
+   "rep": {
+    "name": "Joe Teirab",
+    "votes": 175621,
+    "pct": 42.1
+   },
+   "other": 9947,
+   "marginPts": 13.4,
+   "marginVotes": 56130,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20241105/ushouse.txt",
+   "asOf": "2026-10-28T21:35:01-05:00",
+   "feed": true,
+   "totalVotes": 417319,
+   "id": "MN-02"
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Marie Gluesenkamp Perez",
+    "votes": 215177,
+    "pct": 51.7
+   },
+   "rep": {
+    "name": "Joe Kent",
+    "votes": 199054,
+    "pct": 47.9
+   },
+   "other": 1673,
+   "marginPts": 3.8,
+   "marginVotes": 16123,
+   "calledBy": null,
+   "source": "https://results.vote.wa.gov/results/20241105/export/20241105_Congressional.csv",
+   "asOf": "2026-10-28T21:35:01-05:00",
+   "feed": true,
+   "totalVotes": 415904,
+   "id": "WA-03"
+  }
+ ]
+}
