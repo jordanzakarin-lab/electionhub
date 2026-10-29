@@ -1,78 +1,42 @@
 
-### https://er.ncsbe.gov/enr/20241105/data/results_0.txt
- status=200 type=text/plain bytes=216378
-[{"cid":"0","cnm":"US PRESIDENT (VOTE FOR 1)","vfr":"1","gid":"1393","lid":"1393","bnm":"Donald J. Trump","dtx":"","pty":"REP","vct":"2898423","pct":"0.5086","prt":"2658","ptl":"2658","evc":"642726","ovc":"2137785","avc":"105704","pvc":"12208","col":"EB2326","ogl":"FED","ref":"0"},{"cid":"0","cnm":"US PRESIDENT (VOTE FOR 1)","vfr":"1","gid":"1393","lid":"1393","bnm":"Kamala D. Harris","dtx":"","pty":"DEM","vct":"2715375","pct":"0.4765","prt":"2658","ptl":"2658","evc":"495441","ovc":"2021954","avc":"185098","pvc":"12882","col":"1171B9","ogl":"FED","ref":"0"},{"cid":"0","cnm":"US PRESIDENT (VOTE FOR 1)","vfr":"1","gid":"1393","lid":"1393","bnm":"Jill Stein","dtx":"","pty":"GRE","vct":"24762","pct":"0.0043","prt":"2658","ptl":"2658","evc":"8810","ovc":"14330","avc":"1464","pvc":"158","col":
-NC records 738
-[{'cid': '0', 'cnm': 'US HOUSE OF REPRESENTATIVES DISTRICT 01 (VOTE FOR 1)', 'vfr': '1', 'gid': '1379', 'lid': '1379', 'bnm': 'Don Davis', 'dtx': '', 'pty': 'DEM', 'vct': '186341', 'pct': '0.4952', 'prt': '281', 'ptl': '281', 'evc': '41650', 'ovc': '137418', 'avc': '6354', 'pvc': '919', 'col': '1171B9', 'ogl': 'FED', 'ref': '0'}, {'cid': '0', 'cnm': 'US HOUSE OF REPRESENTATIVES DISTRICT 01 (VOTE FOR 1)', 'vfr': '1', 'gid': '1379', 'lid': '1379', 'bnm': 'Laurie Buckhout', 'dtx': '', 'pty': 'REP', 'vct': '180034', 'pct': '0.4784', 'prt': '281', 'ptl': '281', 'evc': '43696', 'ovc': '131689', 'avc': '4051', 'pvc': '598', 'col': 'EB2326', 'ogl': 'FED', 'ref': '0'}, {'cid': '0', 'cnm': 'US HOUSE OF REPRESENTATIVES DISTRICT 01 (VOTE FOR 1)', 'vfr': '1', 'gid': '1379', 'lid': '1379', 'bnm': 'Tom Bailey', 'dtx': '', 'pty': 'LIB', 'vct': '9949', 'pct': '0.0264', 'prt': '281', 'ptl': '281', 'evc': '3659', 'ovc': '5977', 'avc': '239', 'pvc': '74', 'col': 'FDCD0C', 'ogl': 'FED', 'ref': '0'}]
+### https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt
+ status=200 type=text/plain bytes=2249
+MN;;;0104;U.S. Representative District 1;1;0401;Jake Johnson;;;DFL;330;750;5584;47.27;11812
+MN;;;0104;U.S. Representative District 1;1;0302;Brad Finstad;;;R;330;750;2575;21.80;11812
+MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;330;750;3653;30.93;11812
+MN;;;0105;U.S. Representativ
 
-### https://er.ncsbe.gov/enr/20261103/data/results_0.txt
- status=200 type=text/plain bytes=182068
-[{"cid":"0","cnm":"US SENATE (VOTE FOR 1)","vfr":"1","gid":"1383","lid":"1383","bnm":"Michael Dublin","dtx":"","pty":"GRE","vct":"0","pct":"0.0000","prt":"0","ptl":"2626","evc":"0","ovc":"0","avc":"0"
+### https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt
+ status=200 type=text/plain bytes=392
+MN;;;0102;U.S. Senator;;1001;Marisa Simonetti;;;IND;1663;4105;9698;9.10;106600
+MN;;;0102;U.S. Senator;;1102;Rebecca Whiting;;;LIB;1663;4105;16970;15.92;106600
+MN;;;0102;U.S. Senator;;0403;Peggy Flanagan;;;DFL;1663;4105;23948;22.47;106600
+MN;;;0102;U.S. Senator;;0304;Michele Tafoya;;;R;1663;4105;3
 
-### https://electionresultsfiles.sos.mn.gov/20241105/
- ERROR HTTP Error 403: Forbidden
+### https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt
+ status=200 type=text/plain bytes=34426
+MN;;;0188;State Representative District 1A;1A;0301;John Burkel;;;R;0;174;0;0.00;0
+MN;;;0188;State Representative District 1A;1A;0402;Leanna Sandahl;;;DFL;0;174;0;0.00;0
+MN;;;0188;State Representative District 1A;1A;9901;WRITE-IN;;;WI;0;174;0;0.00;0
+MN;;;0189;State Representative District 1B;1B;03
 
-### https://electionresultsfiles.sos.mn.gov/20241105/ushouse.txt
- status=200 type=text/plain bytes=2332
-MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;749;749;156375;41.41;377601
-MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;749;749;220929;58.51;377601
-MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;749;749;297;0.08;377601
-MN;;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;258;258;9492;2.27;417319
-MN;;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;258;258;175621;42.08;417319
-MN;;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;258;258;231751;55.53;417319
-MN;;;0105;U.S. Representative Dist
+### https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt
+ status=200 type=text/plain bytes=16318
+MN;;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;54;315;189;16.68;1133
+MN;;;0121;State Senator District 1;1;0402;Bjorn Solberg;;;DFL;54;315;377;33.27;1133
+MN;;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;54;315;567;50.04;1133
+MN;;;0122;State Senator District 2;2;0401;Dan R. Roger
 
-### https://electionresultsfiles.sos.mn.gov/20241105/LegislativeByDistrict.txt
- status=200 type=text/plain bytes=37478
-MN;;;0188;State Representative District 1A;1A;0201;James Sceville;;;DFL;174;174;5466;23.87;22901
-MN;;;0188;State Representative District 1A;1A;0102;John Burkel;;;R;174;174;17420;76.07;22901
-MN;;;0188;State Representative District 1A;1A;9901;WRITE-IN;;;WI;174;174;15;0.07;22901
-MN;;;0189;State Representative District 1B;1B;0101;Steve Gander;;;R;141;141;13939;67.20;20744
-MN;;;0189;State Representative District 1B;1B;0202;Mike Christopherson;;;DFL;141;141;6791;32.74;20744
-MN;;;0189;State Representative District 1B;1B;9901;WRITE-IN;;;WI;141;141;14;0.07;20744
-MN;;;0190;State Representative Dis
+### https://electionresultsfiles.sos.mn.gov/20261103/sthouse.txt
+ ERROR HTTP Error 404: Not Found
 
-### https://electionresultsfiles.sos.mn.gov/20261103/
- ERROR HTTP Error 403: Forbidden
+### https://electionresultsfiles.sos.mn.gov/20261103/StateRepresentatives.txt
+ ERROR HTTP Error 404: Not Found
 
-### https://results.enr.clarityelections.com/CO/
+### https://results.enr.clarityelections.com/CO/126592/current_ver.txt
  status=202 type=text/html; charset=UTF-8 bytes=0
 
-CO links: []
 
-### https://results.vote.wa.gov/results/20241105/export/20241105_AllState.csv
- status=200 type=application/octet-stream bytes=58588
-"Race","Candidate","Party","Votes","PercentageOfTotalVotes","JurisdictionName"
-"Initiative Measure No. 2066","Yes"," ",1941474,51.71,"State Executive"
-"Initiative Measure No. 2066","No"," ",1813169,48.29,"State Executive"
-"Initiative Measure No. 2109","Yes"," ",1364510,35.89,"State Executive"
-"Initiative Measure No. 2109","No"," ",2437419,64.11,"State Executive"
-"Initiative Measure No. 2117","Yes"," ",1437103,38.05,"State Executive"
-"Initiative Measure No. 2117","No"," ",2340077,61.95,"State Executive"
-"Initiative Measure No. 2124","Yes"," ",1668435,44.54,"State Executive"
-"Initiative Measure No. 2124","No"," ",2077216,55.46,"State Executive"
-"President/Vice President","Kamala D. Harris / Tim Walz","Democratic Party Nominees",2245849,57.23,"Federal"
-"President/Vice President","Do
+### https://results.enr.clarityelections.com/CO/122598/current_ver.txt
+ status=202 type=text/html; charset=UTF-8 bytes=0
 
-### https://results.vote.wa.gov/results/20241105/export/20241105_Legislative.csv
- status=200 type=application/octet-stream bytes=39253
-"Race","Candidate","Party","Votes","PercentageOfTotalVotes","JurisdictionName"
-"LEGISLATIVE DISTRICT 1 - State Senator","Derek Stanford","(Prefers Democratic Party)",60591,96.05,"Legislative"
-"LEGISLATIVE DISTRICT 1 - State Senator","WRITE-IN"," ",2490,3.95,"Legislative"
-"LEGISLATIVE DISTRICT 1 - State Representative Pos. 1","Davina Duerr","(Prefers Democratic Party)",55168,69.18,"Legislative"
-
-### https://results.vote.wa.gov/results/20261103/export/20261103_AllState.csv
- ERROR HTTP Error 404: Not Found
-
-### https://www.electionreturns.pa.gov/
- status=200 type=text/html bytes=1033
-<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3"></script><script src="/Built-with-the-For-hopence-Hurleysurfecting-the-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?SWUDNSAI=31&xinfo=46-153143909-0%20NNNN%20RT%281793240996957%2063%29%20q%280%20-1%20-1%201%29%20r%281%20-1%29%20B12%2814%2c0%2c0%29%20U18&incident_id=915000061084189299-780396339427213742&edet=12&cinfo=0e000000be0c&rpinfo=0&cts=iESaS6Cq9gjpdBRIcY6Zx3B1goLCJJY%2b9TQkYwBTHC
-
-### https://www.electionreturns.pa.gov/api/ElectionReturn/GetElectionsList
- ERROR HTTP Error 404: Not Found
-
-### https://results.arizona.vote/
- ERROR HTTP Error 403: Forbidden
-
-### https://silverstateelection.nv.gov/
- ERROR HTTP Error 403: Forbidden
