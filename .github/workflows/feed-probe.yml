@@ -10,7 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 feedtools/probe.py > probe-out.txt 2>&1 || true
+      - run: |
+          { echo "== 2024 test, no gate"; python3 feedtools/pull.py --date 20241105 --no-gate --out test-feeds;
+            echo "== 2026 with gate (should skip all)"; python3 feedtools/pull.py --out test-feeds-2026;
+            echo "== rerun 2024 (should leave files unchanged)"; python3 feedtools/pull.py --date 20241105 --no-gate --out test-feeds;
+            ls -la test-feeds test-feeds-2026 2>&1; } > probe-out.txt 2>&1 || true
       - run: |
           git config user.name "jordanzakarin-lab"; git config user.email "jordanzakarin@gmail.com"
-          git add probe-out.txt; git commit -m "probe output" && git push
+          git add -A probe-out.txt test-feeds; git commit -m "probe output" && git push
