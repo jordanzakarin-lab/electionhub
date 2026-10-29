@@ -223,7 +223,25 @@ th.hb,td.hb{width:1%}
   const SN = n => String(n).replace(/^North Carolina$/,'N. Carolina').replace(/^South Carolina$/,'S. Carolina');
   const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
-  let GOVDATA=[], BASE=null, DATA={races:[],chambers:{},governors:[]}, filter='all', query='', RACES=new Map(), CH=[];
+  let GOVDATA=[], BASE=null, DATA={races:[],chambers:{},governors:[]}, filter='all', query='', RACES=new Map(), CH=[], FEED=[];
+  const FEEDURL='../feeds/states.json';
+  // ---- Official-feed merge (feeds/*.json, written every few minutes by the feed job) ----
+  // A call (or runoff/RCV status) from the results runs always wins; otherwise whichever entry has more votes counted.
+  const nVotes = v => typeof v==='number' ? v : String(v==null?'':v).split('/').reduce((s,x)=>s+(parseInt(x.replace(/[^0-9]/g,''),10)||0),0);
+  const totV = r => r ? nVotes(r.dem&&r.dem.votes)+nVotes(r.rep&&r.rep.votes)+nVotes(r.other) : 0;
+  function pickRace(a, f){
+    if (!a) return f;
+    if (a.status && !/^(Counting|No results yet|Polls not closed|Not found)$/.test(a.status)) return a;
+    return totV(f) > totV(a) ? Object.assign({}, a, f) : a;
+  }
+  function asText(s){
+    if (!s) return '';
+    const d = new Date(s);
+    return /T\d/.test(String(s)) && !isNaN(d) ? d.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : String(s);
+  }
+  const asOfHTML = r => r && r.asOf ? `<span class="vv asof">as of ${esc(asText(r.asOf))}</span>` : '';
+  function newest(...ts){ return ts.filter(Boolean).sort((a,b)=>new Date(b)-new Date(a))[0]; }
+
 
   function dkey(d){
     d = String(d).trim().toUpperCase().replace(/^(HD|SD|AD|LD|DISTRICT|DIST\.?)[\s-]*/,'').replace(/\s*(POS(ITION)?\.?\s*\d+)$/,'');
@@ -446,7 +464,7 @@ th.hb,td.hb{width:1%}
         return `<tr><td>${distLink(c,row.d,lbl)}${row.comp?'<span class="tag">KEY</span>':''}</td><td class="hb">${incHTML(inc)}</td>
           <td class="res ${res.cls}">${res.html}${flip}${res.sub?`<span class="vv">${res.sub}</span>`:''}${r.calledBy&&won?`<span class="vv">Called by ${esc(r.calledBy)}</span>`:''}${raceBar(r)}</td>
           <td>${cand(r.dem,won&&r.leader==='D')}</td><td>${cand(r.rep,won&&r.leader==='R')}</td>
-          <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td>${lastCell(row,pos)}</tr>`;
+          <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}${asOfHTML(r)}</td>${lastCell(row,pos)}</tr>`;
       }).join('');
     }).join('');
   }
@@ -514,7 +532,7 @@ th.hb,td.hb{width:1%}
     return `<tr id="${b.id}"><td><a class="dist" href="${esc(bp)}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} governor">${esc(SN(b.state))}</a>${b.note?`<span class="sn">${esc(b.note)}</span>`:''}<span class="mh ${b.held}"><span>${b.held==='D'?'D':b.held==='R'?'R':'Ind.'} held ·</span> <span class="mhr">${esc(b.rating)}</span></span></td>
       <td class="hb"><span class="pill ${b.held}">${b.held==='D'?'Democratic':'Republican'}</span><span class="rt">Cook: ${esc(b.rating)}</span></td>
       ${res}<td>${c(b.dem, r.dem, x.won==='D', b.incumbent===b.dem)}</td><td>${c(b.rep, r.rep, x.won==='R', b.incumbent===b.rep)}</td>
-      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td><td class="num">${lm}</td></tr>`;
+      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}${asOfHTML(r)}</td><td class="num">${lm}</td></tr>`;
   }
   function renderGov(){
     const all = BASE.governors||[], el = $('#gov');
@@ -587,14 +605,26 @@ th.hb,td.hb{width:1%}
       if (!res.ok) throw new Error(res.status);
       DATA = await res.json(); DATA.races = DATA.races||[]; DATA.chambers = DATA.chambers||{};
       $('#sampleBanner').hidden = !DATA.sample;
-      const t = DATA.updated ? new Date(DATA.updated) : null;
-      $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
-    }catch(err){ if (!DATA.updated) $('#updated').textContent = 'Awaiting first results'; }
+    }catch(err){}
+    let FEEDUPD = null;
+    try{
+      const f = await fetch(FEEDURL+'?t='+Date.now(), {cache:'no-store'});
+      if (f.ok){ const j = await f.json(); FEED = j.races||[]; FEEDUPD = FEED.length ? j.updated : null; }
+    }catch(err){}
+    const tu = newest(DATA.updated, FEEDUPD), t = tu ? new Date(tu) : null;
+    $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
     try{
       const g = await fetch('governors.json?t='+Date.now(), {cache:'no-store'});
       if (g.ok){ const j = await g.json(); GOVDATA = j.races||[]; if (j.sample) $('#sampleBanner').hidden = false; }
     }catch(err){}
     DATA.governors = GOVDATA;
+    // merge official-feed races into the results-run races, one entry per seat (WA positions kept apart)
+    const fk = r => r.state+'|'+chkey(r.chamber)+'|'+dkey(r.district)+'|'+((String(r.district).match(/pos\w*\.?\s*(\d+)/i)||[])[1]||'');
+    if (FEED.length){
+      const m = new Map(DATA.races.map(r=>[fk(r), r]));
+      for (const f of FEED) m.set(fk(f), pickRace(m.get(fk(f)), f));
+      DATA.races = [...m.values()];
+    }
     indexRaces();
   }
 

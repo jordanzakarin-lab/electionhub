@@ -223,7 +223,25 @@ td .i{color:var(--ind)}
   const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
   const GROUPS = [['Toss Up','Toss ups'],['Lean D','Lean Democratic'],['Lean R','Lean Republican'],['Likely D','Likely Democratic'],['Likely R','Likely Republican'],['Watch','Also competitive, per other forecasters'],['Redrawn','Redistricting flips']];
   const GNOTE = {Watch:'Cook rates these Solid, but Sabato\'s Crystal Ball or Split Ticket rates them Lean or Toss Up.', Redrawn:'Cook rates these Solid for a party other than the one holding them now, because the state redrew its map. Expected flips, not toss ups.'};
-  let BASE=null, DATA={races:[]}, RES=new Map(), filter='all', query='';
+  let BASE=null, DATA={races:[]}, RES=new Map(), FEED=[], filter='all', query='';
+  const FEEDURL='feeds/congress.json';
+  // ---- Official-feed merge (feeds/*.json, written every few minutes by the feed job) ----
+  // A call (or runoff/RCV status) from the results runs always wins; otherwise whichever entry has more votes counted.
+  const nVotes = v => typeof v==='number' ? v : String(v==null?'':v).split('/').reduce((s,x)=>s+(parseInt(x.replace(/[^0-9]/g,''),10)||0),0);
+  const totV = r => r ? nVotes(r.dem&&r.dem.votes)+nVotes(r.rep&&r.rep.votes)+nVotes(r.other) : 0;
+  function pickRace(a, f){
+    if (!a) return f;
+    if (a.status && !/^(Counting|No results yet|Polls not closed|Not found)$/.test(a.status)) return a;
+    return totV(f) > totV(a) ? Object.assign({}, a, f) : a;
+  }
+  function asText(s){
+    if (!s) return '';
+    const d = new Date(s);
+    return /T\d/.test(String(s)) && !isNaN(d) ? d.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : String(s);
+  }
+  const asOfHTML = r => r && r.asOf ? `<span class="vv asof">as of ${esc(asText(r.asOf))}</span>` : '';
+  function newest(...ts){ return ts.filter(Boolean).sort((a,b)=>new Date(b)-new Date(a))[0]; }
+
 
   // One state per race: called (won), leading (uncalled, 60%+ counted, someone ahead), or neither
   function stateOf(b){
@@ -316,7 +334,7 @@ td .i{color:var(--ind)}
       <td class="hb">${inc}</td>
       ${resultCell(b,x)}
       <td>${cand(b.dem, r.dem, x.won==='D'||(b.demParty==='I'&&x.won==='I'), b.incumbent===b.dem, b.demParty==='I')}</td><td>${cand(b.rep, r.rep, x.won==='R'||(b.repParty==='I'&&x.won==='I'), b.incumbent===b.rep, b.repParty==='I')}</td>
-      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}</td>${lastCell(b)}</tr>`;
+      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}${asOfHTML(r)}</td>${lastCell(b)}</tr>`;
   }
 
   function matches(b,x){
@@ -370,10 +388,16 @@ td .i{color:var(--ind)}
       if (!res.ok) throw new Error(res.status);
       DATA = await res.json(); DATA.races = DATA.races||[];
       $('#sampleBanner').hidden = !DATA.sample;
-      const t = DATA.updated ? new Date(DATA.updated) : null;
-      $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
-    }catch(err){ if (!DATA.updated) $('#updated').textContent = 'Awaiting first results'; }
+    }catch(err){}
+    let FEEDUPD = null;
+    try{
+      const f = await fetch(FEEDURL+'?t='+Date.now(), {cache:'no-store'});
+      if (f.ok){ const j = await f.json(); FEED = j.races||[]; FEEDUPD = FEED.length ? j.updated : null; }
+    }catch(err){}
+    const tu = newest(DATA.updated, FEEDUPD), t = tu ? new Date(tu) : null;
+    $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
     RES = new Map(DATA.races.map(r=>[String(r.id).toUpperCase(), r]));
+    for (const f of FEED){ const k=String(f.id).toUpperCase(); RES.set(k, pickRace(RES.get(k), f)); }
   }
 
   async function boot(){

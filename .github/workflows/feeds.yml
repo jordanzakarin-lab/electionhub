@@ -1,0 +1,53 @@
+# Official results feeds (North Carolina, Minnesota, Washington) for ElectionHub.
+# Election night: a loop polls every 2 minutes from 7:20pm ET Nov 3 to 6am ET Nov 4 (two back-to-back
+# jobs, since a job can run at most 6 hours; each start time has backups in case GitHub drops a
+# scheduled run). Then one pass at :07 every hour through Nov 7 for late counts (Washington counts for days).
+# Times are UTC; Eastern time is UTC-5 after Nov 1.
+name: Official feeds
+on:
+  schedule:
+    - cron: '20 0 4 11 *'   # 7:20pm ET Nov 3: loop to 1:05am
+    - cron: '35 0 4 11 *'   # backup
+    - cron: '55 0 4 11 *'   # backup
+    - cron: '10 6 4 11 *'   # 1:10am ET Nov 4: loop to 6am
+    - cron: '25 6 4 11 *'   # backup
+    - cron: '7 * 4-7 11 *'  # hourly single pass, Nov 3 7pm ET through Nov 7
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'once = one pass now; loop = poll every 2 min for the next N minutes; test = 2024 data into branch feed-test (never live)'
+        default: once
+      minutes:
+        description: 'loop length in minutes (loop mode)'
+        default: '60'
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: feeds
+  cancel-in-progress: false
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Poll feeds
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SCHED: ${{ github.event.schedule }}
+          MODE: ${{ github.event.inputs.mode }}
+          MINUTES: ${{ github.event.inputs.minutes }}
+        run: |
+          now=$(date -u +%s)
+          case "$SCHED" in
+            '20 0 4 11 *'|'35 0 4 11 *'|'55 0 4 11 *') export END_UTC=$(date -u -d '2026-11-04 06:05' +%s) ;;
+            '10 6 4 11 *'|'25 6 4 11 *') export END_UTC=$(date -u -d '2026-11-04 11:00' +%s) ;;
+            '7 * 4-7 11 *') export ONCE=1 ;;
+            *) if [ "$MODE" = test ]; then export ONCE=1 BRANCH=feed-test PULLARGS='--date 20241105 --no-gate'
+                 gh workflow run pages.yml --ref main && echo "DEPLOY DISPATCH OK" || echo "DEPLOY DISPATCH FAILED"
+               elif [ "$MODE" = loop ]; then export END_UTC=$((now + ${MINUTES:-60} * 60)); else export ONCE=1; fi ;;
+          esac
+          # a backup start that fires after its window already ended does nothing
+          if [ "${ONCE:-0}" != 1 ] && [ "$now" -ge "${END_UTC:-0}" ]; then echo "window over"; exit 0; fi
+          bash feedtools/loop.sh
