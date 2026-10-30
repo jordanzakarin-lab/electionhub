@@ -270,11 +270,12 @@ th.hb,td.hb{width:1%}
     if (b.note) notes.push(b.note);
     if (b.others && b.others.length) notes.push('Also running: '+b.others.map(o=>`${o.name} (${o.party})`).join(', '));
     if (b.runoff) notes.push(b.runoff);
-    const heldTxt = b.nonpartisan ? 'Nonpartisan' : b.held==='D'?'D held':b.held==='R'?'R held':b.held==='I'?'Ind. held':'Vacant';
+    const heldTxt = b.nonpartisan ? 'Nonpartisan' : b.held==='D'?'D held':b.held==='R'?'R held':b.held==='I'?'Ind. held':'New office';
+    const seat = !b.held && !b.incumbent ? 'First election for this office' : b.open ? 'Open seat' : 'Incumbent running';
     const label = first==='state' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} ${esc(b.title)}">${esc(b.state)}</a>` :
       `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} ${esc(b.title)}">${esc(b.title)}</a>`;
-    return `<tr id="${esc(b.id)}"><td class="first">${label}${notes.map(n=>`<span class="sn">${esc(n)}</span>`).join('')}<span class="mh ${b.nonpartisan?'NP':b.held}">${heldTxt}${b.open?' · open':''}</span></td>
-      <td class="hb"><span class="pill ${b.nonpartisan?'NP':b.held}">${b.nonpartisan?'Nonpartisan':esc(PNAME[b.held]||'Vacant')}</span><span class="rt">${b.open?'Open seat':'Incumbent running'}</span></td>
+    return `<tr id="${esc(b.id)}"><td class="first">${label}${notes.map(n=>`<span class="sn">${esc(n)}</span>`).join('')}<span class="mh ${b.nonpartisan?'NP':b.held||''}">${heldTxt}${b.open&&b.held?' · open':''}</span></td>
+      <td class="hb"><span class="pill ${b.nonpartisan?'NP':b.held||''}">${b.nonpartisan?'Nonpartisan':esc(PNAME[b.held]||'New office')}</span><span class="rt">${seat}</span></td>
       ${res}<td>${cand(b.dem, r.dem, x.won==='D', b.incRunning && b.incumbent===b.dem)}</td><td>${cand(b.rep, r.rep, x.won==='R', b.incRunning && b.incumbent===b.rep)}</td>
       <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}${r.asOf?`<span class="vv">as of ${esc(asText(r.asOf))}</span>`:''}</td><td class="num">${lm}</td></tr>`;
   }
