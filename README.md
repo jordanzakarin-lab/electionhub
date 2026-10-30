@@ -5,8 +5,9 @@ Live election-night results for Nov. 3, 2026, served at electionhub.org. Built b
 - `/` — Battleground Congressional Races: 15 key Senate races (including the Florida special election, Mississippi and New Hampshire) and 86 House races: the 81 Cook rates Likely, Lean or Toss Up, plus NY-01 (rated competitive by other forecasters) and four redistricting flips (CA-01, CA-06, TX-32, TN-09). Files: `index.html`, `baseline.json`, `data.json`.
 - `/initiatives/` — Ballot Initiatives: the measures on Progress Report's 2026 ballot initiative tracker. Files: `initiatives/index.html`, `initiatives/data.json` (the measure list and results together; no baseline file).
 - `/states/` — State Legislature Election Results: all 88 chambers and 10 competitive governor's races. Files: `states/index.html`, `states/baseline.json`, `states/data.json`, `states/governors.json`.
+- `/statewide/` — Statewide Races: every governor, lieutenant governor, attorney general, secretary of state, treasurer and auditor/comptroller race on the Nov. 3 ballot, in all 50 states (states with no such races are listed too). Files: `statewide/index.html`, `statewide/baseline.json`, `statewide/data.json`. Governor results also come from `states/governors.json` (same ids, e.g. `WI-GOV`); the page merges the two, with a call always winning.
 
-`baseline.json` files hold the race lists and stay fixed; scheduled tasks write the results into `data.json` and `states/governors.json` (congress and governors), `states/data.json` (legislatures) and `initiatives/data.json` (ballot measures) on election night and through Nov. 6. Each page re-checks its data every minute.
+`baseline.json` files hold the race lists and stay fixed; scheduled tasks write the results into `data.json` and `states/governors.json` (congress and governors), `states/data.json` (legislatures), `statewide/data.json` (statewide races) and `initiatives/data.json` (ballot measures) on election night and through Nov. 6. Each page re-checks its data every minute.
 
 The old stateselections.org site is retired and redirects here.
 

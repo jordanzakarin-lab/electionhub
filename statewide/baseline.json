@@ -1,0 +1,3801 @@
+{
+ "asOf": "Oct. 30, 2026",
+ "ratingsSource": "Cook Political Report, as of Oct. 27, 2026",
+ "sources": [
+  "Ballotpedia",
+  "state election offices' certified candidate lists",
+  "Wikipedia (last margins)"
+ ],
+ "states": [
+  {
+   "st": "AL",
+   "state": "Alabama",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "AK",
+   "state": "Alaska",
+   "swing": true,
+   "notUp": {
+    "AG": "Appointed",
+    "SOS": "No office (duties held by lieutenant governor)",
+    "TREAS": "Appointed (Commissioner of Revenue)",
+    "AUD": "Appointed by legislature"
+   }
+  },
+  {
+   "st": "AZ",
+   "state": "Arizona",
+   "swing": true,
+   "notUp": {
+    "AUD": "Appointed (Auditor General chosen by legislature)"
+   }
+  },
+  {
+   "st": "AR",
+   "state": "Arkansas",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "CA",
+   "state": "California",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "CO",
+   "state": "Colorado",
+   "swing": false,
+   "notUp": {
+    "AUD": "Appointed by legislature"
+   }
+  },
+  {
+   "st": "CT",
+   "state": "Connecticut",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "DE",
+   "state": "Delaware",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "Next election 2028",
+    "SOS": "Appointed"
+   }
+  },
+  {
+   "st": "FL",
+   "state": "Florida",
+   "swing": true,
+   "notUp": {
+    "SOS": "Appointed",
+    "AUD": "Appointed (Auditor General chosen by legislature)"
+   }
+  },
+  {
+   "st": "GA",
+   "state": "Georgia",
+   "swing": true,
+   "notUp": {
+    "TREAS": "Appointed",
+    "AUD": "Appointed by legislature"
+   }
+  },
+  {
+   "st": "HI",
+   "state": "Hawaii",
+   "swing": false,
+   "notUp": {
+    "AG": "Appointed by governor",
+    "SOS": "No office (duties held by Lt. Governor)",
+    "TREAS": "No elected office (Director of Finance appointed)",
+    "AUD": "Appointed by legislature"
+   }
+  },
+  {
+   "st": "ID",
+   "state": "Idaho",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "IL",
+   "state": "Illinois",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "IN",
+   "state": "Indiana",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "Next election 2028",
+    "AG": "Next election 2028"
+   }
+  },
+  {
+   "st": "IA",
+   "state": "Iowa",
+   "swing": true,
+   "notUp": {}
+  },
+  {
+   "st": "KS",
+   "state": "Kansas",
+   "swing": true,
+   "notUp": {
+    "AUD": "No elected office (Legislative Post Auditor appointed)"
+   }
+  },
+  {
+   "st": "KY",
+   "state": "Kentucky",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2027",
+    "LG": "Next election 2027",
+    "AG": "Next election 2027",
+    "SOS": "Next election 2027",
+    "TREAS": "Next election 2027",
+    "AUD": "Next election 2027"
+   }
+  },
+  {
+   "st": "LA",
+   "state": "Louisiana",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2027",
+    "LG": "Next election 2027",
+    "AG": "Next election 2027",
+    "SOS": "Next election 2027",
+    "TREAS": "Next election 2027",
+    "AUD": "No elected office (Legislative Auditor appointed)"
+   }
+  },
+  {
+   "st": "ME",
+   "state": "Maine",
+   "swing": false,
+   "notUp": {
+    "LG": "No office",
+    "AG": "Elected by legislature",
+    "SOS": "Elected by legislature",
+    "TREAS": "Elected by legislature",
+    "AUD": "Elected by legislature"
+   }
+  },
+  {
+   "st": "MD",
+   "state": "Maryland",
+   "swing": false,
+   "notUp": {
+    "SOS": "Appointed by governor",
+    "TREAS": "Elected by legislature"
+   }
+  },
+  {
+   "st": "MA",
+   "state": "Massachusetts",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "MI",
+   "state": "Michigan",
+   "swing": true,
+   "notUp": {
+    "TREAS": "Appointed",
+    "AUD": "Appointed by legislature"
+   }
+  },
+  {
+   "st": "MN",
+   "state": "Minnesota",
+   "swing": false,
+   "notUp": {
+    "TREAS": "No office"
+   }
+  },
+  {
+   "st": "MS",
+   "state": "Mississippi",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2027",
+    "LG": "Next election 2027",
+    "AG": "Next election 2027",
+    "SOS": "Next election 2027",
+    "TREAS": "Next election 2027",
+    "AUD": "Next election 2027"
+   }
+  },
+  {
+   "st": "MO",
+   "state": "Missouri",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "Next election 2028",
+    "AG": "Next election 2028",
+    "SOS": "Next election 2028",
+    "TREAS": "Next election 2028"
+   }
+  },
+  {
+   "st": "MT",
+   "state": "Montana",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "Next election 2028",
+    "AG": "Next election 2028",
+    "SOS": "Next election 2028",
+    "TREAS": "No office",
+    "AUD": "Next election 2028"
+   }
+  },
+  {
+   "st": "NE",
+   "state": "Nebraska",
+   "swing": true,
+   "notUp": {}
+  },
+  {
+   "st": "NV",
+   "state": "Nevada",
+   "swing": true,
+   "notUp": {}
+  },
+  {
+   "st": "NH",
+   "state": "New Hampshire",
+   "swing": false,
+   "notUp": {
+    "LG": "No office",
+    "AG": "Appointed",
+    "SOS": "Elected by legislature",
+    "TREAS": "Elected by legislature",
+    "AUD": "No elected office"
+   }
+  },
+  {
+   "st": "NJ",
+   "state": "New Jersey",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2029",
+    "LG": "Next election 2029",
+    "AG": "Appointed",
+    "SOS": "Appointed",
+    "TREAS": "Appointed",
+    "AUD": "Appointed by legislature"
+   }
+  },
+  {
+   "st": "NM",
+   "state": "New Mexico",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "NY",
+   "state": "New York",
+   "swing": false,
+   "notUp": {
+    "SOS": "Appointed",
+    "TREAS": "No elected office"
+   }
+  },
+  {
+   "st": "NC",
+   "state": "North Carolina",
+   "swing": true,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "Next election 2028",
+    "AG": "Next election 2028",
+    "SOS": "Next election 2028",
+    "TREAS": "Next election 2028",
+    "AUD": "Next election 2028"
+   }
+  },
+  {
+   "st": "ND",
+   "state": "North Dakota",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "Next election 2028 (joint ticket with governor)",
+    "TREAS": "Next election 2028",
+    "AUD": "Next election 2028"
+   }
+  },
+  {
+   "st": "OH",
+   "state": "Ohio",
+   "swing": true,
+   "notUp": {}
+  },
+  {
+   "st": "OK",
+   "state": "Oklahoma",
+   "swing": false,
+   "notUp": {
+    "SOS": "Appointed",
+    "AUD": "Unopposed (Melissa Capps, R), so not on the general ballot"
+   }
+  },
+  {
+   "st": "OR",
+   "state": "Oregon",
+   "swing": false,
+   "notUp": {
+    "LG": "No office",
+    "AG": "Next election 2028",
+    "SOS": "Next election 2028",
+    "TREAS": "Next election 2028",
+    "AUD": "Appointed (by Secretary of State)"
+   }
+  },
+  {
+   "st": "PA",
+   "state": "Pennsylvania",
+   "swing": true,
+   "notUp": {
+    "AG": "Next election 2028",
+    "SOS": "Appointed",
+    "TREAS": "Next election 2028",
+    "AUD": "Next election 2028"
+   }
+  },
+  {
+   "st": "RI",
+   "state": "Rhode Island",
+   "swing": false,
+   "notUp": {
+    "AUD": "Appointed (Auditor General chosen by legislature)"
+   }
+  },
+  {
+   "st": "SC",
+   "state": "South Carolina",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "SD",
+   "state": "South Dakota",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "TN",
+   "state": "Tennessee",
+   "swing": false,
+   "notUp": {
+    "LG": "Elected by state Senate",
+    "AG": "Appointed by state Supreme Court",
+    "SOS": "Elected by legislature",
+    "TREAS": "Elected by legislature",
+    "AUD": "Comptroller elected by legislature"
+   }
+  },
+  {
+   "st": "TX",
+   "state": "Texas",
+   "swing": true,
+   "notUp": {
+    "SOS": "Appointed",
+    "TREAS": "No office (abolished 1996)"
+   }
+  },
+  {
+   "st": "UT",
+   "state": "Utah",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "Next election 2028",
+    "AG": "Next election 2028",
+    "SOS": "No office (lieutenant governor oversees elections)",
+    "TREAS": "Next election 2028",
+    "AUD": "Next election 2028"
+   }
+  },
+  {
+   "st": "VT",
+   "state": "Vermont",
+   "swing": false,
+   "notUp": {}
+  },
+  {
+   "st": "VA",
+   "state": "Virginia",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2029",
+    "LG": "Next election 2029",
+    "AG": "Next election 2029",
+    "SOS": "Appointed",
+    "TREAS": "Appointed",
+    "AUD": "Elected by legislature"
+   }
+  },
+  {
+   "st": "WA",
+   "state": "Washington",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "Next election 2028",
+    "AG": "Next election 2028",
+    "SOS": "Next election 2028",
+    "TREAS": "Next election 2028",
+    "AUD": "Next election 2028"
+   }
+  },
+  {
+   "st": "WV",
+   "state": "West Virginia",
+   "swing": false,
+   "notUp": {
+    "GOV": "Next election 2028",
+    "LG": "No office (state Senate president holds the title)",
+    "AG": "Next election 2028",
+    "SOS": "Next election 2028",
+    "TREAS": "Next election 2028",
+    "AUD": "Next election 2028"
+   }
+  },
+  {
+   "st": "WI",
+   "state": "Wisconsin",
+   "swing": true,
+   "notUp": {
+    "AUD": "Appointed by legislature"
+   }
+  },
+  {
+   "st": "WY",
+   "state": "Wyoming",
+   "swing": false,
+   "notUp": {
+    "LG": "No office",
+    "AG": "Appointed"
+   }
+  }
+ ],
+ "races": [
+  {
+   "id": "AL-GOV",
+   "st": "AL",
+   "state": "Alabama",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Kay Ivey",
+   "open": true,
+   "dem": "Doug Jones",
+   "rep": "Tommy Tuberville",
+   "last": {
+    "party": "R",
+    "m": 37.7,
+    "yr": 2022
+   },
+   "note": "Open: Ivey term-limited",
+   "rating": "Solid R"
+  },
+  {
+   "id": "AK-GOV",
+   "st": "AK",
+   "state": "Alaska",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Mike Dunleavy",
+   "open": true,
+   "dem": "Jonathan Kreiss-Tomkins",
+   "rep": "Bernadette Wilson",
+   "others": [
+    {
+     "name": "Dave Bronson",
+     "party": "R"
+    },
+    {
+     "name": "Treg Taylor",
+     "party": "R"
+    }
+   ],
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 26.1,
+    "yr": 2022
+   },
+   "note": "Open: Dunleavy term-limited. Ranked-choice general",
+   "rating": "Lean D"
+  },
+  {
+   "id": "AZ-GOV",
+   "st": "AZ",
+   "state": "Arizona",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Katie Hobbs",
+   "incRunning": true,
+   "open": false,
+   "dem": "Katie Hobbs",
+   "rep": "Andy Biggs",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 0.7,
+    "yr": 2022
+   },
+   "rating": "Lean D"
+  },
+  {
+   "id": "AR-GOV",
+   "st": "AR",
+   "state": "Arkansas",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Sarah Huckabee Sanders",
+   "incRunning": true,
+   "open": false,
+   "dem": "Fredrick Love",
+   "rep": "Sarah Huckabee Sanders",
+   "last": {
+    "party": "R",
+    "m": 27.8,
+    "yr": 2022
+   },
+   "rating": "Solid R"
+  },
+  {
+   "id": "CA-GOV",
+   "st": "CA",
+   "state": "California",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Gavin Newsom",
+   "open": true,
+   "dem": "Xavier Becerra",
+   "rep": "Steve Hilton",
+   "last": {
+    "party": "D",
+    "m": 18.4,
+    "yr": 2022
+   },
+   "note": "Open: Newsom term-limited",
+   "rating": "Solid D"
+  },
+  {
+   "id": "CO-GOV",
+   "st": "CO",
+   "state": "Colorado",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Jared Polis",
+   "open": true,
+   "dem": "Phil Weiser",
+   "rep": "Victor Marx",
+   "others": [
+    {
+     "name": "Greg Lopez",
+     "party": "I"
+    }
+   ],
+   "last": {
+    "party": "D",
+    "m": 19.3,
+    "yr": 2022
+   },
+   "note": "Open: Polis term-limited",
+   "rating": "Solid D"
+  },
+  {
+   "id": "CT-GOV",
+   "st": "CT",
+   "state": "Connecticut",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Ned Lamont",
+   "incRunning": true,
+   "open": false,
+   "dem": "Ned Lamont",
+   "rep": "Ryan Fazio",
+   "last": {
+    "party": "D",
+    "m": 12.9,
+    "yr": 2022
+   },
+   "rating": "Solid D"
+  },
+  {
+   "id": "FL-GOV",
+   "st": "FL",
+   "state": "Florida",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Ron DeSantis",
+   "open": true,
+   "dem": "David Jolly",
+   "rep": "Byron Donalds",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 19.4,
+    "yr": 2022
+   },
+   "note": "Open: DeSantis term-limited",
+   "rating": "Lean R"
+  },
+  {
+   "id": "GA-GOV",
+   "st": "GA",
+   "state": "Georgia",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Brian Kemp",
+   "open": true,
+   "dem": "Keisha Lance Bottoms",
+   "rep": "Rick Jackson",
+   "swing": true,
+   "runoff": "Runoff Dec. 1 if no one tops 50%",
+   "last": {
+    "party": "R",
+    "m": 7.5,
+    "yr": 2022
+   },
+   "note": "Open: Kemp term-limited",
+   "rating": "Toss Up"
+  },
+  {
+   "id": "HI-GOV",
+   "st": "HI",
+   "state": "Hawaii",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Josh Green",
+   "incRunning": true,
+   "open": false,
+   "dem": "Josh Green",
+   "rep": "Gary Cordery",
+   "last": {
+    "party": "D",
+    "m": 26.4,
+    "yr": 2022
+   },
+   "rating": "Solid D"
+  },
+  {
+   "id": "ID-GOV",
+   "st": "ID",
+   "state": "Idaho",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Brad Little",
+   "incRunning": true,
+   "open": false,
+   "dem": "Terri Pickens",
+   "rep": "Brad Little",
+   "others": [
+    {
+     "name": "John R. Stegner",
+     "party": "I"
+    }
+   ],
+   "last": {
+    "party": "R",
+    "m": 40.2,
+    "yr": 2022
+   },
+   "rating": "Solid R"
+  },
+  {
+   "id": "IL-GOV",
+   "st": "IL",
+   "state": "Illinois",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "JB Pritzker",
+   "incRunning": true,
+   "open": false,
+   "dem": "JB Pritzker",
+   "rep": "Darren Bailey",
+   "last": {
+    "party": "D",
+    "m": 12.5,
+    "yr": 2022
+   },
+   "note": "Rematch of 2022",
+   "rating": "Solid D"
+  },
+  {
+   "id": "IA-GOV",
+   "st": "IA",
+   "state": "Iowa",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Kim Reynolds",
+   "open": true,
+   "dem": "Rob Sand",
+   "rep": "Zach Lahn",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 18.5,
+    "yr": 2022
+   },
+   "note": "Open: Reynolds not running",
+   "rating": "Lean D"
+  },
+  {
+   "id": "KS-GOV",
+   "st": "KS",
+   "state": "Kansas",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Laura Kelly",
+   "open": true,
+   "dem": "Cindy Holscher",
+   "rep": "Ty Masterson",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 2.2,
+    "yr": 2022
+   },
+   "note": "Open: Kelly term-limited",
+   "rating": "Toss Up"
+  },
+  {
+   "id": "ME-GOV",
+   "st": "ME",
+   "state": "Maine",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Janet Mills",
+   "open": true,
+   "dem": "Hannah Pingree",
+   "rep": "Bobby Charles",
+   "others": [
+    {
+     "name": "Rick Bennett",
+     "party": "I"
+    }
+   ],
+   "last": {
+    "party": "D",
+    "m": 13.3,
+    "yr": 2022
+   },
+   "note": "Open: Mills term-limited",
+   "rating": "Solid D"
+  },
+  {
+   "id": "MD-GOV",
+   "st": "MD",
+   "state": "Maryland",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Wes Moore",
+   "incRunning": true,
+   "open": false,
+   "dem": "Wes Moore",
+   "rep": "Dan Cox",
+   "last": {
+    "party": "D",
+    "m": 32.4,
+    "yr": 2022
+   },
+   "note": "Rematch of 2022",
+   "rating": "Solid D"
+  },
+  {
+   "id": "MA-GOV",
+   "st": "MA",
+   "state": "Massachusetts",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Maura Healey",
+   "incRunning": true,
+   "open": false,
+   "dem": "Maura Healey",
+   "rep": "Mike Minogue",
+   "last": {
+    "party": "D",
+    "m": 29.1,
+    "yr": 2022
+   },
+   "rating": "Solid D"
+  },
+  {
+   "id": "MI-GOV",
+   "st": "MI",
+   "state": "Michigan",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Gretchen Whitmer",
+   "open": true,
+   "dem": "Jocelyn Benson",
+   "rep": "John James",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 10.5,
+    "yr": 2022
+   },
+   "note": "Open: Whitmer term-limited",
+   "rating": "Lean D"
+  },
+  {
+   "id": "MN-GOV",
+   "st": "MN",
+   "state": "Minnesota",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Tim Walz",
+   "open": true,
+   "dem": "Amy Klobuchar",
+   "rep": "Lisa Demuth",
+   "last": {
+    "party": "D",
+    "m": 7.7,
+    "yr": 2022
+   },
+   "note": "Open: Walz not seeking a third term",
+   "rating": "Solid D"
+  },
+  {
+   "id": "NE-GOV",
+   "st": "NE",
+   "state": "Nebraska",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Jim Pillen",
+   "incRunning": true,
+   "open": false,
+   "dem": "Lynne Walz",
+   "rep": "Jim Pillen",
+   "others": [
+    {
+     "name": "Brett Lindstrom",
+     "party": "AFP"
+    }
+   ],
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 23.2,
+    "yr": 2022
+   },
+   "rating": "Lean R"
+  },
+  {
+   "id": "NV-GOV",
+   "st": "NV",
+   "state": "Nevada",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Joe Lombardo",
+   "incRunning": true,
+   "open": false,
+   "dem": "Aaron Ford",
+   "rep": "Joe Lombardo",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 1.5,
+    "yr": 2022
+   },
+   "rating": "Toss Up"
+  },
+  {
+   "id": "NH-GOV",
+   "st": "NH",
+   "state": "New Hampshire",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Kelly Ayotte",
+   "incRunning": true,
+   "open": false,
+   "dem": "Cinde Warmington",
+   "rep": "Kelly Ayotte",
+   "last": {
+    "party": "R",
+    "m": 9.3,
+    "yr": 2024
+   },
+   "note": "Two-year term",
+   "rating": "Likely R"
+  },
+  {
+   "id": "NM-GOV",
+   "st": "NM",
+   "state": "New Mexico",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Michelle Lujan Grisham",
+   "open": true,
+   "dem": "Deb Haaland",
+   "rep": "Gregg Hull",
+   "last": {
+    "party": "D",
+    "m": 6.4,
+    "yr": 2022
+   },
+   "note": "Open: Lujan Grisham term-limited",
+   "rating": "Solid D"
+  },
+  {
+   "id": "NY-GOV",
+   "st": "NY",
+   "state": "New York",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Kathy Hochul",
+   "incRunning": true,
+   "open": false,
+   "dem": "Kathy Hochul",
+   "rep": "Bruce Blakeman",
+   "last": {
+    "party": "D",
+    "m": 6.4,
+    "yr": 2022
+   },
+   "rating": "Solid D"
+  },
+  {
+   "id": "OH-GOV",
+   "st": "OH",
+   "state": "Ohio",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Mike DeWine",
+   "open": true,
+   "dem": "Amy Acton",
+   "rep": "Vivek Ramaswamy",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 25.0,
+    "yr": 2022
+   },
+   "note": "Open: DeWine term-limited",
+   "rating": "Lean D"
+  },
+  {
+   "id": "OK-GOV",
+   "st": "OK",
+   "state": "Oklahoma",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Kevin Stitt",
+   "open": true,
+   "dem": "Cyndi Munson",
+   "rep": "Mike Mazzei",
+   "last": {
+    "party": "R",
+    "m": 13.7,
+    "yr": 2022
+   },
+   "note": "Open: Stitt term-limited",
+   "rating": "Likely R"
+  },
+  {
+   "id": "OR-GOV",
+   "st": "OR",
+   "state": "Oregon",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Tina Kotek",
+   "incRunning": true,
+   "open": false,
+   "dem": "Tina Kotek",
+   "rep": "Christine Drazan",
+   "last": {
+    "party": "D",
+    "m": 3.4,
+    "yr": 2022
+   },
+   "note": "Rematch of 2022",
+   "rating": "Likely D"
+  },
+  {
+   "id": "PA-GOV",
+   "st": "PA",
+   "state": "Pennsylvania",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Josh Shapiro",
+   "incRunning": true,
+   "open": false,
+   "dem": "Josh Shapiro",
+   "rep": "Stacy Garrity",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 14.8,
+    "yr": 2022
+   },
+   "rating": "Solid D"
+  },
+  {
+   "id": "RI-GOV",
+   "st": "RI",
+   "state": "Rhode Island",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Daniel McKee",
+   "open": true,
+   "dem": "Helena Foulkes",
+   "rep": "Aaron Guckian",
+   "others": [
+    {
+     "name": "Ken Block",
+     "party": "I"
+    }
+   ],
+   "last": {
+    "party": "D",
+    "m": 19.0,
+    "yr": 2022
+   },
+   "note": "Open: McKee lost the Democratic primary",
+   "rating": "Solid D"
+  },
+  {
+   "id": "SC-GOV",
+   "st": "SC",
+   "state": "South Carolina",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Henry McMaster",
+   "open": true,
+   "dem": "Jermaine Johnson",
+   "rep": "Alan Wilson",
+   "last": {
+    "party": "R",
+    "m": 17.4,
+    "yr": 2022
+   },
+   "note": "Open: McMaster term-limited",
+   "rating": "Solid R"
+  },
+  {
+   "id": "SD-GOV",
+   "st": "SD",
+   "state": "South Dakota",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Larry Rhoden",
+   "incRunning": true,
+   "open": false,
+   "dem": "Dan Ahlers",
+   "rep": "Larry Rhoden",
+   "last": {
+    "party": "R",
+    "m": 26.8,
+    "yr": 2022
+   },
+   "rating": "Solid R"
+  },
+  {
+   "id": "TN-GOV",
+   "st": "TN",
+   "state": "Tennessee",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Bill Lee",
+   "open": true,
+   "dem": "Jerri Green",
+   "rep": "Marsha Blackburn",
+   "last": {
+    "party": "R",
+    "m": 32.0,
+    "yr": 2022
+   },
+   "note": "Open: Lee is term-limited",
+   "rating": "Solid R"
+  },
+  {
+   "id": "TX-GOV",
+   "st": "TX",
+   "state": "Texas",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Greg Abbott",
+   "incRunning": true,
+   "open": false,
+   "dem": "Gina Hinojosa",
+   "rep": "Greg Abbott",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 11.0,
+    "yr": 2022
+   },
+   "rating": "Lean R"
+  },
+  {
+   "id": "VT-GOV",
+   "st": "VT",
+   "state": "Vermont",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Phil Scott",
+   "incRunning": true,
+   "open": false,
+   "dem": "Amanda Janoo",
+   "rep": "Phil Scott",
+   "last": {
+    "party": "R",
+    "m": 51.6,
+    "yr": 2024
+   },
+   "rating": "Likely R"
+  },
+  {
+   "id": "WI-GOV",
+   "st": "WI",
+   "state": "Wisconsin",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "D",
+   "incumbent": "Tony Evers",
+   "open": true,
+   "dem": "David Crowley",
+   "rep": "Tom Tiffany",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 3.3,
+    "yr": 2022
+   },
+   "note": "Open: Evers is not seeking a third term",
+   "rating": "Toss Up"
+  },
+  {
+   "id": "WY-GOV",
+   "st": "WY",
+   "state": "Wyoming",
+   "office": "GOV",
+   "title": "Governor",
+   "held": "R",
+   "incumbent": "Mark Gordon",
+   "open": true,
+   "dem": "Ken Casner",
+   "rep": "Eric Barlow",
+   "last": {
+    "party": "R",
+    "m": 58.3,
+    "yr": 2022
+   },
+   "note": "Open: Gordon term-limited",
+   "rating": "Solid R"
+  },
+  {
+   "id": "AL-LG",
+   "st": "AL",
+   "state": "Alabama",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Will Ainsworth",
+   "open": true,
+   "dem": "Phillip Ensler",
+   "rep": "John Wahl",
+   "last": {
+    "party": "R",
+    "m": 68.1,
+    "yr": 2022
+   },
+   "note": "Open: Ainsworth term-limited"
+  },
+  {
+   "id": "AK-LG",
+   "st": "AK",
+   "state": "Alaska",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Nancy Dahlstrom",
+   "open": true,
+   "dem": "Zachary Johnson",
+   "rep": "Mike Shower",
+   "others": [
+    {
+     "name": "Josh Church",
+     "party": "R"
+    },
+    {
+     "name": "Candi English",
+     "party": "R"
+    }
+   ],
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 26.1,
+    "yr": 2022
+   },
+   "note": "Joint ticket, ranked-choice"
+  },
+  {
+   "id": "AZ-LG",
+   "st": "AZ",
+   "state": "Arizona",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": null,
+   "open": true,
+   "dem": "John Giles",
+   "rep": "Sine Kerr",
+   "jointTicket": true,
+   "swing": true
+  },
+  {
+   "id": "AR-LG",
+   "st": "AR",
+   "state": "Arkansas",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Leslie Rutledge",
+   "incRunning": true,
+   "open": false,
+   "dem": null,
+   "rep": "Leslie Rutledge",
+   "others": [
+    {
+     "name": "Michael Kalagias",
+     "party": "L"
+    }
+   ],
+   "last": {
+    "party": "R",
+    "m": 32.1,
+    "yr": 2022
+   },
+   "note": "No Democratic nominee; Libertarian is only opponent"
+  },
+  {
+   "id": "CA-LG",
+   "st": "CA",
+   "state": "California",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Eleni Kounalakis",
+   "open": true,
+   "dem": "Fiona Ma",
+   "rep": "Gloria Romero",
+   "last": {
+    "party": "D",
+    "m": 19.4,
+    "yr": 2022
+   },
+   "note": "Open: Kounalakis running for treasurer"
+  },
+  {
+   "id": "CO-LG",
+   "st": "CO",
+   "state": "Colorado",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Dianne Primavera",
+   "open": true,
+   "dem": "Lesley Dahlkemper",
+   "rep": "George Markert",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 19.3,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "CT-LG",
+   "st": "CT",
+   "state": "Connecticut",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Susan Bysiewicz",
+   "incRunning": true,
+   "open": false,
+   "dem": "Susan Bysiewicz",
+   "rep": "Matthew Corey",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 12.9,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "FL-LG",
+   "st": "FL",
+   "state": "Florida",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Jay Collins",
+   "open": true,
+   "dem": "Gwen Graham",
+   "rep": "Bryan Avila",
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 19.4,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "GA-LG",
+   "st": "GA",
+   "state": "Georgia",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Burt Jones",
+   "open": true,
+   "dem": "Josh McLaurin",
+   "rep": "Greg Dolezal",
+   "swing": true,
+   "runoff": "Runoff Dec. 1 if no one tops 50%",
+   "last": {
+    "party": "R",
+    "m": 5.0,
+    "yr": 2022
+   },
+   "note": "Open: Jones lost GOP governor runoff"
+  },
+  {
+   "id": "HI-LG",
+   "st": "HI",
+   "state": "Hawaii",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Sylvia Luke",
+   "open": true,
+   "dem": "Derek Kawakami",
+   "rep": "Daniel Anthony",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 26.4,
+    "yr": 2022
+   },
+   "note": "Open: Luke not running"
+  },
+  {
+   "id": "ID-LG",
+   "st": "ID",
+   "state": "Idaho",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Scott Bedke",
+   "incRunning": true,
+   "open": false,
+   "dem": "Eric Myricks",
+   "rep": "Scott Bedke",
+   "last": {
+    "party": "R",
+    "m": 33.9,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IL-LG",
+   "st": "IL",
+   "state": "Illinois",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Juliana Stratton",
+   "open": true,
+   "dem": "Christian Mitchell",
+   "rep": "Aaron Del Mar",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 12.5,
+    "yr": 2022
+   },
+   "note": "Open: Stratton is the Democratic U.S"
+  },
+  {
+   "id": "IA-LG",
+   "st": "IA",
+   "state": "Iowa",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Chris Cournoyer",
+   "open": true,
+   "dem": "Dave Muhlbauer",
+   "rep": "Derek Wulf",
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 18.5,
+    "yr": 2022
+   },
+   "note": "Open: Cournoyer running for Auditor of State"
+  },
+  {
+   "id": "KS-LG",
+   "st": "KS",
+   "state": "Kansas",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "David Toland",
+   "open": true,
+   "dem": "KC Ohaebosim",
+   "rep": "Jeff Klemp",
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 2.2,
+    "yr": 2022
+   },
+   "note": "Open: Toland not on either ticket"
+  },
+  {
+   "id": "MD-LG",
+   "st": "MD",
+   "state": "Maryland",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Aruna Miller",
+   "incRunning": true,
+   "open": false,
+   "dem": "Aruna Miller",
+   "rep": "Rob Krop",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 32.4,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "MA-LG",
+   "st": "MA",
+   "state": "Massachusetts",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Kim Driscoll",
+   "incRunning": true,
+   "open": false,
+   "dem": "Kim Driscoll",
+   "rep": "Shawn Oliver",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 29.1,
+    "yr": 2022
+   },
+   "note": "GOP nominee Oliver ended his campaign but stays on the ballot"
+  },
+  {
+   "id": "MI-LG",
+   "st": "MI",
+   "state": "Michigan",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Garlin Gilchrist II",
+   "open": true,
+   "dem": "Winnie Brinks",
+   "rep": "Jay DeBoyer",
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 10.5,
+    "yr": 2022
+   },
+   "note": "Open: Gilchrist running for Secretary of State"
+  },
+  {
+   "id": "MN-LG",
+   "st": "MN",
+   "state": "Minnesota",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Peggy Flanagan",
+   "open": true,
+   "dem": "Ben Schierer",
+   "rep": "Ryan Wilson",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 7.7,
+    "yr": 2022
+   },
+   "note": "Open: Flanagan running for U.S"
+  },
+  {
+   "id": "NE-LG",
+   "st": "NE",
+   "state": "Nebraska",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Joe Kelly",
+   "incRunning": true,
+   "open": false,
+   "dem": "Ben Steffen",
+   "rep": "Joe Kelly",
+   "others": [
+    {
+     "name": "Michael Picard",
+     "party": "AFP"
+    }
+   ],
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 23.2,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NV-LG",
+   "st": "NV",
+   "state": "Nevada",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Stavros Anthony",
+   "incRunning": true,
+   "open": false,
+   "dem": "Sandra Jauregui",
+   "rep": "Stavros Anthony",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 3.6,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NM-LG",
+   "st": "NM",
+   "state": "New Mexico",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Howie Morales",
+   "open": true,
+   "dem": "Stephanie Garcia Richard",
+   "rep": "David M. Gallegos",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 6.4,
+    "yr": 2022
+   },
+   "note": "Open: Morales term-limited"
+  },
+  {
+   "id": "NY-LG",
+   "st": "NY",
+   "state": "New York",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Antonio Delgado",
+   "open": true,
+   "dem": "Adrienne Adams",
+   "rep": "Todd Hood",
+   "jointTicket": true,
+   "last": {
+    "party": "D",
+    "m": 6.4,
+    "yr": 2022
+   },
+   "note": "Open: Delgado not running"
+  },
+  {
+   "id": "OH-LG",
+   "st": "OH",
+   "state": "Ohio",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Jim Tressel",
+   "open": true,
+   "dem": "David Pepper",
+   "rep": "Rob McColley",
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 25.0,
+    "yr": 2022
+   },
+   "note": "Open: Tressel, appointed in 2025, not running"
+  },
+  {
+   "id": "OK-LG",
+   "st": "OK",
+   "state": "Oklahoma",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Matt Pinnell",
+   "open": true,
+   "dem": "Kelly Forbes",
+   "rep": "T.W. Shannon",
+   "last": {
+    "party": "R",
+    "m": 33.9,
+    "yr": 2022
+   },
+   "note": "Open: Pinnell term-limited"
+  },
+  {
+   "id": "PA-LG",
+   "st": "PA",
+   "state": "Pennsylvania",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Austin Davis",
+   "incRunning": true,
+   "open": false,
+   "dem": "Austin Davis",
+   "rep": "Jason Richey",
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 14.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "RI-LG",
+   "st": "RI",
+   "state": "Rhode Island",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Sabina Matos",
+   "incRunning": true,
+   "open": false,
+   "dem": "Sabina Matos",
+   "rep": "John Loughlin",
+   "last": {
+    "party": "D",
+    "m": 8.1,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "SC-LG",
+   "st": "SC",
+   "state": "South Carolina",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Pamela Evette",
+   "open": true,
+   "dem": "Sam Skardon",
+   "rep": "Mike Reichenbach",
+   "jointTicket": true,
+   "last": {
+    "party": "R",
+    "m": 17.4,
+    "yr": 2022
+   },
+   "note": "Open: Evette ran for governor and lost the GOP runoff"
+  },
+  {
+   "id": "SD-LG",
+   "st": "SD",
+   "state": "South Dakota",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Tony Venhuizen",
+   "incRunning": true,
+   "open": false,
+   "dem": "Steven McCleerey",
+   "rep": "Tony Venhuizen",
+   "jointTicket": true,
+   "last": {
+    "party": "R",
+    "m": 26.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "TX-LG",
+   "st": "TX",
+   "state": "Texas",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "Dan Patrick",
+   "incRunning": true,
+   "open": false,
+   "dem": "Vikki Goodwin",
+   "rep": "Dan Patrick",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 10.3,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "VT-LG",
+   "st": "VT",
+   "state": "Vermont",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "R",
+   "incumbent": "John Rodgers",
+   "incRunning": true,
+   "open": false,
+   "dem": "Molly Gray",
+   "rep": "John Rodgers",
+   "last": {
+    "party": "R",
+    "m": 1.7,
+    "yr": 2024
+   }
+  },
+  {
+   "id": "WI-LG",
+   "st": "WI",
+   "state": "Wisconsin",
+   "office": "LG",
+   "title": "Lieutenant Governor",
+   "held": "D",
+   "incumbent": "Sara Rodriguez",
+   "open": true,
+   "dem": "Sarah Godlewski",
+   "rep": "David Varnam",
+   "jointTicket": true,
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 3.3,
+    "yr": 2022
+   },
+   "note": "Open: Rodriguez ran for governor and withdrew"
+  },
+  {
+   "id": "AL-AG",
+   "st": "AL",
+   "state": "Alabama",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Steve Marshall",
+   "open": true,
+   "dem": "Jeffrey McLaughlin",
+   "rep": "Katherine Robertson",
+   "last": {
+    "party": "R",
+    "m": 35.9,
+    "yr": 2022
+   },
+   "note": "Open: Marshall ran for U.S"
+  },
+  {
+   "id": "AZ-AG",
+   "st": "AZ",
+   "state": "Arizona",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Kris Mayes",
+   "incRunning": true,
+   "open": false,
+   "dem": "Kris Mayes",
+   "rep": "Warren Petersen",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 0.0,
+    "yr": 2022
+   },
+   "note": "2022 race decided by 280 votes after recount"
+  },
+  {
+   "id": "AR-AG",
+   "st": "AR",
+   "state": "Arkansas",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Tim Griffin",
+   "incRunning": true,
+   "open": false,
+   "dem": null,
+   "rep": "Tim Griffin",
+   "last": {
+    "party": "R",
+    "m": 35.2,
+    "yr": 2022
+   },
+   "note": "No Democratic nominee; Ballotpedia lists no opponent"
+  },
+  {
+   "id": "CA-AG",
+   "st": "CA",
+   "state": "California",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Rob Bonta",
+   "incRunning": true,
+   "open": false,
+   "dem": "Rob Bonta",
+   "rep": "Michael Gates",
+   "last": {
+    "party": "D",
+    "m": 18.2,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "CO-AG",
+   "st": "CO",
+   "state": "Colorado",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Phil Weiser",
+   "open": true,
+   "dem": "Jena Griswold",
+   "rep": "Michael Allen",
+   "last": {
+    "party": "D",
+    "m": 11.7,
+    "yr": 2022
+   },
+   "note": "Open: Weiser running for governor"
+  },
+  {
+   "id": "CT-AG",
+   "st": "CT",
+   "state": "Connecticut",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "William Tong",
+   "incRunning": true,
+   "open": false,
+   "dem": "William Tong",
+   "rep": "John Bolton",
+   "last": {
+    "party": "D",
+    "m": 15.6,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "DE-AG",
+   "st": "DE",
+   "state": "Delaware",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Kathy Jennings",
+   "incRunning": true,
+   "open": false,
+   "dem": "Kathy Jennings",
+   "rep": "David Graham",
+   "last": {
+    "party": "D",
+    "m": 7.6,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "FL-AG",
+   "st": "FL",
+   "state": "Florida",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "James Uthmeier",
+   "incRunning": true,
+   "open": false,
+   "dem": "Jose Javier Rodriguez",
+   "rep": "James Uthmeier",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 21.2,
+    "yr": 2022
+   },
+   "note": "Uthmeier appointed 2025; seeking first full term"
+  },
+  {
+   "id": "GA-AG",
+   "st": "GA",
+   "state": "Georgia",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Chris Carr",
+   "open": true,
+   "dem": "Tanya Miller",
+   "rep": "Brian Strickland",
+   "swing": true,
+   "runoff": "Runoff Dec. 1 if no one tops 50%",
+   "last": {
+    "party": "R",
+    "m": 5.3,
+    "yr": 2022
+   },
+   "note": "Open: Carr ran for governor"
+  },
+  {
+   "id": "ID-AG",
+   "st": "ID",
+   "state": "Idaho",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Raúl Labrador",
+   "incRunning": true,
+   "open": false,
+   "dem": "Lori Hickman",
+   "rep": "Raúl Labrador",
+   "last": {
+    "party": "R",
+    "m": 25.2,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IL-AG",
+   "st": "IL",
+   "state": "Illinois",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Kwame Raoul",
+   "incRunning": true,
+   "open": false,
+   "dem": "Kwame Raoul",
+   "rep": "Bob Fioretti",
+   "last": {
+    "party": "D",
+    "m": 10.9,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IA-AG",
+   "st": "IA",
+   "state": "Iowa",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Brenna Bird",
+   "incRunning": true,
+   "open": false,
+   "dem": "Nate Willems",
+   "rep": "Brenna Bird",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 1.7,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "KS-AG",
+   "st": "KS",
+   "state": "Kansas",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Kris Kobach",
+   "incRunning": true,
+   "open": false,
+   "dem": "Chris Mann",
+   "rep": "Kris Kobach",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 1.6,
+    "yr": 2022
+   },
+   "note": "Rematch of 2022"
+  },
+  {
+   "id": "MD-AG",
+   "st": "MD",
+   "state": "Maryland",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Anthony G. Brown",
+   "incRunning": true,
+   "open": false,
+   "dem": "Anthony G. Brown",
+   "rep": "James Rutledge",
+   "last": {
+    "party": "D",
+    "m": 30.0,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "MA-AG",
+   "st": "MA",
+   "state": "Massachusetts",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Andrea Campbell",
+   "incRunning": true,
+   "open": false,
+   "dem": "Andrea Campbell",
+   "rep": "Michael Walsh",
+   "last": {
+    "party": "D",
+    "m": 25.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "MI-AG",
+   "st": "MI",
+   "state": "Michigan",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Dana Nessel",
+   "open": true,
+   "dem": "Eli Savit",
+   "rep": "Doug Lloyd",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 8.6,
+    "yr": 2022
+   },
+   "note": "Open: Nessel term-limited"
+  },
+  {
+   "id": "MN-AG",
+   "st": "MN",
+   "state": "Minnesota",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Keith Ellison",
+   "incRunning": true,
+   "open": false,
+   "dem": "Keith Ellison",
+   "rep": "Ron Schutz",
+   "last": {
+    "party": "D",
+    "m": 0.9,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NE-AG",
+   "st": "NE",
+   "state": "Nebraska",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Mike Hilgers",
+   "incRunning": true,
+   "open": false,
+   "dem": "Jocelyn Brasher",
+   "rep": "Mike Hilgers",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 39.4,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NV-AG",
+   "st": "NV",
+   "state": "Nevada",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Aaron Ford",
+   "open": true,
+   "dem": "Nicole Cannizzaro",
+   "rep": "Adriana Guzmán Fralick",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 7.9,
+    "yr": 2022
+   },
+   "note": "Open: Ford term-limited, running for governor"
+  },
+  {
+   "id": "NM-AG",
+   "st": "NM",
+   "state": "New Mexico",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Raúl Torrez",
+   "incRunning": true,
+   "open": false,
+   "dem": "Raúl Torrez",
+   "rep": "Samuel Kane",
+   "last": {
+    "party": "D",
+    "m": 10.6,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NY-AG",
+   "st": "NY",
+   "state": "New York",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Letitia James",
+   "incRunning": true,
+   "open": false,
+   "dem": "Letitia James",
+   "rep": "Saritha Komatireddy",
+   "last": {
+    "party": "D",
+    "m": 9.3,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "ND-AG",
+   "st": "ND",
+   "state": "North Dakota",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Drew Wrigley",
+   "incRunning": true,
+   "open": false,
+   "dem": "Timothy Lamb",
+   "rep": "Drew Wrigley",
+   "last": {
+    "party": "R",
+    "m": 42.1,
+    "yr": 2022
+   },
+   "note": "Rematch of 2022"
+  },
+  {
+   "id": "OH-AG",
+   "st": "OH",
+   "state": "Ohio",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Andy Wilson",
+   "open": true,
+   "dem": "John Kulewicz",
+   "rep": "Keith Faber",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 20.2,
+    "yr": 2022
+   },
+   "note": "Open: Yost resigned; appointee Wilson not running"
+  },
+  {
+   "id": "OK-AG",
+   "st": "OK",
+   "state": "Oklahoma",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Gentner Drummond",
+   "open": true,
+   "dem": "Nick Coffey",
+   "rep": "Jon Echols",
+   "last": {
+    "party": "R",
+    "m": 47.6,
+    "yr": 2022
+   },
+   "note": "Open: Drummond ran for governor"
+  },
+  {
+   "id": "RI-AG",
+   "st": "RI",
+   "state": "Rhode Island",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Peter Neronha",
+   "open": true,
+   "dem": "Kim Ahern",
+   "rep": "Alan Gordon",
+   "last": {
+    "party": "D",
+    "m": 23.1,
+    "yr": 2022
+   },
+   "note": "Open: Neronha term-limited"
+  },
+  {
+   "id": "SC-AG",
+   "st": "SC",
+   "state": "South Carolina",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Alan Wilson",
+   "open": true,
+   "dem": "Richard Hricik",
+   "rep": "David Stumbo",
+   "last": {
+    "party": "R",
+    "m": 94.6,
+    "yr": 2022
+   },
+   "note": "Open: Wilson running for governor"
+  },
+  {
+   "id": "SD-AG",
+   "st": "SD",
+   "state": "South Dakota",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Marty Jackley",
+   "open": true,
+   "dem": null,
+   "rep": "Lance Russell",
+   "last": {
+    "party": "R",
+    "m": 100.0,
+    "yr": 2022
+   },
+   "note": "Open: Jackley ran for U.S. House"
+  },
+  {
+   "id": "TX-AG",
+   "st": "TX",
+   "state": "Texas",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "R",
+   "incumbent": "Ken Paxton",
+   "open": true,
+   "dem": "Nathan Johnson",
+   "rep": "Mayes Middleton",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 9.8,
+    "yr": 2022
+   },
+   "note": "Open: Paxton running for U.S. Senate"
+  },
+  {
+   "id": "VT-AG",
+   "st": "VT",
+   "state": "Vermont",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Charity Clark",
+   "incRunning": true,
+   "open": false,
+   "dem": "Charity Clark",
+   "rep": "Edwin Kemon",
+   "last": {
+    "party": "D",
+    "m": 20.7,
+    "yr": 2024
+   }
+  },
+  {
+   "id": "WI-AG",
+   "st": "WI",
+   "state": "Wisconsin",
+   "office": "AG",
+   "title": "Attorney General",
+   "held": "D",
+   "incumbent": "Josh Kaul",
+   "incRunning": true,
+   "open": false,
+   "dem": "Josh Kaul",
+   "rep": "Eric Toney",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 1.3,
+    "yr": 2022
+   },
+   "note": "A 2022 rematch"
+  },
+  {
+   "id": "AL-SOS",
+   "st": "AL",
+   "state": "Alabama",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Wes Allen",
+   "open": true,
+   "dem": "Wayne Rogers",
+   "rep": "Caroleene Dobson",
+   "last": {
+    "party": "R",
+    "m": 34.8,
+    "yr": 2022
+   },
+   "note": "Open: Allen ran for lieutenant governor"
+  },
+  {
+   "id": "AZ-SOS",
+   "st": "AZ",
+   "state": "Arizona",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Adrian Fontes",
+   "incRunning": true,
+   "open": false,
+   "dem": "Adrian Fontes",
+   "rep": "Alexander Kolodin",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 4.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "AR-SOS",
+   "st": "AR",
+   "state": "Arkansas",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Cole Jester",
+   "open": true,
+   "dem": "Kelly Grappe",
+   "rep": "Kim Hammer",
+   "last": {
+    "party": "R",
+    "m": 34.1,
+    "yr": 2022
+   },
+   "note": "Open: appointed Jester not eligible"
+  },
+  {
+   "id": "CA-SOS",
+   "st": "CA",
+   "state": "California",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Shirley Weber",
+   "incRunning": true,
+   "open": false,
+   "dem": "Shirley Weber",
+   "rep": "Donald P. Wagner",
+   "last": {
+    "party": "D",
+    "m": 20.2,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "CO-SOS",
+   "st": "CO",
+   "state": "Colorado",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Jena Griswold",
+   "open": true,
+   "dem": "Amanda Gonzalez",
+   "rep": "James Wiley",
+   "last": {
+    "party": "D",
+    "m": 13.0,
+    "yr": 2022
+   },
+   "note": "Open: Griswold running for attorney general"
+  },
+  {
+   "id": "CT-SOS",
+   "st": "CT",
+   "state": "Connecticut",
+   "office": "SOS",
+   "title": "Secretary of the State",
+   "held": "D",
+   "incumbent": "Stephanie Thomas",
+   "incRunning": true,
+   "open": false,
+   "dem": "Stephanie Thomas",
+   "rep": "Peter Lumaj",
+   "last": {
+    "party": "D",
+    "m": 12.5,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "GA-SOS",
+   "st": "GA",
+   "state": "Georgia",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Brad Raffensperger",
+   "open": true,
+   "dem": "Penny Brown Reynolds",
+   "rep": "Tim Fleming",
+   "swing": true,
+   "runoff": "Runoff Dec. 1 if no one tops 50%",
+   "last": {
+    "party": "R",
+    "m": 9.2,
+    "yr": 2022
+   },
+   "note": "Open: Raffensperger ran for governor"
+  },
+  {
+   "id": "ID-SOS",
+   "st": "ID",
+   "state": "Idaho",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Phil McGrane",
+   "incRunning": true,
+   "open": false,
+   "dem": "Shawn Keenan",
+   "rep": "Phil McGrane",
+   "last": {
+    "party": "R",
+    "m": 44.7,
+    "yr": 2022
+   },
+   "note": "Rematch of 2022"
+  },
+  {
+   "id": "IL-SOS",
+   "st": "IL",
+   "state": "Illinois",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Alexi Giannoulias",
+   "incRunning": true,
+   "open": false,
+   "dem": "Alexi Giannoulias",
+   "rep": "Diane Harris",
+   "last": {
+    "party": "D",
+    "m": 10.7,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IN-SOS",
+   "st": "IN",
+   "state": "Indiana",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Diego Morales",
+   "open": true,
+   "dem": "Beau Bayh",
+   "rep": "Max Engling",
+   "others": [
+    {
+     "name": "Lauri Shillings",
+     "party": "L"
+    },
+    {
+     "name": "Greg Ballard",
+     "party": "Lincoln"
+    }
+   ],
+   "last": {
+    "party": "R",
+    "m": 13.9,
+    "yr": 2022
+   },
+   "note": "Open: Morales lost the GOP convention"
+  },
+  {
+   "id": "IA-SOS",
+   "st": "IA",
+   "state": "Iowa",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Paul Pate",
+   "incRunning": true,
+   "open": false,
+   "dem": "Ryan Peterman",
+   "rep": "Paul Pate",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 20.2,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "KS-SOS",
+   "st": "KS",
+   "state": "Kansas",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Scott Schwab",
+   "open": true,
+   "dem": "Jennifer Day",
+   "rep": "Pat Proctor",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 19.6,
+    "yr": 2022
+   },
+   "note": "Open: Schwab ran for governor"
+  },
+  {
+   "id": "MA-SOS",
+   "st": "MA",
+   "state": "Massachusetts",
+   "office": "SOS",
+   "title": "Secretary of the Commonwealth",
+   "held": "D",
+   "incumbent": "William Galvin",
+   "incRunning": true,
+   "open": false,
+   "dem": "William Galvin",
+   "rep": "Anne Brensley",
+   "last": {
+    "party": "D",
+    "m": 38.4,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "MI-SOS",
+   "st": "MI",
+   "state": "Michigan",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Jocelyn Benson",
+   "open": true,
+   "dem": "Garlin Gilchrist II",
+   "rep": "Anthony Forlini",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 14.0,
+    "yr": 2022
+   },
+   "note": "Open: Benson term-limited, running for governor"
+  },
+  {
+   "id": "MN-SOS",
+   "st": "MN",
+   "state": "Minnesota",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Steve Simon",
+   "incRunning": true,
+   "open": false,
+   "dem": "Steve Simon",
+   "rep": "Tad Jude",
+   "last": {
+    "party": "D",
+    "m": 9.1,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NE-SOS",
+   "st": "NE",
+   "state": "Nebraska",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Bob Evnen",
+   "open": true,
+   "dem": "Sarah Slattery",
+   "rep": "Scott Petersen",
+   "others": [
+    {
+     "name": "Bob Krist",
+     "party": "AFP"
+    }
+   ],
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 100.0,
+    "yr": 2022
+   },
+   "note": "Open: Evnen lost the GOP primary"
+  },
+  {
+   "id": "NV-SOS",
+   "st": "NV",
+   "state": "Nevada",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Cisco Aguilar",
+   "incRunning": true,
+   "open": false,
+   "dem": "Cisco Aguilar",
+   "rep": "Jim Marchant",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 2.2,
+    "yr": 2022
+   },
+   "note": "2022 rematch"
+  },
+  {
+   "id": "NM-SOS",
+   "st": "NM",
+   "state": "New Mexico",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Maggie Toulouse Oliver",
+   "open": true,
+   "dem": "Amanda Lopez Askin",
+   "rep": "Ramona Goolsby",
+   "last": {
+    "party": "D",
+    "m": 11.9,
+    "yr": 2022
+   },
+   "note": "Open: Toulouse Oliver term-limited"
+  },
+  {
+   "id": "ND-SOS",
+   "st": "ND",
+   "state": "North Dakota",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Michael Howe",
+   "incRunning": true,
+   "open": false,
+   "dem": "Ryan Braunberger",
+   "rep": "Michael Howe",
+   "last": {
+    "party": "R",
+    "m": 35.7,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "OH-SOS",
+   "st": "OH",
+   "state": "Ohio",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Frank LaRose",
+   "open": true,
+   "dem": "Allison Russo",
+   "rep": "Robert Sprague",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 19.6,
+    "yr": 2022
+   },
+   "note": "Open: LaRose term-limited, running for auditor"
+  },
+  {
+   "id": "RI-SOS",
+   "st": "RI",
+   "state": "Rhode Island",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Gregg Amore",
+   "incRunning": true,
+   "open": false,
+   "dem": "Gregg Amore",
+   "rep": null,
+   "last": {
+    "party": "D",
+    "m": 19.2,
+    "yr": 2022
+   },
+   "note": "No Republican candidate"
+  },
+  {
+   "id": "SC-SOS",
+   "st": "SC",
+   "state": "South Carolina",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Mark Hammond",
+   "incRunning": true,
+   "open": false,
+   "dem": "Jason Belton",
+   "rep": "Mark Hammond",
+   "last": {
+    "party": "R",
+    "m": 26.7,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "SD-SOS",
+   "st": "SD",
+   "state": "South Dakota",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Monae Johnson",
+   "open": true,
+   "dem": "Terrence Davis",
+   "rep": "Heather Baxter",
+   "others": [
+    {
+     "name": "Tamara Lesnar",
+     "party": "L"
+    }
+   ],
+   "last": {
+    "party": "R",
+    "m": 27.8,
+    "yr": 2022
+   },
+   "note": "Open: Johnson lost the GOP convention"
+  },
+  {
+   "id": "VT-SOS",
+   "st": "VT",
+   "state": "Vermont",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Sarah Copeland Hanzas",
+   "incRunning": true,
+   "open": false,
+   "dem": "Sarah Copeland Hanzas",
+   "rep": "H. Brooke Paige",
+   "others": [
+    {
+     "name": "Rachel Shaw",
+     "party": "P"
+    }
+   ],
+   "last": {
+    "party": "D",
+    "m": 19.4,
+    "yr": 2024
+   }
+  },
+  {
+   "id": "WI-SOS",
+   "st": "WI",
+   "state": "Wisconsin",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "D",
+   "incumbent": "Sarah Godlewski",
+   "open": true,
+   "dem": "JoCasta Zamarripa",
+   "rep": "Jay Schroeder",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 0.3,
+    "yr": 2022
+   },
+   "note": "Open: Godlewski is running for lieutenant governor"
+  },
+  {
+   "id": "WY-SOS",
+   "st": "WY",
+   "state": "Wyoming",
+   "office": "SOS",
+   "title": "Secretary of State",
+   "held": "R",
+   "incumbent": "Chuck Gray",
+   "open": true,
+   "dem": "Bryan McCarty",
+   "rep": "Robert Short",
+   "last": {
+    "party": "R",
+    "m": 83.2,
+    "yr": 2022
+   },
+   "note": "Open: Gray not running"
+  },
+  {
+   "id": "AL-TREAS",
+   "st": "AL",
+   "state": "Alabama",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Young Boozer",
+   "incRunning": true,
+   "open": false,
+   "dem": "Rosilyn Houston",
+   "rep": "Young Boozer",
+   "last": {
+    "party": "R",
+    "m": 68.3,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "AZ-TREAS",
+   "st": "AZ",
+   "state": "Arizona",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Kimberly Yee",
+   "open": true,
+   "dem": "Nick Mansour",
+   "rep": "Elijah Norton",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 11.3,
+    "yr": 2022
+   },
+   "note": "Open: Yee term-limited, running for superintendent"
+  },
+  {
+   "id": "AR-TREAS",
+   "st": "AR",
+   "state": "Arkansas",
+   "office": "TREAS",
+   "title": "Treasurer of State",
+   "held": "R",
+   "incumbent": "John Thurston",
+   "incRunning": true,
+   "open": false,
+   "dem": null,
+   "rep": "John Thurston",
+   "last": {
+    "party": "R",
+    "m": 35.1,
+    "yr": 2024
+   },
+   "note": "No Democratic nominee; last election was a 2024 special"
+  },
+  {
+   "id": "CA-TREAS",
+   "st": "CA",
+   "state": "California",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "D",
+   "incumbent": "Fiona Ma",
+   "open": true,
+   "dem": "Eleni Kounalakis",
+   "rep": "Jennifer Hawks",
+   "last": {
+    "party": "D",
+    "m": 17.6,
+    "yr": 2022
+   },
+   "note": "Open: Ma term-limited, running for lieutenant governor"
+  },
+  {
+   "id": "CO-TREAS",
+   "st": "CO",
+   "state": "Colorado",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "D",
+   "incumbent": "Dave Young",
+   "open": true,
+   "dem": "Jeff Bridges",
+   "rep": "Kevin Grantham",
+   "last": {
+    "party": "D",
+    "m": 10.6,
+    "yr": 2022
+   },
+   "note": "Open: Young term-limited"
+  },
+  {
+   "id": "CT-TREAS",
+   "st": "CT",
+   "state": "Connecticut",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "D",
+   "incumbent": "Erick Russell",
+   "incRunning": true,
+   "open": false,
+   "dem": "Erick Russell",
+   "rep": "Fred Wilms",
+   "last": {
+    "party": "D",
+    "m": 7.5,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "DE-TREAS",
+   "st": "DE",
+   "state": "Delaware",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "D",
+   "incumbent": "Colleen Davis",
+   "open": true,
+   "dem": "Ted Lauzen",
+   "rep": "Michael Ramone",
+   "last": {
+    "party": "D",
+    "m": 7.3,
+    "yr": 2022
+   },
+   "note": "Open: Davis not seeking reelection"
+  },
+  {
+   "id": "FL-TREAS",
+   "st": "FL",
+   "state": "Florida",
+   "office": "TREAS",
+   "title": "Chief Financial Officer",
+   "held": "R",
+   "incumbent": "Blaise Ingoglia",
+   "incRunning": true,
+   "open": false,
+   "dem": "Annette Taddeo",
+   "rep": "Blaise Ingoglia",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 19.0,
+    "yr": 2022
+   },
+   "note": "Ingoglia appointed 2025; seeking first full term"
+  },
+  {
+   "id": "ID-TREAS",
+   "st": "ID",
+   "state": "Idaho",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Julie Ellsworth",
+   "incRunning": true,
+   "open": false,
+   "dem": "Kevin Jones",
+   "rep": "Julie Ellsworth",
+   "last": {
+    "party": "R",
+    "m": 42.2,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IL-TREAS",
+   "st": "IL",
+   "state": "Illinois",
+   "office": "TREAS",
+   "title": "Treasurer",
+   "held": "D",
+   "incumbent": "Mike Frerichs",
+   "incRunning": true,
+   "open": false,
+   "dem": "Mike Frerichs",
+   "rep": "Max Solomon",
+   "last": {
+    "party": "D",
+    "m": 10.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IN-TREAS",
+   "st": "IN",
+   "state": "Indiana",
+   "office": "TREAS",
+   "title": "Treasurer of State",
+   "held": "R",
+   "incumbent": "Daniel Elliott",
+   "incRunning": true,
+   "open": false,
+   "dem": "Coumba Kebe",
+   "rep": "Daniel Elliott",
+   "last": {
+    "party": "R",
+    "m": 21.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IA-TREAS",
+   "st": "IA",
+   "state": "Iowa",
+   "office": "TREAS",
+   "title": "Treasurer of State",
+   "held": "R",
+   "incumbent": "Roby Smith",
+   "incRunning": true,
+   "open": false,
+   "dem": "John Norwood",
+   "rep": "Roby Smith",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 2.6,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "KS-TREAS",
+   "st": "KS",
+   "state": "Kansas",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Steven C. Johnson",
+   "incRunning": true,
+   "open": false,
+   "dem": "Juan Luengo",
+   "rep": "Steven C. Johnson",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 12.6,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "MA-TREAS",
+   "st": "MA",
+   "state": "Massachusetts",
+   "office": "TREAS",
+   "title": "Treasurer and Receiver-General",
+   "held": "D",
+   "incumbent": "Deb Goldberg",
+   "incRunning": true,
+   "open": false,
+   "dem": "Deb Goldberg",
+   "rep": "Elizabeth Dionne",
+   "last": {
+    "party": "D",
+    "m": 53.4,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NE-TREAS",
+   "st": "NE",
+   "state": "Nebraska",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Joey Spellerberg",
+   "incRunning": true,
+   "open": false,
+   "dem": "Daniel Ebers",
+   "rep": "Joey Spellerberg",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 44.4,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NV-TREAS",
+   "st": "NV",
+   "state": "Nevada",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "D",
+   "incumbent": "Zach Conine",
+   "open": true,
+   "dem": "Tya Mathis-Coleman",
+   "rep": "Drew Johnson",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 1.7,
+    "yr": 2022
+   },
+   "note": "Open: Conine term-limited"
+  },
+  {
+   "id": "NM-TREAS",
+   "st": "NM",
+   "state": "New Mexico",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "D",
+   "incumbent": "Laura Montoya",
+   "incRunning": true,
+   "open": false,
+   "dem": "Laura Montoya",
+   "rep": "James Ellison",
+   "last": {
+    "party": "D",
+    "m": 6.3,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "OH-TREAS",
+   "st": "OH",
+   "state": "Ohio",
+   "office": "TREAS",
+   "title": "Treasurer of State",
+   "held": "R",
+   "incumbent": "Robert Sprague",
+   "open": true,
+   "dem": "Seth Walsh",
+   "rep": "Jay Edwards",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 17.2,
+    "yr": 2022
+   },
+   "note": "Open: Sprague term-limited, running for secretary of state"
+  },
+  {
+   "id": "OK-TREAS",
+   "st": "OK",
+   "state": "Oklahoma",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Todd Russ",
+   "open": true,
+   "dem": null,
+   "rep": "Cindy Byrd",
+   "others": [
+    {
+     "name": "Kiefer Perry",
+     "party": "L"
+    }
+   ],
+   "last": {
+    "party": "R",
+    "m": 34.1,
+    "yr": 2022
+   },
+   "note": "Russ lost the GOP primary"
+  },
+  {
+   "id": "RI-TREAS",
+   "st": "RI",
+   "state": "Rhode Island",
+   "office": "TREAS",
+   "title": "General Treasurer",
+   "held": "D",
+   "incumbent": "James Diossa",
+   "incRunning": true,
+   "open": false,
+   "dem": "James Diossa",
+   "rep": "Micholas Credle",
+   "last": {
+    "party": "D",
+    "m": 8.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "SC-TREAS",
+   "st": "SC",
+   "state": "South Carolina",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Curtis Loftis",
+   "incRunning": true,
+   "open": false,
+   "dem": "Vincent Coe",
+   "rep": "Curtis Loftis",
+   "last": {
+    "party": "R",
+    "m": 59.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "SD-TREAS",
+   "st": "SD",
+   "state": "South Dakota",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Josh Haeder",
+   "open": true,
+   "dem": "Margaret Kuipers",
+   "rep": "Melissa Hull",
+   "last": {
+    "party": "R",
+    "m": 34.0,
+    "yr": 2022
+   },
+   "note": "Open: Haeder not seeking re-election"
+  },
+  {
+   "id": "VT-TREAS",
+   "st": "VT",
+   "state": "Vermont",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "D",
+   "incumbent": "Michael Pieciak",
+   "incRunning": true,
+   "open": false,
+   "dem": "Michael Pieciak",
+   "rep": "Lynn LaFleur",
+   "others": [
+    {
+     "name": "Zachary Hampl",
+     "party": "P"
+    }
+   ],
+   "last": {
+    "party": "D",
+    "m": 21.7,
+    "yr": 2024
+   }
+  },
+  {
+   "id": "WI-TREAS",
+   "st": "WI",
+   "state": "Wisconsin",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "John Leiber",
+   "incRunning": true,
+   "open": false,
+   "dem": "Yee Leng Xiong",
+   "rep": "John Leiber",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 1.5,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "WY-TREAS",
+   "st": "WY",
+   "state": "Wyoming",
+   "office": "TREAS",
+   "title": "State Treasurer",
+   "held": "R",
+   "incumbent": "Curt Meier",
+   "incRunning": true,
+   "open": false,
+   "dem": null,
+   "rep": "Curt Meier",
+   "last": {
+    "party": "R",
+    "m": 96.0,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "AL-AUD",
+   "st": "AL",
+   "state": "Alabama",
+   "office": "AUD",
+   "title": "State Auditor",
+   "held": "R",
+   "incumbent": "Andrew Sorrell",
+   "incRunning": true,
+   "open": false,
+   "dem": "Violet Edwards",
+   "rep": "Andrew Sorrell",
+   "last": {
+    "party": "R",
+    "m": 70.0,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "AR-AUD",
+   "st": "AR",
+   "state": "Arkansas",
+   "office": "AUD",
+   "title": "Auditor of State",
+   "held": "R",
+   "incumbent": "Dennis Milligan",
+   "incRunning": true,
+   "open": false,
+   "dem": null,
+   "rep": "Dennis Milligan",
+   "last": {
+    "party": "R",
+    "m": 37.8,
+    "yr": 2022
+   },
+   "note": "No Democratic nominee"
+  },
+  {
+   "id": "CA-AUD",
+   "st": "CA",
+   "state": "California",
+   "office": "AUD",
+   "title": "State Controller",
+   "held": "D",
+   "incumbent": "Malia Cohen",
+   "incRunning": true,
+   "open": false,
+   "dem": "Malia Cohen",
+   "rep": "Herb Morgan",
+   "last": {
+    "party": "D",
+    "m": 10.7,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "CT-AUD",
+   "st": "CT",
+   "state": "Connecticut",
+   "office": "AUD",
+   "title": "State Comptroller",
+   "held": "D",
+   "incumbent": "Sean Scanlon",
+   "incRunning": true,
+   "open": false,
+   "dem": "Sean Scanlon",
+   "rep": "Jennifer Tooker",
+   "last": {
+    "party": "D",
+    "m": 10.2,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "DE-AUD",
+   "st": "DE",
+   "state": "Delaware",
+   "office": "AUD",
+   "title": "Auditor of Accounts",
+   "held": "D",
+   "incumbent": "Lydia York",
+   "incRunning": true,
+   "open": false,
+   "dem": "Lydia York",
+   "rep": "April Callaway",
+   "last": {
+    "party": "D",
+    "m": 8.4,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "ID-AUD",
+   "st": "ID",
+   "state": "Idaho",
+   "office": "AUD",
+   "title": "State Controller",
+   "held": "R",
+   "incumbent": "Brandon Woolf",
+   "incRunning": true,
+   "open": false,
+   "dem": "Rakesh Mohan",
+   "rep": "Brandon Woolf",
+   "last": {
+    "party": "R",
+    "m": 42.7,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IL-AUD",
+   "st": "IL",
+   "state": "Illinois",
+   "office": "AUD",
+   "title": "Comptroller",
+   "held": "D",
+   "incumbent": "Susana Mendoza",
+   "open": true,
+   "dem": "Margaret Croke",
+   "rep": "Bryan Drew",
+   "last": {
+    "party": "D",
+    "m": 16.1,
+    "yr": 2022
+   },
+   "note": "Open: Mendoza not seeking re-election"
+  },
+  {
+   "id": "IN-AUD",
+   "st": "IN",
+   "state": "Indiana",
+   "office": "AUD",
+   "title": "Comptroller",
+   "held": "R",
+   "incumbent": "Elise Nieshalla",
+   "incRunning": true,
+   "open": false,
+   "dem": "Jessica Bailey",
+   "rep": "Elise Nieshalla",
+   "last": {
+    "party": "R",
+    "m": 23.7,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "IA-AUD",
+   "st": "IA",
+   "state": "Iowa",
+   "office": "AUD",
+   "title": "Auditor of State",
+   "held": "D",
+   "incumbent": "Rob Sand",
+   "open": true,
+   "dem": "Taylor Wettach",
+   "rep": "Chris Cournoyer",
+   "swing": true,
+   "last": {
+    "party": "D",
+    "m": 0.3,
+    "yr": 2022
+   },
+   "note": "Open: Sand running for governor"
+  },
+  {
+   "id": "MD-AUD",
+   "st": "MD",
+   "state": "Maryland",
+   "office": "AUD",
+   "title": "Comptroller",
+   "held": "D",
+   "incumbent": "Brooke Lierman",
+   "incRunning": true,
+   "open": false,
+   "dem": "Brooke Lierman",
+   "rep": "Sonya Dunn",
+   "last": {
+    "party": "D",
+    "m": 23.3,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "MA-AUD",
+   "st": "MA",
+   "state": "Massachusetts",
+   "office": "AUD",
+   "title": "State Auditor",
+   "held": "D",
+   "incumbent": "Diana DiZoglio",
+   "incRunning": true,
+   "open": false,
+   "dem": "Diana DiZoglio",
+   "rep": null,
+   "others": [
+    {
+     "name": "Al Ozonoff",
+     "party": "L"
+    }
+   ],
+   "last": {
+    "party": "D",
+    "m": 17.4,
+    "yr": 2022
+   },
+   "note": "No Republican nominee"
+  },
+  {
+   "id": "MN-AUD",
+   "st": "MN",
+   "state": "Minnesota",
+   "office": "AUD",
+   "title": "State Auditor",
+   "held": "D",
+   "incumbent": "Julie Blaha",
+   "open": true,
+   "dem": "Zack Filipovich",
+   "rep": "Scott Jensen",
+   "last": {
+    "party": "D",
+    "m": 0.3,
+    "yr": 2022
+   },
+   "note": "Open: Blaha not seeking reelection"
+  },
+  {
+   "id": "MO-AUD",
+   "st": "MO",
+   "state": "Missouri",
+   "office": "AUD",
+   "title": "State Auditor",
+   "held": "R",
+   "incumbent": "Scott Fitzpatrick",
+   "incRunning": true,
+   "open": false,
+   "dem": "Quentin Wilson",
+   "rep": "Scott Fitzpatrick",
+   "last": {
+    "party": "R",
+    "m": 21.8,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NE-AUD",
+   "st": "NE",
+   "state": "Nebraska",
+   "office": "AUD",
+   "title": "Auditor of Public Accounts",
+   "held": "R",
+   "incumbent": "Mike Foley",
+   "incRunning": true,
+   "open": false,
+   "dem": null,
+   "rep": "Mike Foley",
+   "others": [
+    {
+     "name": "John Knight",
+     "party": "AFP"
+    }
+   ],
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 49.2,
+    "yr": 2022
+   },
+   "note": "No Democratic nominee"
+  },
+  {
+   "id": "NV-AUD",
+   "st": "NV",
+   "state": "Nevada",
+   "office": "AUD",
+   "title": "State Controller",
+   "held": "R",
+   "incumbent": "Andy Matthews",
+   "incRunning": true,
+   "open": false,
+   "dem": "Michael MacDougall",
+   "rep": "Andy Matthews",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 4.1,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NM-AUD",
+   "st": "NM",
+   "state": "New Mexico",
+   "office": "AUD",
+   "title": "State Auditor",
+   "held": "D",
+   "incumbent": "Joseph Maestas",
+   "incRunning": true,
+   "open": false,
+   "dem": "Joseph Maestas",
+   "rep": "Joshua Lawrence",
+   "last": {
+    "party": "D",
+    "m": 23.9,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "NY-AUD",
+   "st": "NY",
+   "state": "New York",
+   "office": "AUD",
+   "title": "Comptroller",
+   "held": "D",
+   "incumbent": "Thomas DiNapoli",
+   "incRunning": true,
+   "open": false,
+   "dem": "Thomas DiNapoli",
+   "rep": "Joseph Hernandez",
+   "last": {
+    "party": "D",
+    "m": 14.6,
+    "yr": 2022
+   }
+  },
+  {
+   "id": "OH-AUD",
+   "st": "OH",
+   "state": "Ohio",
+   "office": "AUD",
+   "title": "Auditor of State",
+   "held": "R",
+   "incumbent": "Keith Faber",
+   "open": true,
+   "dem": "Annette Blackwell",
+   "rep": "Frank LaRose",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 17.4,
+    "yr": 2022
+   },
+   "note": "Open: Faber term-limited, running for attorney general"
+  },
+  {
+   "id": "SC-AUD",
+   "st": "SC",
+   "state": "South Carolina",
+   "office": "AUD",
+   "title": "Comptroller General",
+   "held": "D",
+   "incumbent": "Brian Gaines",
+   "open": true,
+   "dem": "Tiffany Boozer",
+   "rep": "Mike Burkhold",
+   "last": {
+    "party": "R",
+    "m": 96.4,
+    "yr": 2022
+   },
+   "note": "Open: appointed Gaines not running"
+  },
+  {
+   "id": "SD-AUD",
+   "st": "SD",
+   "state": "South Dakota",
+   "office": "AUD",
+   "title": "State Auditor",
+   "held": "R",
+   "incumbent": "Rich Sattgast",
+   "open": true,
+   "dem": "Tom Cool",
+   "rep": "Catherine Barranco",
+   "last": {
+    "party": "R",
+    "m": 30.8,
+    "yr": 2022
+   },
+   "note": "Open: Sattgast not seeking re-election"
+  },
+  {
+   "id": "TX-AUD",
+   "st": "TX",
+   "state": "Texas",
+   "office": "AUD",
+   "title": "Comptroller of Public Accounts",
+   "held": "R",
+   "incumbent": "Don Huffines",
+   "incRunning": true,
+   "open": false,
+   "dem": "Sarah Eckhardt",
+   "rep": "Don Huffines",
+   "swing": true,
+   "last": {
+    "party": "R",
+    "m": 15.5,
+    "yr": 2022
+   },
+   "note": "Huffines appointed acting comptroller in July"
+  },
+  {
+   "id": "VT-AUD",
+   "st": "VT",
+   "state": "Vermont",
+   "office": "AUD",
+   "title": "Auditor of Accounts",
+   "held": "D",
+   "incumbent": "Doug Hoffer",
+   "open": true,
+   "dem": "Tim Ashe",
+   "rep": "Ivar Kronick",
+   "last": {
+    "party": "D",
+    "m": 21.4,
+    "yr": 2024
+   },
+   "note": "Open: Hoffer retiring"
+  },
+  {
+   "id": "WY-AUD",
+   "st": "WY",
+   "state": "Wyoming",
+   "office": "AUD",
+   "title": "State Auditor",
+   "held": "R",
+   "incumbent": "Kristi Racines",
+   "incRunning": true,
+   "open": false,
+   "dem": null,
+   "rep": "Kristi Racines",
+   "last": {
+    "party": "R",
+    "m": 97.4,
+    "yr": 2022
+   }
+  }
+ ]
+}
