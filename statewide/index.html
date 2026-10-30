@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Statewide Election Results 2026 · ElectionHub</title>
+<meta name="description" content="Live results for every governor, lieutenant governor, attorney general, secretary of state, treasurer and auditor/comptroller race on the ballot Nov. 3, 2026, in all 50 states.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: masthead, tally strip, office/state filters, one results table per office (or one block per state) */
+:root{
+  --paper:#f7f5f0; --ink:#1b1a17; --muted:#6b675e; --rule:#d9d4c7; --panel:#ffffff;
+  --dem:#2457a6; --dem-soft:#c9d8f0; --dem-ink:#ffffff;
+  --rep:#b8332b; --rep-soft:#f0cdc9; --rep-ink:#ffffff;
+  --ind:#7a6a3a; --ind-soft:#e9e1c8; --none:#ece8de; --warn:#8a5a00; --warn-bg:#fff1cc;
+  --display:"Playfair Display", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#161512; --ink:#ece8de; --muted:#a29d90; --rule:#38352e; --panel:#1e1c18;
+  --dem:#4f83d6; --dem-soft:#25385a; --dem-ink:#ffffff;
+  --rep:#d9584f; --rep-soft:#552824; --rep-ink:#ffffff;
+  --ind:#c4ad6a; --ind-soft:#3d3522; --none:#2a2823; --warn:#ffd27a; --warn-bg:#3a2e12; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#161512; --ink:#ece8de; --muted:#a29d90; --rule:#38352e; --panel:#1e1c18;
+  --dem:#4f83d6; --dem-soft:#25385a; --dem-ink:#ffffff;
+  --rep:#d9584f; --rep-soft:#552824; --rep-ink:#ffffff;
+  --ind:#c4ad6a; --ind-soft:#3d3522; --none:#2a2823; --warn:#ffd27a; --warn-bg:#3a2e12; color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:14px;line-height:1.45;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 40px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+.credit{font:13px/1.4 var(--body);color:var(--muted);margin:0;padding-bottom:10px;border-bottom:1px solid var(--rule)}
+.credit a{color:var(--ink);font-weight:600;text-underline-offset:2px}
+header{border-bottom:3px double var(--ink);padding-bottom:12px;display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 24px}
+h1{font-family:var(--display);font-weight:900;font-size:clamp(28px,4.5vw,44px);line-height:1;margin:0;text-wrap:balance}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+.kicker a{text-decoration:none} .kicker a:hover{text-decoration:underline}
+.dateline{font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase;display:flex;gap:14px;flex-wrap:wrap}
+.live{display:inline-flex;align-items:center;gap:6px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--rep)}
+@media (prefers-reduced-motion:no-preference){.dot{animation:pulse 2s infinite}}
+@keyframes pulse{50%{opacity:.3}}
+.xlinks{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:10px}
+.xlink{display:flex;flex-direction:column;align-items:flex-start;gap:2px;border:1px solid var(--rule);background:var(--panel);padding:10px 14px;text-decoration:none;color:inherit}
+.xlink b{font-family:var(--display);font-size:17px}
+.xlink span{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.xlink:hover b{text-decoration:underline}
+.sample{background:var(--warn-bg);color:var(--warn);border:1px solid var(--warn);padding:10px 14px;font-weight:600}
+.tally{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.tile{padding:12px 16px;border-right:1px solid var(--rule)}
+.tile:last-child{border-right:0}
+.k{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.v{font-family:var(--display);font-weight:700;font-size:30px;line-height:1.1;font-variant-numeric:tabular-nums}
+.v small{font-family:var(--body);font-size:13px;font-weight:500;color:var(--muted)}
+.d{color:var(--dem)} .r{color:var(--rep)} .i{color:var(--ind)}
+.controls{display:flex;flex-direction:column;gap:8px;position:sticky;top:0;z-index:2;background:var(--paper);padding:8px 0;border-bottom:1px solid var(--rule)}
+.filters{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.filters .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:4px}
+.filters button{font:500 13px var(--body);background:var(--panel);color:var(--ink);border:1px solid var(--rule);padding:6px 11px;cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.filters button small{font-family:var(--mono);font-size:11px;opacity:.7;margin-left:4px}
+.filters input{font:13px var(--body);background:var(--panel);color:var(--ink);border:1px solid var(--rule);padding:6px 10px;min-width:0;flex:1 1 180px;max-width:280px}
+.sep{width:1px;align-self:stretch;background:var(--rule);margin:0 4px}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--dem);outline-offset:2px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:14px;height:10px;display:inline-block}
+.sec{display:flex;flex-direction:column;gap:8px;scroll-margin-top:110px}
+.sec h2{font-family:var(--display);font-weight:900;font-size:28px;margin:6px 0 0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;border-top:3px double var(--ink);padding-top:14px}
+.sec h2 small{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted)}
+.sec .sub{font-size:13px;color:var(--muted);margin:0}
+.tablebox{overflow-x:auto;border:1px solid var(--rule);background:var(--panel)}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+th,td{padding:7px 10px;text-align:left;white-space:nowrap;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--panel)}
+td.num,th.num{text-align:right}
+td.first{min-width:150px}
+.sn,.rt{display:block;font-family:var(--mono);font-size:11px;color:var(--muted);font-weight:400;margin-top:2px;white-space:normal;max-width:250px}
+.rt{white-space:nowrap}
+.pill{font:600 12px var(--body);padding:3px 8px;border:1px solid var(--rule);white-space:nowrap;display:inline-block}
+.pill.D{background:var(--dem);color:var(--dem-ink);border-color:var(--dem)}
+.pill.R{background:var(--rep);color:var(--rep-ink);border-color:var(--rep)}
+.pill.I,.pill.NP{background:var(--ind);color:var(--paper);border-color:var(--ind)}
+.res{font-weight:600;font-size:13px;min-width:130px}
+.res.D-WIN{background:var(--dem);color:var(--dem-ink)} .res.R-WIN{background:var(--rep);color:var(--rep-ink)} .res.I-WIN{background:var(--ind);color:var(--paper)}
+.res.D-LEAD{background:var(--dem-soft);color:var(--ink);box-shadow:inset 6px 0 0 0 var(--dem);padding-left:16px}
+.res.R-LEAD{background:var(--rep-soft);color:var(--ink);box-shadow:inset 6px 0 0 0 var(--rep);padding-left:16px}
+.res.I-LEAD{background:var(--ind-soft);color:var(--ink);box-shadow:inset 6px 0 0 0 var(--ind);padding-left:16px}
+.res.D-WIN .vv,.res.R-WIN .vv,.res.I-WIN .vv{color:inherit;opacity:.85}
+.res.NONE{color:var(--muted);font-weight:500}
+.rbar{display:flex;height:8px;margin-top:6px;background:var(--none);min-width:110px}
+.rbar i{display:block;height:100%}
+.rbar .D.won{background:var(--dem)} .rbar .R.won{background:var(--rep)}
+.rbar .D.lead{background:repeating-linear-gradient(135deg,var(--dem) 0 3px,var(--dem-soft) 3px 6px)}
+.rbar .R.lead{background:repeating-linear-gradient(135deg,var(--rep) 0 3px,var(--rep-soft) 3px 6px)}
+.rbar .D.early{background:var(--dem-soft)} .rbar .R.early{background:var(--rep-soft)}
+.res.D-WIN .rbar,.res.R-WIN .rbar,.res.I-WIN .rbar{padding:2px;background:var(--paper)}
+.rbar .mid{width:2px;background:var(--ink);margin:0 -1px;position:relative;z-index:1}
+.tag{font-family:var(--mono);font-size:10px;letter-spacing:.06em;margin-left:6px;padding:1px 4px;border:1px solid currentColor;display:inline-block;line-height:1.25;vertical-align:1px}
+.tag.maybe{border-style:dashed}
+.vv{display:block;font-family:var(--mono);font-size:12px;color:var(--muted);font-weight:400}
+.win{font-weight:600}
+.unopp{color:var(--muted);font-style:italic}
+a.dist{color:inherit;font-weight:600;text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:3px}
+a.dist:hover{text-decoration-color:currentColor}
+.ofc{font-weight:600}
+.statecard .notup{font-size:12px;color:var(--muted);margin:0}
+.statecard.none h2{color:var(--muted)}
+.jump{display:flex;flex-wrap:wrap;gap:4px}
+.jump a{font-family:var(--mono);font-size:11px;padding:2px 5px;border:1px solid var(--rule);text-decoration:none;color:var(--ink);background:var(--panel)}
+.jump a.off{color:var(--muted);border-style:dashed}
+.empty{padding:28px;color:var(--muted);text-align:center;border:1px solid var(--rule)}
+footer{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:6px;border-top:1px solid var(--rule);padding-top:12px}
+a{color:inherit}
+th.hb,td.hb{width:1%}
+.mh{display:none}
+@media (max-width:640px){
+  th.hb,td.hb{display:none}
+  .mh{display:block;font-family:var(--mono);font-size:11px;font-weight:600;margin-top:2px;white-space:normal}
+  .mh.D{color:var(--dem)} .mh.R{color:var(--rep)} .mh.I,.mh.NP{color:var(--ind)}
+  td.first{white-space:normal;min-width:110px;max-width:140px}
+  .res{white-space:normal;min-width:150px}
+  .rbar{min-width:0}
+  .sec h2{font-size:24px}
+  .controls{position:static}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="credit">Built by <a href="https://progressreport.news" target="_blank" rel="noopener">Progress Report</a>. <a href="https://www.progressreport.news/subscribe" target="_blank" rel="noopener">Subscribe</a>. <a href="https://gofund.me/c07ff3456" target="_blank" rel="noopener">Support us</a>.</p>
+  <header>
+    <div>
+      <p class="kicker"><a href="../">ElectionHub</a> · Election Night · Nov. 3, 2026</p>
+      <h1>Statewide Election Results 2026</h1>
+    </div>
+    <div class="dateline">
+      <span class="live"><span class="dot" aria-hidden="true"></span><span id="scope">Statewide offices in all 50 states</span></span>
+      <span id="updated">Loading…</span>
+    </div>
+  </header>
+
+  <nav class="xlinks" aria-label="Other ElectionHub pages">
+    <a class="xlink" href="../"><b>Battleground Congressional races →</b><span>Key Senate and competitive House races</span></a>
+    <a class="xlink" href="../states/"><b>State legislatures →</b><span>All 88 chambers</span></a>
+    <a class="xlink" href="../initiatives/"><b>Ballot initiatives →</b><span>Statewide and local measures</span></a>
+  </nav>
+
+  <div class="sample" id="sampleBanner" hidden>Sample numbers for layout preview only. These are not real results; live results replace them after polls close on Nov. 3.</div>
+
+  <section class="tally" id="tally" aria-label="National summary"></section>
+
+  <div class="controls">
+    <div class="filters" role="toolbar" aria-label="Office" id="officeBar"></div>
+    <div class="filters" role="toolbar" aria-label="Show">
+      <span class="lbl">Show</span>
+      <button data-s="all" aria-pressed="true">All races</button>
+      <button data-s="called" aria-pressed="false">Called</button>
+      <button data-s="flip" aria-pressed="false">Flips</button>
+      <span class="sep" aria-hidden="true"></span>
+      <span class="lbl">Group by</span>
+      <button data-g="office" aria-pressed="true">Office</button>
+      <button data-g="state" aria-pressed="false">State</button>
+      <input id="q" type="search" placeholder="State or candidate" aria-label="Search states or candidates">
+    </div>
+  </div>
+
+  <div class="legend" aria-label="Result key">
+    <span><i style="background:var(--dem)"></i>D win</span>
+    <span><i style="background:var(--dem-soft);box-shadow:inset 3px 0 0 var(--dem)"></i>D leads, 60%+ counted</span>
+    <span><i style="background:var(--rep-soft);box-shadow:inset 3px 0 0 var(--rep)"></i>R leads, 60%+ counted</span>
+    <span><i style="background:var(--rep)"></i>R win</span>
+    <span><i style="background:var(--none);border:1px solid var(--rule)"></i>Not called or too early</span>
+  </div>
+
+  <main id="board" aria-live="polite"><div class="empty">Loading every statewide race…</div></main>
+
+  <footer>
+    <span>Covers every governor, lieutenant governor, attorney general, secretary of state, treasurer (including Florida's chief financial officer) and auditor or comptroller elected statewide on Nov. 3, 2026. Offices that are appointed, chosen by the legislature or elected in other years are listed under each state in the state view. Where the lieutenant governor runs on a joint ticket with the governor, the row says so.</span>
+    <span>Flip: the winner's party differs from the party of the current officeholder. Last margin: the winning party's lead over the runner-up, in percentage points, the last time the office was on the ballot. Margin: Democratic share minus Republican share.</span>
+    <span id="srcs"></span>
+    <span>Results: official state results sites first, then AP and Decision Desk HQ calls as reported. Races update about every 15 minutes on election night until 3am ET, then less often through Nov. 6. A race is marked called only when AP, Decision Desk HQ or a major network calls it. Each race shows when its numbers were last updated.</span>
+  </footer>
+</div>
+
+<script>
+(function(){
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
+  const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
+  const nVotes = v => typeof v==='number' ? v : String(v==null?'':v).split('/').reduce((s,x)=>s+(parseInt(x.replace(/[^0-9]/g,''),10)||0),0);
+  const totV = r => r ? nVotes(r.dem&&r.dem.votes)+nVotes(r.rep&&r.rep.votes)+(r.others||[]).reduce((s,o)=>s+nVotes(o.votes),0) : 0;
+  const OFFICES = [['GOV','Governor','Governors'],['LG','Lieutenant governor','Lieutenant governors'],['AG','Attorney general','Attorneys general'],['SOS','Secretary of state','Secretaries of state'],['TREAS','Treasurer','Treasurers'],['AUD','Auditor / comptroller','Auditors and comptrollers']];
+  const OFF = Object.fromEntries(OFFICES.map(o=>[o[0],o]));
+  const RORDER = {'Toss Up':0,'Lean D':1,'Lean R':2,'Likely D':3,'Likely R':4,'Solid D':5,'Solid R':6};
+  const PNAME = {D:'Democratic',R:'Republican',I:'Independent',NP:'Nonpartisan',L:'Libertarian',G:'Green'};
+  let BASE=null, DATA=new Map(), office='ALL', show='all', group='office', query='';
+
+  // A call (or runoff status) always wins; otherwise the entry with more votes counted
+  function pickRace(a, f){
+    if (!a) return f; if (!f) return a;
+    const fin = r => r.status && !/^(Counting|No results yet|Polls not closed|Not found)$/.test(r.status);
+    if (fin(a) && !fin(f)) return a;
+    if (fin(f) && !fin(a)) return f;
+    if (totV(f) !== totV(a)) return totV(f) > totV(a) ? f : a;
+    return new Date(f.asOf||0) > new Date(a.asOf||0) ? f : a;
+  }
+  function asText(s){
+    if (!s) return '';
+    const d = new Date(s);
+    return /T\d/.test(String(s)) && !isNaN(d) ? d.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : String(s);
+  }
+  const newest = (...ts) => ts.filter(Boolean).sort((a,b)=>new Date(b)-new Date(a))[0];
+  const who = p => p==='D'||p==='R' ? p : p==='I' ? 'Ind.' : p==='NP' ? 'Nonpartisan' : 'Other';
+
+  function stateOf(b){
+    const r = DATA.get(b.id) || null;
+    const st = r ? r.status : '', ldr = r && r.leader;
+    const won = st==='Called' && ldr ? ldr : null;
+    const lead = !won && st==='Counting' && ldr && pctIn(r.reporting)>=60 ? ldr : null;
+    const flip = !!(won && b.held && won!==b.held && !b.nonpartisan);
+    return {r, won, lead, flip, wouldFlip: !!(lead && b.held && lead!==b.held && !b.nonpartisan)};
+  }
+  function raceBar(r){
+    const num = v => { const n = parseFloat(String(v==null?'':v).replace(/[^\d.]/g,'')); return isFinite(n)?n:null; };
+    let d = num(r.dem&&r.dem.pct), p = num(r.rep&&r.rep.pct);
+    if (d==null||p==null){ d = num(r.dem&&r.dem.votes); p = num(r.rep&&r.rep.votes); }
+    if (d==null||p==null||d+p<=0) return '';
+    const dw = (100*d/(d+p)).toFixed(1), rw = (100-dw).toFixed(1);
+    const s = r.status==='Called' ? 'won' : (pctIn(r.reporting)>=60 ? 'lead' : 'early');
+    return `<span class="rbar" role="img" aria-label="Two-party share: D ${dw}%, R ${rw}%"><i class="D ${s}" style="width:${dw}%"></i><i class="mid"></i><i class="R ${s}" style="width:${rw}%"></i></span>`;
+  }
+  function bpURL(b){
+    const s = b.state.replace(/ /g,'_');
+    const t = b.office==='GOV' ? 'gubernatorial' : b.office==='LG' ? 'lieutenant_gubernatorial' : (b.title||OFF[b.office][1]).replace(/ /g,'_');
+    return `https://ballotpedia.org/${s}_${t}_election,_2026`;
+  }
+  function cand(name, live, win, inc){
+    if (!name && !(live&&live.name)) return '<span class="unopp">No candidate</span>';
+    const v = live && live.votes!=null && live.votes!=='' ? `${fmt(live.votes)}${live.pct!=null&&live.pct!==''?' · '+live.pct+'%':''}` : '';
+    return `<span class="${win?'win':''}">${esc((live&&live.name)||name)}${inc?' <span class="vv" style="display:inline">(inc.)</span>':''}</span>${v?`<span class="vv">${v}</span>`:''}`;
+  }
+  function row(b, x, first){
+    const r = x.r || {};
+    let res = '<td class="res NONE">No results yet</td>';
+    if (r.status){
+      const pin = pctIn(r.reporting)>=0 ? `${pctIn(r.reporting)}% in` : '';
+      let cls='NONE', html='', sub='';
+      const k = p => p==='D'||p==='R'||p==='I' ? p : 'I';
+      if (x.won){ cls=k(x.won)+'-WIN'; html=`${who(x.won)} win`; sub=r.calledBy?`Called by ${esc(r.calledBy)}`:''; }
+      else if (x.lead){ cls=k(x.lead)+'-LEAD'; html=`${who(x.lead)} leads`; sub=`Not called · ${pin}`; }
+      else if (r.status==='Counting'){ html='Too early to call'; sub=[r.leader?`${who(r.leader)} ahead`:'Counting', pin].filter(Boolean).join(' · '); }
+      else if (r.status==='Runoff'){ html='Headed to runoff'; sub=r.leader?`${who(r.leader)} finished first`:''; }
+      else html = esc(r.status);
+      const tag = x.flip ? '<span class="tag">FLIP</span>' : x.wouldFlip ? '<span class="tag maybe" title="Office changes parties if the current leader holds on">WOULD FLIP</span>' : '';
+      const oth = (r.others||[]).filter(o=>o.votes!=null&&o.votes!=='').map(o=>`${esc(o.name)} (${esc(o.party||'I')}) ${fmt(o.votes)}${o.pct!=null?' · '+o.pct+'%':''}`).join('<br>');
+      res = `<td class="res ${cls}">${html}${tag}${sub?`<span class="vv">${sub}</span>`:''}${raceBar(r)}${oth?`<span class="vv">${oth}</span>`:''}</td>`;
+    }
+    const mp=r.marginPts, m=(mp==null||mp==='')?'':(mp>0?`<span class="d">D+${Math.abs(mp).toFixed(1)}</span>`:mp<0?`<span class="r">R+${Math.abs(mp).toFixed(1)}</span>`:'Even');
+    const mv = r.marginVotes!=null&&r.marginVotes!=='' ? `<span class="vv">${fmt(r.marginVotes)} votes</span>` : '';
+    const L = b.last, lm = L && L.m!=null ? `<span class="${L.party==='D'?'d':L.party==='R'?'r':'i'}">${esc(L.party)}+${Number(L.m).toFixed(1)}</span><span class="vv">${esc(L.yr)}</span>` : '';
+    const notes = [];
+    if (b.office==='GOV' && b.rating) notes.push(`Cook: ${b.rating}`);
+    if (b.jointTicket) notes.push('Joint ticket with governor');
+    if (b.special) notes.push('Special election');
+    if (b.note) notes.push(b.note);
+    if (b.others && b.others.length) notes.push('Also running: '+b.others.map(o=>`${o.name} (${o.party})`).join(', '));
+    if (b.runoff) notes.push(b.runoff);
+    const heldTxt = b.nonpartisan ? 'Nonpartisan' : b.held==='D'?'D held':b.held==='R'?'R held':b.held==='I'?'Ind. held':'Vacant';
+    const label = first==='state' ? `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} ${esc(b.title)}">${esc(b.state)}</a>` :
+      `<a class="dist" href="${esc(bpURL(b))}" target="_blank" rel="noopener" title="Ballotpedia: ${esc(b.state)} ${esc(b.title)}">${esc(b.title)}</a>`;
+    return `<tr id="${esc(b.id)}"><td class="first">${label}${notes.map(n=>`<span class="sn">${esc(n)}</span>`).join('')}<span class="mh ${b.nonpartisan?'NP':b.held}">${heldTxt}${b.open?' · open':''}</span></td>
+      <td class="hb"><span class="pill ${b.nonpartisan?'NP':b.held}">${b.nonpartisan?'Nonpartisan':esc(PNAME[b.held]||'Vacant')}</span><span class="rt">${b.open?'Open seat':'Incumbent running'}</span></td>
+      ${res}<td>${cand(b.dem, r.dem, x.won==='D', b.incRunning && b.incumbent===b.dem)}</td><td>${cand(b.rep, r.rep, x.won==='R', b.incRunning && b.incumbent===b.rep)}</td>
+      <td class="num">${m}${mv}</td><td class="num"><span class="vv">${esc(r.reporting||'')}</span>${r.source?`<a href="${esc(r.source)}" target="_blank" rel="noopener">Results</a>`:''}${r.asOf?`<span class="vv">as of ${esc(asText(r.asOf))}</span>`:''}</td><td class="num">${lm}</td></tr>`;
+  }
+  const head = first => `<thead><tr><th>${first==='state'?'State':'Office'}</th><th class="hb">Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th><th class="num">Last margin</th></tr></thead>`;
+
+  function matches(b, x){
+    if (office!=='ALL' && b.office!==office) return false;
+    if (show==='called' && !x.won) return false;
+    if (show==='flip' && !x.flip) return false;
+    const q = query.trim().toLowerCase();
+    if (!q) return true;
+    return b.state.toLowerCase().includes(q) || b.st.toLowerCase()===q || (b.title||'').toLowerCase().includes(q)
+      || [b.dem,b.rep,...(b.others||[]).map(o=>o.name)].some(n=>n&&n.toLowerCase().includes(q));
+  }
+  const sortRaces = (a,c) => a[0].office==='GOV' && c[0].office==='GOV'
+    ? (RORDER[a[0].rating]??9)-(RORDER[c[0].rating]??9) || a[0].state.localeCompare(c[0].state)
+    : a[0].state.localeCompare(c[0].state);
+
+  function tally(xs){
+    const t = (list)=>{ let D=0,R=0,O=0,fD=0,fR=0; list.forEach(([b,x])=>{ if(!x.won) return; if(x.won==='D')D++; else if(x.won==='R')R++; else O++; if(x.flip){ if(x.won==='D')fD++; else if(x.won==='R')fR++; } }); return {D,R,O,fD,fR,n:list.length}; };
+    const g = t(xs.filter(([b])=>b.office==='GOV')), a = t(xs);
+    const o = n => n ? `<small> · </small><span class="i">${n}</span><small> other</small>` : '';
+    $('#tally').innerHTML = `
+      <div class="tile"><div class="k">Governors won</div><div class="v"><span class="d">${g.D}</span><small> D </small><span class="r">${g.R}</span><small> R</small>${o(g.O)}</div></div>
+      <div class="tile"><div class="k">Governors called</div><div class="v">${g.D+g.R+g.O}<small> of ${g.n}</small></div></div>
+      <div class="tile"><div class="k">Governor flips</div><div class="v"><span class="d">${g.fD}</span><small> to D </small><span class="r">${g.fR}</span><small> to R</small></div></div>
+      <div class="tile"><div class="k">All races called</div><div class="v">${a.D+a.R+a.O}<small> of ${a.n}</small></div></div>
+      <div class="tile"><div class="k">All races won</div><div class="v"><span class="d">${a.D}</span><small> D </small><span class="r">${a.R}</span><small> R</small>${o(a.O)}</div></div>
+      <div class="tile"><div class="k">All flips</div><div class="v"><span class="d">${a.fD}</span><small> to D </small><span class="r">${a.fR}</span><small> to R</small></div></div>`;
+  }
+
+  function render(){
+    const xs = BASE.races.map(b=>[b,stateOf(b)]);
+    tally(xs);
+    const counts = Object.fromEntries(OFFICES.map(([c])=>[c, BASE.races.filter(b=>b.office===c).length]));
+    $('#officeBar').innerHTML = '<span class="lbl">Office</span>' + [['ALL','All offices',BASE.races.length], ...OFFICES.map(([c,l])=>[c, c==='AUD'?'Auditor/comptroller':c==='LG'?'Lt. governor':c==='SOS'?'Secretary of state':c==='AG'?'Attorney general':l, counts[c]])]
+      .map(([c,l,n])=>`<button data-o="${c}" aria-pressed="${office===c}">${esc(l)}<small>${n}</small></button>`).join('');
+    const vis = xs.filter(([b,x])=>matches(b,x));
+    const emptyMsg = show==='flip' ? 'No offices have flipped yet. A race appears here once it is called for a party other than the current officeholder’s.'
+      : show==='called' ? 'No races called yet in this view.' : 'No races match. Clear the search or pick another office.';
+    let html = '';
+    if (group==='office'){
+      for (const [c,,plural] of OFFICES){
+        if (office!=='ALL' && office!==c) continue;
+        const rows = vis.filter(([b])=>b.office===c).sort(sortRaces);
+        if (!rows.length) continue;
+        const all = xs.filter(([b])=>b.office===c), called = all.filter(([,x])=>x.won).length;
+        const fD = all.filter(([,x])=>x.flip&&x.won==='D').length, fR = all.filter(([,x])=>x.flip&&x.won==='R').length;
+        const flips = fD||fR ? ` · flips: ${[fD?fD+' to D':'',fR?fR+' to R':''].filter(Boolean).join(', ')}` : '';
+        const heldD = all.filter(([b])=>b.held==='D').length, heldR = all.filter(([b])=>b.held==='R').length;
+        html += `<section class="sec" id="sec-${c}"><h2>${plural} <small>${all.length} races · ${heldD} D-held, ${heldR} R-held · ${called} called${flips}</small></h2>
+          ${c==='GOV'?'<p class="sub">Sorted by Cook Political Report rating, most competitive first.</p>':''}
+          <div class="tablebox"><table>${head('state')}<tbody>${rows.map(([b,x])=>row(b,x,'state')).join('')}</tbody></table></div></section>`;
+      }
+    } else {
+      const byState = new Map(BASE.states.map(s=>[s.st,[]]));
+      vis.forEach(p=>{ if (byState.has(p[0].st)) byState.get(p[0].st).push(p); });
+      const q = query.trim().toLowerCase();
+      const plain = show==='all' && office==='ALL';
+      html += `<nav class="jump" aria-label="Jump to state">${BASE.states.map(s=>`<a href="#st-${s.st}" class="${byState.get(s.st).length?'':'off'}" title="${esc(s.state)}">${s.st}</a>`).join('')}</nav>`;
+      for (const s of BASE.states){
+        const rows = byState.get(s.st).sort((a,c)=>Object.keys(OFF).indexOf(a[0].office)-Object.keys(OFF).indexOf(c[0].office));
+        const nameHit = !q || s.state.toLowerCase().includes(q) || s.st.toLowerCase()===q;
+        if (!rows.length && !(plain && nameHit)) continue;
+        const nu = Object.entries(s.notUp||{}).sort((a,c)=>Object.keys(OFF).indexOf(a[0])-Object.keys(OFF).indexOf(c[0])).map(([c,why])=>`${OFF[c][1]}: ${why}`).join(' · ');
+        html += `<section class="sec statecard${rows.length?'':' none'}" id="st-${s.st}"><h2>${esc(s.state)} <small>${rows.length ? `${rows.length} race${rows.length>1?'s':''}` : 'No races for these offices this year'}</small></h2>
+          ${rows.length?`<div class="tablebox"><table>${head('office')}<tbody>${rows.map(([b,x])=>row(b,x,'office')).join('')}</tbody></table></div>`:''}
+          ${nu?`<p class="notup">Not on the ballot: ${esc(nu)}</p>`:''}</section>`;
+      }
+    }
+    $('#board').innerHTML = /<section/.test(html) ? html : (group==='state'?html:'') + `<div class="empty">${emptyMsg}</div>`;
+  }
+
+  document.addEventListener('click', e=>{
+    const b = e.target.closest('.filters button'); if (!b) return;
+    if (b.dataset.o){ office = b.dataset.o; }
+    if (b.dataset.s){ show = b.dataset.s; document.querySelectorAll('[data-s]').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); }
+    if (b.dataset.g){ group = b.dataset.g; document.querySelectorAll('[data-g]').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); }
+    render();
+  });
+  let qt; $('#q').addEventListener('input', e=>{ clearTimeout(qt); qt=setTimeout(()=>{ query=e.target.value; if (query.trim() && office!=='ALL') office='ALL'; render(); }, 150); });
+
+  async function getJSON(u){ try{ const r = await fetch(u+'?t='+Date.now(), {cache:'no-store'}); return r.ok ? await r.json() : null; }catch(e){ return null; } }
+  async function loadData(){
+    // This page's own results, plus the governor results the states page uses (same ids), so both stay in step
+    const [own, gov] = await Promise.all([getJSON('data.json'), getJSON('../states/governors.json')]);
+    const m = new Map();
+    for (const r of ((own&&own.races)||[])) m.set(String(r.id).toUpperCase(), r);
+    for (const r of ((gov&&gov.races)||[])){ const k = String(r.id).toUpperCase(); m.set(k, pickRace(m.get(k), r)); }
+    DATA = m;
+    $('#sampleBanner').hidden = !((own&&own.sample)||(gov&&gov.sample));
+    const tu = newest(own&&own.updated, gov&&gov.updated), t = tu ? new Date(tu) : null;
+    $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
+  }
+  async function boot(){
+    BASE = await getJSON('baseline.json');
+    if (!BASE){ $('#board').innerHTML = '<div class="empty">The race list couldn\'t load. Refresh the page to try again.</div>'; return; }
+    const nStates = new Set(BASE.races.map(b=>b.st)).size;
+    $('#scope').textContent = `${BASE.races.length} races in ${nStates} states`;
+    $('#srcs').textContent = 'Candidates and offices: ' + (BASE.sources||[]).join('; ') + '.' + (BASE.ratingsSource ? ' Governor ratings: ' + BASE.ratingsSource + '.' : '');
+    await loadData(); render();
+    const h = decodeURIComponent(location.hash.slice(1));
+    if (h){ if (/^st-/.test(h)){ group='state'; office='ALL'; document.querySelectorAll('[data-g]').forEach(x=>x.setAttribute('aria-pressed', String(x.dataset.g==='state'))); render(); }
+      else if (BASE.races.some(b=>b.id===h)){ office='ALL'; render(); }
+      const d=document.getElementById(h); if (d) d.scrollIntoView(); }
+    setInterval(async ()=>{ await loadData(); render(); }, 60000);
+  }
+  boot();
+})();
+</script>
+</body>
+</html>
