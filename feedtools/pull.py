@@ -105,6 +105,7 @@ def read_mn(date):
             text = fetch(base + f)
         except Exception as e:
             print(f'MN {f}: {e}', file=sys.stderr)
+            FAILED.add('MN')
             continue
         for line in text.splitlines():
             p = line.split(';')
@@ -136,6 +137,7 @@ def read_wa(date):
             text = fetch(url)
         except Exception as e:
             print(f'WA {f}: {e}', file=sys.stderr)
+            FAILED.add('WA')
             continue
         for row in csv.DictReader(io.StringIO(text)):
             race = row['Race']
@@ -151,6 +153,9 @@ def read_wa(date):
             e[0].append((row['Candidate'], party_of(row['Party'], row['Candidate']), int(row['Votes'] or 0)))
     return out
 
+
+# States with any failed download this pass; their last good numbers are carried over.
+FAILED = set()
 
 READERS = {'NC': read_nc, 'MN': read_mn, 'WA': read_wa}
 
@@ -179,6 +184,7 @@ def main():
             data = reader(a.date)
         except Exception as e:
             log.append(f'{st}: FAILED {e}')
+            FAILED.add(st)
             continue
         n_c = n_s = 0
         # Congress (Senate + House) by baseline id
@@ -232,6 +238,13 @@ def main():
         strip = lambda r: {k: v for k, v in r.items() if k != 'asOf'}
         key = lambda r: r.get('id') or f"{r.get('state')}|{r.get('chamber')}|{r.get('district')}"
         prev = {key(r): r for r in old.get('races', [])}
+        # a state whose site failed this pass keeps its last good numbers instead of dropping out
+        have = {key(r) for r in races}
+        st_of = lambda r: r.get('state') or str(r.get('id', ''))[:2]
+        kept = [r for r in old.get('races', []) if st_of(r) in FAILED and key(r) not in have]
+        if kept:
+            log.append(f'{name}: kept {len(kept)} earlier races for {", ".join(sorted(FAILED))}')
+            races = races + kept
         for r in races:  # a race whose numbers didn't move keeps the time they last changed
             p = prev.get(key(r))
             if p and strip(p) == strip(r):

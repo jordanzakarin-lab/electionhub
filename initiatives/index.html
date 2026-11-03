@@ -302,13 +302,24 @@ a{color:inherit}
     try{
       const res = await fetch('data.json?t='+Date.now(), {cache:'no-store'});
       if (!res.ok) throw new Error(res.status);
-      DATA = await res.json(); DATA.measures = (DATA.measures||[]).map(fixCat);
+      const j = await res.json();
+      if (!Array.isArray(j.measures) || !j.measures.length) throw new Error('no measures');
+      DATA = j; DATA.measures = DATA.measures.map(fixCat);
       $('#sampleBanner').hidden = !DATA.sample;
       const t = DATA.updated ? new Date(DATA.updated) : null;
       $('#updated').textContent = t && !isNaN(t) ? 'Updated '+t.toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET' : 'Awaiting first results';
       fillCats(); render();
     }catch(err){
-      if (!DATA.measures.length) $('#groups').innerHTML = '<div class="empty">The measure list couldn\'t load. Refresh the page to try again.</div>';
+      // results file unreadable or empty: keep what's on screen, or fall back to the fixed measure list
+      if (DATA.measures.length) return;
+      try{
+        const b = await fetch('baseline.json', {cache:'no-store'});
+        if (!b.ok) throw new Error(b.status);
+        const j = await b.json(); if (!Array.isArray(j.measures) || !j.measures.length) throw new Error('empty');
+        DATA = {updated:null, sample:false, measures:j.measures.map(fixCat)}; $('#updated').textContent = 'Results reloading…'; fillCats(); render();
+      }catch(e2){
+        $('#groups').innerHTML = '<div class="empty">The measure list couldn\'t load. Refresh the page to try again.</div>';
+      }
     }
   }
   load(); setInterval(load, 60000);

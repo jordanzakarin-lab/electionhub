@@ -29,7 +29,7 @@ concurrency:
 jobs:
   pull:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 360  # GitHub maximum; the 7:20pm loop runs ~345 min plus a final pull
     steps:
       - uses: actions/checkout@v4
       - name: Poll feeds
