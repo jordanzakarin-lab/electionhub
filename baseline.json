@@ -1600,6 +1600,47 @@
     "m": 45.6,
     "redrawn": true
    }
+  },
+  {
+   "id": "CA-41",
+   "st": "CA",
+   "state": "California",
+   "district": "41",
+   "rating": "Redrawn",
+   "alt": "Cook: Solid D",
+   "held": "R",
+   "incumbent": "Linda Sánchez",
+   "open": false,
+   "dem": "Linda Sánchez",
+   "rep": "Mitch Clemmons",
+   "note": "Redrawn under Prop. 50. Calvert (R) is running in the 40th; Sánchez (D) moved over from the 38th",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 3.4,
+    "redrawn": true,
+    "note": "Calvert's 2024 margin in the old 41st District"
+   }
+  },
+  {
+   "id": "UT-01",
+   "st": "UT",
+   "state": "Utah",
+   "district": "1",
+   "rating": "Redrawn",
+   "alt": "Cook: Solid D",
+   "held": "R",
+   "incumbent": null,
+   "open": true,
+   "dem": "Ben McAdams",
+   "rep": "Riley Owen",
+   "note": "Open: a court-imposed map made the 1st a Salt Lake County Democratic seat",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 31.0,
+    "redrawn": true
+   }
   }
  ],
  "senate": [
@@ -1882,5 +1923,5 @@
  "senateRatingsSource": "Cook Political Report Senate race ratings, Oct. 20, 2026",
  "lastSource": "Last-election margins: Wikipedia's 2024 House and 2020/2022/2024 Senate election results",
  "otherSource": "Other forecasters: seats Cook rates Solid that Sabato's Crystal Ball (Oct. 20, 2026) or Split Ticket (Oct. 24, 2026) rates Lean or Toss Up",
- "redrawnSource": "Redistricting flips: seats Cook rates Solid for a party other than the one holding them, after Texas, California and Tennessee redrew their maps"
+ "redrawnSource": "Redistricting flips: seats Cook rates Solid for a party other than the one holding them, after Texas, California, Tennessee and Utah redrew their maps"
 }
