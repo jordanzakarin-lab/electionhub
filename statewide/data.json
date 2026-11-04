@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:59:20-05:00",
+ "updated": "2026-11-03T21:14:25-05:00",
  "sample": false,
  "races": [
   {
@@ -1911,6 +1911,48 @@
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-lt-governor-general-election",
    "asOf": "2026-11-03T20:59:20-05:00",
    "ddhqUpdated": "2026-11-04 01:53:36.006205+00"
+  },
+  {
+   "id": "NY-GOV",
+   "status": "Called",
+   "leader": "D",
+   "reporting": null,
+   "dem": {
+    "name": "Kathy Hochul",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Bruce Blakeman",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.observertoday.com/news/top-stories/2026/11/hochul-wins-re-election-as-state-governor-ap-declares",
+   "asOf": "2026-11-03T21:14:25-05:00"
+  },
+  {
+   "id": "NY-LG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": null,
+   "dem": {
+    "name": "Adrienne Adams",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Todd Hood",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.observertoday.com/news/top-stories/2026/11/hochul-wins-re-election-as-state-governor-ap-declares",
+   "asOf": "2026-11-03T21:14:25-05:00"
   }
  ]
 }
