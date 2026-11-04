@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:23:50-05:00",
+ "updated": "2026-11-04T00:29:58-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -293,73 +293,73 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "79%",
+   "reporting": "83%",
    "dem": {
     "name": "Peggy Flanagan",
-    "votes": 1200745,
-    "pct": 53.8
+    "votes": 1256855,
+    "pct": 53.2
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 971673,
-    "pct": 43.5
+    "votes": 1040478,
+    "pct": 44.1
    },
-   "other": 60949,
-   "marginPts": 10.3,
-   "marginVotes": 229072,
+   "other": 64589,
+   "marginPts": 9.1,
+   "marginVotes": 216377,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
-   "asOf": "2026-11-04T00:19:40-05:00",
+   "asOf": "2026-11-04T00:29:58-05:00",
    "feed": true,
-   "totalVotes": 2233367,
+   "totalVotes": 2361922,
    "id": "MN-SEN"
   },
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "83%",
+   "reporting": "84%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 130251,
+    "votes": 130521,
     "pct": 48.9
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": 135781,
+    "votes": 136186,
     "pct": 51.0
    },
    "other": 308,
    "marginPts": -2.1,
-   "marginVotes": 5530,
+   "marginVotes": 5665,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T00:19:40-05:00",
+   "asOf": "2026-11-04T00:29:58-05:00",
    "feed": true,
-   "totalVotes": 266340,
+   "totalVotes": 267015,
    "id": "MN-01"
   },
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "78%",
+   "reporting": "99%",
    "dem": {
     "name": "Matt Little",
-    "votes": 170258,
-    "pct": 59.5
+    "votes": 210215,
+    "pct": 57.2
    },
    "rep": {
     "name": "Eric Pratt",
-    "votes": 115612,
-    "pct": 40.4
+    "votes": 157273,
+    "pct": 42.8
    },
-   "other": 240,
-   "marginPts": 19.1,
-   "marginVotes": 54646,
+   "other": 329,
+   "marginPts": 14.4,
+   "marginVotes": 52942,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T00:01:15-05:00",
+   "asOf": "2026-11-04T00:29:58-05:00",
    "feed": true,
-   "totalVotes": 286110,
+   "totalVotes": 367817,
    "id": "MN-02"
   }
  ]
