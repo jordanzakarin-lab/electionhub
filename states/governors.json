@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:50:00-05:00",
+ "updated": "2026-11-04T01:01:25-05:00",
  "sample": false,
  "races": [
   {
@@ -190,28 +190,28 @@
    "id": "MI-GOV",
    "status": "Called",
    "leader": "D",
-   "reporting": "24%",
+   "reporting": "43%",
    "dem": {
     "name": "Jocelyn Benson",
-    "votes": 663900,
-    "pct": 56.1
+    "votes": 1137403,
+    "pct": 53.0
    },
    "rep": {
     "name": "John James",
-    "votes": 500366,
-    "pct": 42.3
+    "votes": 971690,
+    "pct": 45.3
    },
-   "marginPts": 13.8,
-   "marginVotes": 163534,
-   "calledBy": "WLUC (projection)",
-   "source": "https://www.uppermichiganssource.com/2026/11/04/election-results-jocelyn-benson-projected-next-michigan-governor/",
-   "asOf": "2026-11-03T23:30:00-05:00",
+   "marginPts": 7.7,
+   "marginVotes": 165713,
+   "calledBy": "DDHQ",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-governor-general-election",
+   "asOf": "2026-11-03T23:34:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:30.129034+00",
    "others": [
     {
      "name": "Anthony Hudson",
      "party": "LIB",
-     "votes": 10180,
+     "votes": 20080,
      "pct": 0.9
     },
     {
