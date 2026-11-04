@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:25:30-05:00",
+ "updated": "2026-11-04T01:31:00-05:00",
  "sample": false,
  "races": [
   {
@@ -207,7 +207,7 @@
     "pct": 49.7
    },
    "rep": {
-    "name": "María Elvira Salazar",
+    "name": "Mar\u00eda Elvira Salazar",
     "votes": 123838,
     "pct": 50.3
    },
@@ -952,7 +952,7 @@
   },
   {
    "id": "MI-SEN",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "27%",
    "dem": {
@@ -967,9 +967,9 @@
    },
    "marginPts": 8.7,
    "marginVotes": 115387,
-   "calledBy": null,
-   "source": "https://x.com/DecisionDeskHQ/status/2117821439864713416",
-   "asOf": "2026-11-03T23:59:43-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-el-sayed-wins-michigan-senate-race-ddhq-projects",
+   "asOf": "2026-11-04T01:31:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:18.768446+00",
    "others": [
     {
@@ -2759,7 +2759,7 @@
      "pct": 1.2
     },
     {
-     "name": "Micheál O'Leary",
+     "name": "Miche\u00e1l O'Leary",
      "party": "IND",
      "votes": 645,
      "pct": 0.3
