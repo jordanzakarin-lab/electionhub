@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:21:08-05:00",
+ "updated": "2026-11-04T03:49:32-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -6105,25 +6105,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "94%",
+   "reporting": "100%",
    "dem": {
     "name": "Charles A. McConaughay",
-    "votes": 5386,
-    "pct": 29.1
+    "votes": 5998,
+    "pct": 29.4
    },
    "rep": {
     "name": "Bryan Lawrence",
-    "votes": 13126,
-    "pct": 70.9
+    "votes": 14400,
+    "pct": 70.6
    },
    "other": 12,
-   "marginPts": -41.8,
-   "marginVotes": 7740,
+   "marginPts": -41.2,
+   "marginVotes": 8402,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T02:22:03-05:00",
+   "asOf": "2026-11-04T03:49:32-05:00",
    "feed": true,
-   "totalVotes": 18524,
+   "totalVotes": 20410,
    "state": "MN",
    "chamber": "House",
    "district": "HD-27B",
@@ -9045,25 +9045,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "97%",
+   "reporting": "100%",
    "dem": {
     "name": "Brandon Van Dover",
-    "votes": 12001,
-    "pct": 30.5
+    "votes": 12619,
+    "pct": 30.6
    },
    "rep": {
     "name": "Andrew Mathews",
-    "votes": 27317,
-    "pct": 69.4
+    "votes": 28596,
+    "pct": 69.3
    },
    "other": 20,
-   "marginPts": -38.9,
-   "marginVotes": 15316,
+   "marginPts": -38.7,
+   "marginVotes": 15977,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T02:50:36-05:00",
+   "asOf": "2026-11-04T03:49:32-05:00",
    "feed": true,
-   "totalVotes": 39338,
+   "totalVotes": 41235,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-27",
