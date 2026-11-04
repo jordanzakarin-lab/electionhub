@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:08:00-05:00",
+ "updated": "2026-11-04T13:38:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1741,33 +1741,34 @@
   },
   {
    "id": "MI-04",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "97%",
    "dem": {
     "name": "Sean McCann",
-    "votes": 185440,
+    "votes": null,
     "pct": 50.1
    },
    "rep": {
     "name": "Bill Huizenga",
-    "votes": 178741,
+    "votes": null,
     "pct": 48.3
    },
    "marginPts": 1.8,
-   "marginVotes": 6699,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-4-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "marginVotes": null,
+   "calledBy": "NBC",
+   "source": "https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-4-results",
+   "asOf": "2026-11-04T13:38:00-05:00",
    "ddhqUpdated": "2026-11-04 16:05:13.751814+00",
    "others": [
     {
      "name": "Shafina Barnett",
      "party": "GRE",
-     "votes": 5679,
+     "votes": null,
      "pct": 1.5
     }
-   ]
+   ],
+   "totalVotes": 369860
   },
   {
    "id": "MI-08",
