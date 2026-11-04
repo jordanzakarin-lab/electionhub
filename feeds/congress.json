@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:00:34-05:00",
+ "updated": "2026-11-04T01:10:47-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -293,49 +293,49 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "92%",
+   "reporting": "94%",
    "dem": {
     "name": "Peggy Flanagan",
-    "votes": 1435318,
-    "pct": 54.3
+    "votes": 1469676,
+    "pct": 54.4
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 1137866,
-    "pct": 43.0
+    "votes": 1156950,
+    "pct": 42.8
    },
-   "other": 72123,
-   "marginPts": 11.3,
-   "marginVotes": 297452,
+   "other": 73627,
+   "marginPts": 11.6,
+   "marginVotes": 312726,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
-   "asOf": "2026-11-04T01:00:34-05:00",
+   "asOf": "2026-11-04T01:10:47-05:00",
    "feed": true,
-   "totalVotes": 2645307,
+   "totalVotes": 2700253,
    "id": "MN-SEN"
   },
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "94%",
+   "reporting": "96%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 148245,
-    "pct": 49.4
+    "votes": 154159,
+    "pct": 49.6
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": 151776,
-    "pct": 50.5
+    "votes": 155999,
+    "pct": 50.2
    },
-   "other": 364,
-   "marginPts": -1.1,
-   "marginVotes": 3531,
+   "other": 375,
+   "marginPts": -0.6,
+   "marginVotes": 1840,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T01:00:34-05:00",
+   "asOf": "2026-11-04T01:10:47-05:00",
    "feed": true,
-   "totalVotes": 300385,
+   "totalVotes": 310533,
    "id": "MN-01"
   },
   {
