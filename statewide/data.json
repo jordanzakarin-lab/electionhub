@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:50:00-05:00",
+ "updated": "2026-11-04T00:58:00-05:00",
  "sample": false,
  "races": [
   {
@@ -289,7 +289,7 @@
   },
   {
    "id": "VT-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "77%",
    "dem": {
@@ -304,14 +304,14 @@
    },
    "marginPts": 33.6,
    "marginVotes": 76065,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/vermont-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "WCAX",
+   "source": "https://www.wcax.com/2026/11/04/copeland-hanzas-defeats-challenger-vt-secretary-state-race/",
+   "asOf": "2026-11-04T00:58:00-05:00",
    "ddhqUpdated": "2026-11-04 03:18:22.885538+00"
   },
   {
    "id": "VT-AUD",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "77%",
    "dem": {
@@ -326,9 +326,9 @@
    },
    "marginPts": 36.2,
    "marginVotes": 81464,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/vermont-auditor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "WCAX",
+   "source": "https://www.wcax.com/2026/11/04/copeland-hanzas-defeats-challenger-vt-secretary-state-race/",
+   "asOf": "2026-11-04T00:58:00-05:00",
    "ddhqUpdated": "2026-11-04 03:18:24.504176+00"
   },
   {
@@ -376,7 +376,7 @@
   },
   {
    "id": "VT-SOS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "77%",
    "dem": {
@@ -391,9 +391,9 @@
    },
    "marginPts": 24.8,
    "marginVotes": 55878,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/vermont-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "WCAX",
+   "source": "https://www.wcax.com/2026/11/04/copeland-hanzas-defeats-challenger-vt-secretary-state-race/",
+   "asOf": "2026-11-04T00:58:00-05:00",
    "ddhqUpdated": "2026-11-04 03:18:23.038992+00",
    "others": [
     {
@@ -742,7 +742,7 @@
   },
   {
    "id": "AL-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "",
    "dem": {
@@ -757,13 +757,13 @@
    },
    "marginPts": -6.1,
    "marginVotes": 93426,
-   "calledBy": null,
-   "source": "https://www.alreporter.com/election-results",
-   "asOf": "2026-11-03T23:54:00-05:00"
+   "calledBy": "DDHQ",
+   "source": "https://www.alreporter.com/2026/11/03/alabama-election-coverage-2026-live-updates",
+   "asOf": "2026-11-04T00:58:00-05:00"
   },
   {
    "id": "TN-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "",
    "dem": {
@@ -778,9 +778,9 @@
    },
    "marginPts": -2.8,
    "marginVotes": 59338,
-   "calledBy": null,
-   "source": "https://www.wsmv.com/2026/11/04/marsha-blackburn-declares-herself-winner-tennessee-governor-race-without-official-results-heres-what-we-know/",
-   "asOf": "2026-11-04T00:29:00-05:00"
+   "calledBy": "TN Secretary of State",
+   "source": "https://www.wsmv.com/2026/11/04/marsha-blackburn-becomes-first-woman-elected-tennessee-governors-office-per-secretary-state/",
+   "asOf": "2026-11-04T00:58:00-05:00"
   },
   {
    "id": "OK-GOV",
@@ -1064,7 +1064,7 @@
   },
   {
    "id": "IL-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "47%",
    "dem": {
@@ -1079,9 +1079,9 @@
    },
    "marginPts": 31.5,
    "marginVotes": 639087,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/illinois-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.wgem.com/2026/11/04/democrat-kwame-raoul-wins-reelection-attorney-general-illinois/",
+   "asOf": "2026-11-04T00:58:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:30.606147+00"
   },
   {
@@ -1413,24 +1413,24 @@
   },
   {
    "id": "IL-AUD",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "46%",
+   "reporting": "81%",
    "dem": {
     "name": "Margaret Croke",
-    "votes": 1336243,
-    "pct": 66.7
+    "votes": null,
+    "pct": 60.8
    },
    "rep": {
     "name": "Bryan Drew",
-    "votes": 667201,
-    "pct": 33.3
+    "votes": null,
+    "pct": 39.2
    },
-   "marginPts": 33.4,
-   "marginVotes": 669042,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/illinois-comptroller-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "marginPts": 21.6,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://shawlocal.com/news/2026/11/04/2026-election-illinois-voters-choose-new-comptroller-democrat-margaret-croke",
+   "asOf": "2026-11-04T00:58:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:36.684091+00"
   },
   {
@@ -2087,7 +2087,7 @@
   },
   {
    "id": "MD-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "66%",
    "dem": {
@@ -2102,9 +2102,9 @@
    },
    "marginPts": 32.5,
    "marginVotes": 442147,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maryland-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/us/articles/democrat-anthony-brown-wins-reelection-035836619.html",
+   "asOf": "2026-11-04T00:58:00-05:00",
    "ddhqUpdated": "2026-11-04 03:15:27.726021+00"
   },
   {
@@ -2455,7 +2455,7 @@
   },
   {
    "id": "NY-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "55%",
    "dem": {
@@ -2470,14 +2470,14 @@
    },
    "marginPts": 35.0,
    "marginVotes": 1184601,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.fox5ny.com/news/ny-attorney-general-letitia-james-election-midterms-politics-win-new-york",
+   "asOf": "2026-11-04T00:58:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:12.571376+00"
   },
   {
    "id": "NY-AUD",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "55%",
    "dem": {
@@ -2492,9 +2492,9 @@
    },
    "marginPts": 42.2,
    "marginVotes": 1419233,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-comptroller-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "Spectrum News",
+   "source": "https://ny1.com/nyc/all-boroughs/politics/2026/11/04/november-2026-election-new-york-attorney-general-state-comptroller",
+   "asOf": "2026-11-04T00:58:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:55.084041+00"
   },
   {
@@ -3059,6 +3059,107 @@
    "calledBy": "AP",
    "source": "https://www.bostonglobe.com/2026/11/03/metro/massachusetts-statewide-dizoglio-goldberg-campbell-galvin/",
    "asOf": "2026-11-04T00:00:00-05:00"
+  },
+  {
+   "id": "ID-GOV",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "",
+   "dem": {
+    "name": "Terri Pickens",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Brad Little",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/politics/articles/republican-brad-little-wins-reelection-053636593.html",
+   "asOf": "2026-11-04T00:58:00-05:00"
+  },
+  {
+   "id": "HI-GOV",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Josh Green",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Gary Cordery",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/us/articles/democrat-josh-green-wins-reelection-050016180.html",
+   "asOf": "2026-11-04T00:58:00-05:00"
+  },
+  {
+   "id": "HI-LG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Derek Kawakami",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Daniel Anthony",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/us/articles/democrat-josh-green-wins-reelection-050016180.html",
+   "asOf": "2026-11-04T00:58:00-05:00"
+  },
+  {
+   "id": "CA-LG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Fiona Ma",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Gloria Romero",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://santamariatimes.com/ap/washington/democrat-fiona-ma-wins-election-for-lieutenant-governor-in-california/article_34b73205-6aaa-5fd2-a153-1f5b42d19e61.html",
+   "asOf": "2026-11-04T00:58:00-05:00"
+  },
+  {
+   "id": "OK-TREAS",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "",
+   "dem": null,
+   "rep": {
+    "name": "Cindy Byrd",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.newson6.com/oklahoma-politics/oklahoma-state-treasurer-election-results",
+   "asOf": "2026-11-04T00:58:00-05:00"
   }
  ]
 }
