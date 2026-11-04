@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T08:34:00-05:00",
+  "updated": "2026-11-04T08:40:00-05:00",
   "sample": false,
   "races": [
     {
@@ -3878,6 +3878,60 @@
       "calledBy": "Nevada Independent",
       "source": "https://thenevadaindependent.com/article/a-blue-bloodbath-10-big-takeaways-from-nevadas-2026-midterms",
       "asOf": "2026-11-04T08:32:00-05:00"
+    },
+    {
+      "id": "AR-AG",
+      "status": "Called",
+      "leader": "R",
+      "reporting": "",
+      "dem": null,
+      "rep": {
+        "name": "Tim Griffin",
+        "votes": null,
+        "pct": null
+      },
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": "MultiState",
+      "source": "https://www.multistate.us/elections/results/arkansas-2026",
+      "asOf": "2026-11-04T08:40:00-05:00",
+      "note": "Unopposed"
+    },
+    {
+      "id": "AR-TREAS",
+      "status": "Called",
+      "leader": "R",
+      "reporting": "",
+      "dem": null,
+      "rep": {
+        "name": "John Thurston",
+        "votes": null,
+        "pct": null
+      },
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": "MultiState",
+      "source": "https://www.multistate.us/elections/results/arkansas-2026",
+      "asOf": "2026-11-04T08:40:00-05:00",
+      "note": "Unopposed"
+    },
+    {
+      "id": "AR-AUD",
+      "status": "Called",
+      "leader": "R",
+      "reporting": "",
+      "dem": null,
+      "rep": {
+        "name": "Dennis Milligan",
+        "votes": null,
+        "pct": null
+      },
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": "MultiState",
+      "source": "https://www.multistate.us/elections/results/arkansas-2026",
+      "asOf": "2026-11-04T08:40:00-05:00",
+      "note": "Unopposed"
     }
   ]
 }
