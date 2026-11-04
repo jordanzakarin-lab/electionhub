@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:12:00-05:00",
+ "updated": "2026-11-03T21:45:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -2921,8 +2921,8 @@
    "measure": "Amendment 1 — Citizenship Voting Requirement",
    "ballotNo": "Amendment 1",
    "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -2935,10 +2935,10 @@
    },
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "WV MetroNews",
+   "note": "MetroNews: voters approved; Yes led by more than 100,000 votes (8:45 PM ET). Vote totals not yet entered.",
+   "source": "https://wvmetronews.com/2026/11/03/voters-approve-constitutional-amendment-forbidding-noncitizens-from-voting/",
+   "asOf": "Nov 3, 9:45 PM ET"
   },
   {
    "category": "Voting & Democracy",
