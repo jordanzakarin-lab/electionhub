@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:01:00-05:00",
+ "updated": "2026-11-04T11:07:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -152,7 +152,10 @@
    "R": 21,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 4, 11:07 AM ET",
+   "control": "D",
+   "calledBy": "DLCC (declared; confirmed by editor)",
+   "controlSource": "https://www.dlcc.org/news/press/breaking-dlcc-makes-historic-gains-sweeping-the-statehouse-map-with-hundreds-of-seat-flips-and-multiple-new-majorities/"
   },
   "GA-S": {
    "D": 10,
@@ -612,7 +615,7 @@
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (Ballotpedia candidate lists) + 1 concession (Villalobos R conceded to Guerrero Sáenz D, Texas Tribune), counted as called",
-   "asOf": "Nov 3, 11:28 PM ET",
+   "asOf": "Nov 4, 11:07 AM ET",
    "flipsD": 1,
    "flipsR": 0,
    "flipClaim": {
@@ -620,7 +623,10 @@
     "by": "Texas Tribune",
     "source": "https://www.texastribune.org/2026/11/03/texas-house-legislature-outcomes-control-republicans-democrats-2026/",
     "note": "control not yet called"
-   }
+   },
+   "control": "D",
+   "calledBy": "DLCC (declared; confirmed by editor)",
+   "controlSource": "https://www.dlcc.org/news/press/breaking-dlcc-makes-historic-gains-sweeping-the-statehouse-map-with-hundreds-of-seat-flips-and-multiple-new-majorities/"
   },
   "TX-S": {
    "D": 1,
