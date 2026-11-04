@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:52:00-05:00",
+ "updated": "2026-11-04T11:01:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -64,7 +64,14 @@
    "control": "D",
    "calledBy": "The Sum & Substance",
    "controlSource": "https://tsscolorado.com/democrats-capture-supermajorities-and-then-some-in-colorado-legislature/",
-   "note": "Declared victory; TSS reports Democrats captured supermajorities in both chambers"
+   "note": "Declared victory; TSS reports Democrats captured supermajorities in both chambers",
+   "flipClaim": {
+    "D": "6",
+    "R": "0",
+    "by": "House Democrats via The Sum & Substance",
+    "source": "https://tsscolorado.com/democrats-capture-supermajorities-and-then-some-in-colorado-legislature/",
+    "note": "49–16, apparent"
+   }
   },
   "CO-S": {
    "D": 8,
@@ -78,7 +85,13 @@
    "control": "D",
    "calledBy": "The Sum & Substance",
    "controlSource": "https://tsscolorado.com/democrats-capture-supermajorities-and-then-some-in-colorado-legislature/",
-   "note": "Declared victory; TSS reports Democrats captured supermajorities in both chambers"
+   "note": "Declared victory; TSS reports Democrats captured supermajorities in both chambers",
+   "flipClaim": {
+    "D": "at least 1",
+    "by": "The Sum & Substance",
+    "source": "https://tsscolorado.com/democrats-capture-supermajorities-and-then-some-in-colorado-legislature/",
+    "note": "24–11"
+   }
   },
   "CT-H": {
    "D": 22,
@@ -156,14 +169,27 @@
    "R": 9,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
-   "asOf": "Nov 3, 9:16 PM ET"
+   "asOf": "Nov 3, 9:16 PM ET",
+   "flipClaim": {
+    "D": "10",
+    "by": "WHO Radio",
+    "source": "https://whoradio.iheart.com/content/2026-11-04-iowa-democrats-break-gop-supermajority-in-iowa-house-state-senate-remains-unchanged/",
+    "note": "GOP supermajority broken"
+   }
   },
   "IA-S": {
    "D": 4,
    "R": 2,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
-   "asOf": "Nov 3, 9:16 PM ET"
+   "asOf": "Nov 3, 9:16 PM ET",
+   "flipClaim": {
+    "D": "1",
+    "R": "1",
+    "by": "WHO Radio",
+    "source": "https://whoradio.iheart.com/content/2026-11-04-iowa-democrats-break-gop-supermajority-in-iowa-house-state-senate-remains-unchanged/",
+    "note": "balance unchanged"
+   }
   },
   "IL-H": {
    "D": 41,
@@ -184,17 +210,28 @@
    "R": 35,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "flipClaim": {
+    "D": "at least 3",
+    "by": "WFYI",
+    "source": "https://www.wfyi.org/statewide/2026-11-04/democrats-break-indiana-house-supermajority",
+    "note": "GOP supermajority broken; Speaker Houston lost"
+   }
   },
   "IN-S": {
    "D": 4,
    "R": 6,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "flipClaim": {
+    "D": "at least 1",
+    "by": "WFYI",
+    "source": "https://www.wfyi.org/statewide/2026-11-04/democrats-break-indiana-house-supermajority"
+   }
   },
   "KS-H": {
-   "D": 19,
+   "D": 20,
    "R": 19,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
@@ -202,7 +239,13 @@
    "control": "R",
    "calledBy": "Wichita Eagle",
    "controlSource": "https://www.yahoo.com/news/politics/articles/democrats-break-gop-supermajority-ks-061454633.html",
-   "note": "Declared victory; Wichita Eagle: next session R 68, D 57 (unofficial, SOS)"
+   "note": "Declared victory; Wichita Eagle: next session R 68, D 57 (unofficial, SOS)",
+   "flipClaim": {
+    "D": "20 (net)",
+    "by": "Kansas House Democrats via KWCH",
+    "source": "https://www.kwch.com/2026/11/04/state-democrats-break-gop-supermajority-kansas-house/",
+    "note": "68–57, was 88–37"
+   }
   },
   "KY-H": {
    "D": 9,
@@ -255,7 +298,13 @@
    "control": "D",
    "calledBy": "Maine Democrats (declared)",
    "controlSource": "https://www.bangordailynews.com/2026/11/04/politics/elections/maine-democrats-add-seats-in-legislature/",
-   "note": "Declared victory; Maine Democrats say they won at least 87 of 151 seats (BDN)"
+   "note": "Declared victory; Maine Democrats say they won at least 87 of 151 seats (BDN)",
+   "flipClaim": {
+    "D": "11 (net)",
+    "by": "Bangor Daily News",
+    "source": "https://www.bangordailynews.com/2026/11/04/politics/elections/maine-democrats-add-seats-in-legislature/",
+    "note": "at least 87 of 151, up from 76"
+   }
   },
   "ME-S": {
    "D": 4,
@@ -266,11 +315,17 @@
    "control": "D",
    "calledBy": "Maine Democrats (declared)",
    "controlSource": "https://www.bangordailynews.com/2026/11/04/politics/elections/maine-democrats-add-seats-in-legislature/",
-   "note": "Declared victory; Maine Democrats say they won 22 of 35 seats (BDN)"
+   "note": "Declared victory; Maine Democrats say they won 22 of 35 seats (BDN)",
+   "flipClaim": {
+    "D": "2 (net)",
+    "by": "Bangor Daily News",
+    "source": "https://www.bangordailynews.com/2026/11/04/politics/elections/maine-democrats-add-seats-in-legislature/",
+    "note": "22 of 35, up from 20"
+   }
   },
   "MN-H": {
-   "D": 15,
-   "R": 0,
+   "D": 16,
+   "R": 3,
    "I": 0,
    "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 2:09 AM) for leads, 60%+ precincts",
    "asOf": "Nov 4, 3:16 AM ET",
@@ -280,10 +335,16 @@
    "control": "D",
    "calledBy": "MPR News / MinnPost",
    "controlSource": "https://www.minnpost.com/elections/2026/11/party-like-its-2023-just-a-few-years-after-the-trifecta-the-dfl-retakes-the-minnesota-legislature/",
-   "note": "Declared victory; MPR/MinnPost headlines: DFL wins control of Minnesota House and Senate"
+   "note": "Declared victory; MPR/MinnPost headlines: DFL wins control of Minnesota House and Senate",
+   "flipClaim": {
+    "D": "at least 5 (net)",
+    "by": "CBS Minnesota",
+    "source": "https://www.cbsnews.com/minnesota/news/minnesota-legislature-balance-of-power-2026-house-senate-control/",
+    "note": "67 to at least 72; 12 undecided"
+   }
   },
   "MN-S": {
-   "D": 4,
+   "D": 5,
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 2:09 AM) for leads, 60%+ precincts",
@@ -301,7 +362,13 @@
    "R": 5,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "flipClaim": {
+    "D": "16",
+    "by": "Missouri Independent",
+    "source": "https://missouriindependent.com/2026/11/04/democrats-flip-16-missouri-house-seats-ending-republican-supermajority/",
+    "note": "GOP supermajority ended"
+   }
   },
   "MO-S": {
    "D": 1,
@@ -324,7 +391,13 @@
    "control": "D",
    "calledBy": "WFMY News 2",
    "controlSource": "https://www.yahoo.com/news/politics/articles/democrats-win-control-north-carolina-062155242.html",
-   "note": "Declared victory; WFMY: Democrats win control, D 70, R 49, U 1 (unofficial NCSBE)"
+   "note": "Declared victory; WFMY: Democrats win control, D 70, R 49, U 1 (unofficial NCSBE)",
+   "flipClaim": {
+    "D": "21",
+    "by": "Carolina Public Press",
+    "source": "https://carolinapublicpress.org/82893/democrats-flip-nc-house-gop-poised-to-keep-nc-senate-by-one-seat/",
+    "note": "unofficial; about 70 seats"
+   }
   },
   "NC-S": {
    "D": 8,
@@ -414,7 +487,13 @@
    "asOf": "Nov 4, 10:52 AM ET",
    "control": "R",
    "calledBy": "Columbus Dispatch",
-   "controlSource": "https://www.yahoo.com/news/politics/articles/gop-loses-supermajority-ohio-house-113007796.html"
+   "controlSource": "https://www.yahoo.com/news/politics/articles/gop-loses-supermajority-ohio-house-113007796.html",
+   "flipClaim": {
+    "D": "about 10",
+    "by": "WVXU",
+    "source": "https://www.wvxu.org/2026-11-04/democratic-gains-in-legislative-races-could-end-supermajority-in-ohio-house",
+    "note": "possibly 12"
+   }
   },
   "OH-S": {
    "D": 8,
@@ -424,7 +503,12 @@
    "asOf": "Nov 4, 10:52 AM ET",
    "control": "R",
    "calledBy": "Columbus Dispatch",
-   "controlSource": "https://www.yahoo.com/news/politics/articles/gop-loses-supermajority-ohio-house-113007796.html"
+   "controlSource": "https://www.yahoo.com/news/politics/articles/gop-loses-supermajority-ohio-house-113007796.html",
+   "flipClaim": {
+    "D": "at least 1",
+    "by": "WVXU",
+    "source": "https://www.wvxu.org/2026-11-04/democratic-gains-in-legislative-races-could-end-supermajority-in-ohio-house"
+   }
   },
   "OK-H": {
    "D": 12,
@@ -460,7 +544,13 @@
    "control": "D",
    "calledBy": "Spotlight PA",
    "controlSource": "https://www.spotlightpa.org/news/2026/11/pennsylvania-house-election-results-legislature-control-elections/",
-   "note": "Declared victory; Spotlight PA: \"Democrats flip PA Senate, giving Shapiro a powerful trifecta\""
+   "note": "Declared victory; Spotlight PA: \"Democrats flip PA Senate, giving Shapiro a powerful trifecta\"",
+   "flipClaim": {
+    "D": "4",
+    "by": "Senate Democrats via Spotlight PA",
+    "source": "https://www.spotlightpa.org/news/2026/11/pennsylvania-house-election-results-legislature-control-elections/",
+    "note": "and appeared on track to lose 1; Inquirer had the chamber 24–24, uncalled"
+   }
   },
   "RI-H": {
    "D": 50,
@@ -481,7 +571,13 @@
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "flipClaim": {
+    "D": "10",
+    "by": "SC Daily Gazette",
+    "source": "https://scdailygazette.com/2026/11/04/sc-democrats-flip-10-state-house-seats-undoing-gop-supermajority",
+    "note": "headline; GOP supermajority undone"
+   }
   },
   "SD-H": {
    "D": 8,
@@ -518,7 +614,13 @@
    "source": "Uncontested seats (Ballotpedia candidate lists) + 1 concession (Villalobos R conceded to Guerrero Sáenz D, Texas Tribune), counted as called",
    "asOf": "Nov 3, 11:28 PM ET",
    "flipsD": 1,
-   "flipsR": 0
+   "flipsR": 0,
+   "flipClaim": {
+    "D": "at least 1",
+    "by": "Texas Tribune",
+    "source": "https://www.texastribune.org/2026/11/03/texas-house-legislature-outcomes-control-republicans-democrats-2026/",
+    "note": "control not yet called"
+   }
   },
   "TX-S": {
    "D": 1,
@@ -549,7 +651,14 @@
    "asOf": "Nov 4, 3:16 AM ET",
    "control": "D",
    "flipsD": 8,
-   "flipsR": 0
+   "flipsR": 0,
+   "flipClaim": {
+    "D": "8",
+    "R": "0",
+    "by": "DLCC / WPR",
+    "source": "https://www.wispolitics.com/2026/dlcc-breaking-flips-wisconsin-assembly-and-senate-delivering-a-democratic-trifecta-for-the-first-time-in-over-a-decade/",
+    "note": "53–46"
+   }
   },
   "WI-S": {
    "D": 8,
@@ -559,7 +668,13 @@
    "asOf": "Nov 4, 3:16 AM ET",
    "flipsD": 2,
    "flipsR": 0,
-   "control": "D"
+   "control": "D",
+   "flipClaim": {
+    "D": "3",
+    "by": "DLCC / WPR",
+    "source": "https://www.wispolitics.com/2026/dlcc-breaking-dlcc-flips-wisconsin-senate-breaking-gop-control-of-legislature/",
+    "note": "18–15"
+   }
   },
   "WV-H": {
    "D": 4,
@@ -583,7 +698,7 @@
    "asOf": "Nov 4, 10:52 AM ET"
   },
   "MI-H": {
-   "D": 0,
+   "D": 9,
    "R": 4,
    "I": 0,
    "source": "MultiState results page: winners listed in HD-36 (Carra, R) and HD-50 (Woolford, R); Nov 4 seat sweep: uncontested seats + calls from MultiState",
@@ -591,16 +706,28 @@
    "control": "D",
    "calledBy": "Michigan Democrats (declared)",
    "controlSource": "https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html",
-   "note": "Declared victory; Democrats declared victory (Michigan Advance); AP count D 51 of 56 needed"
+   "note": "Declared victory; Democrats declared victory (Michigan Advance); AP count D 51 of 56 needed",
+   "flipClaim": {
+    "D": "11",
+    "by": "Michigan House Democrats via The Detroit News",
+    "source": "https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html",
+    "note": "net; 52 seats to 63, unofficial"
+   }
   },
   "MI-S": {
-   "D": 0,
+   "D": 2,
    "R": 0,
    "I": 0,
    "control": "D",
    "calledBy": "The Detroit News",
    "controlSource": "https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html",
-   "asOf": "Nov 4, 10:12 AM ET"
+   "asOf": "Nov 4, 10:12 AM ET",
+   "flipClaim": {
+    "D": "3",
+    "by": "The Detroit News",
+    "source": "https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html",
+    "note": "expected 23–15, unofficial"
+   }
   },
   "ID-H": {
    "D": 11,
@@ -19331,7 +19458,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Ryan Bizzarro (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19351,7 +19478,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jake Banta (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19371,7 +19498,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Eric Weaknecht (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19391,7 +19518,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Brad Roae (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19411,7 +19538,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Parke Wentling (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19431,7 +19558,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Aaron Bernstine (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19451,7 +19578,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Marla Brown (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19471,7 +19598,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Roman Kozak (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19491,7 +19618,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Josh Kail (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19511,7 +19638,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Emily Kinkead (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19531,7 +19658,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Ce-Ce Gerlach (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19551,7 +19678,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Brandon Markosek (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19571,7 +19698,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Paul Friel (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19591,7 +19718,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Tim Brennan (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19615,7 +19742,7 @@
    "reporting": "unknown",
    "calledBy": "Ballotpedia",
    "source": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_elections,_2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Arvind Venkat (D) per Ballotpedia (total 30,801 votes); also shown as winner by MultiState. Reporting share not stated.",
    "other": 0,
@@ -19638,7 +19765,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Joe McAndrew (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19658,7 +19785,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Mandy Steele (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19678,7 +19805,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Dan Goughnour (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19698,7 +19825,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jessica Benham (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19718,7 +19845,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Mindy Fee (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19738,7 +19865,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner John Inglis (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19758,7 +19885,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Andrew Kuzma (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19778,7 +19905,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Keith Greiner (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19798,7 +19925,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Brittany Marie Bloam (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19818,7 +19945,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jason Ortitay (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19838,7 +19965,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Joe D'Orsie (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19858,7 +19985,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Tim O'Neal (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19878,7 +20005,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Izzy Smith-Wade-El (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19898,7 +20025,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Benjamin D Humble (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19918,7 +20045,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Steve Malagari (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19938,7 +20065,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jill Cooper (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19958,7 +20085,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Eric Nelson (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19978,7 +20105,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Eric Davanzo (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -19998,7 +20125,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Leslie Rossi (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20018,7 +20145,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Abby Major (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20038,7 +20165,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Liz Hanbidge (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20058,7 +20185,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner James Struzzi II (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20078,7 +20205,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Josh Bashline (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20098,7 +20225,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner R. Lee James (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20118,7 +20245,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Kathy Rapp (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20138,7 +20265,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Brian Smith (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20158,7 +20285,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Marty Causer (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20178,7 +20305,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Clint Owlett (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20198,7 +20325,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Dan Williams (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20218,7 +20345,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Mike Armanini (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20238,7 +20365,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Stephanie Borowicz (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20258,7 +20385,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Scott Conklin (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20278,7 +20405,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Andrea Verobish (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20298,7 +20425,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Scott Barger (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20318,7 +20445,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Rich Irvin (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20338,7 +20465,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Paul Takac (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20358,7 +20485,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Perry Stambaugh (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20378,7 +20505,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Thomas Kutz (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20398,7 +20525,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": true,
    "note": "Winner Sara Agerton (D) per source; source publishes no vote totals, so votes/pct/margin omitted. Source: flipped R to D.",
    "sweep": "Nov 4 seat sweep"
@@ -20418,7 +20545,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Rob Kauffman (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20438,7 +20565,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Dan Moul (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20458,7 +20585,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Marc Anderson (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20478,7 +20605,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Mike Jones (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20498,7 +20625,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Wendy Fink (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20518,7 +20645,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Carol Hill-Evans (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20538,7 +20665,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Nikki Rivera (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20558,7 +20685,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Steve Mentzer (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20578,7 +20705,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Nicky Woods (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20598,7 +20725,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Dave Zimmerman (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20615,7 +20742,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Dave Nissley (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20635,7 +20762,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Russ Diamond (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20655,7 +20782,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Nate Davidson (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20675,7 +20802,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Tom Mehaffie (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20695,7 +20822,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Joanne Stehr (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20715,7 +20842,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Michael Stender (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20735,7 +20862,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Robert Leadbeter (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20755,7 +20882,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Tina Pickett (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20775,7 +20902,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jonathan Fritz (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20795,7 +20922,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Kyle Mullins (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20815,7 +20942,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Kyle Donahue (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20835,7 +20962,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Bridget Malloy Kosierowski (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20855,7 +20982,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jamie Walsh (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20875,7 +21002,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jim Haddock (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20895,7 +21022,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Alec Ryncavage (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20915,7 +21042,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jessica Mcclay (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20935,7 +21062,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Doyle Heffley (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20955,7 +21082,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Tim Twardzik (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20975,7 +21102,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jamie Barton (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -20995,7 +21122,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Joe Kerwin (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21015,7 +21142,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jacklyn Rusnock (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21035,7 +21162,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Mark Gillen (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21055,7 +21182,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Melissa G. Brewer (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21075,7 +21202,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Mike Schlossberg (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21095,7 +21222,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Pete Schweyer (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21115,7 +21242,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Steve Samuelson (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21135,7 +21262,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Robert Freeman Sr. (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21155,7 +21282,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Ann Flood (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21175,7 +21302,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jeff Olsommer (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21195,7 +21322,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jim Prokopiak (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21215,7 +21342,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Tina Davis (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21232,7 +21359,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Craig Staats (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21252,7 +21379,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Joe Ciresi (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21272,7 +21399,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Joe Webster (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21292,7 +21419,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Melissa Cerrato (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21312,7 +21439,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Nancy Guenst (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21332,7 +21459,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Ben Sanchez (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21349,7 +21476,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Napoleon Nelson (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21369,7 +21496,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Chris Pielli (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21389,7 +21516,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Melissa Shusterman (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21409,7 +21536,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Carol Kazeem (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21429,7 +21556,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Leanne Krueger (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21449,7 +21576,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Dave Delloso (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21469,7 +21596,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jenn O'Mara (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21489,7 +21616,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Judith Trombetta (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21509,7 +21636,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Kristine Howard (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21529,7 +21656,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Lisa Borowski (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21549,7 +21676,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Kate Klunk (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21569,7 +21696,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Martina White (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21589,7 +21716,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Kerry Benninghoff (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21609,7 +21736,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Pat Gallagher (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21629,7 +21756,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Jack Rader (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21649,7 +21776,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Joe Hohenstein (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21669,7 +21796,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Kristin Marcell (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21689,7 +21816,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Zach Mako (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21709,7 +21836,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Tarah Probst (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21729,7 +21856,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Morgan Cephas (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21749,7 +21876,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Catherine Wallen (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21769,7 +21896,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner George Margetas (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21789,7 +21916,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Barb Gleim (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21809,7 +21936,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Art Haywood (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21829,7 +21956,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Steve Santarsiero (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21849,7 +21976,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Maria Collett (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21869,7 +21996,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Nick Miller (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21889,7 +22016,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Lisa Boscola (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21909,7 +22036,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Lisa Baker (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21929,7 +22056,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Marty Flynn (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21949,7 +22076,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Tim Kearney (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21969,7 +22096,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Kristin Phillips-Hill (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -21989,7 +22116,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Judy Ward (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -22009,7 +22136,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Pat Stefano (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -22029,7 +22156,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Greg Rothman (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -22049,7 +22176,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": true,
    "note": "Winner Thomas Matthew Jones (R) per source; source publishes no vote totals, so votes/pct/margin omitted. Source text says flipped D to R; incumbent defeated.",
    "sweep": "Nov 4 seat sweep"
@@ -22069,7 +22196,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Lindsey Williams (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -22089,7 +22216,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Katie Muth (D) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -22106,7 +22233,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Camera Bartolotta (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -22126,7 +22253,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Chris Gebhard (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"
@@ -22146,7 +22273,7 @@
    "reporting": "unknown",
    "calledBy": "MultiState",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
-   "asOf": "2026-11-04T11:20:00-05:00",
+   "asOf": "2026-11-04T11:01:00-05:00",
    "flip": false,
    "note": "Winner Michele Brooks (R) per source; source publishes no vote totals, so votes/pct/margin omitted. ",
    "sweep": "Nov 4 seat sweep"

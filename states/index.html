@@ -68,6 +68,7 @@ details.ch>summary:hover{background:var(--panel)}
 .nm span{font-size:12px;color:var(--muted)}
 .nm .flips{display:block;margin-top:2px;font-family:var(--mono);font-size:12px}
 .nm .flips i{font-style:normal;font-weight:600} .nm .flips em{font-style:normal}
+.nm .flips.claim{color:var(--muted)} .nm .flips.claim a{color:inherit;text-decoration:underline;text-underline-offset:2px}
 .barcol{min-width:0;display:flex;flex-direction:column;gap:5px}
 .bar{position:relative;height:22px;display:flex;background:var(--none);overflow:visible}
 .bar i{display:block;height:100%}
@@ -345,13 +346,22 @@ th.hb,td.hb{width:1%}
     return `<span class="flips">${txt}</span>`;
   }
 
+  // Party or news claims about seat flips (chamber "flipClaim" in data.json), shown beside the counted flips
+  function claimLine(c){
+    const t = (DATA.chambers||{})[c.id], fc = t && t.flipClaim;
+    if (!fc || (!fc.D && !fc.R)) return '';
+    const parts = [fc.D?`<i class="d">${esc(fc.D)} to D</i>`:'', fc.R?`<i class="r">${esc(fc.R)} to R</i>`:''].filter(Boolean);
+    const by = fc.by ? (fc.source ? `<a href="${esc(fc.source)}" target="_blank" rel="noopener">${esc(fc.by)}</a>` : esc(fc.by)) : '';
+    return `<span class="flips claim">Claimed: ${parts.join(' · ')}${by?' <em>per '+by+'</em>':''}${fc.note?' <em>('+esc(fc.note)+')</em>':''}</span>`;
+  }
+
   function chamberHTML(c,x){
     const sub = c.election ? `${c.up.toLocaleString('en-US')} of ${c.total} seats up${c.note?' · '+esc(c.note):''}` : `${c.total} seats · no regular election in 2026${SPECIAL_NOTE[c.id]?' · 1 special election':''}`;
     const lp = (n) => n ? ` <small>+${n} leading</small>` : '';
     const nums = c.election ? `<div class="nums"><span class="d"><b>D ${x.projD}</b>${lp(x.leadD)}</span><span>${x.uncalled} not called · ${c.majority} for majority</span><span class="r"><b>R ${x.projR}</b>${lp(x.leadR)}</span></div>` : `<div class="nums"><span class="d"><b>D ${c.cur.D}</b></span><span>${c.majority} for majority</span><span class="r"><b>R ${c.cur.R}</b></span></div>`;
     const bar = c.election ? barHTML(c,x) : barHTML({...c,hold:{D:c.cur.D,R:c.cur.R,I:c.cur.I,V:c.cur.V}}, {won:{D:0,R:0,I:0},projD:c.cur.D,projR:c.cur.R,projI:0,uncalled:0});
     return `<details class="ch" id="${c.id}" data-id="${c.id}">
-      <summary><div class="nm"><b>${esc(SN(c.state))} ${esc(c.name)}</b><span>${sub}</span>${c.election?flipLine(x):''}</div>
+      <summary><div class="nm"><b>${esc(SN(c.state))} ${esc(c.name)}</b><span>${sub}</span>${c.election?flipLine(x)+claimLine(c):''}</div>
         <div class="barcol">${bar}${nums}</div>${statusHTML(c,x)}</summary>
       <div class="inner" data-inner></div></details>`;
   }
