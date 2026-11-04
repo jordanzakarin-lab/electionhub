@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:50:19-05:00",
+ "updated": "2026-11-04T00:58:28-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -417,25 +417,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "94%",
+   "reporting": "100%",
    "dem": {
     "name": "Jim Harris",
-    "votes": 12963,
-    "pct": 37.6
+    "votes": 13111,
+    "pct": 37.4
    },
    "rep": {
     "name": "Carson Smith",
-    "votes": 21544,
-    "pct": 62.4
+    "votes": 21921,
+    "pct": 62.6
    },
    "other": 0,
-   "marginPts": -24.8,
-   "marginVotes": 8581,
+   "marginPts": -25.2,
+   "marginVotes": 8810,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:23:50-05:00",
+   "asOf": "2026-11-04T00:58:28-05:00",
    "feed": true,
-   "totalVotes": 34507,
+   "totalVotes": 35032,
    "state": "NC",
    "chamber": "House",
    "district": "HD-16",
@@ -3473,21 +3473,21 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {},
    "rep": {
     "name": "Brent Jackson",
-    "votes": 47970,
+    "votes": 48386,
     "pct": 100.0
    },
    "other": 0,
    "marginPts": -100.0,
-   "marginVotes": 47970,
+   "marginVotes": 48386,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:23:50-05:00",
+   "asOf": "2026-11-04T00:58:28-05:00",
    "feed": true,
-   "totalVotes": 47970,
+   "totalVotes": 48386,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-9",
