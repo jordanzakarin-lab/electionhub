@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:42:00-05:00",
+  "updated": "2026-11-04T00:52:56-05:00",
   "sample": false,
   "races": [
     {
@@ -1673,7 +1673,7 @@
     },
     {
       "id": "IA-03",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
       "reporting": "64%",
       "dem": {
@@ -1688,8 +1688,8 @@
       },
       "marginPts": 18.2,
       "marginVotes": 42079,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-3-general-election",
+      "calledBy": "AP",
+      "source": "https://www.kwqc.com/2026/11/04/democrat-sarah-trone-garriott-wins-election-us-house-iowas-3rd-congressional-district/",
       "asOf": "2026-11-03T22:23:48-05:00",
       "ddhqUpdated": "2026-11-04 03:14:49.784357+00"
     },
@@ -1962,7 +1962,7 @@
     },
     {
       "id": "NM-02",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
       "reporting": "39%",
       "dem": {
@@ -1977,8 +1977,8 @@
       },
       "marginPts": 17.2,
       "marginVotes": 14802,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-mexico-us-house-2-general-election",
+      "calledBy": "AP",
+      "source": "https://www.yahoo.com/news/politics/articles/mexico-reelects-vasquez-closely-watched-052412678.html",
       "asOf": "2026-11-03T22:23:48-05:00",
       "ddhqUpdated": "2026-11-04 03:19:27.915267+00"
     },
