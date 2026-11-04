@@ -1661,7 +1661,12 @@
    "open": true,
    "dem": "Elizabeth Lee",
    "rep": "Mark Lamb",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 20.8
+   }
   },
   {
    "id": "AZ-08",
@@ -1675,7 +1680,12 @@
    "open": false,
    "dem": "Bernadette Greene-Placentia",
    "rep": "Abraham Hamadeh",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 13.0
+   }
   },
   {
    "id": "CA-23",
@@ -1689,7 +1699,12 @@
    "open": false,
    "dem": "Tessa Hodge",
    "rep": "Jay Obernolte",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 20.2
+   }
   },
   {
    "id": "FL-26",
@@ -1703,7 +1718,12 @@
    "open": false,
    "dem": "Nicole Locklin",
    "rep": "Mario Diaz-Balart",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 41.8
+   }
   },
   {
    "id": "GA-01",
@@ -1717,7 +1737,12 @@
    "open": true,
    "dem": "Amanda Hollowell",
    "rep": "Jim Kingston",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 24.0
+   }
   },
   {
    "id": "ID-02",
@@ -1731,7 +1756,12 @@
    "open": false,
    "dem": "Ellie Gilbreath",
    "rep": "Mike Simpson",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 30.4
+   }
   },
   {
    "id": "NJ-02",
@@ -1745,7 +1775,12 @@
    "open": false,
    "dem": "Zack Mullock",
    "rep": "Jeff Van Drew",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 16.9
+   }
   },
   {
    "id": "NY-02",
@@ -1759,7 +1794,13 @@
    "open": false,
    "dem": "Patrick Halpin",
    "rep": "Andrew Garbarino",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 19.6,
+    "note": "Garbarino's combined Republican and Conservative lines"
+   }
   },
   {
    "id": "NC-05",
@@ -1773,7 +1814,12 @@
    "open": false,
    "dem": "Charles Hubbard",
    "rep": "Virginia Foxx",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 19.0
+   }
   },
   {
    "id": "NC-06",
@@ -1787,7 +1833,13 @@
    "open": false,
    "dem": "Cyril Jefferson",
    "rep": "Addison McDowell",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 38.4,
+    "note": "No Democrat on the 2024 ballot; margin over the Constitution Party nominee"
+   }
   },
   {
    "id": "NC-07",
@@ -1801,7 +1853,12 @@
    "open": false,
    "dem": "Kimberly Hardy",
    "rep": "David Rouzer",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 17.2
+   }
   },
   {
    "id": "NC-08",
@@ -1815,7 +1872,12 @@
    "open": false,
    "dem": "Colby Watson",
    "rep": "Mark Harris",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 19.2
+   }
   },
   {
    "id": "NC-09",
@@ -1829,7 +1891,12 @@
    "open": false,
    "dem": "Richard Ojeda",
    "rep": "Richard Hudson",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 18.5
+   }
   },
   {
    "id": "NC-10",
@@ -1843,7 +1910,12 @@
    "open": false,
    "dem": "Ashley Bell",
    "rep": "Patrick Harrigan",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 19.3
+   }
   },
   {
    "id": "NC-14",
@@ -1857,7 +1929,12 @@
    "open": false,
    "dem": "LaKesha Womack",
    "rep": "Tim Moore",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 16.2
+   }
   },
   {
    "id": "OK-05",
@@ -1871,7 +1948,12 @@
    "open": false,
    "dem": "Jena Nelson",
    "rep": "Stephanie Bice",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 21.4
+   }
   },
   {
    "id": "TN-04",
@@ -1885,7 +1967,13 @@
    "open": false,
    "dem": "Victoria Broderick",
    "rep": "Scott DesJarlais",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 43.2,
+    "redrawn": true
+   }
   },
   {
    "id": "TN-05",
@@ -1899,7 +1987,13 @@
    "open": true,
    "dem": "Chaz Molder",
    "rep": "Charlie Hatcher",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 17.4,
+    "redrawn": true
+   }
   },
   {
    "id": "TN-06",
@@ -1913,7 +2007,13 @@
    "open": true,
    "dem": "Mike Croley",
    "rep": "Johnny Garrett",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 36.0,
+    "redrawn": true
+   }
   },
   {
    "id": "TN-07",
@@ -1927,7 +2027,14 @@
    "open": false,
    "dem": "Darden Copeland",
    "rep": "Matt Van Epps",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 21.5,
+    "redrawn": true,
+    "note": "Green's 2024 margin; Van Epps won the Dec. 2025 special election"
+   }
   },
   {
    "id": "TN-08",
@@ -1941,7 +2048,13 @@
    "open": false,
    "dem": "Heidi Kuhn",
    "rep": "David Kustoff",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 46.8,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-02",
@@ -1955,7 +2068,13 @@
    "open": true,
    "dem": "Shaun Finnie",
    "rep": "Steve Toth",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 31.3,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-05",
@@ -1969,7 +2088,13 @@
    "open": false,
    "dem": "Chelsey Hockett",
    "rep": "Lance Gooden",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 28.2,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-06",
@@ -1983,7 +2108,13 @@
    "open": false,
    "dem": "Danny Minton",
    "rep": "Jake Ellzey",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 31.4,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-10",
@@ -1997,7 +2128,13 @@
    "open": true,
    "dem": "Caitlin Rourk",
    "rep": "Chris Gober",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 30.4,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-22",
@@ -2011,7 +2148,13 @@
    "open": true,
    "dem": "Marquette Greene-Scott",
    "rep": "Trever Nehls",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 24.2,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-27",
@@ -2025,7 +2168,13 @@
    "open": false,
    "dem": "Tanya Lloyd",
    "rep": "Michael Cloud",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 32.1,
+    "redrawn": true
+   }
   },
   {
    "id": "TX-38",
@@ -2039,7 +2188,13 @@
    "open": true,
    "dem": "Melissa McDonough",
    "rep": "Jon Bonck",
-   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026"
+   "note": "Cook: Solid R. Added election night as Democrats ran close. Open seat. District redrawn for 2026",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 25.5,
+    "redrawn": true
+   }
   },
   {
    "id": "WA-05",
@@ -2053,7 +2208,12 @@
    "open": false,
    "dem": "Carmela Conroy",
    "rep": "Michael Baumgartner",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 21.3
+   }
   },
   {
    "id": "WV-01",
@@ -2067,7 +2227,12 @@
    "open": false,
    "dem": "Vince George",
    "rep": "Carol Miller",
-   "note": "Cook: Solid R. Added election night as Democrats ran close"
+   "note": "Cook: Solid R. Added election night as Democrats ran close",
+   "last": {
+    "yr": 2024,
+    "party": "R",
+    "m": 40.3
+   }
   }
  ],
  "senate": [

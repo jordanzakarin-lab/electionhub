@@ -242,7 +242,7 @@ td .i{color:var(--ind)}
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
   const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
   const GROUPS = [['Toss Up','Toss ups'],['Lean D','Lean Democratic'],['Lean R','Lean Republican'],['Likely D','Likely Democratic'],['Likely R','Likely Republican'],['Watch','Also competitive, per other forecasters'],['Redrawn','Redistricting flips'],['Upset','Upset watch: Solid R seats Democrats could flip']];
-  const GNOTE = {Watch:'Cook rates these Solid, but Sabato\'s Crystal Ball or Split Ticket rates them Lean or Toss Up.', Redrawn:'Cook rates these Solid for a party other than the one holding them now, because the state redrew its map. Expected flips, not toss ups.', Upset:'Cook rated these Solid Republican. Added on election night because Decision Desk HQ\'s count showed the Democrat ahead or within 5 points, with no call yet. Last-election margins not yet filled in.'};
+  const GNOTE = {Watch:'Cook rates these Solid, but Sabato\'s Crystal Ball or Split Ticket rates them Lean or Toss Up.', Redrawn:'Cook rates these Solid for a party other than the one holding them now, because the state redrew its map. Expected flips, not toss ups.', Upset:'Cook rated these Solid Republican. Added on election night because Decision Desk HQ\'s count showed the Democrat ahead or within 5 points, with no call yet.'};
   let BASE=null, DATA={races:[]}, RES=new Map(), FEED=[], filter='all', query='';
   const FEEDURL='feeds/congress.json';
   // ---- Official-feed merge (feeds/*.json, written every few minutes by the feed job) ----
