@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:40:00-05:00",
+ "updated": "2026-11-04T01:45:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -149,18 +149,18 @@
    "measure": "Income Tax Cap to 3.5%",
    "ballotNo": "",
    "description": "Lowers the constitutional cap on the income tax rate from 7% to 3.5%.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "WUNC / NC Newsline",
+   "note": "Approved per WUNC, NC Newsline, Carolina Journal; vote shares not yet entered.",
+   "source": "https://www.wunc.org/politics/2026-11-04/voters-approve-constitutional-amendments-around-voter-id-and-capping-taxes",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -169,18 +169,18 @@
    "measure": "Local Property-Tax Levy Limits",
    "ballotNo": "",
    "description": "Legislature must cap how much local governments can raise property-tax levies.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "WUNC / NC Newsline",
+   "note": "Approved per WUNC, NC Newsline, Carolina Journal; vote shares not yet entered.",
+   "source": "https://www.wunc.org/politics/2026-11-04/voters-approve-constitutional-amendments-around-voter-id-and-capping-taxes",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -533,18 +533,22 @@
    "measure": "Economic Development Bond",
    "ballotNo": "Question 3",
    "description": "$100M bond for economic development.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
+   "yes": {
+    "pct": 47.53
+   },
+   "no": {
+    "pct": 52.47
+   },
    "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "reporting": "unofficial",
+   "calledBy": "Rhode Island Current",
+   "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
+   "source": "https://rhodeislandcurrent.com/2026/11/03/rhode-island-voters-reject-two-bond-questions-approve-450-million-in-borrowing/",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -553,18 +557,22 @@
    "measure": "Cultural Economy Bond",
    "ballotNo": "Question 4",
    "description": "$50M bond for arts and cultural facilities and a State History Center.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
+   "yes": {
+    "pct": 49.21
+   },
+   "no": {
+    "pct": 50.79
+   },
    "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "reporting": "unofficial",
+   "calledBy": "Rhode Island Current",
+   "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
+   "source": "https://rhodeislandcurrent.com/2026/11/03/rhode-island-voters-reject-two-bond-questions-approve-450-million-in-borrowing/",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Education",
@@ -633,18 +641,22 @@
    "measure": "Higher Education Bond",
    "ballotNo": "Question 1",
    "description": "$275M bond for public colleges and universities.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
+   "yes": {
+    "pct": 59.82
+   },
+   "no": {
+    "pct": 40.18
+   },
    "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "reporting": "unofficial",
+   "calledBy": "Rhode Island Current",
+   "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
+   "source": "https://rhodeislandcurrent.com/2026/11/03/rhode-island-voters-reject-two-bond-questions-approve-450-million-in-borrowing/",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Healthcare",
@@ -817,18 +829,22 @@
    "measure": "Housing and Homeownership Bond",
    "ballotNo": "Question 2",
    "description": "$120M for affordable housing, with up to $10M for public housing.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
+   "yes": {
+    "pct": 61.12
+   },
+   "no": {
+    "pct": 38.88
+   },
    "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "reporting": "unofficial",
+   "calledBy": "Rhode Island Current",
+   "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
+   "source": "https://rhodeislandcurrent.com/2026/11/03/rhode-island-voters-reject-two-bond-questions-approve-450-million-in-borrowing/",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Housing",
@@ -976,7 +992,7 @@
    "level": "Local",
    "measure": "Front Range Passenger Rail District",
    "ballotNo": "Measure 7A",
-   "description": "0.333% sales tax (~$295M a year) for the Fort Collins–Pueblo Colorado Connector. District voters only.",
+   "description": "0.333% sales tax (~$295M a year) for the Fort Collins\u2013Pueblo Colorado Connector. District voters only.",
    "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
@@ -1843,18 +1859,22 @@
    "measure": "Legislative Term Limits to 3 Terms",
    "ballotNo": "Amendment 1",
    "description": "Extends term limits from 8 to 12 years.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority + 35% of ballots cast",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
+   "yes": {
+    "pct": 19.27
+   },
+   "no": {
+    "pct": 80.73
+   },
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Also needs yes votes equal to 35% of ballots cast. Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "calledBy": "MultiState",
+   "note": "Per MultiState results page.",
+   "source": "https://www.multistate.us/elections/results/nebraska-2026",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2151,18 +2171,18 @@
    "measure": "Voter ID and Citizenship Verification",
    "ballotNo": "Prop 39",
    "description": "Photo ID to vote in person, an ID number on mail ballots and citizenship checks at registration.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "calledBy": "CBS News",
+   "note": "CBS News reports Prop 39 rejected; vote shares not yet entered.",
+   "source": "https://www.cbsnews.com/losangeles/live-updates/live-updates-california-midterm-election-results-for-key-2026-races/",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2171,18 +2191,18 @@
    "measure": "Photo ID for Mail Voting",
    "ballotNo": "",
    "description": "Extends the constitutional photo ID requirement to mail ballots.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "WUNC / NC Newsline",
+   "note": "Approved per WUNC, NC Newsline, Carolina Journal; vote shares not yet entered.",
+   "source": "https://www.wunc.org/politics/2026-11-04/voters-approve-constitutional-amendments-around-voter-id-and-capping-taxes",
+   "asOf": "Nov 4, 1:45 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2843,18 +2863,22 @@
    "measure": "Green Economy Bond",
    "ballotNo": "Question 5",
    "description": "$55M bond for environmental and climate projects.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
+   "yes": {
+    "pct": 66.92
+   },
+   "no": {
+    "pct": 33.08
+   },
    "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "reporting": "unofficial",
+   "calledBy": "Rhode Island Current",
+   "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
+   "source": "https://rhodeislandcurrent.com/2026/11/03/rhode-island-voters-reject-two-bond-questions-approve-450-million-in-borrowing/",
+   "asOf": "Nov 4, 1:45 AM ET"
   }
  ]
 }
