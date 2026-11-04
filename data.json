@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:08:00-05:00",
+ "updated": "2026-11-04T17:30:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3596,22 +3596,22 @@
    "id": "CO-04",
    "status": "Counting",
    "leader": "D",
-   "reporting": "87%",
+   "reporting": "99%",
    "dem": {
     "name": "Eileen Laubacher",
-    "votes": 168729,
-    "pct": 49.1
+    "votes": null,
+    "pct": 49.2
    },
    "rep": {
     "name": "Lauren Boebert",
-    "votes": 163835,
+    "votes": null,
     "pct": 47.7
    },
-   "marginPts": 1.4,
-   "marginVotes": 4894,
+   "marginPts": 1.5,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/colorado-us-house-4-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "source": "https://www.yahoo.com/news/politics/articles/live-colorado-house-results-lauren-153526851.html",
+   "asOf": "2026-11-04T10:35:00-05:00",
    "ddhqUpdated": "2026-11-04 07:40:08.038342+00",
    "others": [
     {
