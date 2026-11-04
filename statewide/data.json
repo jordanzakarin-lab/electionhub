@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T21:59:30-05:00",
+  "updated": "2026-11-03T22:14:00-05:00",
   "sample": false,
   "races": [
     {
@@ -28,67 +28,64 @@
       "id": "GA-AG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "86%",
+      "reporting": "88%",
       "dem": {
         "name": "Tanya Miller",
-        "votes": 1953578,
-        "pct": 55.8
+        "votes": 1991156,
+        "pct": 55.57
       },
       "rep": {
         "name": "Brian Strickland",
-        "votes": 1546471,
-        "pct": 44.2
+        "votes": 1592055,
+        "pct": 44.43
       },
-      "marginPts": 11.6,
-      "marginVotes": 407107,
+      "marginPts": 11.14,
+      "marginVotes": 399101,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-attorney-general-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:48:34.959911+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "GA-LG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "85%",
+      "reporting": "87%",
       "dem": {
         "name": "Josh McLaurin",
-        "votes": 1963538,
-        "pct": 56.2
+        "votes": 1999294,
+        "pct": 55.99
       },
       "rep": {
         "name": "Greg Dolezal",
-        "votes": 1528992,
-        "pct": 43.8
+        "votes": 1571318,
+        "pct": 44.01
       },
-      "marginPts": 12.4,
-      "marginVotes": 434546,
+      "marginPts": 11.98,
+      "marginVotes": 427976,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-lt-governor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:16.977106+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "GA-SOS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "86%",
+      "reporting": "88%",
       "dem": {
         "name": "Penny Brown Reynolds",
-        "votes": 1959186,
-        "pct": 56.0
+        "votes": 1996495,
+        "pct": 55.77
       },
       "rep": {
         "name": "Tim Fleming",
-        "votes": 1538197,
-        "pct": 44.0
+        "votes": 1583255,
+        "pct": 44.23
       },
-      "marginPts": 12.0,
-      "marginVotes": 420989,
+      "marginPts": 11.54,
+      "marginVotes": 413240,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-secretary-of-state-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:48:34.959911+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "IN-AUD",
@@ -494,68 +491,65 @@
     {
       "id": "FL-TREAS",
       "status": "Counting",
-      "leader": "D",
-      "reporting": "85%",
+      "leader": "R",
+      "reporting": ">95%",
       "dem": {
         "name": "Annette Taddeo",
-        "votes": 3612778,
-        "pct": 50.22
+        "votes": 3969809,
+        "pct": 49.0
       },
       "rep": {
         "name": "Blaise Ingoglia",
-        "votes": 3581154,
-        "pct": 49.78
+        "votes": 4132541,
+        "pct": 51.0
       },
-      "marginPts": 0.44,
-      "marginVotes": 31624,
+      "marginPts": -2.0,
+      "marginVotes": 162732,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-chief-financial-officer-general-election",
-      "asOf": "2026-11-03T20:08:00-05:00",
-      "others": []
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "OH-AG",
       "status": "Counting",
       "leader": "R",
-      "reporting": "68%",
+      "reporting": "72%",
       "dem": {
         "name": "John Kulewicz",
-        "votes": 1564877,
-        "pct": 48.8
+        "votes": 1647002,
+        "pct": 48.38
       },
       "rep": {
         "name": "Keith Faber",
-        "votes": 1644484,
-        "pct": 51.2
+        "votes": 1757231,
+        "pct": 51.62
       },
-      "marginPts": -2.5,
-      "marginVotes": 79607,
+      "marginPts": -3.24,
+      "marginVotes": 110229,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-attorney-general-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:09.414916+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "OH-TREAS",
       "status": "Counting",
       "leader": "R",
-      "reporting": "68%",
+      "reporting": "72%",
       "dem": {
         "name": "Seth Walsh",
-        "votes": 1572649,
-        "pct": 49.1
+        "votes": 1653862,
+        "pct": 48.72
       },
       "rep": {
         "name": "Jay Edwards",
-        "votes": 1628896,
-        "pct": 50.9
+        "votes": 1740589,
+        "pct": 51.28
       },
-      "marginPts": -1.8,
-      "marginVotes": 56247,
+      "marginPts": -2.56,
+      "marginVotes": 86727,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-treasurer-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:09.414916+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "FL-LG",
@@ -1556,105 +1550,85 @@
       "id": "KS-AG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "54%",
+      "reporting": "63%",
       "dem": {
         "name": "Chris Mann",
-        "votes": 331975,
-        "pct": 58.6
+        "votes": 372377,
+        "pct": 56.31
       },
       "rep": {
         "name": "Kris Kobach",
-        "votes": 234100,
-        "pct": 41.4
+        "votes": 288902,
+        "pct": 43.69
       },
-      "marginPts": 17.3,
-      "marginVotes": 97875,
+      "marginPts": 12.62,
+      "marginVotes": 83475,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-attorney-general-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:46:20.986832+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "KS-GOV",
       "status": "Counting",
       "leader": "D",
-      "reporting": "57%",
+      "reporting": "67%",
       "dem": {
         "name": "Cindy Holscher",
-        "votes": 364648,
-        "pct": 57.3
+        "votes": 420480,
+        "pct": 55.47
       },
       "rep": {
         "name": "Ty Masterson",
-        "votes": 271642,
-        "pct": 42.7
+        "votes": 337604,
+        "pct": 44.53
       },
-      "marginPts": 14.6,
-      "marginVotes": 93006,
+      "marginPts": 10.94,
+      "marginVotes": 82876,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-governor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:05.888254+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "KS-SOS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "53%",
+      "reporting": "61%",
       "dem": {
         "name": "Jennifer Day",
-        "votes": 312346,
-        "pct": 55.6
+        "votes": 345414,
+        "pct": 53.58
       },
       "rep": {
         "name": "Pat Proctor",
-        "votes": 227172,
-        "pct": 40.4
+        "votes": 272768,
+        "pct": 42.31
       },
-      "marginPts": 15.2,
-      "marginVotes": 85174,
+      "marginPts": 11.27,
+      "marginVotes": 72646,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-secretary-of-state-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:39.957487+00",
-      "others": [
-        {
-          "name": "Scott Morgan",
-          "party": "UKP",
-          "votes": 22165,
-          "pct": 4.0
-        }
-      ]
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "KS-TREAS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "52%",
+      "reporting": "60%",
       "dem": {
         "name": "Juan Luengo",
-        "votes": 293835,
-        "pct": 52.9
+        "votes": 323096,
+        "pct": 50.76
       },
       "rep": {
         "name": "Steven C. Johnson",
-        "votes": 240142,
-        "pct": 43.3
+        "votes": 288026,
+        "pct": 45.25
       },
-      "marginPts": 9.7,
-      "marginVotes": 53693,
+      "marginPts": 5.51,
+      "marginVotes": 35070,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-treasurer-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:46:52.210694+00",
-      "others": [
-        {
-          "name": "Eric Lund",
-          "party": "LIB",
-          "votes": 21118,
-          "pct": 3.8
-        }
-      ]
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "MA-TREAS",
@@ -1682,85 +1656,43 @@
       "id": "MI-AG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "18%",
+      "reporting": "22%",
       "dem": {
         "name": "Eli Savit",
-        "votes": 464755,
-        "pct": 55.4
+        "votes": 557651,
+        "pct": 54.6
       },
       "rep": {
         "name": "Doug Lloyd",
-        "votes": 355631,
-        "pct": 42.4
+        "votes": 441031,
+        "pct": 43.18
       },
-      "marginPts": 13.0,
-      "marginVotes": 109124,
+      "marginPts": 11.42,
+      "marginVotes": 116620,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-attorney-general-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:07.889464+00",
-      "others": [
-        {
-          "name": "Jason Dye",
-          "party": "LIB",
-          "votes": 9919,
-          "pct": 1.2
-        },
-        {
-          "name": "Jeff Polonowski",
-          "party": "GRE",
-          "votes": 5004,
-          "pct": 0.6
-        },
-        {
-          "name": "John Ludtke",
-          "party": "OTH",
-          "votes": 4281,
-          "pct": 0.5
-        }
-      ]
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "MI-SOS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "18%",
+      "reporting": "21%",
       "dem": {
         "name": "Garlin Gilchrist II",
-        "votes": 478823,
-        "pct": 56.6
+        "votes": 562083,
+        "pct": 56.02
       },
       "rep": {
         "name": "Anthony Forlini",
-        "votes": 346439,
-        "pct": 41.0
+        "votes": 416981,
+        "pct": 41.56
       },
-      "marginPts": 15.7,
-      "marginVotes": 132384,
+      "marginPts": 14.46,
+      "marginVotes": 145102,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-secretary-of-state-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:07.889464+00",
-      "others": [
-        {
-          "name": "Christine Sloan",
-          "party": "LIB",
-          "votes": 12864,
-          "pct": 1.5
-        },
-        {
-          "name": "Scott Aughney",
-          "party": "OTH",
-          "votes": 3921,
-          "pct": 0.5
-        },
-        {
-          "name": "Eric Borregard",
-          "party": "GRE",
-          "votes": 3687,
-          "pct": 0.4
-        }
-      ]
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "MO-AUD",
@@ -1796,133 +1728,106 @@
       "id": "OH-AUD",
       "status": "Counting",
       "leader": "R",
-      "reporting": "68%",
+      "reporting": "72%",
       "dem": {
         "name": "Annette Blackwell",
-        "votes": 1531442,
-        "pct": 47.7
+        "votes": 1611833,
+        "pct": 47.29
       },
       "rep": {
         "name": "Frank LaRose",
-        "votes": 1680977,
-        "pct": 52.3
+        "votes": 1796276,
+        "pct": 52.71
       },
-      "marginPts": -4.7,
-      "marginVotes": 149535,
+      "marginPts": -5.42,
+      "marginVotes": 184443,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-auditor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:09.414916+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "OH-SOS",
       "status": "Counting",
-      "leader": "D",
-      "reporting": "68%",
+      "leader": "R",
+      "reporting": "72%",
       "dem": {
         "name": "Allison Russo",
-        "votes": 1567092,
-        "pct": 48.8
+        "votes": 1649694,
+        "pct": 48.38
       },
       "rep": {
         "name": "Robert Sprague",
-        "votes": 1559386,
-        "pct": 48.5
+        "votes": 1665305,
+        "pct": 48.84
       },
-      "marginPts": 0.2,
-      "marginVotes": 7706,
+      "marginPts": -0.46,
+      "marginVotes": 15611,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-secretary-of-state-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:09.414916+00",
-      "others": [
-        {
-          "name": "Tom Pruss",
-          "party": "LIB",
-          "votes": 85552,
-          "pct": 2.7
-        }
-      ]
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "TX-AG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "67%",
+      "reporting": "68%",
       "dem": {
         "name": "Nathan Johnson",
-        "votes": 3461478,
-        "pct": 54.6
+        "votes": 3505523,
+        "pct": 54.09
       },
       "rep": {
         "name": "Mayes Middleton",
-        "votes": 2882286,
-        "pct": 45.4
+        "votes": 2975821,
+        "pct": 45.91
       },
-      "marginPts": 9.1,
-      "marginVotes": 579192,
+      "marginPts": 8.18,
+      "marginVotes": 529702,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-attorney-general-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:44:54.587764+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "TX-AUD",
       "status": "Counting",
       "leader": "D",
-      "reporting": "67%",
+      "reporting": "69%",
       "dem": {
         "name": "Sarah Eckhardt",
-        "votes": 3375111,
-        "pct": 52.8
+        "votes": 3430595,
+        "pct": 52.11
       },
       "rep": {
         "name": "Don Huffines",
-        "votes": 2878181,
-        "pct": 45.0
+        "votes": 3008282,
+        "pct": 45.7
       },
-      "marginPts": 7.8,
-      "marginVotes": 496930,
+      "marginPts": 6.41,
+      "marginVotes": 422313,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-comptroller-of-public-accounts-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:46:00.197361+00",
-      "others": [
-        {
-          "name": "V. Echavarria-Garza",
-          "party": "LIB",
-          "votes": 102166,
-          "pct": 1.6
-        },
-        {
-          "name": "Shehla Faizi",
-          "party": "GRE",
-          "votes": 37987,
-          "pct": 0.6
-        }
-      ]
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "TX-LG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "65%",
+      "reporting": "67%",
       "dem": {
         "name": "Vikki Goodwin",
-        "votes": 3365177,
-        "pct": 54.3
+        "votes": 3406956,
+        "pct": 53.89
       },
       "rep": {
         "name": "Dan Patrick",
-        "votes": 2828295,
-        "pct": 45.7
+        "votes": 2915039,
+        "pct": 46.11
       },
-      "marginPts": 8.7,
-      "marginVotes": 536882,
+      "marginPts": 7.78,
+      "marginVotes": 491917,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-lt-governor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:09.03171+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "NY-GOV",
@@ -2055,111 +1960,106 @@
       "id": "IA-AG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "22%",
+      "reporting": "30%",
       "dem": {
         "name": "Nate Willems",
-        "votes": 181392,
-        "pct": 60.6
+        "votes": 221526,
+        "pct": 53.58
       },
       "rep": {
         "name": "Brenna Bird",
-        "votes": 117862,
-        "pct": 39.4
+        "votes": 191891,
+        "pct": 46.42
       },
-      "marginPts": 21.2,
-      "marginVotes": 63530,
+      "marginPts": 7.16,
+      "marginVotes": 29635,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-attorney-general-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:19.296915+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "IA-AUD",
       "status": "Counting",
       "leader": "D",
-      "reporting": "22%",
+      "reporting": "27%",
       "dem": {
         "name": "Taylor Wettach",
-        "votes": 177439,
-        "pct": 60.6
+        "votes": 205545,
+        "pct": 55.55
       },
       "rep": {
         "name": "Chris Cournoyer",
-        "votes": 115404,
-        "pct": 39.4
+        "votes": 164461,
+        "pct": 44.45
       },
-      "marginPts": 21.2,
-      "marginVotes": 62035,
+      "marginPts": 11.1,
+      "marginVotes": 41084,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-auditor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:19.296915+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "IA-GOV",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
-      "reporting": "22%",
+      "reporting": "31%",
       "dem": {
         "name": "Rob Sand",
-        "votes": 204667,
-        "pct": 64.7
+        "votes": 273635,
+        "pct": 60.91
       },
       "rep": {
         "name": "Zach Lahn",
-        "votes": 111670,
-        "pct": 35.3
+        "votes": 175620,
+        "pct": 39.09
       },
-      "marginPts": 29.4,
-      "marginVotes": 92997,
-      "calledBy": null,
+      "marginPts": 21.82,
+      "marginVotes": 98015,
+      "calledBy": "DDHQ",
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:36.877504+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "IA-SOS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "22%",
+      "reporting": "27%",
       "dem": {
         "name": "Ryan Peterman",
-        "votes": 166770,
-        "pct": 56.3
+        "votes": 193600,
+        "pct": 51.71
       },
       "rep": {
         "name": "Paul Pate",
-        "votes": 129535,
-        "pct": 43.7
+        "votes": 180809,
+        "pct": 48.29
       },
-      "marginPts": 12.6,
-      "marginVotes": 37235,
+      "marginPts": 3.42,
+      "marginVotes": 12791,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-secretary-of-state-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:36.877504+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "IA-TREAS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "21%",
+      "reporting": "27%",
       "dem": {
         "name": "John Norwood",
-        "votes": 173866,
-        "pct": 59.8
+        "votes": 201513,
+        "pct": 54.97
       },
       "rep": {
         "name": "Roby Smith",
-        "votes": 116927,
-        "pct": 40.2
+        "votes": 165060,
+        "pct": 45.03
       },
-      "marginPts": 19.6,
-      "marginVotes": 56939,
+      "marginPts": 9.94,
+      "marginVotes": 36453,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-treasurer-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:19.296915+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "MD-AG",
@@ -2363,87 +2263,74 @@
       "id": "NE-AG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "34%",
+      "reporting": "44%",
       "dem": {
         "name": "Jocelyn Brasher",
-        "votes": 131092,
-        "pct": 55.6
+        "votes": 164207,
+        "pct": 54.63
       },
       "rep": {
         "name": "Mike Hilgers",
-        "votes": 104665,
-        "pct": 44.4
+        "votes": 136357,
+        "pct": 45.37
       },
-      "marginPts": 11.2,
-      "marginVotes": 26427,
+      "marginPts": 9.26,
+      "marginVotes": 27850,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-attorney-general-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:46:00.202372+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "NE-AUD",
       "status": "Counting",
       "leader": "R",
-      "reporting": "18%",
-      "dem": {
-        "name": null,
-        "votes": 0,
-        "pct": 0
-      },
+      "reporting": "26%",
+      "dem": null,
       "rep": {
         "name": "Mike Foley",
-        "votes": 87249,
-        "pct": 69.1
+        "votes": 124183,
+        "pct": 68.76
       },
-      "marginPts": -69.1,
-      "marginVotes": 87249,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-auditor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:43:36.842692+00",
       "others": [
         {
           "name": "John Knight",
-          "party": "AF",
-          "votes": 39013,
-          "pct": 30.9
+          "party": "AFP",
+          "votes": 56409,
+          "pct": 31.24
         }
-      ]
+      ],
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-auditor-general-election",
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "NE-GOV",
       "status": "Counting",
       "leader": "D",
-      "reporting": "33%",
+      "reporting": "42%",
       "dem": {
         "name": "Lynne Walz",
-        "votes": 130734,
-        "pct": 54.4
+        "votes": 163215,
+        "pct": 53.17
       },
       "rep": {
         "name": "Jim Pillen",
-        "votes": 95512,
-        "pct": 39.8
+        "votes": 125537,
+        "pct": 40.89
       },
-      "marginPts": 14.7,
-      "marginVotes": 35222,
+      "marginPts": 12.28,
+      "marginVotes": 37678,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-governor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:46:00.197673+00",
+      "asOf": "2026-11-03T22:11:00-05:00",
       "others": [
         {
           "name": "Brett Lindstrom",
-          "party": "AF",
-          "votes": 9409,
-          "pct": 3.9
-        },
-        {
-          "name": "Rick Beard",
-          "party": "LMN",
-          "votes": 4601,
-          "pct": 1.9
+          "party": "AFP",
+          "votes": 11766,
+          "pct": 3.83
         }
       ]
     },
@@ -2451,35 +2338,28 @@
       "id": "NE-SOS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "34%",
+      "reporting": "43%",
       "dem": {
         "name": "Sarah Slattery",
-        "votes": 124885,
-        "pct": 53.7
+        "votes": 156295,
+        "pct": 52.81
       },
       "rep": {
         "name": "Scott Petersen",
-        "votes": 100693,
-        "pct": 43.3
+        "votes": 132700,
+        "pct": 44.84
       },
-      "marginPts": 10.4,
-      "marginVotes": 24192,
+      "marginPts": 7.97,
+      "marginVotes": 23595,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-secretary-of-state-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:46:00.323701+00",
+      "asOf": "2026-11-03T22:11:00-05:00",
       "others": [
         {
           "name": "Bob Krist",
-          "party": "AF",
-          "votes": 3781,
-          "pct": 1.6
-        },
-        {
-          "name": "Paul Rumbaugh",
-          "party": "NWP",
-          "votes": 3076,
-          "pct": 1.3
+          "party": "AFP",
+          "votes": 3825,
+          "pct": 1.29
         }
       ]
     },
@@ -2487,23 +2367,22 @@
       "id": "NE-TREAS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "34%",
+      "reporting": "44%",
       "dem": {
         "name": "Daniel Ebers",
-        "votes": 124213,
-        "pct": 53.0
+        "votes": 155927,
+        "pct": 52.06
       },
       "rep": {
         "name": "Joey Spellerberg",
-        "votes": 110105,
-        "pct": 47.0
+        "votes": 143560,
+        "pct": 47.94
       },
-      "marginPts": 6.0,
-      "marginVotes": 14108,
+      "marginPts": 4.12,
+      "marginVotes": 12367,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-treasurer-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:46:00.274136+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "NM-AG",
@@ -2715,75 +2594,64 @@
       "id": "WI-AG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "34%",
+      "reporting": "49%",
       "dem": {
         "name": "Josh Kaul",
-        "votes": 550420,
-        "pct": 59.4
+        "votes": 758395,
+        "pct": 57.82
       },
       "rep": {
         "name": "Eric Toney",
-        "votes": 376714,
-        "pct": 40.6
+        "votes": 553286,
+        "pct": 42.18
       },
-      "marginPts": 18.7,
-      "marginVotes": 173706,
+      "marginPts": 15.64,
+      "marginVotes": 205109,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-attorney-general-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:22.476051+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "WI-SOS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "27%",
+      "reporting": "47%",
       "dem": {
         "name": "JoCasta Zamarripa",
-        "votes": 366273,
-        "pct": 51.0
+        "votes": 690740,
+        "pct": 53.9
       },
       "rep": {
         "name": "Jay Schroeder",
-        "votes": 324245,
-        "pct": 45.1
+        "votes": 541087,
+        "pct": 42.22
       },
-      "marginPts": 5.9,
-      "marginVotes": 42028,
+      "marginPts": 11.68,
+      "marginVotes": 149653,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-secretary-of-state-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:49:22.476051+00",
-      "others": [
-        {
-          "name": "Pete Karas",
-          "party": "GRE",
-          "votes": 27718,
-          "pct": 3.9
-        }
-      ]
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "WI-TREAS",
       "status": "Counting",
       "leader": "D",
-      "reporting": "25%",
+      "reporting": "46%",
       "dem": {
         "name": "Yee Leng Xiong",
-        "votes": 355654,
-        "pct": 52.6
+        "votes": 691479,
+        "pct": 55.46
       },
       "rep": {
         "name": "John Leiber",
-        "votes": 320838,
-        "pct": 47.4
+        "votes": 555306,
+        "pct": 44.54
       },
-      "marginPts": 5.1,
-      "marginVotes": 34816,
+      "marginPts": 10.92,
+      "marginVotes": 136173,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-treasurer-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00",
-      "ddhqUpdated": "2026-11-04 02:50:02.011305+00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "CO-SOS",
@@ -2829,66 +2697,66 @@
     },
     {
       "id": "IA-LG",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
-      "reporting": "22%",
+      "reporting": "31%",
       "dem": {
         "name": "Dave Muhlbauer",
-        "votes": 204667,
-        "pct": 64.7
+        "votes": 273635,
+        "pct": 60.91
       },
       "rep": {
         "name": "Derek Wulf",
-        "votes": 111670,
-        "pct": 35.3
+        "votes": 175620,
+        "pct": 39.09
       },
-      "marginPts": 29.4,
-      "marginVotes": 92997,
-      "calledBy": null,
+      "marginPts": 21.82,
+      "marginVotes": 98015,
+      "calledBy": "DDHQ",
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "KS-LG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "57%",
+      "reporting": "67%",
       "dem": {
         "name": "KC Ohaebosim",
-        "votes": 364648,
-        "pct": 57.3
+        "votes": 420480,
+        "pct": 55.47
       },
       "rep": {
         "name": "Jeff Klemp",
-        "votes": 271642,
-        "pct": 42.7
+        "votes": 337604,
+        "pct": 44.53
       },
-      "marginPts": 14.6,
-      "marginVotes": 93006,
+      "marginPts": 10.94,
+      "marginVotes": 82876,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-governor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "NE-LG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "33%",
+      "reporting": "42%",
       "dem": {
         "name": "Ben Steffen",
-        "votes": 130734,
-        "pct": 54.4
+        "votes": 163215,
+        "pct": 53.17
       },
       "rep": {
         "name": "Joe Kelly",
-        "votes": 95512,
-        "pct": 39.8
+        "votes": 125537,
+        "pct": 40.89
       },
-      "marginPts": 14.7,
-      "marginVotes": 35222,
+      "marginPts": 12.28,
+      "marginVotes": 37678,
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-governor-general-election",
-      "asOf": "2026-11-03T21:52:47-05:00"
+      "asOf": "2026-11-03T22:11:00-05:00"
     },
     {
       "id": "WI-LG",
@@ -2910,6 +2778,69 @@
       "calledBy": null,
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-governor-general-election",
       "asOf": "2026-11-03T21:52:47-05:00"
+    },
+    {
+      "id": "AZ-AG",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "11%",
+      "dem": {
+        "name": "Kris Mayes",
+        "votes": 140226,
+        "pct": 47.07
+      },
+      "rep": {
+        "name": "Warren Petersen",
+        "votes": 157689,
+        "pct": 52.93
+      },
+      "marginPts": -5.86,
+      "marginVotes": 17463,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-attorney-general-general-election",
+      "asOf": "2026-11-03T22:11:00-05:00"
+    },
+    {
+      "id": "AZ-SOS",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "11%",
+      "dem": {
+        "name": "Adrian Fontes",
+        "votes": 137523,
+        "pct": 46.16
+      },
+      "rep": {
+        "name": "Alexander Kolodin",
+        "votes": 156043,
+        "pct": 52.38
+      },
+      "marginPts": -6.22,
+      "marginVotes": 18520,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-secretary-of-state-general-election",
+      "asOf": "2026-11-03T22:11:00-05:00"
+    },
+    {
+      "id": "AZ-TREAS",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "11%",
+      "dem": {
+        "name": "Nick Mansour",
+        "votes": 133409,
+        "pct": 45.1
+      },
+      "rep": {
+        "name": "Elijah Norton",
+        "votes": 162376,
+        "pct": 54.9
+      },
+      "marginPts": -9.8,
+      "marginVotes": 28967,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-treasurer-general-election",
+      "asOf": "2026-11-03T22:11:00-05:00"
     }
   ]
 }
