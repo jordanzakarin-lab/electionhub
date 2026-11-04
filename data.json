@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:15:11-05:00",
+ "updated": "2026-11-03T21:31:02-05:00",
  "sample": false,
  "races": [
   {
@@ -207,7 +207,7 @@
     "pct": 49.8
    },
    "rep": {
-    "name": "Mar\u00eda Elvira Salazar",
+    "name": "María Elvira Salazar",
     "votes": 121752,
     "pct": 50.2
    },
@@ -717,7 +717,7 @@
   },
   {
    "id": "NJ-07",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "33%",
    "dem": {
@@ -732,9 +732,9 @@
    },
    "marginPts": 31.8,
    "marginVotes": 31902,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-jersey-us-house-7-general-election",
-   "asOf": "2026-11-03T20:59:20-05:00",
+   "calledBy": "New Jersey Globe",
+   "source": "https://newjerseyglobe.com/campaigns/rebecca-bennett-ousts-rep-tom-kean-jr-in-7th-district/",
+   "asOf": "2026-11-03T21:31:02-05:00",
    "ddhqUpdated": "2026-11-04 01:54:44.699023+00",
    "others": [
     {
