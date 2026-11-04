@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:02:43-05:00",
+ "updated": "2026-11-04T01:09:18-05:00",
  "sample": false,
  "races": [
   {
@@ -207,7 +207,7 @@
     "pct": 49.7
    },
    "rep": {
-    "name": "Mar\u00eda Elvira Salazar",
+    "name": "María Elvira Salazar",
     "votes": 123838,
     "pct": 50.3
    },
@@ -922,73 +922,43 @@
    "id": "MI-07",
    "status": "Counting",
    "leader": "R",
-   "reporting": "41%",
+   "reporting": "78%",
    "dem": {
     "name": "William Lawrence",
-    "votes": 73741,
-    "pct": 43.7
+    "votes": 151174,
+    "pct": 46.9
    },
    "rep": {
     "name": "Tom Barrett",
-    "votes": 92995,
-    "pct": 55.1
+    "votes": 166814,
+    "pct": 51.8
    },
-   "marginPts": -11.4,
-   "marginVotes": 19254,
+   "marginPts": -4.9,
+   "marginVotes": 15640,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-7-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:34.786107+00",
-   "others": [
-    {
-     "name": "Shane Dedrick",
-     "party": "GRE",
-     "votes": 2082,
-     "pct": 1.2
-    }
-   ]
+   "source": "https://us-election-tracker.com/live-results/house",
+   "asOf": "2026-11-04T01:08:00-05:00"
   },
   {
    "id": "MI-10",
    "status": "Counting",
-   "leader": "R",
-   "reporting": "22%",
+   "leader": "D",
+   "reporting": "50%",
    "dem": {
     "name": "Christina Hines",
-    "votes": 39164,
-    "pct": 48.1
+    "votes": 95191,
+    "pct": 50.1
    },
    "rep": {
     "name": "Mike Bouchard Jr.",
-    "votes": 39554,
-    "pct": 48.5
+    "votes": 89961,
+    "pct": 47.4
    },
-   "marginPts": -0.5,
-   "marginVotes": 390,
+   "marginPts": 2.7,
+   "marginVotes": 5230,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-10-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:13:12.672714+00",
-   "others": [
-    {
-     "name": "Andrea Kirby",
-     "party": "WC",
-     "votes": 997,
-     "pct": 1.2
-    },
-    {
-     "name": "Kwabena Nkromo",
-     "party": "GRE",
-     "votes": 924,
-     "pct": 1.1
-    },
-    {
-     "name": "Mike Saliba",
-     "party": "LIB",
-     "votes": 841,
-     "pct": 1.0
-    }
-   ]
+   "source": "https://us-election-tracker.com/live-results/house",
+   "asOf": "2026-11-04T01:08:00-05:00"
   },
   {
    "id": "MI-SEN",
@@ -1330,19 +1300,19 @@
    "reporting": "98%",
    "dem": {
     "name": "Nancy Lacore",
-    "votes": null,
-    "pct": null
+    "votes": 158877,
+    "pct": 49.5
    },
    "rep": {
     "name": "Jenny Costa Honeycutt",
-    "votes": null,
-    "pct": null
+    "votes": 156521,
+    "pct": 48.8
    },
    "marginPts": 0.7,
-   "marginVotes": null,
+   "marginVotes": 2356,
    "calledBy": null,
-   "source": "https://www.yahoo.com/news/politics/articles/democrat-fired-trump-administration-narrowly-010006229.html",
-   "asOf": "2026-11-04T01:05:00-05:00"
+   "source": "https://us-election-tracker.com/live-results/house",
+   "asOf": "2026-11-04T01:08:00-05:00"
   },
   {
    "id": "TN-09",
@@ -1664,31 +1634,22 @@
    "id": "MI-04",
    "status": "Counting",
    "leader": "R",
-   "reporting": "4%",
+   "reporting": "55%",
    "dem": {
     "name": "Sean McCann",
-    "votes": 4079,
-    "pct": 27.7
+    "votes": 99776,
+    "pct": 47.5
    },
    "rep": {
     "name": "Bill Huizenga",
-    "votes": 9328,
-    "pct": 63.2
+    "votes": 107091,
+    "pct": 51.0
    },
-   "marginPts": -35.6,
-   "marginVotes": 5249,
+   "marginPts": -3.5,
+   "marginVotes": 7315,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-4-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:43.034134+00",
-   "others": [
-    {
-     "name": "Shafina Barnett",
-     "party": "GRE",
-     "votes": 1341,
-     "pct": 9.1
-    }
-   ]
+   "source": "https://us-election-tracker.com/live-results/house",
+   "asOf": "2026-11-04T01:08:00-05:00"
   },
   {
    "id": "MI-08",
@@ -2332,31 +2293,22 @@
    "id": "MT-01",
    "status": "Counting",
    "leader": "D",
-   "reporting": "1%",
+   "reporting": "50%",
    "dem": {
     "name": "Sam Forstag",
-    "votes": 1321,
-    "pct": 58.2
+    "votes": 71740,
+    "pct": 52.4
    },
    "rep": {
     "name": "Aaron Flint",
-    "votes": 852,
-    "pct": 37.6
+    "votes": 61398,
+    "pct": 44.8
    },
-   "marginPts": 20.7,
-   "marginVotes": 469,
+   "marginPts": 7.6,
+   "marginVotes": 10342,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/montana-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:16:53.36477+00",
-   "others": [
-    {
-     "name": "Nick Sheedy",
-     "party": "LIB",
-     "votes": 95,
-     "pct": 4.2
-    }
-   ]
+   "source": "https://us-election-tracker.com/live-results/house",
+   "asOf": "2026-11-04T01:08:00-05:00"
   },
   {
    "id": "AZ-05",
@@ -2613,25 +2565,25 @@
    "asOf": "2026-11-04T00:21:45-05:00"
   },
   {
-   "id": "NC-07",
    "status": "Counting",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "Kimberly Hardy",
-    "votes": 157417,
-    "pct": 49.2
+    "votes": 157560,
+    "pct": 49.1
    },
    "rep": {
     "name": "David Rouzer",
-    "votes": 159606,
+    "votes": 159985,
     "pct": 49.9
    },
-   "marginPts": -0.7,
-   "marginVotes": 2189,
+   "marginPts": -0.8,
+   "marginVotes": 2425,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:23:50-05:00"
+   "asOf": "2026-11-04T00:58:28-05:00",
+   "id": "NC-07"
   },
   {
    "id": "NC-08",
@@ -2818,7 +2770,7 @@
      "pct": 1.2
     },
     {
-     "name": "Miche\u00e1l O'Leary",
+     "name": "Micheál O'Leary",
      "party": "IND",
      "votes": 645,
      "pct": 0.3
@@ -3218,24 +3170,24 @@
   },
   {
    "id": "CA-22",
-   "calledBy": null,
+   "status": "Counting",
    "leader": "D",
-   "reporting": "37% of precincts (partial)",
+   "reporting": "44%",
    "dem": {
     "name": "Randy Villegas",
-    "votes": 40019,
-    "pct": 64.9
+    "votes": 40555,
+    "pct": 65.0
    },
    "rep": {
     "name": "David Valadao",
-    "votes": 21621,
-    "pct": 35.1
+    "votes": 21862,
+    "pct": 35.0
    },
-   "marginPts": 29.8,
-   "marginVotes": 18398,
-   "source": "https://gvwire.com/2026/11/03/villegas-claims-victory-against-valadao-no-news-networks-calling-race-yet/",
-   "asOf": "2026-11-04T01:05:00-05:00",
-   "status": "Counting"
+   "marginPts": 30.0,
+   "marginVotes": 18693,
+   "calledBy": null,
+   "source": "https://us-election-tracker.com/live-results/house",
+   "asOf": "2026-11-04T01:08:00-05:00"
   }
  ]
 }
