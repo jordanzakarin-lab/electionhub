@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:40:00-05:00",
+ "updated": "2026-11-04T17:59:13-05:00",
  "sample": false,
  "measures": [
   {
@@ -231,8 +231,8 @@
    "measure": "Two-Thirds Vote to Raise Income Taxes",
    "ballotNo": "Amendment 1",
    "description": "Requires a two-thirds legislative vote to raise income tax rates or create a new income-based tax.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -243,12 +243,12 @@
     "votes": null,
     "pct": 44
    },
-   "marginPts": 12.0,
-   "reporting": "all 99 counties",
-   "calledBy": "",
-   "note": "AP-sourced: 56% yes with all 99 counties reporting Wednesday morning; not called.",
-   "source": "https://www.yahoo.com/news/politics/articles/yes-votes-lead-iowa-constitutional-063017479.html",
-   "asOf": "Nov 4, 2:51 PM ET"
+   "marginPts": 12,
+   "reporting": "per Iowa SOS results (no % given)",
+   "calledBy": "AP",
+   "note": "Call: AP. Updated in Nov 4 evening sweep.",
+   "source": "https://www.iowapublicradio.org/political-news/2026-11-03/2026-iowa-constitutional-amendment-election-results",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -709,24 +709,24 @@
    "measure": "State Public K-12 Education Funding",
    "ballotNo": "Prop NN",
    "description": "Lets the state keep revenue above the TABOR cap for K-12 schools (up to $4.6B; ~$500M a year expected).",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 55.41
+    "pct": 55.4
    },
    "no": {
     "votes": null,
-    "pct": 44.59
+    "pct": 44.6
    },
-   "marginPts": 10.82,
-   "reporting": "80%",
-   "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "marginPts": 10.8,
+   "reporting": "as of ~1:20 PM MT Wed Nov 4 (no derived)",
+   "calledBy": "AP",
+   "note": "Call: AP. Updated in Nov 4 evening sweep.",
+   "source": "https://sentinelcolorado.com/metro/colorado-voters-reject-measures-requiring-mail-ballot-ids-ice-assistance-and-others/",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Education",
@@ -933,18 +933,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 55.89
+    "pct": 49.4
    },
    "no": {
     "votes": null,
-    "pct": 44.11
+    "pct": 50.6
    },
-   "marginPts": 11.78,
-   "reporting": "partial (not stated)",
+   "marginPts": -1.2,
+   "reporting": "94.4% of ballots tallied, 4:30 PM Nov 4 (yes derived)",
    "calledBy": "",
-   "note": "Yes 55.89% per MultiState (pending); No % derived; vote counts and % reporting not stated; not called.",
-   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
-   "asOf": "Nov 4, 3:20 PM ET"
+   "note": "Not called. Boston.com (4:30 PM Nov 4, 94.4% tallied): No leads 50.6%; replaces earlier MultiState figures that showed Yes ahead.",
+   "source": "https://boston.com/news/local-news/2026/11/04/mass-question-7-remains-too-close-to-call-as-ballots-are-counted",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Housing",
@@ -2320,19 +2320,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 49
+    "votes": 98218,
+    "pct": 48.1
    },
    "no": {
-    "votes": null,
-    "pct": 51
+    "votes": 105774,
+    "pct": 51.9
    },
-   "marginPts": -2,
-   "reporting": "78%",
+   "marginPts": -3.8,
+   "reporting": "393 of 400 precincts; thousands of ballots still uncounted",
    "calledBy": "",
-   "note": "No leads with 51% per Alaska Public/KTOO; yes is the remainder; not called. MultiState shows 48.15% yes (pending) at 11:55 AM; counts not stated, so earlier figures kept.; not refreshed this run",
-   "source": "https://www.ktoo.org/2026/11/04/early-results-show-alaskans-narrowly-rejecting-repeal-of-ranked-choice-voting/",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "note": "Not called. Updated in Nov 4 evening sweep.",
+   "source": "https://thealaskastory.com/chaos-reigns-as-alaskas-second-ranked-choice-repeal-bid-trails-by-7556-votes/",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2411,24 +2411,24 @@
    "measure": "End Mail-Ballot Signature Verification",
    "ballotNo": "Amendment 84",
    "description": "Replaces signature checks with the last four digits of an SSN or driver's license.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "55%",
    "thresholdPct": 55,
    "yes": {
     "votes": null,
-    "pct": 36.65
+    "pct": 36.6
    },
    "no": {
     "votes": null,
-    "pct": 63.35
+    "pct": 63.4
    },
-   "marginPts": -26.7,
-   "reporting": "80%",
-   "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "marginPts": -26.8,
+   "reporting": "as of midday Wed Nov 4 (yes derived)",
+   "calledBy": "AP",
+   "note": "Call: AP. Updated in Nov 4 evening sweep.",
+   "source": "https://sentinelcolorado.com/metro/colorado-voters-reject-measures-requiring-mail-ballot-ids-ice-assistance-and-others/",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2684,19 +2684,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 1159894,
-    "pct": 66.7
+    "votes": 1167267,
+    "pct": 66.8
    },
    "no": {
-    "votes": 577911,
-    "pct": 33.3
+    "votes": 580245,
+    "pct": 33.2
    },
-   "marginPts": 33.4,
-   "reporting": "77%",
+   "marginPts": 33.6,
+   "reporting": "1,967 of 1,979 election-day precincts; early+ED+mail, provisionals not yet (SBE, 11/04 3:44 AM)",
    "calledBy": "",
-   "note": "Per Baltimore Banner, 1:08 AM; not called.; not refreshed this run",
-   "source": "https://www.thebanner.com/politics-power/maryland-governor-statewide-election-results-2026-AROADO6SWFGALKVBBYUJBTFTVQ/",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "note": "Not called. Updated in Nov 4 evening sweep.",
+   "source": "https://elections.maryland.gov/elections/2026/general_results/gen_qresults_2026_1_00_ALL.html",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2953,24 +2953,24 @@
    "measure": "Protect Girls' Sports Act",
    "ballotNo": "Prop 318",
    "description": "Sex-based school sports teams plus restroom and locker-room limits.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 56.59
+    "votes": 1219360,
+    "pct": 58.9
    },
    "no": {
-    "votes": null,
-    "pct": 43.41
+    "votes": 851000,
+    "pct": 41.1
    },
-   "marginPts": 13.18,
-   "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.; not refreshed this run",
-   "source": "https://www.multistate.us/elections/results/arizona-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "marginPts": 17.8,
+   "reporting": "all 15 counties, unofficial as of 8:16 AM MST Nov 4",
+   "calledBy": "AP",
+   "note": "Call: AP. Updated in Nov 4 evening sweep.",
+   "source": "https://ktar.com/arizona-politics-news/election/arizona-ballot-measure-proposition-results-2026-pass-fail",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3031,24 +3031,24 @@
    "measure": "Sex-Separated Sports Amendment",
    "ballotNo": "Measure 442",
    "description": "Adds sex-separated K-12 and college sports to the constitution. Upheld by the Nebraska Supreme Court Oct 16.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority + 35% of ballots cast",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 67.08
+    "votes": 488432,
+    "pct": 68.0
    },
    "no": {
-    "votes": null,
-    "pct": 32.92
+    "votes": 229868,
+    "pct": 32.0
    },
-   "marginPts": 34.16,
-   "reporting": "82%",
-   "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/nebraska",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "marginPts": 36.0,
+   "reporting": "1,309 of 1,322 precincts",
+   "calledBy": "Decision Desk HQ",
+   "note": "Call: Decision Desk HQ. Updated in Nov 4 evening sweep.",
+   "source": "https://www.yahoo.com/news/politics/articles/arizona-nebraska-voters-approve-trans-134134036.html",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3057,24 +3057,24 @@
    "measure": "Ban Race- and Ethnicity-Based Preferences",
    "ballotNo": "Prop 142",
    "description": "Constitutional ban on race- and ethnicity-based preferences and DEI programs in government and schools.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 37.86
+    "votes": 818941,
+    "pct": 40.07
    },
    "no": {
-    "votes": null,
-    "pct": 62.14
+    "votes": 1224913,
+    "pct": 59.93
    },
-   "marginPts": -24.28,
-   "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.; not refreshed this run",
-   "source": "https://www.multistate.us/elections/results/arizona-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "marginPts": -19.86,
+   "reporting": "all 15 counties, unofficial as of 8:16 AM MST Nov 4",
+   "calledBy": "AP",
+   "note": "Call: AP. Updated in Nov 4 evening sweep.",
+   "source": "https://ktar.com/arizona-politics-news/election/arizona-ballot-measure-proposition-results-2026-pass-fail",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3109,24 +3109,24 @@
    "measure": "Require Police Cooperation With ICE",
    "ballotNo": "Amendment 81",
    "description": "Requires police to cooperate with ICE and notify federal immigration authorities in some cases.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "55%",
    "thresholdPct": 55,
    "yes": {
     "votes": null,
-    "pct": 44.98
+    "pct": 44.97
    },
    "no": {
     "votes": null,
-    "pct": 55.02
+    "pct": 55.03
    },
-   "marginPts": -10.04,
-   "reporting": "80%",
-   "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "marginPts": -10.06,
+   "reporting": "unofficial, Wednesday morning tally",
+   "calledBy": "AP",
+   "note": "Call: AP. Updated in Nov 4 evening sweep.",
+   "source": "https://www.coloradopolitics.com/2026/11/04/110426-cp-web-elex-amendment-81-update/",
+   "asOf": "Nov 4, 5:59 PM ET"
   },
   {
    "category": "Civil Rights & Repro",

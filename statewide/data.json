@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:36:00-05:00",
+ "updated": "2026-11-04T17:59:13-05:00",
  "sample": false,
  "races": [
   {
@@ -2099,7 +2099,7 @@
   },
   {
    "id": "IA-AUD",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "100%",
    "dem": {
@@ -2114,11 +2114,11 @@
    },
    "marginPts": 0.48,
    "marginVotes": 6473,
-   "calledBy": null,
-   "source": "https://iowastartingline.com/news/elections/iowa-2026-election-results/",
-   "asOf": "2026-11-04T12:32:00-05:00",
+   "calledBy": "Concession (Chris Cournoyer)",
+   "source": "https://www.yahoo.com/news/politics/articles/republican-chris-cournoyer-concedes-iowa-192904717.html",
+   "asOf": "2026-11-04T17:59:13-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "note": "All 99 counties reporting (unofficial); two-party shares"
+   "note": "Cournoyer conceded ~noon CT Wed: \"I just spoke with Taylor Wettach, and I wish him well as he serves Iowa as Auditor.\" AP had not called."
   },
   {
    "id": "IA-GOV",
