@@ -937,43 +937,22 @@
       "id": "ME-SEN",
       "status": "Called",
       "leader": "D",
-      "reporting": "27%",
+      "reporting": "",
       "dem": {
         "name": "Troy Jackson",
-        "votes": 94452,
-        "pct": 47.3
+        "votes": null,
+        "pct": 52.5
       },
       "rep": {
         "name": "Susan Collins",
-        "votes": 103190,
-        "pct": 51.7
+        "votes": null,
+        "pct": 46.3
       },
-      "marginPts": -4.4,
-      "marginVotes": 8738,
-      "calledBy": "WGAN (Collins conceded, per CNN)",
-      "source": "https://wgan.com/news/074470-wgan-projects-troy-jackson-as-winner-in-high-stakes-maine-senate-race/",
-      "asOf": "2026-11-04T00:42:00-05:00",
-      "ddhqUpdated": "2026-11-04 03:20:29.398574+00",
-      "others": [
-        {
-          "name": "Blank Votes",
-          "party": "NPA",
-          "votes": 1689,
-          "pct": 0.8
-        },
-        {
-          "name": " Write-In",
-          "party": "WRI",
-          "votes": 239,
-          "pct": 0.1
-        },
-        {
-          "name": "Brent Andrews",
-          "party": "WRI",
-          "votes": 25,
-          "pct": 0.0
-        }
-      ]
+      "marginPts": 6.2,
+      "marginVotes": null,
+      "calledBy": "Collins concession (CNN, BDN)",
+      "source": "https://www.bangordailynews.com/2026/11/04/politics/elections/susan-collins-concedes-troy-jackson/",
+      "asOf": "2026-11-04T00:19:00-05:00"
     },
     {
       "id": "MI-07",
