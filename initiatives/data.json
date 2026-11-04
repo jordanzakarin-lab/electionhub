@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:21:00-05:00",
+ "updated": "2026-11-04T02:23:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -633,7 +633,7 @@
    "no": {
     "pct": 52.47
    },
-   "marginPts": null,
+   "marginPts": -4.94,
    "reporting": "unofficial",
    "calledBy": "Rhode Island Current",
    "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
@@ -657,7 +657,7 @@
    "no": {
     "pct": 50.79
    },
-   "marginPts": null,
+   "marginPts": -1.58,
    "reporting": "unofficial",
    "calledBy": "Rhode Island Current",
    "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
@@ -759,7 +759,7 @@
    "no": {
     "pct": 40.18
    },
-   "marginPts": null,
+   "marginPts": 19.64,
    "reporting": "unofficial",
    "calledBy": "Rhode Island Current",
    "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
@@ -809,7 +809,7 @@
    "no": {
     "pct": 55
    },
-   "marginPts": 10,
+   "marginPts": -10,
    "reporting": ">90%",
    "calledBy": "AP",
    "note": "AP called 10:18 PM ET; No nearly 55% (KCTV5). Exact vote counts not yet captured.",
@@ -977,7 +977,7 @@
    "no": {
     "pct": 38.88
    },
-   "marginPts": null,
+   "marginPts": 22.24,
    "reporting": "unofficial",
    "calledBy": "Rhode Island Current",
    "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
@@ -2067,7 +2067,7 @@
    "no": {
     "pct": 80.73
    },
-   "marginPts": null,
+   "marginPts": -61.46,
    "reporting": "",
    "calledBy": "MultiState",
    "note": "Per MultiState results page.",
@@ -2197,7 +2197,7 @@
    "no": {
     "pct": 62
    },
-   "marginPts": 24,
+   "marginPts": -24,
    "reporting": "",
    "calledBy": "AP",
    "note": "AP called 9:59 PM ET; map rejected 62%-38% (St. Louis Public Radio). Exact vote counts not yet captured.",
@@ -2287,7 +2287,7 @@
    "no": {
     "pct": 61
    },
-   "marginPts": 22,
+   "marginPts": -22,
    "reporting": "46%",
    "calledBy": "Yes campaign conceded (GBH)",
    "note": "Not called by AP yet; Yes campaign conceded. 61% No with 46% in as of 11:45 PM ET (GBH).",
@@ -3209,7 +3209,7 @@
    "no": {
     "pct": 33.08
    },
-   "marginPts": null,
+   "marginPts": 33.84,
    "reporting": "unofficial",
    "calledBy": "Rhode Island Current",
    "note": "Unofficial RI Board of Elections results as of 10:19 PM ET, per Rhode Island Current.",
