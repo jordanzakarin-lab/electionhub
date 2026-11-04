@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:05:57-05:00",
+ "updated": "2026-11-04T12:08:00-05:00",
  "sample": false,
  "races": [
   {
@@ -207,7 +207,7 @@
     "pct": 49.8
    },
    "rep": {
-    "name": "Mar\u00eda Elvira Salazar",
+    "name": "María Elvira Salazar",
     "votes": 124474,
     "pct": 50.2
    },
@@ -2291,23 +2291,22 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "D",
-   "reporting": "79%",
+   "reporting": "80%",
    "dem": {
     "name": "Jonathan Nez",
     "votes": 136344,
-    "pct": 49.1
+    "pct": 49.2
    },
    "rep": {
     "name": "Eli Crane",
     "votes": 136258,
     "pct": 49.1
    },
-   "marginPts": 0.0,
+   "marginPts": 0.1,
    "marginVotes": 86,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-2-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 09:35:09.38313+00",
+   "source": "https://www.azfamily.com/politics/election-results/",
+   "asOf": "2026-11-04T12:08:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
@@ -2315,7 +2314,8 @@
      "votes": 4776,
      "pct": 1.7
     }
-   ]
+   ],
+   "totalVotes": 277378
   },
   {
    "id": "UT-01",
@@ -2357,7 +2357,7 @@
    "id": "AZ-01",
    "status": "Counting",
    "leader": "D",
-   "reporting": "96%",
+   "reporting": "85%",
    "dem": {
     "name": "Amish Shah",
     "votes": 163584,
@@ -2371,9 +2371,8 @@
    "marginPts": 7.2,
    "marginVotes": 22388,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-1-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 11:13:42.541632+00",
+   "source": "https://www.azfamily.com/politics/election-results/",
+   "asOf": "2026-11-04T12:08:00-05:00",
    "others": [
     {
      "name": "Monica Alponte",
@@ -2381,13 +2380,14 @@
      "votes": 6360,
      "pct": 2.0
     }
-   ]
+   ],
+   "totalVotes": 311140
   },
   {
    "id": "AZ-06",
    "status": "Called",
    "leader": "D",
-   "reporting": "88%",
+   "reporting": "80%",
    "dem": {
     "name": "JoAnna Mendoza",
     "votes": 157269,
@@ -2401,9 +2401,8 @@
    "marginPts": 8.0,
    "marginVotes": 23767,
    "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-6-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 09:04:38.206531+00",
+   "source": "https://www.azfamily.com/politics/election-results/",
+   "asOf": "2026-11-04T12:08:00-05:00",
    "others": [
     {
      "name": "Jereme Peters",
@@ -2417,7 +2416,8 @@
      "votes": 2518,
      "pct": 0.8
     }
-   ]
+   ],
+   "totalVotes": 296894
   },
   {
    "id": "MN-02",
@@ -2474,7 +2474,7 @@
    "id": "AZ-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "83%",
+   "reporting": "84%",
    "dem": {
     "name": "Elizabeth Lee",
     "votes": 131226,
@@ -2486,17 +2486,17 @@
     "pct": 51.1
    },
    "marginPts": -2.2,
-   "marginVotes": 6014,
+   "marginVotes": -6014,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-5-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 11:13:42.541632+00"
+   "source": "https://www.azfamily.com/politics/election-results/",
+   "asOf": "2026-11-04T12:08:00-05:00",
+   "totalVotes": 268466
   },
   {
    "id": "AZ-08",
    "status": "Counting",
    "leader": "R",
-   "reporting": "83%",
+   "reporting": "85%",
    "dem": {
     "name": "Bernadette Greene-Placentia",
     "votes": 121500,
@@ -2508,11 +2508,11 @@
     "pct": 51.1
    },
    "marginPts": -2.2,
-   "marginVotes": 5563,
+   "marginVotes": -5563,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-8-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 11:13:42.541632+00"
+   "source": "https://www.azfamily.com/politics/election-results/",
+   "asOf": "2026-11-04T12:08:00-05:00",
+   "totalVotes": 248563
   },
   {
    "id": "CA-23",
@@ -2944,7 +2944,7 @@
      "pct": 1.2
     },
     {
-     "name": "Miche\u00e1l O'Leary",
+     "name": "Micheál O'Leary",
      "party": "IND",
      "votes": 815,
      "pct": 0.4
@@ -3516,7 +3516,7 @@
    "leader": "D",
    "reporting": "80%",
    "dem": {
-    "name": "Linda S\u00e1nchez",
+    "name": "Linda Sánchez",
     "votes": 109542,
     "pct": 65.0
    },
