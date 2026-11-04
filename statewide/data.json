@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:14:05-05:00",
+ "updated": "2026-11-03T20:18:57-05:00",
  "sample": false,
  "races": [
   {
@@ -582,7 +582,7 @@
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-governor-general-election",
    "asOf": "2026-11-03T19:28:37-05:00",
    "others": [],
-   "note": "Joint ticket: governor ticket's result (Jolly\u2013Graham vs. Donalds\u2013Avila), from states/governors.json."
+   "note": "Joint ticket: governor ticket's result (Jolly–Graham vs. Donalds–Avila), from states/governors.json."
   },
   {
    "id": "PA-LG",
@@ -605,6 +605,132 @@
    "source": "https://www.fox29.com/news/josh-shapiro-wins-second-term-pennsylvania-governor-ap",
    "asOf": "2026-11-03T20:14:05-05:00",
    "note": "Call entered by Jordan from AP (via FOX 29; also NBC News)"
+  },
+  {
+   "id": "MA-GOV",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Maura Healey",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Mike Minogue",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://panow.com/2026/11/03/democrat-maura-healey-wins-reelection-for-governor-in-massachusetts/",
+   "asOf": "2026-11-03T20:18:57-05:00"
+  },
+  {
+   "id": "MA-LG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Kim Driscoll",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Shawn Oliver",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://panow.com/2026/11/03/democrat-maura-healey-wins-reelection-for-governor-in-massachusetts/",
+   "asOf": "2026-11-03T20:18:57-05:00"
+  },
+  {
+   "id": "MD-GOV",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Wes Moore",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Dan Cox",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://panow.com/2026/11/03/democrat-wes-moore-wins-reelection-for-governor-in-maryland/",
+   "asOf": "2026-11-03T20:18:57-05:00"
+  },
+  {
+   "id": "MD-LG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Aruna Miller",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Rob Krop",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://panow.com/2026/11/03/democrat-wes-moore-wins-reelection-for-governor-in-maryland/",
+   "asOf": "2026-11-03T20:18:57-05:00"
+  },
+  {
+   "id": "IL-GOV",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "JB Pritzker",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Darren Bailey",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://panow.com/2026/11/03/democrat-jb-pritzker-wins-reelection-for-governor-in-illinois/",
+   "asOf": "2026-11-03T20:18:57-05:00"
+  },
+  {
+   "id": "IL-LG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Christian Mitchell",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Aaron Del Mar",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://panow.com/2026/11/03/democrat-jb-pritzker-wins-reelection-for-governor-in-illinois/",
+   "asOf": "2026-11-03T20:18:57-05:00"
   }
  ]
 }
