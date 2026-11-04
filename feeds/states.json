@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:00:47-05:00",
+ "updated": "2026-11-04T03:10:58-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -8493,17 +8493,17 @@
    },
    "rep": {
     "name": "Robert Farnsworth",
-    "votes": 21767,
+    "votes": 21773,
     "pct": 54.4
    },
    "other": 23,
    "marginPts": -8.9,
-   "marginVotes": 3545,
+   "marginVotes": 3551,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T02:40:25-05:00",
+   "asOf": "2026-11-04T03:10:58-05:00",
    "feed": true,
-   "totalVotes": 40012,
+   "totalVotes": 40018,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-7",
