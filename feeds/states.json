@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:13:33-05:00",
+ "updated": "2026-11-04T00:19:40-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -4625,25 +4625,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "80%",
+   "reporting": "82%",
    "dem": {
     "name": "Leanna Sandahl",
-    "votes": 3502,
-    "pct": 29.7
+    "votes": 3556,
+    "pct": 29.3
    },
    "rep": {
     "name": "John Burkel",
-    "votes": 8291,
-    "pct": 70.3
+    "votes": 8558,
+    "pct": 70.6
    },
    "other": 6,
-   "marginPts": -40.6,
-   "marginVotes": 4789,
+   "marginPts": -41.3,
+   "marginVotes": 5002,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 11799,
+   "totalVotes": 12120,
    "state": "MN",
    "chamber": "House",
    "district": "HD-1A",
@@ -4653,25 +4653,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "74%",
+   "reporting": "91%",
    "dem": {
     "name": "Jennifer Compeau",
-    "votes": 3676,
-    "pct": 32.1
+    "votes": 4369,
+    "pct": 33.2
    },
    "rep": {
     "name": "Steve Gander",
-    "votes": 7759,
-    "pct": 67.8
+    "votes": 8788,
+    "pct": 66.8
    },
-   "other": 5,
-   "marginPts": -35.7,
-   "marginVotes": 4083,
+   "other": 7,
+   "marginPts": -33.6,
+   "marginVotes": 4419,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 11440,
+   "totalVotes": 13164,
    "state": "MN",
    "chamber": "House",
    "district": "HD-1B",
@@ -4681,25 +4681,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "69%",
+   "reporting": "83%",
    "dem": {
     "name": "Reed J. Olson",
-    "votes": 6240,
-    "pct": 45.9
+    "votes": 6756,
+    "pct": 45.7
    },
    "rep": {
     "name": "Bidal Duran Jr",
-    "votes": 7309,
-    "pct": 53.8
+    "votes": 7992,
+    "pct": 54.0
    },
-   "other": 41,
-   "marginPts": -7.9,
-   "marginVotes": 1069,
+   "other": 44,
+   "marginPts": -8.3,
+   "marginVotes": 1236,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:01:15-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 13590,
+   "totalVotes": 14792,
    "state": "MN",
    "chamber": "House",
    "district": "HD-2A",
@@ -4709,25 +4709,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "58%",
+   "reporting": "79%",
    "dem": {
     "name": "Emily Thabes",
-    "votes": 5070,
-    "pct": 42.1
+    "votes": 6678,
+    "pct": 39.1
    },
    "rep": {
     "name": "Matt Bliss",
-    "votes": 6971,
-    "pct": 57.9
+    "votes": 10371,
+    "pct": 60.8
    },
-   "other": 9,
-   "marginPts": -15.8,
-   "marginVotes": 1901,
+   "other": 12,
+   "marginPts": -21.7,
+   "marginVotes": 3693,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 12050,
+   "totalVotes": 17061,
    "state": "MN",
    "chamber": "House",
    "district": "HD-2B",
@@ -4737,25 +4737,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "68%",
+   "reporting": "69%",
    "dem": {
     "name": "Aaron Kania",
-    "votes": 7365,
-    "pct": 46.9
+    "votes": 7532,
+    "pct": 47.1
    },
    "rep": {
     "name": "Roger J. Skraba",
-    "votes": 8329,
-    "pct": 53.0
+    "votes": 8438,
+    "pct": 52.8
    },
    "other": 18,
-   "marginPts": -6.1,
-   "marginVotes": 964,
+   "marginPts": -5.7,
+   "marginVotes": 906,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 15712,
+   "totalVotes": 15988,
    "state": "MN",
    "chamber": "House",
    "district": "HD-3A",
@@ -4765,25 +4765,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "33%",
+   "reporting": "37%",
    "dem": {
     "name": "Aaron Schweiger",
-    "votes": 4449,
-    "pct": 53.9
+    "votes": 5117,
+    "pct": 52.4
    },
    "rep": {
     "name": "Natalie Zeleznikar",
-    "votes": 3793,
-    "pct": 46.0
+    "votes": 4644,
+    "pct": 47.5
    },
    "other": 6,
-   "marginPts": 7.9,
-   "marginVotes": 656,
+   "marginPts": 4.9,
+   "marginVotes": 473,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 8248,
+   "totalVotes": 9767,
    "state": "MN",
    "chamber": "House",
    "district": "HD-3B",
@@ -4821,25 +4821,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "85%",
+   "reporting": "95%",
    "dem": {
     "name": "Thaddeus Laugisch",
-    "votes": 6766,
-    "pct": 38.4
+    "votes": 6949,
+    "pct": 38.0
    },
    "rep": {
     "name": "Jim Joy",
-    "votes": 10861,
-    "pct": 61.6
+    "votes": 11334,
+    "pct": 62.0
    },
-   "other": 8,
-   "marginPts": -23.2,
-   "marginVotes": 4095,
+   "other": 9,
+   "marginPts": -24.0,
+   "marginVotes": 4385,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-03T23:50:58-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 17635,
+   "totalVotes": 18292,
    "state": "MN",
    "chamber": "House",
    "district": "HD-4B",
@@ -4849,25 +4849,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "64%",
+   "reporting": "67%",
    "dem": {
     "name": "Dan S. Mitchell",
-    "votes": 5199,
-    "pct": 32.3
+    "votes": 5242,
+    "pct": 32.2
    },
    "rep": {
     "name": "Krista Knudsen",
-    "votes": 10904,
+    "votes": 11016,
     "pct": 67.7
    },
-   "other": 7,
-   "marginPts": -35.4,
-   "marginVotes": 5705,
+   "other": 8,
+   "marginPts": -35.5,
+   "marginVotes": 5774,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 16110,
+   "totalVotes": 16266,
    "state": "MN",
    "chamber": "House",
    "district": "HD-5A",
@@ -4905,25 +4905,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "67%",
+   "reporting": "69%",
    "dem": {
     "name": "Samuel Grigsby",
-    "votes": 5957,
-    "pct": 38.9
+    "votes": 6593,
+    "pct": 40.1
    },
    "rep": {
     "name": "Ben Davis",
-    "votes": 9356,
-    "pct": 61.1
+    "votes": 9851,
+    "pct": 59.9
    },
    "other": 11,
-   "marginPts": -22.2,
-   "marginVotes": 3399,
+   "marginPts": -19.8,
+   "marginVotes": 3258,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 15324,
+   "totalVotes": 16455,
    "state": "MN",
    "chamber": "House",
    "district": "HD-6A",
@@ -4961,25 +4961,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "90%",
+   "reporting": "94%",
    "dem": {
     "name": "Erin McCabe Ningen",
-    "votes": 7804,
-    "pct": 42.4
+    "votes": 8232,
+    "pct": 42.7
    },
    "rep": {
     "name": "Spencer Igo",
-    "votes": 10585,
-    "pct": 57.5
+    "votes": 11021,
+    "pct": 57.2
    },
-   "other": 8,
-   "marginPts": -15.1,
-   "marginVotes": 2781,
+   "other": 9,
+   "marginPts": -14.5,
+   "marginVotes": 2789,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 18397,
+   "totalVotes": 19262,
    "state": "MN",
    "chamber": "House",
    "district": "HD-7A",
@@ -4989,25 +4989,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "61%",
+   "reporting": "65%",
    "dem": {
     "name": "Dan Horoshak",
-    "votes": 6472,
-    "pct": 46.7
+    "votes": 6970,
+    "pct": 46.6
    },
    "rep": {
     "name": "Cal Warwas",
-    "votes": 7365,
-    "pct": 53.2
+    "votes": 7988,
+    "pct": 53.4
    },
    "other": 10,
-   "marginPts": -6.5,
-   "marginVotes": 893,
+   "marginPts": -6.8,
+   "marginVotes": 1018,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 13847,
+   "totalVotes": 14968,
    "state": "MN",
    "chamber": "House",
    "district": "HD-7B",
@@ -5073,25 +5073,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "87%",
+   "reporting": "90%",
    "dem": {
     "name": "Nicholas Hanson",
-    "votes": 6359,
-    "pct": 36.2
+    "votes": 6403,
+    "pct": 36.1
    },
    "rep": {
     "name": "Jeff Backer",
-    "votes": 11205,
-    "pct": 63.7
+    "votes": 11314,
+    "pct": 63.8
    },
    "other": 14,
-   "marginPts": -27.5,
-   "marginVotes": 4846,
+   "marginPts": -27.7,
+   "marginVotes": 4911,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 17578,
+   "totalVotes": 17731,
    "state": "MN",
    "chamber": "House",
    "district": "HD-9A",
@@ -5101,25 +5101,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "35%",
+   "reporting": "36%",
    "dem": {
     "name": "Owen Werner",
-    "votes": 2434,
+    "votes": 2604,
     "pct": 32.4
    },
    "rep": {
     "name": "Tom Murphy",
-    "votes": 5076,
+    "votes": 5430,
     "pct": 67.6
    },
-   "other": 2,
+   "other": 3,
    "marginPts": -35.2,
-   "marginVotes": 2642,
+   "marginVotes": 2826,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:01:15-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 7512,
+   "totalVotes": 8037,
    "state": "MN",
    "chamber": "House",
    "district": "HD-9B",
@@ -5241,25 +5241,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "76%",
+   "reporting": "77%",
    "dem": {
     "name": "Talitha Anderson",
-    "votes": 4334,
-    "pct": 27.8
+    "votes": 4343,
+    "pct": 27.7
    },
    "rep": {
     "name": "Paul H. Anderson",
-    "votes": 11270,
+    "votes": 11321,
     "pct": 72.2
    },
    "other": 6,
-   "marginPts": -44.4,
-   "marginVotes": 6936,
+   "marginPts": -44.5,
+   "marginVotes": 6978,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 15610,
+   "totalVotes": 15670,
    "state": "MN",
    "chamber": "House",
    "district": "HD-12A",
@@ -5465,25 +5465,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "67%",
+   "reporting": "69%",
    "dem": {
     "name": "David J Torgelson",
-    "votes": 4079,
+    "votes": 4082,
     "pct": 31.1
    },
    "rep": {
     "name": "Scott Van Binsbergen",
-    "votes": 9033,
+    "votes": 9048,
     "pct": 68.8
    },
    "other": 12,
    "marginPts": -37.7,
-   "marginVotes": 4954,
+   "marginVotes": 4966,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 13124,
+   "totalVotes": 13142,
    "state": "MN",
    "chamber": "House",
    "district": "HD-16A",
@@ -5493,25 +5493,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "86%",
+   "reporting": "100%",
    "dem": {
     "name": "Mali Anderson",
-    "votes": 5270,
-    "pct": 29.9
+    "votes": 6124,
+    "pct": 30.5
    },
    "rep": {
     "name": "Dawn Gillman",
-    "votes": 12339,
-    "pct": 70.0
+    "votes": 13917,
+    "pct": 69.4
    },
-   "other": 14,
-   "marginPts": -40.1,
-   "marginVotes": 7069,
+   "other": 18,
+   "marginPts": -38.9,
+   "marginVotes": 7793,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 17623,
+   "totalVotes": 20059,
    "state": "MN",
    "chamber": "House",
    "district": "HD-17A",
@@ -5521,25 +5521,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "85%",
+   "reporting": "88%",
    "dem": {
     "name": "Ben Wieman",
-    "votes": 6505,
-    "pct": 33.7
+    "votes": 6602,
+    "pct": 33.4
    },
    "rep": {
     "name": "Bobbie Harder",
-    "votes": 12795,
-    "pct": 66.3
+    "votes": 13134,
+    "pct": 66.5
    },
-   "other": 12,
-   "marginPts": -32.6,
-   "marginVotes": 6290,
+   "other": 13,
+   "marginPts": -33.1,
+   "marginVotes": 6532,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-03T23:50:58-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 19312,
+   "totalVotes": 19749,
    "state": "MN",
    "chamber": "House",
    "district": "HD-17B",
@@ -5601,25 +5601,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "81%",
+   "reporting": "88%",
    "dem": {
     "name": "Martha Brown",
-    "votes": 6793,
-    "pct": 41.6
+    "votes": 7151,
+    "pct": 40.9
    },
    "rep": {
     "name": "Keith Allen",
-    "votes": 9526,
-    "pct": 58.3
+    "votes": 10315,
+    "pct": 59.0
    },
-   "other": 16,
-   "marginPts": -16.7,
-   "marginVotes": 2733,
+   "other": 18,
+   "marginPts": -18.1,
+   "marginVotes": 3164,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-03T23:50:58-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 16335,
+   "totalVotes": 17484,
    "state": "MN",
    "chamber": "House",
    "district": "HD-19A",
@@ -5657,25 +5657,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "80%",
+   "reporting": "90%",
    "dem": {
     "name": "Heather Arndt",
-    "votes": 7032,
-    "pct": 45.9
+    "votes": 8124,
+    "pct": 44.6
    },
    "rep": {
     "name": "Pam Altendorf",
-    "votes": 8292,
-    "pct": 54.1
+    "votes": 10059,
+    "pct": 55.3
    },
-   "other": 11,
-   "marginPts": -8.2,
-   "marginVotes": 1260,
+   "other": 13,
+   "marginPts": -10.7,
+   "marginVotes": 1935,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:01:15-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 15335,
+   "totalVotes": 18196,
    "state": "MN",
    "chamber": "House",
    "district": "HD-20A",
@@ -5685,25 +5685,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "86%",
+   "reporting": "88%",
    "dem": {
     "name": "Steve Holm",
-    "votes": 5387,
-    "pct": 35.4
+    "votes": 5532,
+    "pct": 35.3
    },
    "rep": {
     "name": "Sara Bertschinger",
-    "votes": 9820,
-    "pct": 64.5
+    "votes": 10121,
+    "pct": 64.6
    },
    "other": 10,
-   "marginPts": -29.1,
-   "marginVotes": 4433,
+   "marginPts": -29.3,
+   "marginVotes": 4589,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 15217,
+   "totalVotes": 15663,
    "state": "MN",
    "chamber": "House",
    "district": "HD-20B",
@@ -5741,25 +5741,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "84%",
+   "reporting": "90%",
    "dem": {
     "name": "Jon Wilson",
-    "votes": 4525,
-    "pct": 36.3
+    "votes": 4737,
+    "pct": 35.9
    },
    "rep": {
     "name": "Marj J Fogelman",
-    "votes": 7925,
-    "pct": 63.6
+    "votes": 8438,
+    "pct": 64.0
    },
    "other": 6,
-   "marginPts": -27.3,
-   "marginVotes": 3400,
+   "marginPts": -28.1,
+   "marginVotes": 3701,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 12456,
+   "totalVotes": 13181,
    "state": "MN",
    "chamber": "House",
    "district": "HD-21B",
@@ -5769,25 +5769,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "55%",
+   "reporting": "87%",
    "dem": {
     "name": "Sonja L. Denn",
-    "votes": 3806,
-    "pct": 36.3
+    "votes": 5459,
+    "pct": 33.4
    },
    "rep": {
     "name": "Bjorn Olson",
-    "votes": 6663,
-    "pct": 63.6
+    "votes": 10885,
+    "pct": 66.5
    },
-   "other": 8,
-   "marginPts": -27.3,
-   "marginVotes": 2857,
+   "other": 14,
+   "marginPts": -33.1,
+   "marginVotes": 5426,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 10477,
+   "totalVotes": 16358,
    "state": "MN",
    "chamber": "House",
    "district": "HD-22A",
@@ -5853,25 +5853,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "23%",
+   "reporting": "100%",
    "dem": {
     "name": "Christoph Dundas",
-    "votes": 839,
-    "pct": 34.1
+    "votes": 7961,
+    "pct": 47.6
    },
    "rep": {
     "name": "Patricia Mueller",
-    "votes": 1619,
-    "pct": 65.8
+    "votes": 8744,
+    "pct": 52.3
    },
-   "other": 3,
-   "marginPts": -31.7,
-   "marginVotes": 780,
+   "other": 12,
+   "marginPts": -4.7,
+   "marginVotes": 783,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 2461,
+   "totalVotes": 16717,
    "state": "MN",
    "chamber": "House",
    "district": "HD-23B",
@@ -6021,25 +6021,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "39%",
+   "reporting": "47%",
    "dem": {
     "name": "Allie Wolf",
-    "votes": 4111,
-    "pct": 44.6
+    "votes": 4518,
+    "pct": 42.7
    },
    "rep": {
     "name": "Gregory M. Davids",
-    "votes": 5097,
-    "pct": 55.3
+    "votes": 6050,
+    "pct": 57.2
    },
-   "other": 11,
-   "marginPts": -10.7,
-   "marginVotes": 986,
+   "other": 12,
+   "marginPts": -14.5,
+   "marginVotes": 1532,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 9219,
+   "totalVotes": 10580,
    "state": "MN",
    "chamber": "House",
    "district": "HD-26B",
@@ -6077,25 +6077,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "35%",
+   "reporting": "47%",
    "dem": {
     "name": "Tim Dummer",
-    "votes": 3506,
-    "pct": 38.1
+    "votes": 3793,
+    "pct": 37.1
    },
    "rep": {
     "name": "James \"Jimmy\" Gordon",
-    "votes": 5683,
-    "pct": 61.7
+    "votes": 6398,
+    "pct": 62.6
    },
    "other": 24,
-   "marginPts": -23.6,
-   "marginVotes": 2177,
+   "marginPts": -25.5,
+   "marginVotes": 2605,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 9213,
+   "totalVotes": 10215,
    "state": "MN",
    "chamber": "House",
    "district": "HD-28A",
@@ -6273,25 +6273,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "86%",
+   "reporting": "93%",
    "dem": {
     "name": "Jen Bloomquist",
-    "votes": 6936,
-    "pct": 34.3
+    "votes": 7256,
+    "pct": 34.1
    },
    "rep": {
     "name": "Peggy Scott",
-    "votes": 13249,
-    "pct": 65.6
+    "votes": 14006,
+    "pct": 65.8
    },
-   "other": 18,
-   "marginPts": -31.3,
-   "marginVotes": 6313,
+   "other": 19,
+   "marginPts": -31.7,
+   "marginVotes": 6750,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:01:15-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 20203,
+   "totalVotes": 21281,
    "state": "MN",
    "chamber": "House",
    "district": "HD-31B",
@@ -8125,25 +8125,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "78%",
+   "reporting": "86%",
    "dem": {
     "name": "Bjorn Solberg",
-    "votes": 7209,
-    "pct": 31.0
+    "votes": 8002,
+    "pct": 31.6
    },
    "rep": {
     "name": "Mark Johnson",
-    "votes": 16074,
-    "pct": 69.0
+    "votes": 17341,
+    "pct": 68.4
    },
-   "other": 9,
-   "marginPts": -38.0,
-   "marginVotes": 8865,
+   "other": 10,
+   "marginPts": -36.8,
+   "marginVotes": 9339,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 23292,
+   "totalVotes": 25353,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-1",
@@ -8153,25 +8153,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "62%",
+   "reporting": "80%",
    "dem": {
     "name": "Dan R. Rogers",
-    "votes": 11485,
-    "pct": 44.7
+    "votes": 13569,
+    "pct": 42.5
    },
    "rep": {
     "name": "Steve Green",
-    "votes": 13780,
-    "pct": 53.6
+    "votes": 17794,
+    "pct": 55.7
    },
-   "other": 444,
-   "marginPts": -8.9,
-   "marginVotes": 2295,
+   "other": 575,
+   "marginPts": -13.2,
+   "marginVotes": 4225,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 25709,
+   "totalVotes": 31938,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-2",
@@ -8181,25 +8181,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "60%",
+   "reporting": "61%",
    "dem": {
     "name": "Grant Hauschild",
-    "votes": 12700,
-    "pct": 53.0
+    "votes": 13615,
+    "pct": 52.8
    },
    "rep": {
     "name": "Andrea Zupancich",
-    "votes": 11241,
-    "pct": 46.9
+    "votes": 12119,
+    "pct": 47.0
    },
-   "other": 39,
-   "marginPts": 6.1,
-   "marginVotes": 1459,
+   "other": 40,
+   "marginPts": 5.8,
+   "marginVotes": 1496,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 23980,
+   "totalVotes": 25774,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-3",
@@ -8209,25 +8209,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "88%",
+   "reporting": "96%",
    "dem": {
     "name": "Rob Kupec",
-    "votes": 17463,
-    "pct": 51.1
+    "votes": 17665,
+    "pct": 50.7
    },
    "rep": {
     "name": "Austin Peterson",
-    "votes": 16647,
-    "pct": 48.8
+    "votes": 17106,
+    "pct": 49.1
    },
    "other": 37,
-   "marginPts": 2.3,
-   "marginVotes": 816,
+   "marginPts": 1.6,
+   "marginVotes": 559,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-03T23:50:58-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 34147,
+   "totalVotes": 34808,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-4",
@@ -8237,25 +8237,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "59%",
+   "reporting": "60%",
    "dem": {
     "name": "Skylar Fynboh",
-    "votes": 7963,
+    "votes": 8007,
     "pct": 29.6
    },
    "rep": {
     "name": "Mike Wiener",
-    "votes": 18879,
+    "votes": 18992,
     "pct": 70.2
    },
-   "other": 60,
+   "other": 61,
    "marginPts": -40.6,
-   "marginVotes": 10916,
+   "marginVotes": 10985,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 26902,
+   "totalVotes": 27060,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-5",
@@ -8265,25 +8265,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "72%",
+   "reporting": "74%",
    "dem": {
     "name": "Denise Slipy",
-    "votes": 12314,
-    "pct": 38.1
+    "votes": 12943,
+    "pct": 38.7
    },
    "rep": {
     "name": "Keri Heintzeman",
-    "votes": 19988,
-    "pct": 61.8
+    "votes": 20499,
+    "pct": 61.2
    },
-   "other": 36,
-   "marginPts": -23.7,
-   "marginVotes": 7674,
+   "other": 37,
+   "marginPts": -22.5,
+   "marginVotes": 7556,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 32338,
+   "totalVotes": 33479,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-6",
@@ -8293,25 +8293,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "77%",
+   "reporting": "81%",
    "dem": {
     "name": "Kim (Kotonias) McLaughlin",
-    "votes": 14646,
-    "pct": 45.3
+    "votes": 15578,
+    "pct": 45.4
    },
    "rep": {
     "name": "Robert Farnsworth",
-    "votes": 17671,
+    "votes": 18723,
     "pct": 54.6
    },
-   "other": 20,
-   "marginPts": -9.3,
-   "marginVotes": 3025,
+   "other": 21,
+   "marginPts": -9.2,
+   "marginVotes": 3145,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 32337,
+   "totalVotes": 34322,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-7",
@@ -8349,25 +8349,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "65%",
+   "reporting": "67%",
    "dem": {
     "name": "Krystyne M. Knutson",
-    "votes": 8157,
+    "votes": 8375,
     "pct": 32.4
    },
    "rep": {
     "name": "Jordan Rasmusson",
-    "votes": 17029,
+    "votes": 17492,
     "pct": 67.6
    },
-   "other": 17,
+   "other": 18,
    "marginPts": -35.2,
-   "marginVotes": 8872,
+   "marginVotes": 9117,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 25203,
+   "totalVotes": 25885,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-9",
@@ -8433,25 +8433,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "81%",
+   "reporting": "82%",
    "dem": {
     "name": "Kari Dorry",
-    "votes": 11366,
-    "pct": 30.5
+    "votes": 11376,
+    "pct": 30.4
    },
    "rep": {
     "name": "Torrey Westrom",
-    "votes": 25918,
+    "votes": 25968,
     "pct": 69.5
    },
    "other": 20,
-   "marginPts": -39.0,
-   "marginVotes": 14552,
+   "marginPts": -39.1,
+   "marginVotes": 14592,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 37304,
+   "totalVotes": 37364,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-12",
@@ -8545,25 +8545,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "46%",
+   "reporting": "47%",
    "dem": {
     "name": "Kathy Jorgenson",
-    "votes": 3981,
+    "votes": 3986,
     "pct": 30.3
    },
    "rep": {
     "name": "Andrew R. Lang",
-    "votes": 9144,
+    "votes": 9157,
     "pct": 69.6
    },
    "other": 8,
    "marginPts": -39.3,
-   "marginVotes": 5163,
+   "marginVotes": 5171,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 13133,
+   "totalVotes": 13151,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-16",
@@ -8573,25 +8573,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "86%",
+   "reporting": "93%",
    "dem": {
     "name": "Julie Kelzer",
-    "votes": 12166,
-    "pct": 32.8
+    "votes": 13166,
+    "pct": 33.0
    },
    "rep": {
     "name": "Glenn H Gruenhagen",
-    "votes": 24843,
-    "pct": 67.1
+    "votes": 26745,
+    "pct": 67.0
    },
-   "other": 34,
-   "marginPts": -34.3,
-   "marginVotes": 12677,
+   "other": 36,
+   "marginPts": -34.0,
+   "marginVotes": 13579,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 37043,
+   "totalVotes": 39947,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-17",
@@ -8629,25 +8629,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "91%",
+   "reporting": "94%",
    "dem": {
     "name": "Sam Powell",
-    "votes": 14385,
-    "pct": 40.2
+    "votes": 14752,
+    "pct": 40.0
    },
    "rep": {
     "name": "John R. Jasinski",
-    "votes": 21346,
-    "pct": 59.7
+    "votes": 22119,
+    "pct": 59.9
    },
-   "other": 30,
-   "marginPts": -19.5,
-   "marginVotes": 6961,
+   "other": 31,
+   "marginPts": -19.9,
+   "marginVotes": 7367,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:01:15-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 35761,
+   "totalVotes": 36902,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-19",
@@ -8657,25 +8657,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "84%",
+   "reporting": "89%",
    "dem": {
     "name": "Jason Lohmann",
-    "votes": 12637,
-    "pct": 41.3
+    "votes": 13946,
+    "pct": 41.1
    },
    "rep": {
     "name": "Steven E Jacob",
-    "votes": 17973,
-    "pct": 58.7
+    "votes": 19967,
+    "pct": 58.8
    },
-   "other": 22,
-   "marginPts": -17.4,
-   "marginVotes": 5336,
+   "other": 23,
+   "marginPts": -17.7,
+   "marginVotes": 6021,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 30632,
+   "totalVotes": 33936,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-20",
@@ -8685,25 +8685,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "93%",
+   "reporting": "95%",
    "dem": {
     "name": "Caitlyn Sanow-Minett",
-    "votes": 9870,
+    "votes": 10077,
     "pct": 31.6
    },
    "rep": {
     "name": "Chris Knoll",
-    "votes": 21320,
-    "pct": 68.3
+    "votes": 21835,
+    "pct": 68.4
    },
    "other": 18,
-   "marginPts": -36.7,
-   "marginVotes": 11450,
+   "marginPts": -36.8,
+   "marginVotes": 11758,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 31208,
+   "totalVotes": 31930,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-21",
@@ -8713,25 +8713,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "65%",
+   "reporting": "86%",
    "dem": {
     "name": "Marisa Ulmen",
-    "votes": 9208,
-    "pct": 35.4
+    "votes": 11022,
+    "pct": 34.6
    },
    "rep": {
     "name": "Jeremy Munson",
-    "votes": 16769,
-    "pct": 64.5
+    "votes": 20822,
+    "pct": 65.3
    },
-   "other": 18,
-   "marginPts": -29.1,
-   "marginVotes": 7561,
+   "other": 24,
+   "marginPts": -30.7,
+   "marginVotes": 9800,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 25995,
+   "totalVotes": 31868,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-22",
@@ -8741,25 +8741,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "67%",
+   "reporting": "96%",
    "dem": {
     "name": "Angie Hanson",
-    "votes": 8635,
-    "pct": 40.6
+    "votes": 16024,
+    "pct": 45.1
    },
    "rep": {
     "name": "Gene Dornink",
-    "votes": 12603,
-    "pct": 59.3
+    "votes": 19476,
+    "pct": 54.8
    },
-   "other": 19,
-   "marginPts": -18.7,
-   "marginVotes": 3968,
+   "other": 29,
+   "marginPts": -9.7,
+   "marginVotes": 3452,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 21257,
+   "totalVotes": 35529,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-23",
@@ -8825,25 +8825,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "56%",
+   "reporting": "61%",
    "dem": {
     "name": "Jack Hedin",
-    "votes": 13412,
-    "pct": 52.1
+    "votes": 13833,
+    "pct": 51.0
    },
    "rep": {
     "name": "Cherie Johnson",
-    "votes": 12322,
-    "pct": 47.9
+    "votes": 13266,
+    "pct": 48.9
    },
    "other": 10,
-   "marginPts": 4.2,
-   "marginVotes": 1090,
+   "marginPts": 2.1,
+   "marginVotes": 567,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 25744,
+   "totalVotes": 27109,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-26",
@@ -8881,25 +8881,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "67%",
+   "reporting": "72%",
    "dem": {
     "name": "Max Glenna",
-    "votes": 11078,
-    "pct": 36.0
+    "votes": 11353,
+    "pct": 35.7
    },
    "rep": {
     "name": "Mark Koran",
-    "votes": 19620,
-    "pct": 63.8
+    "votes": 20337,
+    "pct": 64.0
    },
-   "other": 67,
-   "marginPts": -27.8,
-   "marginVotes": 8542,
+   "other": 69,
+   "marginPts": -28.3,
+   "marginVotes": 8984,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:09:27-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 30765,
+   "totalVotes": 31759,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-28",
@@ -8965,25 +8965,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "93%",
+   "reporting": "96%",
    "dem": {
     "name": "Gadisa Berkessa",
-    "votes": 16684,
-    "pct": 39.2
+    "votes": 17000,
+    "pct": 39.0
    },
    "rep": {
     "name": "Calvin Bahr",
-    "votes": 25797,
-    "pct": 60.7
+    "votes": 26559,
+    "pct": 60.9
    },
    "other": 47,
-   "marginPts": -21.5,
-   "marginVotes": 9113,
+   "marginPts": -21.9,
+   "marginVotes": 9559,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T00:01:15-05:00",
+   "asOf": "2026-11-04T00:19:40-05:00",
    "feed": true,
-   "totalVotes": 42528,
+   "totalVotes": 43606,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-31",
