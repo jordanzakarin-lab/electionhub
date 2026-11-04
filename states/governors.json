@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-03T20:35:44-05:00",
+ "updated": "2026-11-03T21:01:00-05:00",
  "sample": false,
  "races": [
   {
    "id": "FL-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "93.4%",
    "dem": {
@@ -19,9 +19,9 @@
    },
    "marginPts": -0.4,
    "marginVotes": 33581,
-   "calledBy": null,
-   "source": "https://nbcmiami.com/elections/florida-midterm-elections-2026-live-updates/3878278",
-   "asOf": "2026-11-03T20:35:44-05:00"
+   "calledBy": "DDHQ",
+   "source": "https://thehill.com/homenews/campaign/6134195-byron-donalds-florida-governor-win/",
+   "asOf": "2026-11-03T21:01:00-05:00"
   },
   {
    "id": "GA-GOV",
