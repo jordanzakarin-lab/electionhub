@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:08:00-05:00",
+ "updated": "2026-11-04T12:15:00-05:00",
  "sample": false,
  "races": [
   {
@@ -514,7 +514,7 @@
   },
   {
    "id": "OH-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "99%",
    "dem": {
@@ -529,8 +529,8 @@
    },
    "marginPts": 0.6,
    "marginVotes": 28406,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-attorney-general-general-election",
+   "calledBy": "WHIO (Faber conceded)",
+   "source": "https://www.whio.com/news/local/election-2026-keith-faber-concedes-tight-race-ohio-attorney-general/3CJYZWRIMNEHPFIGG463GOKFLU/",
    "asOf": "2026-11-04T12:05:57-05:00",
    "ddhqUpdated": "2026-11-04 10:40:07.666544+00"
   },
@@ -1571,22 +1571,23 @@
    "id": "KS-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "95%",
+   "reporting": "98%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 546587,
-    "pct": 50.26
+    "votes": null,
+    "pct": 50.3
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 541030,
-    "pct": 49.74
+    "votes": null,
+    "pct": 49.7
    },
-   "marginPts": 0.52,
-   "marginVotes": 5557,
+   "marginPts": 0.6,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
-   "asOf": "2026-11-04T02:38:00-05:00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/kansas-governor-results",
+   "asOf": "2026-11-04T11:29:00-05:00",
+   "totalVotes": 1087617
   },
   {
    "id": "KS-SOS",
@@ -2912,22 +2913,23 @@
    "id": "KS-LG",
    "status": "Counting",
    "leader": "D",
-   "reporting": "95%",
+   "reporting": "98%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 546587,
-    "pct": 50.26
+    "votes": null,
+    "pct": 50.3
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 541030,
-    "pct": 49.74
+    "votes": null,
+    "pct": 49.7
    },
-   "marginPts": 0.52,
-   "marginVotes": 5557,
+   "marginPts": 0.6,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
-   "asOf": "2026-11-04T02:38:00-05:00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/kansas-governor-results",
+   "asOf": "2026-11-04T11:29:00-05:00",
+   "totalVotes": 1087617
   },
   {
    "id": "NE-LG",
