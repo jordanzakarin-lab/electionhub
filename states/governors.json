@@ -1,1 +1,100 @@
-{"updated": null, "sample": false, "races": []}
+{
+ "updated": "2026-11-03T19:28:37-05:00",
+ "sample": false,
+ "races": [
+  {
+   "id": "FL-GOV",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "63%",
+   "dem": {
+    "name": "David Jolly",
+    "votes": 2783715,
+    "pct": 52.5
+   },
+   "rep": {
+    "name": "Byron Donalds",
+    "votes": 2457252,
+    "pct": 46.4
+   },
+   "marginPts": 6.2,
+   "marginVotes": 326463,
+   "calledBy": null,
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-governor-general-election",
+   "asOf": "2026-11-03T19:28:37-05:00",
+   "ddhqUpdated": "2026-11-04 00:27:30.988954+00",
+   "others": [
+    {
+     "name": "Scott Jewett",
+     "party": "LIB",
+     "votes": 21009,
+     "pct": 0.4
+    },
+    {
+     "name": "Frank Russo",
+     "party": "NPA",
+     "votes": 13579,
+     "pct": 0.3
+    },
+    {
+     "name": "Charles Burkett",
+     "party": "NPA",
+     "votes": 8843,
+     "pct": 0.2
+    }
+   ]
+  },
+  {
+   "id": "GA-GOV",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "12%",
+   "dem": {
+    "name": "Keisha Lance Bottoms",
+    "votes": 371272,
+    "pct": 72.3
+   },
+   "rep": {
+    "name": "Rick Jackson",
+    "votes": 142329,
+    "pct": 27.7
+   },
+   "marginPts": 44.6,
+   "marginVotes": 228943,
+   "calledBy": null,
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-governor-general-election",
+   "asOf": "2026-11-03T19:28:37-05:00",
+   "ddhqUpdated": "2026-11-04 00:25:46.751778+00"
+  },
+  {
+   "id": "NH-GOV",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "6%",
+   "dem": {
+    "name": "Cinde Warmington",
+    "votes": 16444,
+    "pct": 52.9
+   },
+   "rep": {
+    "name": "Kelly Ayotte",
+    "votes": 14092,
+    "pct": 45.4
+   },
+   "marginPts": 7.6,
+   "marginVotes": 2352,
+   "calledBy": null,
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-governor-general-election",
+   "asOf": "2026-11-03T19:28:37-05:00",
+   "ddhqUpdated": "2026-11-04 00:27:12.055092+00",
+   "others": [
+    {
+     "name": "Stephen Villee",
+     "party": "LIB",
+     "votes": 537,
+     "pct": 1.7
+    }
+   ]
+  }
+ ]
+}
