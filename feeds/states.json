@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:19:40-05:00",
+ "updated": "2026-11-04T00:23:50-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -417,25 +417,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "88%",
+   "reporting": "94%",
    "dem": {
     "name": "Jim Harris",
-    "votes": 12616,
-    "pct": 37.7
+    "votes": 12963,
+    "pct": 37.6
    },
    "rep": {
     "name": "Carson Smith",
-    "votes": 20855,
-    "pct": 62.3
+    "votes": 21544,
+    "pct": 62.4
    },
    "other": 0,
-   "marginPts": -24.6,
-   "marginVotes": 8239,
+   "marginPts": -24.8,
+   "marginVotes": 8581,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:13:33-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 33471,
+   "totalVotes": 34507,
    "state": "NC",
    "chamber": "House",
    "district": "HD-16",
@@ -881,25 +881,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "87%",
+   "reporting": "100%",
    "dem": {
     "name": "Monika Johnson-Hostler",
-    "votes": 27925,
-    "pct": 78.9
+    "votes": 29474,
+    "pct": 79.1
    },
    "rep": {
     "name": "Matthew Orr",
-    "votes": 7475,
-    "pct": 21.1
+    "votes": 7793,
+    "pct": 20.9
    },
    "other": 0,
-   "marginPts": 57.8,
-   "marginVotes": 20450,
+   "marginPts": 58.2,
+   "marginVotes": 21681,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 35400,
+   "totalVotes": 37267,
    "state": "NC",
    "chamber": "House",
    "district": "HD-33",
@@ -909,25 +909,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "88%",
+   "reporting": "100%",
    "dem": {
     "name": "Tim Longest",
-    "votes": 28530,
-    "pct": 81.7
+    "votes": 29813,
+    "pct": 81.6
    },
    "rep": {
     "name": "Ed George",
-    "votes": 6396,
-    "pct": 18.3
+    "votes": 6731,
+    "pct": 18.4
    },
    "other": 0,
-   "marginPts": 63.4,
-   "marginVotes": 22134,
+   "marginPts": 63.2,
+   "marginVotes": 23082,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:14:03-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 34926,
+   "totalVotes": 36544,
    "state": "NC",
    "chamber": "House",
    "district": "HD-34",
@@ -1021,21 +1021,21 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "76%",
+   "reporting": "100%",
    "dem": {
     "name": "Abe Jones",
-    "votes": 25467,
+    "votes": 27817,
     "pct": 100.0
    },
    "rep": {},
    "other": 0,
    "marginPts": 100.0,
-   "marginVotes": 25467,
+   "marginVotes": 27817,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 25467,
+   "totalVotes": 27817,
    "state": "NC",
    "chamber": "House",
    "district": "HD-38",
@@ -1045,25 +1045,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "87%",
+   "reporting": "100%",
    "dem": {
     "name": "James A. Roberson",
-    "votes": 28800,
-    "pct": 72.8
+    "votes": 29894,
+    "pct": 72.6
    },
    "rep": {
     "name": "Jorge Cordova",
-    "votes": 9835,
-    "pct": 24.9
+    "votes": 10332,
+    "pct": 25.1
    },
-   "other": 899,
-   "marginPts": 47.9,
-   "marginVotes": 18965,
+   "other": 962,
+   "marginPts": 47.5,
+   "marginVotes": 19562,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 39534,
+   "totalVotes": 41188,
    "state": "NC",
    "chamber": "House",
    "district": "HD-39",
@@ -1313,25 +1313,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "88%",
+   "reporting": "100%",
    "dem": {
     "name": "Cynthia Ball",
-    "votes": 24316,
+    "votes": 25262,
     "pct": 79.0
    },
    "rep": {
     "name": "Daran Thomas",
-    "votes": 6448,
+    "votes": 6711,
     "pct": 21.0
    },
    "other": 0,
    "marginPts": 58.0,
-   "marginVotes": 17868,
+   "marginVotes": 18551,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 30764,
+   "totalVotes": 31973,
    "state": "NC",
    "chamber": "House",
    "district": "HD-49",
@@ -1769,21 +1769,21 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "94%",
+   "reporting": "100%",
    "dem": {
     "name": "Sarah Crawford",
-    "votes": 28924,
+    "votes": 29620,
     "pct": 100.0
    },
    "rep": {},
    "other": 0,
    "marginPts": 100.0,
-   "marginVotes": 28924,
+   "marginVotes": 29620,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 28924,
+   "totalVotes": 29620,
    "state": "NC",
    "chamber": "House",
    "district": "HD-66",
@@ -3473,21 +3473,21 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "97%",
+   "reporting": "99%",
    "dem": {},
    "rep": {
     "name": "Brent Jackson",
-    "votes": 47190,
+    "votes": 47970,
     "pct": 100.0
    },
    "other": 0,
    "marginPts": -100.0,
-   "marginVotes": 47190,
+   "marginVotes": 47970,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:07:22-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 47190,
+   "totalVotes": 47970,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-9",
@@ -3581,25 +3581,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "97%",
+   "reporting": "100%",
    "dem": {
     "name": "Lisa Grafstein",
-    "votes": 63554,
+    "votes": 63834,
     "pct": 60.8
    },
    "rep": {
     "name": "Robert van Brederode",
-    "votes": 40960,
+    "votes": 41169,
     "pct": 39.2
    },
    "other": 0,
    "marginPts": 21.6,
-   "marginVotes": 22594,
+   "marginVotes": 22665,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 104514,
+   "totalVotes": 105003,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-13",
@@ -3609,25 +3609,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "81%",
+   "reporting": "100%",
    "dem": {
     "name": "Dan Blue",
-    "votes": 63303,
-    "pct": 82.1
+    "votes": 67944,
+    "pct": 82.0
    },
    "rep": {
     "name": "Angela B. McCarty",
-    "votes": 13786,
-    "pct": 17.9
+    "votes": 14912,
+    "pct": 18.0
    },
    "other": 0,
-   "marginPts": 64.2,
-   "marginVotes": 49517,
+   "marginPts": 64.0,
+   "marginVotes": 53032,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 77089,
+   "totalVotes": 82856,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-14",
@@ -3637,25 +3637,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "87%",
+   "reporting": "100%",
    "dem": {
     "name": "Jay J. Chaudhuri",
-    "votes": 58573,
+    "votes": 61375,
     "pct": 75.1
    },
    "rep": {
     "name": "David Bankert",
-    "votes": 19395,
+    "votes": 20368,
     "pct": 24.9
    },
    "other": 0,
    "marginPts": 50.2,
-   "marginVotes": 39178,
+   "marginVotes": 41007,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 77968,
+   "totalVotes": 81743,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-15",

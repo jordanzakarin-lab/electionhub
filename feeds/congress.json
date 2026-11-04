@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-04T00:21:45-05:00",
+ "updated": "2026-11-04T00:23:50-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "Roy Cooper",
-    "votes": 2453913,
+    "votes": 2462277,
     "pct": 58.7
    },
    "rep": {
     "name": "Michael Whatley",
-    "votes": 1637481,
+    "votes": 1640020,
     "pct": 39.1
    },
-   "other": 91821,
+   "other": 92130,
    "marginPts": 19.6,
-   "marginVotes": 816432,
+   "marginVotes": 822257,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:13:33-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 4183215,
+   "totalVotes": 4194427,
    "id": "NC-SEN"
   },
   {
@@ -176,22 +176,22 @@
    "reporting": "99%",
    "dem": {
     "name": "Kimberly Hardy",
-    "votes": 157076,
+    "votes": 157417,
     "pct": 49.2
    },
    "rep": {
     "name": "David Rouzer",
-    "votes": 158914,
-    "pct": 49.8
+    "votes": 159606,
+    "pct": 49.9
    },
-   "other": 3113,
-   "marginPts": -0.6,
-   "marginVotes": 1838,
+   "other": 3129,
+   "marginPts": -0.7,
+   "marginVotes": 2189,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:21:45-05:00",
+   "asOf": "2026-11-04T00:23:50-05:00",
    "feed": true,
-   "totalVotes": 319103,
+   "totalVotes": 320152,
    "id": "NC-07"
   },
   {
