@@ -1200,6 +1200,156 @@
    "ddhq": 784998,
    "file": "statewide/data.json",
    "slug": "wyoming-secretary-of-state-general-election"
+  },
+  "AZ-05": {
+   "ddhq": 294722,
+   "file": "data.json",
+   "slug": "arizona-us-house-5-general-election"
+  },
+  "AZ-08": {
+   "ddhq": 294725,
+   "file": "data.json",
+   "slug": "arizona-us-house-8-general-election"
+  },
+  "CA-23": {
+   "ddhq": 294753,
+   "file": "data.json",
+   "slug": "california-us-house-23-general-election"
+  },
+  "FL-26": {
+   "ddhq": 294822,
+   "file": "data.json",
+   "slug": "florida-us-house-26-general-election"
+  },
+  "GA-01": {
+   "ddhq": 294825,
+   "file": "data.json",
+   "slug": "georgia-us-house-1-general-election"
+  },
+  "ID-02": {
+   "ddhq": 294842,
+   "file": "data.json",
+   "slug": "idaho-us-house-2-general-election"
+  },
+  "NJ-02": {
+   "ddhq": 294953,
+   "file": "data.json",
+   "slug": "new-jersey-us-house-2-general-election"
+  },
+  "NY-02": {
+   "ddhq": 294968,
+   "file": "data.json",
+   "slug": "new-york-us-house-2-general-election"
+  },
+  "NC-05": {
+   "ddhq": 294997,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-5-general-election"
+  },
+  "NC-06": {
+   "ddhq": 294998,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-6-general-election"
+  },
+  "NC-07": {
+   "ddhq": 294999,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-7-general-election"
+  },
+  "NC-08": {
+   "ddhq": 295000,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-8-general-election"
+  },
+  "NC-09": {
+   "ddhq": 295001,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-9-general-election"
+  },
+  "NC-10": {
+   "ddhq": 295002,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-10-general-election"
+  },
+  "NC-14": {
+   "ddhq": 295006,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-14-general-election"
+  },
+  "OK-05": {
+   "ddhq": 295027,
+   "file": "data.json",
+   "slug": "oklahoma-us-house-5-general-election"
+  },
+  "TN-04": {
+   "ddhq": 295064,
+   "file": "data.json",
+   "slug": "tennessee-us-house-4-general-election"
+  },
+  "TN-05": {
+   "ddhq": 295065,
+   "file": "data.json",
+   "slug": "tennessee-us-house-5-general-election"
+  },
+  "TN-06": {
+   "ddhq": 295066,
+   "file": "data.json",
+   "slug": "tennessee-us-house-6-general-election"
+  },
+  "TN-07": {
+   "ddhq": 295067,
+   "file": "data.json",
+   "slug": "tennessee-us-house-7-general-election"
+  },
+  "TN-08": {
+   "ddhq": 295068,
+   "file": "data.json",
+   "slug": "tennessee-us-house-8-general-election"
+  },
+  "TX-02": {
+   "ddhq": 295071,
+   "file": "data.json",
+   "slug": "texas-us-house-2-general-election"
+  },
+  "TX-05": {
+   "ddhq": 295074,
+   "file": "data.json",
+   "slug": "texas-us-house-5-general-election"
+  },
+  "TX-06": {
+   "ddhq": 295075,
+   "file": "data.json",
+   "slug": "texas-us-house-6-general-election"
+  },
+  "TX-10": {
+   "ddhq": 295079,
+   "file": "data.json",
+   "slug": "texas-us-house-10-general-election"
+  },
+  "TX-22": {
+   "ddhq": 295091,
+   "file": "data.json",
+   "slug": "texas-us-house-22-general-election"
+  },
+  "TX-27": {
+   "ddhq": 295096,
+   "file": "data.json",
+   "slug": "texas-us-house-27-general-election"
+  },
+  "TX-38": {
+   "ddhq": 295107,
+   "file": "data.json",
+   "slug": "texas-us-house-38-general-election"
+  },
+  "WA-05": {
+   "ddhq": 295128,
+   "file": "data.json",
+   "slug": "washington-us-house-5-general-election"
+  },
+  "WV-01": {
+   "ddhq": 295134,
+   "file": "data.json",
+   "slug": "west-virginia-us-house-1-general-election"
   }
  }
 }

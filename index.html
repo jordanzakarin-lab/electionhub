@@ -176,6 +176,7 @@ td .i{color:var(--ind)}
     <button aria-pressed="false" data-f="Likely R">Likely R</button>
     <button aria-pressed="false" data-f="Watch">Other forecasters</button>
     <button aria-pressed="false" data-f="Redrawn">Redistricting flips</button>
+    <button aria-pressed="false" data-f="Upset">Upset watch</button>
     <button aria-pressed="false" data-f="called">Called</button>
     <button aria-pressed="false" data-f="flip">Seats flipped</button>
     <input id="q" type="search" placeholder="State, district or candidate" aria-label="Search by state, district or candidate">
@@ -240,8 +241,8 @@ td .i{color:var(--ind)}
   const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmt = n => (n==null||n==='') ? '' : (typeof n==='number' ? n.toLocaleString('en-US') : esc(n));
   const pctIn = s => { const m = String(s==null?'':s).match(/(\d+(?:\.\d+)?)\s*%/); return m ? parseFloat(m[1]) : (typeof s==='number' ? s : -1); };
-  const GROUPS = [['Toss Up','Toss ups'],['Lean D','Lean Democratic'],['Lean R','Lean Republican'],['Likely D','Likely Democratic'],['Likely R','Likely Republican'],['Watch','Also competitive, per other forecasters'],['Redrawn','Redistricting flips']];
-  const GNOTE = {Watch:'Cook rates these Solid, but Sabato\'s Crystal Ball or Split Ticket rates them Lean or Toss Up.', Redrawn:'Cook rates these Solid for a party other than the one holding them now, because the state redrew its map. Expected flips, not toss ups.'};
+  const GROUPS = [['Toss Up','Toss ups'],['Lean D','Lean Democratic'],['Lean R','Lean Republican'],['Likely D','Likely Democratic'],['Likely R','Likely Republican'],['Watch','Also competitive, per other forecasters'],['Redrawn','Redistricting flips'],['Upset','Upset watch: Solid R seats Democrats could flip']];
+  const GNOTE = {Watch:'Cook rates these Solid, but Sabato\'s Crystal Ball or Split Ticket rates them Lean or Toss Up.', Redrawn:'Cook rates these Solid for a party other than the one holding them now, because the state redrew its map. Expected flips, not toss ups.', Upset:'Cook rated these Solid Republican. Added on election night because Decision Desk HQ\'s count showed the Democrat ahead or within 5 points, with no call yet. Last-election margins not yet filled in.'};
   let BASE=null, DATA={races:[]}, RES=new Map(), FEED=[], filter='all', query='';
   const FEEDURL='feeds/congress.json';
   // ---- Official-feed merge (feeds/*.json, written every few minutes by the feed job) ----
@@ -383,7 +384,7 @@ td .i{color:var(--ind)}
   function matches(b,x){
     if (filter==='called' && !x.won) return false;
     if (filter==='flip' && !x.flip) return false;
-    if (/^(Toss Up|Lean D|Lean R|Likely D|Likely R|Watch|Redrawn)$/.test(filter) && b.rating!==filter) return false;
+    if (/^(Toss Up|Lean D|Lean R|Likely D|Likely R|Watch|Redrawn|Upset)$/.test(filter) && b.rating!==filter) return false;
     const q = query.trim().toLowerCase();
     if (!q) return true;
     const id = b.id.toLowerCase();
@@ -447,7 +448,7 @@ td .i{color:var(--ind)}
     try{ const res = await fetch('baseline.json', {cache:'no-store'}); BASE = await res.json(); (BASE.senate||[]).forEach(s=>s.chamber='S'); }
     catch(err){ $('#groups').innerHTML = '<div class="empty">The race list couldn\'t load. Refresh the page to try again.</div>'; return; }
     $('#scope').textContent = `${(BASE.senate||[]).length} Senate · ${BASE.races.length} House races`;
-    $('#srcs').textContent = `Senate ratings: ${BASE.senateRatingsSource}. House races: ${BASE.ratingsSource} (Likely, Lean and Toss Up). ${BASE.otherSource?BASE.otherSource+'. ':''}${BASE.redrawnSource?BASE.redrawnSource+'. ':''}${BASE.candidatesSource}. ${BASE.lastSource||''}.`;
+    $('#srcs').textContent = `Senate ratings: ${BASE.senateRatingsSource}. House races: ${BASE.ratingsSource} (Likely, Lean and Toss Up). ${BASE.otherSource?BASE.otherSource+'. ':''}${BASE.redrawnSource?BASE.redrawnSource+'. ':''}${BASE.upsetSource?BASE.upsetSource+'. ':''}${BASE.candidatesSource}. ${BASE.lastSource||''}.`;
     await loadData(); render();
     const h = decodeURIComponent(location.hash.slice(1)); if (h){ const el=document.getElementById(h.toUpperCase()); if (el) el.scrollIntoView(); }
     setInterval(async ()=>{ await loadData(); render(); }, 60000);
