@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:46:00-05:00",
+  "updated": "2026-11-04T05:37:00-05:00",
   "sample": false,
   "races": [
     {
@@ -2075,7 +2075,7 @@
     },
     {
       "id": "IA-AG",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
       "reporting": "99%",
       "dem": {
@@ -2090,9 +2090,9 @@
       },
       "marginPts": 1.6,
       "marginVotes": 21562,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-attorney-general-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "Radio Iowa",
+      "source": "https://www.radioiowa.com/2026/11/04/democrat-nate-willems-is-iowas-attorney-general-elect/",
+      "asOf": "2026-11-04T05:37:00-05:00",
       "ddhqUpdated": "2026-11-04 07:01:40.076144+00"
     },
     {
@@ -3752,6 +3752,111 @@
       "calledBy": "NBC/Telemundo",
       "source": "https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/resultados-south-dakota",
       "asOf": "2026-11-04T02:17:56-05:00"
+    },
+    {
+      "id": "NV-GOV",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "85%",
+      "dem": {
+        "name": "Aaron Ford",
+        "votes": null,
+        "pct": 51.5
+      },
+      "rep": {
+        "name": "Joe Lombardo",
+        "votes": null,
+        "pct": 44.3
+      },
+      "marginPts": 7.2,
+      "marginVotes": null,
+      "calledBy": "AP",
+      "source": "https://www.washingtonexaminer.com/news/campaigns/state/4770773/nevada-governor-race-joe-lombardo-aaron-ford/",
+      "asOf": "2026-11-04T05:37:00-05:00"
+    },
+    {
+      "id": "NV-LG",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "",
+      "dem": {
+        "name": "Sandra Jauregui",
+        "votes": null,
+        "pct": null
+      },
+      "rep": {
+        "name": "Stavros Anthony",
+        "votes": null,
+        "pct": null
+      },
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": "AP",
+      "source": "https://wtop.com/national/2026/11/democrat-sandra-jauregui-wins-election-for-lieutenant-governor-in-nevada",
+      "asOf": "2026-11-04T05:37:00-05:00"
+    },
+    {
+      "id": "NV-AG",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "",
+      "dem": {
+        "name": "Nicole Cannizzaro",
+        "votes": null,
+        "pct": null
+      },
+      "rep": {
+        "name": "Adriana Guzmán Fralick",
+        "votes": null,
+        "pct": null
+      },
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": "AP",
+      "source": "https://www.yahoo.com/news/politics/articles/democrat-nicole-cannizzaro-wins-election-091038702.html",
+      "asOf": "2026-11-04T05:37:00-05:00"
+    },
+    {
+      "id": "NV-SOS",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "",
+      "dem": {
+        "name": "Cisco Aguilar",
+        "votes": null,
+        "pct": null
+      },
+      "rep": {
+        "name": "Jim Marchant",
+        "votes": null,
+        "pct": null
+      },
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": "AP",
+      "source": "https://www.yahoo.com/news/us/articles/democrat-francisco-aguilar-wins-reelection-083925926.html",
+      "asOf": "2026-11-04T05:37:00-05:00"
+    },
+    {
+      "id": "NV-TREAS",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "",
+      "dem": {
+        "name": "Tya Mathis-Coleman",
+        "votes": null,
+        "pct": null
+      },
+      "rep": {
+        "name": "Drew Johnson",
+        "votes": null,
+        "pct": null
+      },
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": "Nevada Independent",
+      "source": "https://thenevadaindependent.com/article/nevada-democrats-lead-governors-race-sweep-other-statewide-offices-in-historic-night",
+      "asOf": "2026-11-04T05:37:00-05:00"
     }
   ]
 }
