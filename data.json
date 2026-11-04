@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:52:00-05:00",
+ "updated": "2026-11-04T10:58:00-05:00",
  "sample": false,
  "races": [
   {
@@ -888,24 +888,23 @@
   {
    "id": "ME-02",
    "status": "Counting",
-   "leader": "R",
-   "reporting": "78%",
+   "leader": "D",
+   "reporting": "85%",
    "dem": {
     "name": "Matthew Dunlap",
-    "votes": 134973,
-    "pct": 49.3
+    "votes": null,
+    "pct": 50.1
    },
    "rep": {
     "name": "Paul LePage",
-    "votes": 135677,
-    "pct": 49.5
+    "votes": null,
+    "pct": 49.9
    },
-   "marginPts": -0.2,
-   "marginVotes": 704,
+   "marginPts": 0.2,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-house-2-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:58:50.020969+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/maine-us-house-district-2-results",
+   "asOf": "2026-11-04T10:40:00-05:00",
    "others": [
     {
      "name": "Blank Votes",
@@ -1539,24 +1538,23 @@
    "id": "TX-32",
    "status": "Called",
    "leader": "R",
-   "reporting": "98%",
+   "reporting": "95%",
    "dem": {
     "name": "Dan Barrios",
-    "votes": 127353,
-    "pct": 48.1
+    "votes": null,
+    "pct": 48.5
    },
    "rep": {
     "name": "Jace Yarbrough",
-    "votes": 137299,
-    "pct": 51.9
+    "votes": null,
+    "pct": 51.5
    },
-   "marginPts": -3.8,
-   "marginVotes": 9946,
+   "marginPts": -3.0,
+   "marginVotes": null,
    "calledBy": "DDHQ",
-   "source": "https://www.yahoo.com/news/politics/articles/yarbrough-wins-texas-house-election-085039277.html",
-   "asOf": "2026-11-04T10:52:00-05:00",
-   "ddhqUpdated": "2026-11-04 06:54:01.747328+00",
-   "note": "DDHQ projected Yarbrough (R) the winner (The Hill, Nov. 4). Vote counts from DDHQ ~2am ET; NBC shows 51.5%-48.5% at 95% counted."
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-32-results",
+   "asOf": "2026-11-04T10:47:00-05:00",
+   "note": "DDHQ projected Yarbrough (R) the winner (The Hill, Nov. 4). Percentages from NBC 10:47 AM ET."
   },
   {
    "id": "TX-34",
@@ -2285,24 +2283,23 @@
   {
    "id": "AZ-02",
    "status": "Counting",
-   "leader": "R",
-   "reporting": "63%",
+   "leader": "D",
+   "reporting": "",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 106908,
-    "pct": 48.4
+    "votes": null,
+    "pct": 49.13
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 110269,
-    "pct": 50.0
+    "votes": null,
+    "pct": 49.1
    },
-   "marginPts": -1.5,
-   "marginVotes": 3361,
+   "marginPts": 0.03,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-2-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 05:59:38.443957+00",
+   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
+   "asOf": "2026-11-04T07:00:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
@@ -2352,23 +2349,22 @@
    "id": "AZ-01",
    "status": "Counting",
    "leader": "D",
-   "reporting": "79%",
+   "reporting": "",
    "dem": {
     "name": "Amish Shah",
-    "votes": 141631,
-    "pct": 54.9
+    "votes": null,
+    "pct": 52.5
    },
    "rep": {
     "name": "Jay Feely",
-    "votes": 111699,
-    "pct": 43.3
+    "votes": null,
+    "pct": 45.5
    },
-   "marginPts": 11.6,
-   "marginVotes": 29932,
+   "marginPts": 7.0,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-1-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 05:59:38.420661+00",
+   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
+   "asOf": "2026-11-04T07:00:00-05:00",
    "others": [
     {
      "name": "Monica Alponte",
@@ -2382,23 +2378,22 @@
    "id": "AZ-06",
    "status": "Called",
    "leader": "D",
-   "reporting": "78%",
+   "reporting": "",
    "dem": {
     "name": "JoAnna Mendoza",
-    "votes": 144164,
-    "pct": 54.9
+    "votes": null,
+    "pct": 52.9
    },
    "rep": {
     "name": "Juan Ciscomani",
-    "votes": 113071,
-    "pct": 43.1
+    "votes": null,
+    "pct": 44.9
    },
-   "marginPts": 11.9,
-   "marginVotes": 31093,
+   "marginPts": 8.0,
+   "marginVotes": null,
    "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-6-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:45:37.299234+00",
+   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
+   "asOf": "2026-11-04T07:00:00-05:00",
    "others": [
     {
      "name": "Jereme Peters",
@@ -2468,46 +2463,44 @@
   {
    "id": "AZ-05",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "66%",
+   "leader": "R",
+   "reporting": "",
    "dem": {
     "name": "Elizabeth Lee",
-    "votes": 112179,
-    "pct": 52.1
+    "votes": null,
+    "pct": 48.8
    },
    "rep": {
     "name": "Mark Lamb",
-    "votes": 103219,
-    "pct": 47.9
+    "votes": null,
+    "pct": 51.0
    },
-   "marginPts": 4.2,
-   "marginVotes": 8960,
+   "marginPts": -2.2,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-5-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 05:59:38.413504+00"
+   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
+   "asOf": "2026-11-04T07:00:00-05:00"
   },
   {
    "id": "AZ-08",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "69%",
+   "leader": "R",
+   "reporting": "",
    "dem": {
     "name": "Bernadette Greene-Placentia",
-    "votes": 104526,
-    "pct": 51.0
+    "votes": null,
+    "pct": 48.8
    },
    "rep": {
     "name": "Abraham Hamadeh",
-    "votes": 100441,
-    "pct": 49.0
+    "votes": null,
+    "pct": 51.0
    },
-   "marginPts": 2.0,
-   "marginVotes": 4085,
+   "marginPts": -2.2,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-8-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 05:59:38.427382+00"
+   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
+   "asOf": "2026-11-04T07:00:00-05:00"
   },
   {
    "id": "CA-23",
