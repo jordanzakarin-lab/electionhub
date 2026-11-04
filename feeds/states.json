@@ -1,1 +1,7586 @@
-{"updated": null, "races": []}
+{
+ "updated": "2026-11-03T23:01:48-05:00",
+ "source": "official state results files (NC, MN, WA)",
+ "races": [
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Miriam Rollin",
+    "votes": 14880,
+    "pct": 39.9
+   },
+   "rep": {
+    "name": "Edward C. Goodwin",
+    "votes": 22436,
+    "pct": 60.1
+   },
+   "other": 0,
+   "marginPts": -20.2,
+   "marginVotes": 7556,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37316,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-1",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Ray Jeffers",
+    "votes": 28177,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 28177,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28177,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-2",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Diannia Bright",
+    "votes": 15547,
+    "pct": 41.7
+   },
+   "rep": {
+    "name": "Steve Tyson",
+    "votes": 20885,
+    "pct": 56.0
+   },
+   "other": 888,
+   "marginPts": -14.3,
+   "marginVotes": 5338,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37320,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-3",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Vernon Moore",
+    "votes": 11204,
+    "pct": 44.8
+   },
+   "rep": {
+    "name": "Jimmy Dixon",
+    "votes": 13780,
+    "pct": 55.2
+   },
+   "other": 0,
+   "marginPts": -10.4,
+   "marginVotes": 2576,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 24984,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-4",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Sam Davis III",
+    "votes": 7988,
+    "pct": 45.0
+   },
+   "rep": {
+    "name": "Bill Ward",
+    "votes": 9762,
+    "pct": 55.0
+   },
+   "other": 0,
+   "marginPts": -10.0,
+   "marginVotes": 1774,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 17750,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-5",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Tony Spears",
+    "votes": 13887,
+    "pct": 48.9
+   },
+   "rep": {
+    "name": "Joe Pike",
+    "votes": 14489,
+    "pct": 51.1
+   },
+   "other": 0,
+   "marginPts": -2.2,
+   "marginVotes": 602,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28376,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-6",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "90%",
+   "dem": {
+    "name": "Mark Speed",
+    "votes": 19357,
+    "pct": 52.3
+   },
+   "rep": {
+    "name": "Cory Thornton",
+    "votes": 17659,
+    "pct": 47.7
+   },
+   "other": 0,
+   "marginPts": 4.6,
+   "marginVotes": 1698,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37016,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-7",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Gloristine Brown",
+    "votes": 18488,
+    "pct": 71.3
+   },
+   "rep": {
+    "name": "Cathy Thorne Bynum",
+    "votes": 7440,
+    "pct": 28.7
+   },
+   "other": 0,
+   "marginPts": 42.6,
+   "marginVotes": 11048,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 25928,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-8",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Claire Kempner",
+    "votes": 18187,
+    "pct": 50.2
+   },
+   "rep": {
+    "name": "Timothy Reeder",
+    "votes": 18012,
+    "pct": 49.8
+   },
+   "other": 0,
+   "marginPts": 0.4,
+   "marginVotes": 175,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 36199,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-9",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Zyaire Webb",
+    "votes": 13180,
+    "pct": 45.1
+   },
+   "rep": {
+    "name": "John Bell",
+    "votes": 16019,
+    "pct": 54.9
+   },
+   "other": 0,
+   "marginPts": -9.8,
+   "marginVotes": 2839,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29199,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-10",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "71%",
+   "dem": {
+    "name": "Allison A. Dahle",
+    "votes": 27022,
+    "pct": 82.3
+   },
+   "rep": {
+    "name": "Matthew Kordon",
+    "votes": 5813,
+    "pct": 17.7
+   },
+   "other": 0,
+   "marginPts": 64.6,
+   "marginVotes": 21209,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32835,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-11",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Don Hardy",
+    "votes": 14153,
+    "pct": 47.9
+   },
+   "rep": {
+    "name": "Chris Humphrey",
+    "votes": 15422,
+    "pct": 52.1
+   },
+   "other": 0,
+   "marginPts": -4.2,
+   "marginVotes": 1269,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29575,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-12",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Jason Moore",
+    "votes": 13595,
+    "pct": 34.8
+   },
+   "rep": {
+    "name": "Celeste Cairns",
+    "votes": 25511,
+    "pct": 65.2
+   },
+   "other": 0,
+   "marginPts": -30.4,
+   "marginVotes": 11916,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 39106,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-13",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {},
+   "rep": {
+    "name": "Wyatt Gable",
+    "votes": 10344,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 10344,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 10344,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-14",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "91%",
+   "dem": {
+    "name": "Christopher Schulte",
+    "votes": 9325,
+    "pct": 42.0
+   },
+   "rep": {
+    "name": "Phillip Shepard",
+    "votes": 12883,
+    "pct": 58.0
+   },
+   "other": 0,
+   "marginPts": -16.0,
+   "marginVotes": 3558,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 22208,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-15",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "75%",
+   "dem": {
+    "name": "Jim Harris",
+    "votes": 11911,
+    "pct": 37.8
+   },
+   "rep": {
+    "name": "Carson Smith",
+    "votes": 19590,
+    "pct": 62.2
+   },
+   "other": 0,
+   "marginPts": -24.4,
+   "marginVotes": 7679,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 31501,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-16",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Dennis A. Breen",
+    "votes": 25019,
+    "pct": 45.5
+   },
+   "rep": {
+    "name": "Frank Iler",
+    "votes": 29965,
+    "pct": 54.5
+   },
+   "other": 0,
+   "marginPts": -9.0,
+   "marginVotes": 4946,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 54984,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-17",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Deb Butler",
+    "votes": 24899,
+    "pct": 70.4
+   },
+   "rep": {
+    "name": "Latisha Grady",
+    "votes": 10460,
+    "pct": 29.6
+   },
+   "other": 0,
+   "marginPts": 40.8,
+   "marginVotes": 14439,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 35359,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-18",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Scott Nasiff",
+    "votes": 24093,
+    "pct": 44.8
+   },
+   "rep": {
+    "name": "Charlie Miller",
+    "votes": 29735,
+    "pct": 55.2
+   },
+   "other": 0,
+   "marginPts": -10.4,
+   "marginVotes": 5642,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 53828,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-19",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Tim Merrick",
+    "votes": 22054,
+    "pct": 50.1
+   },
+   "rep": {
+    "name": "Dane Scalise",
+    "votes": 21953,
+    "pct": 49.9
+   },
+   "other": 0,
+   "marginPts": 0.2,
+   "marginVotes": 101,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 44007,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-20",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "67%",
+   "dem": {
+    "name": "Ya Liu",
+    "votes": 26469,
+    "pct": 72.3
+   },
+   "rep": {
+    "name": "Bryson Johnson",
+    "votes": 10162,
+    "pct": 27.7
+   },
+   "other": 0,
+   "marginPts": 44.6,
+   "marginVotes": 16307,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 36631,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-21",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {},
+   "rep": {
+    "name": "Wellie Jackson",
+    "votes": 19106,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 19106,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 19106,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-22",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Patricia Smith",
+    "votes": 20679,
+    "pct": 61.5
+   },
+   "rep": {
+    "name": "Brent Roberson",
+    "votes": 12968,
+    "pct": 38.5
+   },
+   "other": 0,
+   "marginPts": 23.0,
+   "marginVotes": 7711,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 33647,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-23",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "92%",
+   "dem": {
+    "name": "Dante Pittman",
+    "votes": 5318,
+    "pct": 49.2
+   },
+   "rep": {
+    "name": "Blake Boykin",
+    "votes": 5489,
+    "pct": 50.8
+   },
+   "other": 0,
+   "marginPts": -1.6,
+   "marginVotes": 171,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 10807,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-24",
+   "held": "D",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Lorenza M. Wilkins",
+    "votes": 20420,
+    "pct": 52.7
+   },
+   "rep": {
+    "name": "Allen Chesser",
+    "votes": 17340,
+    "pct": 44.7
+   },
+   "other": 1010,
+   "marginPts": 8.0,
+   "marginVotes": 3080,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 38770,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-25",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "L'Bertrice Solomon",
+    "votes": 21655,
+    "pct": 53.0
+   },
+   "rep": {
+    "name": "Donna McDowell White",
+    "votes": 19212,
+    "pct": 47.0
+   },
+   "other": 0,
+   "marginPts": 6.0,
+   "marginVotes": 2443,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 40867,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-26",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Rodney D. Pierce",
+    "votes": 20657,
+    "pct": 63.5
+   },
+   "rep": {
+    "name": "David Woodson",
+    "votes": 11864,
+    "pct": 36.5
+   },
+   "other": 0,
+   "marginPts": 27.0,
+   "marginVotes": 8793,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32521,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-27",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "D. Matthew Bailey",
+    "votes": 12241,
+    "pct": 41.7
+   },
+   "rep": {
+    "name": "Larry C. Strickland",
+    "votes": 17117,
+    "pct": 58.3
+   },
+   "other": 0,
+   "marginPts": -16.6,
+   "marginVotes": 4876,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29358,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-28",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Vernetta Alston",
+    "votes": 40935,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 40935,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 40935,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-29",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Marcia Morey",
+    "votes": 34703,
+    "pct": 93.0
+   },
+   "rep": {
+    "name": "Ray Ubinger",
+    "votes": 2627,
+    "pct": 7.0
+   },
+   "other": 0,
+   "marginPts": 86.0,
+   "marginVotes": 32076,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37330,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-30",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Zack Hawkins",
+    "votes": 37012,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 37012,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37012,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-31",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "90%",
+   "dem": {
+    "name": "Bryan K. Cohn",
+    "votes": 18041,
+    "pct": 55.7
+   },
+   "rep": {
+    "name": "Frank Sossamon",
+    "votes": 14355,
+    "pct": 44.3
+   },
+   "other": 0,
+   "marginPts": 11.4,
+   "marginVotes": 3686,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32396,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-32",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "60%",
+   "dem": {
+    "name": "Monika Johnson-Hostler",
+    "votes": 25509,
+    "pct": 80.7
+   },
+   "rep": {
+    "name": "Matthew Orr",
+    "votes": 6108,
+    "pct": 19.3
+   },
+   "other": 0,
+   "marginPts": 61.4,
+   "marginVotes": 19401,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 31617,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-33",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "77%",
+   "dem": {
+    "name": "Tim Longest",
+    "votes": 27294,
+    "pct": 82.1
+   },
+   "rep": {
+    "name": "Ed George",
+    "votes": 5954,
+    "pct": 17.9
+   },
+   "other": 0,
+   "marginPts": 64.2,
+   "marginVotes": 21340,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 33248,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-34",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "82%",
+   "dem": {
+    "name": "Evonne S. Hopkins",
+    "votes": 24628,
+    "pct": 56.4
+   },
+   "rep": {
+    "name": "Mike Schietzelt",
+    "votes": 19021,
+    "pct": 43.6
+   },
+   "other": 0,
+   "marginPts": 12.8,
+   "marginVotes": 5607,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 43649,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-35",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "93%",
+   "dem": {
+    "name": "Julie von Haefen",
+    "votes": 25958,
+    "pct": 63.4
+   },
+   "rep": {
+    "name": "Mary Insprucker",
+    "votes": 15010,
+    "pct": 36.6
+   },
+   "other": 0,
+   "marginPts": 26.8,
+   "marginVotes": 10948,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 40968,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-36",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "93%",
+   "dem": {
+    "name": "Winn Decker",
+    "votes": 26329,
+    "pct": 55.2
+   },
+   "rep": {
+    "name": "Erin Pare",
+    "votes": 21379,
+    "pct": 44.8
+   },
+   "other": 0,
+   "marginPts": 10.4,
+   "marginVotes": 4950,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 47708,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-37",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "65%",
+   "dem": {
+    "name": "Abe Jones",
+    "votes": 24667,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 24667,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 24667,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-38",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "33%",
+   "dem": {
+    "name": "James A. Roberson",
+    "votes": 24972,
+    "pct": 74.7
+   },
+   "rep": {
+    "name": "Jorge Cordova",
+    "votes": 7760,
+    "pct": 23.2
+   },
+   "other": 701,
+   "marginPts": 51.5,
+   "marginVotes": 17212,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 33433,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-39",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "86%",
+   "dem": {
+    "name": "Phil Rubin",
+    "votes": 29636,
+    "pct": 81.6
+   },
+   "rep": {
+    "name": "Lucas Everett Jones",
+    "votes": 6680,
+    "pct": 18.4
+   },
+   "other": 0,
+   "marginPts": 63.2,
+   "marginVotes": 22956,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 36316,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-40",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "69%",
+   "dem": {
+    "name": "Maria Cervania",
+    "votes": 24718,
+    "pct": 77.1
+   },
+   "rep": {
+    "name": "Bruce Forster",
+    "votes": 7354,
+    "pct": 22.9
+   },
+   "other": 0,
+   "marginPts": 54.2,
+   "marginVotes": 17364,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32072,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-41",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "67%",
+   "dem": {
+    "name": "Mike Colvin",
+    "votes": 12608,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 12608,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 12608,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-42",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "74%",
+   "dem": {
+    "name": "Janene Ackles",
+    "votes": 14081,
+    "pct": 52.6
+   },
+   "rep": {
+    "name": "Diane Wheatley",
+    "votes": 12701,
+    "pct": 47.4
+   },
+   "other": 0,
+   "marginPts": 5.2,
+   "marginVotes": 1380,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 26782,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-43",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "89%",
+   "dem": {
+    "name": "Charles Smith",
+    "votes": 16626,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 16626,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 16626,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-44",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "82%",
+   "dem": {
+    "name": "Frances Jackson",
+    "votes": 16276,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 16276,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 16276,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-45",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Brittany Newton",
+    "votes": 10273,
+    "pct": 40.5
+   },
+   "rep": {
+    "name": "Brenden H. Jones",
+    "votes": 15074,
+    "pct": 59.5
+   },
+   "other": 0,
+   "marginPts": -19.0,
+   "marginVotes": 4801,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 25347,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-46",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Eshonda Hooper",
+    "votes": 9531,
+    "pct": 46.0
+   },
+   "rep": {
+    "name": "John L. Lowery",
+    "votes": 11173,
+    "pct": 54.0
+   },
+   "other": 0,
+   "marginPts": -8.0,
+   "marginVotes": 1642,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 20704,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-47",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Garland E. Pierce",
+    "votes": 15926,
+    "pct": 60.7
+   },
+   "rep": {
+    "name": "Ralph Carter",
+    "votes": 10324,
+    "pct": 39.3
+   },
+   "other": 0,
+   "marginPts": 21.4,
+   "marginVotes": 5602,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 26250,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-48",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "44%",
+   "dem": {
+    "name": "Cynthia Ball",
+    "votes": 21215,
+    "pct": 81.5
+   },
+   "rep": {
+    "name": "Daran Thomas",
+    "votes": 4805,
+    "pct": 18.5
+   },
+   "other": 0,
+   "marginPts": 63.0,
+   "marginVotes": 16410,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 26020,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-49",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Renee A. Price",
+    "votes": 29976,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 29976,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29976,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-50",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "I",
+   "reporting": "100%",
+   "dem": {
+    "name": "April Montgomery",
+    "votes": 13919,
+    "pct": 50.7
+   },
+   "rep": {
+    "name": "Charles M. Taylor",
+    "votes": 13537,
+    "pct": 49.3
+   },
+   "other": 0,
+   "marginPts": 1.4,
+   "marginVotes": 382,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 27456,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-51",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Joe Parfitt",
+    "votes": 14841,
+    "pct": 48.3
+   },
+   "rep": {
+    "name": "Ben Moss",
+    "votes": 15889,
+    "pct": 51.7
+   },
+   "other": 0,
+   "marginPts": -3.4,
+   "marginVotes": 1048,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 30730,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-52",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Kevin G. Thurman",
+    "votes": 15787,
+    "pct": 46.3
+   },
+   "rep": {
+    "name": "Howard L. Penny, Jr.",
+    "votes": 17570,
+    "pct": 51.6
+   },
+   "other": 722,
+   "marginPts": -5.3,
+   "marginVotes": 1783,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 34079,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-53",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Robert T. Reives II",
+    "votes": 30519,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 30519,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 30519,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-54",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "John J. Kirkpatrick IV",
+    "votes": 12594,
+    "pct": 44.2
+   },
+   "rep": {
+    "name": "Clancy Baucom",
+    "votes": 15907,
+    "pct": 55.8
+   },
+   "other": 0,
+   "marginPts": -11.6,
+   "marginVotes": 3313,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28501,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-55",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "90%",
+   "dem": {
+    "name": "Allen Buansi",
+    "votes": 34575,
+    "pct": 93.2
+   },
+   "rep": {
+    "name": "Matthew P. Clements",
+    "votes": 2537,
+    "pct": 6.8
+   },
+   "other": 0,
+   "marginPts": 86.4,
+   "marginVotes": 32038,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37112,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-56",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "83%",
+   "dem": {
+    "name": "Tracy Clark",
+    "votes": 27368,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 27368,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 27368,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-57",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "62%",
+   "dem": {
+    "name": "Amos Quick",
+    "votes": 22067,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 22067,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 22067,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-58",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "65%",
+   "dem": {
+    "name": "Elma Hairston",
+    "votes": 20248,
+    "pct": 54.2
+   },
+   "rep": {
+    "name": "Alan Branson",
+    "votes": 17086,
+    "pct": 45.8
+   },
+   "other": 0,
+   "marginPts": 8.4,
+   "marginVotes": 3162,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37334,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-59",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "77%",
+   "dem": {
+    "name": "Amanda Cook",
+    "votes": 18921,
+    "pct": 73.3
+   },
+   "rep": {
+    "name": "Joseph Perrotta",
+    "votes": 6894,
+    "pct": 26.7
+   },
+   "other": 0,
+   "marginPts": 46.6,
+   "marginVotes": 12027,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 25815,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-60",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "84%",
+   "dem": {
+    "name": "Mary Price (Pricey) Harrison",
+    "votes": 26846,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 26846,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 26846,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-61",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "58%",
+   "dem": {
+    "name": "Shelly Headen",
+    "votes": 19018,
+    "pct": 51.6
+   },
+   "rep": {
+    "name": "John M. Blust",
+    "votes": 17812,
+    "pct": 48.4
+   },
+   "other": 0,
+   "marginPts": 3.2,
+   "marginVotes": 1206,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 36830,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-62",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Ian Baltutis",
+    "votes": 16479,
+    "pct": 50.4
+   },
+   "rep": {
+    "name": "Ryan Moffitt",
+    "votes": 16243,
+    "pct": 49.6
+   },
+   "other": 0,
+   "marginPts": 0.8,
+   "marginVotes": 236,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32722,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-63",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "LeVon Barnes",
+    "votes": 18261,
+    "pct": 52.7
+   },
+   "rep": {
+    "name": "Dennis Riddell",
+    "votes": 16373,
+    "pct": 47.3
+   },
+   "other": 0,
+   "marginPts": 5.4,
+   "marginVotes": 1888,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 34634,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-64",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Gavin McGaughey",
+    "votes": 12456,
+    "pct": 36.8
+   },
+   "rep": {
+    "name": "Seth Woodall",
+    "votes": 21413,
+    "pct": 63.2
+   },
+   "other": 0,
+   "marginPts": -26.4,
+   "marginVotes": 8957,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 33869,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-65",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "88%",
+   "dem": {
+    "name": "Sarah Crawford",
+    "votes": 28030,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 28030,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28030,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-66",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Jocelyn Torres",
+    "votes": 10631,
+    "pct": 32.1
+   },
+   "rep": {
+    "name": "Cody Huneycutt",
+    "votes": 22475,
+    "pct": 67.9
+   },
+   "other": 0,
+   "marginPts": -35.8,
+   "marginVotes": 11844,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 33106,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-67",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Derek Warriner",
+    "votes": 19017,
+    "pct": 46.8
+   },
+   "rep": {
+    "name": "David Willis",
+    "votes": 21658,
+    "pct": 53.2
+   },
+   "other": 0,
+   "marginPts": -6.4,
+   "marginVotes": 2641,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 40675,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-68",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Heidi Sinsley",
+    "votes": 17920,
+    "pct": 46.6
+   },
+   "rep": {
+    "name": "Dean Arp",
+    "votes": 20575,
+    "pct": 53.4
+   },
+   "other": 0,
+   "marginPts": -6.8,
+   "marginVotes": 2655,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 38495,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-69",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "William (Bill) McCaskill",
+    "votes": 9291,
+    "pct": 32.9
+   },
+   "rep": {
+    "name": "Brian Biggs",
+    "votes": 18928,
+    "pct": 67.1
+   },
+   "other": 0,
+   "marginPts": -34.2,
+   "marginVotes": 9637,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28219,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-70",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Kanika Brown",
+    "votes": 25156,
+    "pct": 88.1
+   },
+   "rep": {
+    "name": "Mathew Mena",
+    "votes": 3410,
+    "pct": 11.9
+   },
+   "other": 0,
+   "marginPts": 76.2,
+   "marginVotes": 21746,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28566,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-71",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Amber M. Baker",
+    "votes": 24655,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 24655,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 24655,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-72",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Thomas J. Monks",
+    "votes": 17333,
+    "pct": 53.8
+   },
+   "rep": {
+    "name": "Jonathan Almond",
+    "votes": 14884,
+    "pct": 46.2
+   },
+   "other": 0,
+   "marginPts": 7.6,
+   "marginVotes": 2449,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32217,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-73",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Amy Taylor North",
+    "votes": 23443,
+    "pct": 57.1
+   },
+   "rep": {
+    "name": "Jeff Zenger",
+    "votes": 17638,
+    "pct": 42.9
+   },
+   "other": 0,
+   "marginPts": 14.2,
+   "marginVotes": 5805,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 41081,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-74",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Jen Wiles",
+    "votes": 18503,
+    "pct": 54.0
+   },
+   "rep": {
+    "name": "Donny C. Lambeth",
+    "votes": 15782,
+    "pct": 46.0
+   },
+   "other": 0,
+   "marginPts": 8.0,
+   "marginVotes": 2721,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 34285,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-75",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Scott Huffman",
+    "votes": 14166,
+    "pct": 46.8
+   },
+   "rep": {
+    "name": "Greg Edds",
+    "votes": 16091,
+    "pct": 53.2
+   },
+   "other": 0,
+   "marginPts": -6.4,
+   "marginVotes": 1925,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 30257,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-76",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Sabrina Harris",
+    "votes": 10511,
+    "pct": 29.2
+   },
+   "rep": {
+    "name": "Julia Howard",
+    "votes": 25470,
+    "pct": 70.8
+   },
+   "other": 0,
+   "marginPts": -41.6,
+   "marginVotes": 14959,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 35981,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-77",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Matt Holway",
+    "votes": 11430,
+    "pct": 31.8
+   },
+   "rep": {
+    "name": "Neal Jackson",
+    "votes": 24521,
+    "pct": 68.2
+   },
+   "other": 0,
+   "marginPts": -36.4,
+   "marginVotes": 13091,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 35951,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-78",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "98%",
+   "dem": {},
+   "rep": {
+    "name": "Darren Armstrong",
+    "votes": 26255,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 26255,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 26255,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-79",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "JacQuez Johnson",
+    "votes": 9272,
+    "pct": 32.0
+   },
+   "rep": {
+    "name": "Sam Watford",
+    "votes": 19706,
+    "pct": 68.0
+   },
+   "other": 0,
+   "marginPts": -36.0,
+   "marginVotes": 10434,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28978,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-80",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Dylan R. Tucker",
+    "votes": 11521,
+    "pct": 36.6
+   },
+   "rep": {
+    "name": "Larry W. Potts",
+    "votes": 19943,
+    "pct": 63.4
+   },
+   "other": 0,
+   "marginPts": -26.8,
+   "marginVotes": 8422,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 31464,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-81",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Chris Bishopp",
+    "votes": 20956,
+    "pct": 56.0
+   },
+   "rep": {
+    "name": "Brian Echevarria",
+    "votes": 16481,
+    "pct": 44.0
+   },
+   "other": 0,
+   "marginPts": 12.0,
+   "marginVotes": 4475,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37437,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-82",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Johnnie Jones",
+    "votes": 14126,
+    "pct": 43.6
+   },
+   "rep": {
+    "name": "Grant Campbell",
+    "votes": 18240,
+    "pct": 56.4
+   },
+   "other": 0,
+   "marginPts": -12.8,
+   "marginVotes": 4114,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32366,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-83",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {},
+   "rep": {
+    "name": "Jeffrey C. McNeely",
+    "votes": 22235,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 22235,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 22235,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-84",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Suzanne Gavenus",
+    "votes": 12416,
+    "pct": 35.0
+   },
+   "rep": {
+    "name": "Dudley Greene",
+    "votes": 23012,
+    "pct": 65.0
+   },
+   "other": 0,
+   "marginPts": -30.0,
+   "marginVotes": 10596,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 35428,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-85",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Wesley E. Hendrix",
+    "votes": 10965,
+    "pct": 36.6
+   },
+   "rep": {
+    "name": "Hugh Blackwell",
+    "votes": 19007,
+    "pct": 63.4
+   },
+   "other": 0,
+   "marginPts": -26.8,
+   "marginVotes": 8042,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29972,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-86",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Iris Bender",
+    "votes": 9834,
+    "pct": 33.4
+   },
+   "rep": {
+    "name": "Destin Hall",
+    "votes": 19635,
+    "pct": 66.6
+   },
+   "other": 0,
+   "marginPts": -33.2,
+   "marginVotes": 9801,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29469,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-87",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "95%",
+   "dem": {
+    "name": "Mary Belk",
+    "votes": 23028,
+    "pct": 77.8
+   },
+   "rep": {
+    "name": "Ray Craig",
+    "votes": 6575,
+    "pct": 22.2
+   },
+   "other": 0,
+   "marginPts": 55.6,
+   "marginVotes": 16453,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29603,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-88",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Robert (Spider) Thompson",
+    "votes": 11488,
+    "pct": 32.5
+   },
+   "rep": {
+    "name": "Mitchell Smith Setzer",
+    "votes": 23905,
+    "pct": 67.5
+   },
+   "other": 0,
+   "marginPts": -35.0,
+   "marginVotes": 12417,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 35393,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-89",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Ken Badgett",
+    "votes": 8703,
+    "pct": 29.2
+   },
+   "rep": {
+    "name": "Dan Kiger",
+    "votes": 21120,
+    "pct": 70.8
+   },
+   "other": 0,
+   "marginPts": -41.6,
+   "marginVotes": 12417,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29823,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-90",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Lucille Puckett",
+    "votes": 12693,
+    "pct": 40.8
+   },
+   "rep": {
+    "name": "Kyle Hall",
+    "votes": 18405,
+    "pct": 59.2
+   },
+   "other": 0,
+   "marginPts": -18.4,
+   "marginVotes": 5712,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 31098,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-91",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "78%",
+   "dem": {
+    "name": "Terry Brown",
+    "votes": 27272,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 27272,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 27272,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-92",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Charlie Wallin",
+    "votes": 18875,
+    "pct": 50.3
+   },
+   "rep": {
+    "name": "Ray Pickett",
+    "votes": 18647,
+    "pct": 49.7
+   },
+   "other": 0,
+   "marginPts": 0.6,
+   "marginVotes": 228,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37522,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-93",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Andy Warren",
+    "votes": 8479,
+    "pct": 27.4
+   },
+   "rep": {
+    "name": "Blair Eddins",
+    "votes": 22432,
+    "pct": 72.6
+   },
+   "other": 0,
+   "marginPts": -45.2,
+   "marginVotes": 13953,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 30911,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-94",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Michael Robinson",
+    "votes": 15767,
+    "pct": 44.1
+   },
+   "rep": {
+    "name": "Richard (Todd) Carver",
+    "votes": 19963,
+    "pct": 55.9
+   },
+   "other": 0,
+   "marginPts": -11.8,
+   "marginVotes": 4196,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 35730,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-95",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Park Inglefield",
+    "votes": 14351,
+    "pct": 45.4
+   },
+   "rep": {
+    "name": "Jay Adams",
+    "votes": 17288,
+    "pct": 54.6
+   },
+   "other": 0,
+   "marginPts": -9.2,
+   "marginVotes": 2937,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 31639,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-96",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Greg McBryde",
+    "votes": 12545,
+    "pct": 33.0
+   },
+   "rep": {
+    "name": "Heather Rhyne",
+    "votes": 25490,
+    "pct": 67.0
+   },
+   "other": 0,
+   "marginPts": -34.0,
+   "marginVotes": 12945,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 38035,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-97",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Beth Helfrich",
+    "votes": 23447,
+    "pct": 60.1
+   },
+   "rep": {
+    "name": "John Rhodes",
+    "votes": 15589,
+    "pct": 39.9
+   },
+   "other": 0,
+   "marginPts": 20.2,
+   "marginVotes": 7858,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 39036,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-98",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "78%",
+   "dem": {
+    "name": "Veleria M. Levy",
+    "votes": 21643,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 21643,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 21643,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-99",
+   "held": "I",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "95%",
+   "dem": {
+    "name": "Julia Greenfield",
+    "votes": 21794,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 21794,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 21794,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-100",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Carolyn G. Logan",
+    "votes": 27021,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 27021,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 27021,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-101",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Becky Carney",
+    "votes": 31920,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 31920,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 31920,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-102",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "92%",
+   "dem": {
+    "name": "Laura Budd",
+    "votes": 25264,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 25264,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 25264,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-103",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Brandon Lofton",
+    "votes": 24901,
+    "pct": 65.0
+   },
+   "rep": {
+    "name": "Trina Boyd",
+    "votes": 13432,
+    "pct": 35.0
+   },
+   "other": 0,
+   "marginPts": 30.0,
+   "marginVotes": 11469,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 38333,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-104",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Ken McCool",
+    "votes": 24608,
+    "pct": 57.1
+   },
+   "rep": {
+    "name": "Tricia Ann Cotham",
+    "votes": 18479,
+    "pct": 42.9
+   },
+   "other": 0,
+   "marginPts": 14.2,
+   "marginVotes": 6129,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 43087,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-105",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "91%",
+   "dem": {
+    "name": "Rodney Sadler",
+    "votes": 32457,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 32457,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32457,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-106",
+   "held": "I",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Aisha O. Dew",
+    "votes": 29696,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 29696,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 29696,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-107",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Sydnie Hutchinson",
+    "votes": 14304,
+    "pct": 46.0
+   },
+   "rep": {
+    "name": "John A. Torbett",
+    "votes": 16794,
+    "pct": 54.0
+   },
+   "other": 0,
+   "marginPts": -8.0,
+   "marginVotes": 2490,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 31098,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-108",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Mark D. Carver",
+    "votes": 18775,
+    "pct": 51.6
+   },
+   "rep": {
+    "name": "Donnie Loftis",
+    "votes": 17598,
+    "pct": 48.4
+   },
+   "other": 0,
+   "marginPts": 3.2,
+   "marginVotes": 1177,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 36373,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-109",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Mary Silver",
+    "votes": 12081,
+    "pct": 42.0
+   },
+   "rep": {
+    "name": "Caroline Eason",
+    "votes": 16704,
+    "pct": 58.0
+   },
+   "other": 0,
+   "marginPts": -16.0,
+   "marginVotes": 4623,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28785,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-110",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Jerry Blake",
+    "votes": 9598,
+    "pct": 34.0
+   },
+   "rep": {
+    "name": "Paul Scott",
+    "votes": 18619,
+    "pct": 66.0
+   },
+   "other": 0,
+   "marginPts": -32.0,
+   "marginVotes": 9021,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28217,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-111",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "81%",
+   "dem": {
+    "name": "Jordan Lopez",
+    "votes": 23401,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 23401,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 23401,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-112",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "John Morgan",
+    "votes": 16343,
+    "pct": 41.4
+   },
+   "rep": {
+    "name": "Jake Johnson",
+    "votes": 23090,
+    "pct": 58.6
+   },
+   "other": 0,
+   "marginPts": -17.2,
+   "marginVotes": 6747,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 39433,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-113",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Eric Ager",
+    "votes": 32833,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 32833,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 32833,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-114",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Lindsey Prather",
+    "votes": 24407,
+    "pct": 60.1
+   },
+   "rep": {
+    "name": "Anthony J. Penland",
+    "votes": 16236,
+    "pct": 39.9
+   },
+   "other": 0,
+   "marginPts": 20.2,
+   "marginVotes": 8171,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 40643,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-115",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Brian Turner",
+    "votes": 38732,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 38732,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 38732,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-116",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Lynne Russo",
+    "votes": 22710,
+    "pct": 51.7
+   },
+   "rep": {
+    "name": "Chelsea Walsh",
+    "votes": 21180,
+    "pct": 48.3
+   },
+   "other": 0,
+   "marginPts": 3.4,
+   "marginVotes": 1530,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 43890,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-117",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Danny E. Davis",
+    "votes": 18920,
+    "pct": 49.2
+   },
+   "rep": {
+    "name": "James M. (Jimmy) Rogers",
+    "votes": 19525,
+    "pct": 50.8
+   },
+   "other": 0,
+   "marginPts": -1.6,
+   "marginVotes": 605,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 38445,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-118",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Mark Burrows",
+    "votes": 19523,
+    "pct": 52.4
+   },
+   "rep": {
+    "name": "Anna Ferguson",
+    "votes": 17726,
+    "pct": 47.6
+   },
+   "other": 0,
+   "marginPts": 4.8,
+   "marginVotes": 1797,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37249,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-119",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Caleb Brown",
+    "votes": 12120,
+    "pct": 32.1
+   },
+   "rep": {
+    "name": "Karl Gillespie",
+    "votes": 25619,
+    "pct": 67.9
+   },
+   "other": 0,
+   "marginPts": -35.8,
+   "marginVotes": 13499,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37739,
+   "state": "NC",
+   "chamber": "House",
+   "district": "HD-120",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Melissa Zehner",
+    "votes": 31366,
+    "pct": 45.0
+   },
+   "rep": {
+    "name": "Jerry Tillett",
+    "votes": 38383,
+    "pct": 55.0
+   },
+   "other": 0,
+   "marginPts": -10.0,
+   "marginVotes": 7017,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 69749,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-1",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "99%",
+   "dem": {
+    "name": "Roy Surrett",
+    "votes": 40397,
+    "pct": 46.2
+   },
+   "rep": {
+    "name": "Norman Sanderson",
+    "votes": 47061,
+    "pct": 53.8
+   },
+   "other": 0,
+   "marginPts": -7.6,
+   "marginVotes": 6664,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 87458,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-2",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Charles Dudley",
+    "votes": 36279,
+    "pct": 45.0
+   },
+   "rep": {
+    "name": "Bob Brinson",
+    "votes": 44365,
+    "pct": 55.0
+   },
+   "other": 0,
+   "marginPts": -10.0,
+   "marginVotes": 8086,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 80644,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-3",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "97%",
+   "dem": {
+    "name": "Jessica (Jess) Rivera",
+    "votes": 25603,
+    "pct": 47.9
+   },
+   "rep": {
+    "name": "Buck Newton",
+    "votes": 27827,
+    "pct": 52.1
+   },
+   "other": 0,
+   "marginPts": -4.2,
+   "marginVotes": 2224,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 53430,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-4",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Kandie D. Smith",
+    "votes": 49446,
+    "pct": 61.7
+   },
+   "rep": {
+    "name": "Henry Hostetler",
+    "votes": 30638,
+    "pct": 38.3
+   },
+   "other": 0,
+   "marginPts": 23.4,
+   "marginVotes": 18808,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 80084,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-5",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "96%",
+   "dem": {
+    "name": "Andi Morrow",
+    "votes": 18372,
+    "pct": 38.7
+   },
+   "rep": {
+    "name": "Michael Anthony Lazzara",
+    "votes": 29134,
+    "pct": 61.3
+   },
+   "other": 0,
+   "marginPts": -22.6,
+   "marginVotes": 10762,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 47506,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-6",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Jessica Bichler",
+    "votes": 48310,
+    "pct": 52.6
+   },
+   "rep": {
+    "name": "Michael Lee",
+    "votes": 43469,
+    "pct": 47.4
+   },
+   "other": 0,
+   "marginPts": 5.2,
+   "marginVotes": 4841,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 91779,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-7",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Richard (Rick) Combes",
+    "votes": 51954,
+    "pct": 45.6
+   },
+   "rep": {
+    "name": "Bill Rabon",
+    "votes": 59369,
+    "pct": 52.2
+   },
+   "other": 2502,
+   "marginPts": -6.6,
+   "marginVotes": 7415,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 113825,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-8",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "95%",
+   "dem": {},
+   "rep": {
+    "name": "Brent Jackson",
+    "votes": 45981,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 45981,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 45981,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-9",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Pat LeGrand",
+    "votes": 42609,
+    "pct": 48.3
+   },
+   "rep": {
+    "name": "Benton Sawrey",
+    "votes": 43863,
+    "pct": 49.7
+   },
+   "other": 1782,
+   "marginPts": -1.4,
+   "marginVotes": 1254,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 88254,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-10",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "96%",
+   "dem": {
+    "name": "James D. Gailliard",
+    "votes": 44836,
+    "pct": 51.7
+   },
+   "rep": {
+    "name": "Lisa Stone Barnes",
+    "votes": 39827,
+    "pct": 45.9
+   },
+   "other": 2024,
+   "marginPts": 5.8,
+   "marginVotes": 5009,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 86687,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-11",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Tanya White Anderson",
+    "votes": 32358,
+    "pct": 48.2
+   },
+   "rep": {
+    "name": "Jim Burgin",
+    "votes": 34783,
+    "pct": 51.8
+   },
+   "other": 0,
+   "marginPts": -3.6,
+   "marginVotes": 2425,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 67141,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-12",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "83%",
+   "dem": {
+    "name": "Lisa Grafstein",
+    "votes": 61101,
+    "pct": 61.3
+   },
+   "rep": {
+    "name": "Robert van Brederode",
+    "votes": 38631,
+    "pct": 38.7
+   },
+   "other": 0,
+   "marginPts": 22.6,
+   "marginVotes": 22470,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 99732,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-13",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "61%",
+   "dem": {
+    "name": "Dan Blue",
+    "votes": 60486,
+    "pct": 82.5
+   },
+   "rep": {
+    "name": "Angela B. McCarty",
+    "votes": 12812,
+    "pct": 17.5
+   },
+   "other": 0,
+   "marginPts": 65.0,
+   "marginVotes": 47674,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 73298,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-14",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "72%",
+   "dem": {
+    "name": "Jay J. Chaudhuri",
+    "votes": 55063,
+    "pct": 75.4
+   },
+   "rep": {
+    "name": "David Bankert",
+    "votes": 17967,
+    "pct": 24.6
+   },
+   "other": 0,
+   "marginPts": 50.8,
+   "marginVotes": 37096,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 73030,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-15",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "69%",
+   "dem": {
+    "name": "Gale Adcock",
+    "votes": 59852,
+    "pct": 75.9
+   },
+   "rep": {
+    "name": "Philip Hensley",
+    "votes": 17641,
+    "pct": 22.4
+   },
+   "other": 1385,
+   "marginPts": 53.5,
+   "marginVotes": 42211,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 78878,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-16",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "72%",
+   "dem": {
+    "name": "Mrs. Sydney Batch",
+    "votes": 56240,
+    "pct": 73.6
+   },
+   "rep": {
+    "name": "Shirley Johnson",
+    "votes": 18633,
+    "pct": 24.4
+   },
+   "other": 1507,
+   "marginPts": 49.2,
+   "marginVotes": 37607,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 76380,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-17",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "78%",
+   "dem": {
+    "name": "Haseeb Fatmi",
+    "votes": 50668,
+    "pct": 55.8
+   },
+   "rep": {
+    "name": "Chris Stock",
+    "votes": 37960,
+    "pct": 41.8
+   },
+   "other": 2138,
+   "marginPts": 14.0,
+   "marginVotes": 12708,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 90766,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-18",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "79%",
+   "dem": {
+    "name": "Val Applewhite",
+    "votes": 40958,
+    "pct": 73.6
+   },
+   "rep": {
+    "name": "Venus de la Cruz",
+    "votes": 14678,
+    "pct": 26.4
+   },
+   "other": 0,
+   "marginPts": 47.2,
+   "marginVotes": 26280,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 55636,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-19",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Natalie S. Murdock",
+    "votes": 85371,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 85371,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 85371,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-20",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "92%",
+   "dem": {
+    "name": "Paul Taylor",
+    "votes": 33199,
+    "pct": 45.2
+   },
+   "rep": {
+    "name": "Tom McInnis",
+    "votes": 40181,
+    "pct": 54.8
+   },
+   "other": 0,
+   "marginPts": -9.6,
+   "marginVotes": 6982,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 73380,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-21",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Sophia Chitlik",
+    "votes": 72857,
+    "pct": 85.3
+   },
+   "rep": {
+    "name": "LaKeshia M. Alston",
+    "votes": 12600,
+    "pct": 14.7
+   },
+   "other": 0,
+   "marginPts": 70.6,
+   "marginVotes": 60257,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 85457,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-22",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "97%",
+   "dem": {
+    "name": "Jonah Garson",
+    "votes": 68537,
+    "pct": 72.4
+   },
+   "rep": {
+    "name": "Laura Pichardo",
+    "votes": 26081,
+    "pct": 27.6
+   },
+   "other": 0,
+   "marginPts": 44.8,
+   "marginVotes": 42456,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 94618,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-23",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Catina Hamm",
+    "votes": 27592,
+    "pct": 49.8
+   },
+   "rep": {
+    "name": "Danny Earl Britt, Jr.",
+    "votes": 27860,
+    "pct": 50.2
+   },
+   "other": 0,
+   "marginPts": -0.4,
+   "marginVotes": 268,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 55452,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-24",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Southey Blanton",
+    "votes": 40046,
+    "pct": 48.4
+   },
+   "rep": {
+    "name": "Amy Scott Galey",
+    "votes": 42643,
+    "pct": 51.6
+   },
+   "other": 0,
+   "marginPts": -3.2,
+   "marginVotes": 2597,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 82689,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-25",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "69%",
+   "dem": {
+    "name": "Steve Luking",
+    "votes": 39636,
+    "pct": 47.1
+   },
+   "rep": {
+    "name": "Sam Page",
+    "votes": 44606,
+    "pct": 52.9
+   },
+   "other": 0,
+   "marginPts": -5.8,
+   "marginVotes": 4970,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 84242,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-26",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "78%",
+   "dem": {
+    "name": "Michael K. Garrett",
+    "votes": 56997,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 56997,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 56997,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-27",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "75%",
+   "dem": {
+    "name": "Gladys A. Robinson",
+    "votes": 56059,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 56059,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 56059,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-28",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Judy Little",
+    "votes": 27537,
+    "pct": 39.0
+   },
+   "rep": {
+    "name": "Dave Craven",
+    "votes": 43081,
+    "pct": 61.0
+   },
+   "other": 0,
+   "marginPts": -22.0,
+   "marginVotes": 15544,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 70618,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-29",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Pamela D. McAfee",
+    "votes": 26741,
+    "pct": 33.9
+   },
+   "rep": {
+    "name": "Steve Jarvis",
+    "votes": 52180,
+    "pct": 66.1
+   },
+   "other": 0,
+   "marginPts": -32.2,
+   "marginVotes": 25439,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 78921,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-30",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Andy Bowline",
+    "votes": 43110,
+    "pct": 46.3
+   },
+   "rep": {
+    "name": "Dana Caudill Jones",
+    "votes": 49941,
+    "pct": 53.7
+   },
+   "other": 0,
+   "marginPts": -7.4,
+   "marginVotes": 6831,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 93051,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-31",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Paul Lowe, Jr.",
+    "votes": 56997,
+    "pct": 75.9
+   },
+   "rep": {
+    "name": "Peter Antinozzi",
+    "votes": 16728,
+    "pct": 22.3
+   },
+   "other": 1357,
+   "marginPts": 53.6,
+   "marginVotes": 40269,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 75082,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-32",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Gary R. Weart",
+    "votes": 28074,
+    "pct": 37.5
+   },
+   "rep": {
+    "name": "Carl Ford",
+    "votes": 46721,
+    "pct": 62.5
+   },
+   "other": 0,
+   "marginPts": -25.0,
+   "marginVotes": 18647,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 74795,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-33",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "April Cook",
+    "votes": 46750,
+    "pct": 57.7
+   },
+   "rep": {
+    "name": "Kevin Crutchfield",
+    "votes": 34328,
+    "pct": 42.3
+   },
+   "other": 0,
+   "marginPts": 15.4,
+   "marginVotes": 12422,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 81078,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-34",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Christine E. Winward",
+    "votes": 44329,
+    "pct": 46.0
+   },
+   "rep": {
+    "name": "Todd Johnson",
+    "votes": 52066,
+    "pct": 54.0
+   },
+   "other": 0,
+   "marginPts": -8.0,
+   "marginVotes": 7737,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 96395,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-35",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Trevor Cole Hardwick",
+    "votes": 20115,
+    "pct": 27.1
+   },
+   "rep": {
+    "name": "Eddie Settle",
+    "votes": 54065,
+    "pct": 72.9
+   },
+   "other": 0,
+   "marginPts": -45.8,
+   "marginVotes": 33950,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 74180,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-36",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Raygan J. Angel",
+    "votes": 39588,
+    "pct": 43.4
+   },
+   "rep": {
+    "name": "Vickie Sawyer",
+    "votes": 51692,
+    "pct": 56.6
+   },
+   "other": 0,
+   "marginPts": -13.2,
+   "marginVotes": 12104,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 91280,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-37",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "92%",
+   "dem": {
+    "name": "Mujtaba A. Mohammed",
+    "votes": 72427,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 72427,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 72427,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-38",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "89%",
+   "dem": {
+    "name": "DeAndrea Salvador",
+    "votes": 66319,
+    "pct": 100.0
+   },
+   "rep": {},
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 66319,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 66319,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-39",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "91%",
+   "dem": {
+    "name": "Joyce Waddell",
+    "votes": 53895,
+    "pct": 83.8
+   },
+   "rep": {
+    "name": "Bobbie Shields",
+    "votes": 10440,
+    "pct": 16.2
+   },
+   "other": 0,
+   "marginPts": 67.6,
+   "marginVotes": 43455,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 64335,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-40",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Caleb Theodros",
+    "votes": 69771,
+    "pct": 84.5
+   },
+   "rep": {
+    "name": "Kevin Gray",
+    "votes": 12764,
+    "pct": 15.5
+   },
+   "other": 0,
+   "marginPts": 69.0,
+   "marginVotes": 57007,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 82535,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-41",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "98%",
+   "dem": {
+    "name": "Mrs. Woodson Bradley",
+    "votes": 56745,
+    "pct": 58.9
+   },
+   "rep": {
+    "name": "Stacie McGinn",
+    "votes": 39550,
+    "pct": 41.1
+   },
+   "other": 0,
+   "marginPts": 17.8,
+   "marginVotes": 17195,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 96295,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-42",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Steve Rutherford",
+    "votes": 37758,
+    "pct": 49.1
+   },
+   "rep": {
+    "name": "Brad Overcash",
+    "votes": 39155,
+    "pct": 50.9
+   },
+   "other": 0,
+   "marginPts": -1.8,
+   "marginVotes": 1397,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 76913,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-43",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Rod Powell",
+    "votes": 27752,
+    "pct": 35.6
+   },
+   "rep": {
+    "name": "Ted Alexander",
+    "votes": 50272,
+    "pct": 64.4
+   },
+   "other": 0,
+   "marginPts": -28.8,
+   "marginVotes": 22520,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 78024,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-44",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Greg Cranford",
+    "votes": 29101,
+    "pct": 37.2
+   },
+   "rep": {
+    "name": "Mark Hollo",
+    "votes": 49039,
+    "pct": 62.8
+   },
+   "other": 0,
+   "marginPts": -25.6,
+   "marginVotes": 19938,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 78140,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-45",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Kyle Whisnant",
+    "votes": 33287,
+    "pct": 43.9
+   },
+   "rep": {
+    "name": "Warren Daniel",
+    "votes": 42610,
+    "pct": 56.1
+   },
+   "other": 0,
+   "marginPts": -12.2,
+   "marginVotes": 9323,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 75897,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-46",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Frank Patton Hughes III",
+    "votes": 38829,
+    "pct": 44.5
+   },
+   "rep": {
+    "name": "Ralph Hise",
+    "votes": 48503,
+    "pct": 55.5
+   },
+   "other": 0,
+   "marginPts": -11.0,
+   "marginVotes": 9674,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 87332,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-47",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Doyle G. Brown, Jr.",
+    "votes": 40065,
+    "pct": 44.8
+   },
+   "rep": {
+    "name": "Tim Moffitt",
+    "votes": 49359,
+    "pct": 55.2
+   },
+   "other": 0,
+   "marginPts": -10.4,
+   "marginVotes": 9294,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 89424,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-48",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Julie Mayfield",
+    "votes": 77184,
+    "pct": 77.1
+   },
+   "rep": {
+    "name": "CJ Domingo",
+    "votes": 22866,
+    "pct": 22.9
+   },
+   "other": 0,
+   "marginPts": 54.2,
+   "marginVotes": 54318,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 100050,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-49",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Tom Downing",
+    "votes": 39781,
+    "pct": 41.8
+   },
+   "rep": {
+    "name": "Kevin Corbin",
+    "votes": 55374,
+    "pct": 58.2
+   },
+   "other": 0,
+   "marginPts": -16.4,
+   "marginVotes": 15593,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 95155,
+   "state": "NC",
+   "chamber": "Senate",
+   "district": "SD-50",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "3%",
+   "dem": {
+    "name": "Leanna Sandahl",
+    "votes": 160,
+    "pct": 25.1
+   },
+   "rep": {
+    "name": "John Burkel",
+    "votes": 478,
+    "pct": 74.9
+   },
+   "other": 0,
+   "marginPts": -49.8,
+   "marginVotes": 318,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 638,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-1A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "45%",
+   "dem": {
+    "name": "Jennifer Compeau",
+    "votes": 1337,
+    "pct": 27.5
+   },
+   "rep": {
+    "name": "Steve Gander",
+    "votes": 3515,
+    "pct": 72.4
+   },
+   "other": 2,
+   "marginPts": -44.9,
+   "marginVotes": 2178,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4854,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-1B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "25%",
+   "dem": {
+    "name": "Reed J. Olson",
+    "votes": 258,
+    "pct": 31.8
+   },
+   "rep": {
+    "name": "Bidal Duran Jr",
+    "votes": 553,
+    "pct": 68.1
+   },
+   "other": 1,
+   "marginPts": -36.3,
+   "marginVotes": 295,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 812,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-2A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "29%",
+   "dem": {
+    "name": "Emily Thabes",
+    "votes": 2228,
+    "pct": 40.7
+   },
+   "rep": {
+    "name": "Matt Bliss",
+    "votes": 3236,
+    "pct": 59.2
+   },
+   "other": 4,
+   "marginPts": -18.5,
+   "marginVotes": 1008,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 5468,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-2B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "51%",
+   "dem": {
+    "name": "Aaron Kania",
+    "votes": 3390,
+    "pct": 40.4
+   },
+   "rep": {
+    "name": "Roger J. Skraba",
+    "votes": 5000,
+    "pct": 59.5
+   },
+   "other": 11,
+   "marginPts": -19.1,
+   "marginVotes": 1610,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 8401,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-3A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "17%",
+   "dem": {
+    "name": "Aaron Schweiger",
+    "votes": 1585,
+    "pct": 53.6
+   },
+   "rep": {
+    "name": "Natalie Zeleznikar",
+    "votes": 1374,
+    "pct": 46.4
+   },
+   "other": 0,
+   "marginPts": 7.2,
+   "marginVotes": 211,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 2959,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-3B",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "85%",
+   "dem": {
+    "name": "Erika Yoney",
+    "votes": 8614,
+    "pct": 66.8
+   },
+   "rep": {
+    "name": "Andrew Rockhold",
+    "votes": 4257,
+    "pct": 33.0
+   },
+   "other": 20,
+   "marginPts": 33.8,
+   "marginVotes": 4357,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 12891,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-4A",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "64%",
+   "dem": {
+    "name": "Thaddeus Laugisch",
+    "votes": 2831,
+    "pct": 37.0
+   },
+   "rep": {
+    "name": "Jim Joy",
+    "votes": 4828,
+    "pct": 63.0
+   },
+   "other": 2,
+   "marginPts": -26.0,
+   "marginVotes": 1997,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 7661,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-4B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "12%",
+   "dem": {
+    "name": "Dan S. Mitchell",
+    "votes": 709,
+    "pct": 25.6
+   },
+   "rep": {
+    "name": "Krista Knudsen",
+    "votes": 2059,
+    "pct": 74.4
+   },
+   "other": 0,
+   "marginPts": -48.8,
+   "marginVotes": 1350,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 2768,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-5A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "22%",
+   "dem": {
+    "name": "Maggie Evers",
+    "votes": 1141,
+    "pct": 23.6
+   },
+   "rep": {
+    "name": "Jonathan Claussen",
+    "votes": 3683,
+    "pct": 76.3
+   },
+   "other": 1,
+   "marginPts": -52.7,
+   "marginVotes": 2542,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4825,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-5B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "42%",
+   "dem": {
+    "name": "Samuel Grigsby",
+    "votes": 1801,
+    "pct": 37.9
+   },
+   "rep": {
+    "name": "Ben Davis",
+    "votes": 2948,
+    "pct": 62.0
+   },
+   "other": 6,
+   "marginPts": -24.1,
+   "marginVotes": 1147,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4755,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-6A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "40%",
+   "dem": {
+    "name": "Nicky Hardy",
+    "votes": 2244,
+    "pct": 43.2
+   },
+   "rep": {
+    "name": "Josh Heintzeman",
+    "votes": 2944,
+    "pct": 56.7
+   },
+   "other": 6,
+   "marginPts": -13.5,
+   "marginVotes": 700,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 5194,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-6B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "33%",
+   "dem": {
+    "name": "Erin McCabe Ningen",
+    "votes": 1778,
+    "pct": 40.5
+   },
+   "rep": {
+    "name": "Spencer Igo",
+    "votes": 2610,
+    "pct": 59.5
+   },
+   "other": 1,
+   "marginPts": -19.0,
+   "marginVotes": 832,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4389,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-7A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "28%",
+   "dem": {
+    "name": "Dan Horoshak",
+    "votes": 2283,
+    "pct": 49.2
+   },
+   "rep": {
+    "name": "Cal Warwas",
+    "votes": 2352,
+    "pct": 50.7
+   },
+   "other": 3,
+   "marginPts": -1.5,
+   "marginVotes": 69,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4638,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-7B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "18%",
+   "dem": {
+    "name": "Peter Johnson",
+    "votes": 2155,
+    "pct": 78.0
+   },
+   "rep": {
+    "name": "Allan Kehr II",
+    "votes": 603,
+    "pct": 21.8
+   },
+   "other": 5,
+   "marginPts": 56.2,
+   "marginVotes": 1552,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 2763,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-8A",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "12%",
+   "dem": {
+    "name": "Liish Kozlowski",
+    "votes": 1682,
+    "pct": 77.3
+   },
+   "rep": {
+    "name": "Shawn Savela",
+    "votes": 493,
+    "pct": 22.7
+   },
+   "other": 0,
+   "marginPts": 54.6,
+   "marginVotes": 1189,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 2175,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-8B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "25%",
+   "dem": {
+    "name": "Nicholas Hanson",
+    "votes": 4144,
+    "pct": 38.9
+   },
+   "rep": {
+    "name": "Jeff Backer",
+    "votes": 6511,
+    "pct": 61.1
+   },
+   "other": 5,
+   "marginPts": -22.2,
+   "marginVotes": 2367,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 10660,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-9A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "17%",
+   "dem": {
+    "name": "Owen Werner",
+    "votes": 1328,
+    "pct": 34.8
+   },
+   "rep": {
+    "name": "Tom Murphy",
+    "votes": 2490,
+    "pct": 65.2
+   },
+   "other": 1,
+   "marginPts": -30.4,
+   "marginVotes": 1162,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 3819,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-9B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "12%",
+   "dem": {
+    "name": "Melissa Maertens",
+    "votes": 416,
+    "pct": 27.0
+   },
+   "rep": {
+    "name": "Mark Striemer",
+    "votes": 1124,
+    "pct": 72.8
+   },
+   "other": 3,
+   "marginPts": -45.8,
+   "marginVotes": 708,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 1543,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-10A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "24%",
+   "dem": {
+    "name": "Jeff Larson",
+    "votes": 1388,
+    "pct": 23.6
+   },
+   "rep": {
+    "name": "Isaac Schultz",
+    "votes": 4494,
+    "pct": 76.4
+   },
+   "other": 2,
+   "marginPts": -52.8,
+   "marginVotes": 3106,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 5884,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-10B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "18%",
+   "dem": {
+    "name": "Chris Swanson",
+    "votes": 562,
+    "pct": 51.0
+   },
+   "rep": {
+    "name": "Jeff Dotseth",
+    "votes": 540,
+    "pct": 49.0
+   },
+   "other": 0,
+   "marginPts": 2.0,
+   "marginVotes": 22,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 1102,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-11A",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "33%",
+   "dem": {
+    "name": "Jack L'Heureux",
+    "votes": 814,
+    "pct": 27.2
+   },
+   "rep": {
+    "name": "Nathan Nelson",
+    "votes": 2172,
+    "pct": 72.7
+   },
+   "other": 2,
+   "marginPts": -45.5,
+   "marginVotes": 1358,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 2988,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-11B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "43%",
+   "dem": {
+    "name": "Talitha Anderson",
+    "votes": 2177,
+    "pct": 23.7
+   },
+   "rep": {
+    "name": "Paul H. Anderson",
+    "votes": 6999,
+    "pct": 76.2
+   },
+   "other": 6,
+   "marginPts": -52.5,
+   "marginVotes": 4822,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 9182,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-12A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "59%",
+   "dem": {
+    "name": "Michael Gardner",
+    "votes": 3692,
+    "pct": 31.7
+   },
+   "rep": {
+    "name": "Mary Franson",
+    "votes": 7947,
+    "pct": 68.2
+   },
+   "other": 7,
+   "marginPts": -36.5,
+   "marginVotes": 4255,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 11646,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-12B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Arlis Sayler",
+    "votes": 6423,
+    "pct": 28.3
+   },
+   "rep": {
+    "name": "Tanja Goering",
+    "votes": 16225,
+    "pct": 71.6
+   },
+   "other": 11,
+   "marginPts": -43.3,
+   "marginVotes": 9802,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 22659,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-13A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "64%",
+   "dem": {
+    "name": "Justin Doyle",
+    "votes": 5811,
+    "pct": 38.5
+   },
+   "rep": {
+    "name": "Dawn Loberg",
+    "votes": 9266,
+    "pct": 61.4
+   },
+   "other": 8,
+   "marginPts": -22.9,
+   "marginVotes": 3455,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 15085,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-13B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "94%",
+   "dem": {
+    "name": "Abdi Daisane",
+    "votes": 8369,
+    "pct": 50.1
+   },
+   "rep": {
+    "name": "Mike Conway",
+    "votes": 8320,
+    "pct": 49.8
+   },
+   "other": 27,
+   "marginPts": 0.3,
+   "marginVotes": 49,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 16716,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-14A",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "60%",
+   "dem": {
+    "name": "Zachary \"Zach\" Dorholt",
+    "votes": 6655,
+    "pct": 57.0
+   },
+   "rep": {
+    "name": "Sue Ek",
+    "votes": 5009,
+    "pct": 42.9
+   },
+   "other": 18,
+   "marginPts": 14.1,
+   "marginVotes": 1646,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 11682,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-14B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "15%",
+   "dem": {
+    "name": "Nathan Schmig",
+    "votes": 2487,
+    "pct": 35.3
+   },
+   "rep": {
+    "name": "Bradley L Hennen",
+    "votes": 4558,
+    "pct": 64.7
+   },
+   "other": 5,
+   "marginPts": -29.4,
+   "marginVotes": 2071,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 7050,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-15A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "34%",
+   "dem": {
+    "name": "Keith R. Klawitter",
+    "votes": 1424,
+    "pct": 30.1
+   },
+   "rep": {
+    "name": "Geri Theis",
+    "votes": 3304,
+    "pct": 69.9
+   },
+   "other": 0,
+   "marginPts": -39.8,
+   "marginVotes": 1880,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4728,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-15B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "22%",
+   "dem": {
+    "name": "Mali Anderson",
+    "votes": 666,
+    "pct": 25.6
+   },
+   "rep": {
+    "name": "Dawn Gillman",
+    "votes": 1931,
+    "pct": 74.2
+   },
+   "other": 4,
+   "marginPts": -48.6,
+   "marginVotes": 1265,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 2601,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-17A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "42%",
+   "dem": {
+    "name": "Ben Wieman",
+    "votes": 4808,
+    "pct": 36.5
+   },
+   "rep": {
+    "name": "Bobbie Harder",
+    "votes": 8362,
+    "pct": 63.5
+   },
+   "other": 8,
+   "marginPts": -27.0,
+   "marginVotes": 3554,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 13178,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-17B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "89%",
+   "dem": {
+    "name": "Leah Hanson",
+    "votes": 8891,
+    "pct": 52.0
+   },
+   "rep": {
+    "name": "Erica Schwartz",
+    "votes": 8180,
+    "pct": 47.9
+   },
+   "other": 19,
+   "marginPts": 4.1,
+   "marginVotes": 711,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 17090,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-18A",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "17%",
+   "dem": {
+    "name": "Luke Frederick",
+    "votes": 357,
+    "pct": 93.7
+   },
+   "rep": {},
+   "other": 24,
+   "marginPts": 93.7,
+   "marginVotes": 357,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 381,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-18B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "50%",
+   "dem": {
+    "name": "Martha Brown",
+    "votes": 5719,
+    "pct": 44.5
+   },
+   "rep": {
+    "name": "Keith Allen",
+    "votes": 7133,
+    "pct": 55.4
+   },
+   "other": 14,
+   "marginPts": -10.9,
+   "marginVotes": 1414,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 12866,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-19A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "26%",
+   "dem": {
+    "name": "Zack Meyman",
+    "votes": 986,
+    "pct": 34.4
+   },
+   "rep": {
+    "name": "Thomas J. Sexton",
+    "votes": 1876,
+    "pct": 65.5
+   },
+   "other": 2,
+   "marginPts": -31.1,
+   "marginVotes": 890,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 2864,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-19B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "52%",
+   "dem": {
+    "name": "Heather Arndt",
+    "votes": 3822,
+    "pct": 43.4
+   },
+   "rep": {
+    "name": "Pam Altendorf",
+    "votes": 4979,
+    "pct": 56.5
+   },
+   "other": 6,
+   "marginPts": -13.1,
+   "marginVotes": 1157,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 8807,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-20A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "25%",
+   "dem": {
+    "name": "Steve Holm",
+    "votes": 1165,
+    "pct": 32.4
+   },
+   "rep": {
+    "name": "Sara Bertschinger",
+    "votes": 2430,
+    "pct": 67.5
+   },
+   "other": 3,
+   "marginPts": -35.1,
+   "marginVotes": 1265,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 3598,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-20B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "68%",
+   "dem": {
+    "name": "LS Rusty Nelson",
+    "votes": 4086,
+    "pct": 29.6
+   },
+   "rep": {
+    "name": "Krist Wollum",
+    "votes": 9726,
+    "pct": 70.4
+   },
+   "other": 6,
+   "marginPts": -40.8,
+   "marginVotes": 5640,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 13818,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-21A",
+   "held": "V",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "43%",
+   "dem": {
+    "name": "Jon Wilson",
+    "votes": 1540,
+    "pct": 33.2
+   },
+   "rep": {
+    "name": "Marj J Fogelman",
+    "votes": 3091,
+    "pct": 66.7
+   },
+   "other": 1,
+   "marginPts": -33.5,
+   "marginVotes": 1551,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4632,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-21B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "24%",
+   "dem": {
+    "name": "Sonja L. Denn",
+    "votes": 789,
+    "pct": 31.9
+   },
+   "rep": {
+    "name": "Bjorn Olson",
+    "votes": 1678,
+    "pct": 67.9
+   },
+   "other": 4,
+   "marginPts": -36.0,
+   "marginVotes": 889,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 2471,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-22A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "66%",
+   "dem": {
+    "name": "Mary Nesgoda",
+    "votes": 2776,
+    "pct": 30.4
+   },
+   "rep": {
+    "name": "Terry Matthew Stier",
+    "votes": 6343,
+    "pct": 69.5
+   },
+   "other": 6,
+   "marginPts": -39.1,
+   "marginVotes": 3567,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 9125,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-22B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "6%",
+   "dem": {
+    "name": "Joe Staloch",
+    "votes": 348,
+    "pct": 28.4
+   },
+   "rep": {
+    "name": "Nick Ronnenberg",
+    "votes": 879,
+    "pct": 71.6
+   },
+   "other": 0,
+   "marginPts": -43.2,
+   "marginVotes": 531,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 1227,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-23A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "50%",
+   "dem": {
+    "name": "Heather Holmes",
+    "votes": 2349,
+    "pct": 35.8
+   },
+   "rep": {
+    "name": "Duane Quam",
+    "votes": 4209,
+    "pct": 64.2
+   },
+   "other": 3,
+   "marginPts": -28.4,
+   "marginVotes": 1860,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 6561,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-24A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "4%",
+   "dem": {
+    "name": "Andy Smith",
+    "votes": 785,
+    "pct": 79.1
+   },
+   "rep": {
+    "name": "Wes Lund",
+    "votes": 207,
+    "pct": 20.9
+   },
+   "other": 0,
+   "marginPts": 58.2,
+   "marginVotes": 578,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 992,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-25B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "39%",
+   "dem": {
+    "name": "Dan Wilson",
+    "votes": 4294,
+    "pct": 61.4
+   },
+   "rep": {
+    "name": "Aaron Repinski",
+    "votes": 2691,
+    "pct": 38.5
+   },
+   "other": 6,
+   "marginPts": 22.9,
+   "marginVotes": 1603,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 6991,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-26A",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "21%",
+   "dem": {
+    "name": "Daniel Colten Schmidt",
+    "votes": 2323,
+    "pct": 40.5
+   },
+   "rep": {
+    "name": "Max Rymer",
+    "votes": 3411,
+    "pct": 59.4
+   },
+   "other": 4,
+   "marginPts": -18.9,
+   "marginVotes": 1088,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 5738,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-28B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "61%",
+   "dem": {
+    "name": "Emily Dahlgren",
+    "votes": 4705,
+    "pct": 31.1
+   },
+   "rep": {
+    "name": "Joe McDonald",
+    "votes": 10400,
+    "pct": 68.8
+   },
+   "other": 11,
+   "marginPts": -37.7,
+   "marginVotes": 5695,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 15116,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-29A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "79%",
+   "dem": {
+    "name": "Colton Kratky",
+    "votes": 6426,
+    "pct": 41.1
+   },
+   "rep": {
+    "name": "Marion (O'Neill) Rarick",
+    "votes": 9202,
+    "pct": 58.8
+   },
+   "other": 13,
+   "marginPts": -17.7,
+   "marginVotes": 2776,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 15641,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-29B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "82%",
+   "dem": {
+    "name": "Joey Smyth",
+    "votes": 9005,
+    "pct": 41.0
+   },
+   "rep": {
+    "name": "Walter Hudson",
+    "votes": 12922,
+    "pct": 58.9
+   },
+   "other": 13,
+   "marginPts": -17.9,
+   "marginVotes": 3917,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 21940,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-30A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "21%",
+   "dem": {
+    "name": "Keenan Gentry",
+    "votes": 2549,
+    "pct": 41.5
+   },
+   "rep": {
+    "name": "Chad Westberg",
+    "votes": 3597,
+    "pct": 58.5
+   },
+   "other": 1,
+   "marginPts": -17.0,
+   "marginVotes": 1048,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 6147,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-30B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "9%",
+   "dem": {
+    "name": "Jason Heaser",
+    "votes": 14,
+    "pct": 51.9
+   },
+   "rep": {
+    "name": "Danny Nadeau",
+    "votes": 13,
+    "pct": 48.1
+   },
+   "other": 0,
+   "marginPts": 3.8,
+   "marginVotes": 1,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 27,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-34A",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "60%",
+   "dem": {
+    "name": "Jen Fox",
+    "votes": 6023,
+    "pct": 51.6
+   },
+   "rep": {
+    "name": "William Beck",
+    "votes": 5630,
+    "pct": 48.3
+   },
+   "other": 15,
+   "marginPts": 3.3,
+   "marginVotes": 393,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 11668,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-41B",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "81%",
+   "dem": {
+    "name": "Joe Brothers",
+    "votes": 8320,
+    "pct": 42.9
+   },
+   "rep": {
+    "name": "Jim Nash",
+    "votes": 11068,
+    "pct": 57.0
+   },
+   "other": 18,
+   "marginPts": -14.1,
+   "marginVotes": 2748,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 19406,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-48A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "91%",
+   "dem": {
+    "name": "Lucille \"Lucy\" Rehm",
+    "votes": 12528,
+    "pct": 54.9
+   },
+   "rep": {
+    "name": "Caleb Steffenhagen",
+    "votes": 10274,
+    "pct": 45.0
+   },
+   "other": 13,
+   "marginPts": 9.9,
+   "marginVotes": 2254,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 22815,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-48B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Christos Roy Jensen",
+    "votes": 14208,
+    "pct": 68.6
+   },
+   "rep": {
+    "name": "George Gilmour",
+    "votes": 6503,
+    "pct": 31.4
+   },
+   "other": 15,
+   "marginPts": 37.2,
+   "marginVotes": 7705,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 20726,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-52A",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Bianca Virnig",
+    "votes": 15899,
+    "pct": 65.5
+   },
+   "rep": {
+    "name": "Tom Lopac",
+    "votes": 8354,
+    "pct": 34.4
+   },
+   "other": 14,
+   "marginPts": 31.1,
+   "marginVotes": 7545,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 24267,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-52B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Mary Frances Clardy",
+    "votes": 14233,
+    "pct": 63.0
+   },
+   "rep": {
+    "name": "AJ Gubash",
+    "votes": 8338,
+    "pct": 36.9
+   },
+   "other": 17,
+   "marginPts": 26.1,
+   "marginVotes": 5895,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 22588,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-53A",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "57%",
+   "dem": {
+    "name": "Rick Hansen",
+    "votes": 8230,
+    "pct": 67.1
+   },
+   "rep": {
+    "name": "Patti Mikulski",
+    "votes": 4028,
+    "pct": 32.8
+   },
+   "other": 14,
+   "marginPts": 34.3,
+   "marginVotes": 4202,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 12272,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-53B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "25%",
+   "dem": {
+    "name": "Jessica Hanson",
+    "votes": 2727,
+    "pct": 64.7
+   },
+   "rep": {
+    "name": "Pam Myhra",
+    "votes": 1479,
+    "pct": 35.1
+   },
+   "other": 6,
+   "marginPts": 29.6,
+   "marginVotes": 1248,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4212,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-55A",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Hunter Cantrell",
+    "votes": 12388,
+    "pct": 66.4
+   },
+   "rep": {
+    "name": "Todd Buchwald",
+    "votes": 6271,
+    "pct": 33.6
+   },
+   "other": 9,
+   "marginPts": 32.8,
+   "marginVotes": 6117,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 18668,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-55B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Robert Bierman",
+    "votes": 13895,
+    "pct": 67.1
+   },
+   "rep": {
+    "name": "A.J. Prospect",
+    "votes": 6784,
+    "pct": 32.8
+   },
+   "other": 18,
+   "marginPts": 34.3,
+   "marginVotes": 7111,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 20697,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-56A",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "John Huot",
+    "votes": 14839,
+    "pct": 60.7
+   },
+   "rep": {
+    "name": "Andrew Hattaway",
+    "votes": 9578,
+    "pct": 39.2
+   },
+   "other": 14,
+   "marginPts": 21.5,
+   "marginVotes": 5261,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 24431,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-56B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "67%",
+   "dem": {
+    "name": "JD Delgado",
+    "votes": 7290,
+    "pct": 46.5
+   },
+   "rep": {
+    "name": "Jon Koznick",
+    "votes": 8388,
+    "pct": 53.5
+   },
+   "other": 8,
+   "marginPts": -7.0,
+   "marginVotes": 1098,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 15686,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-57A",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Brian Cohn",
+    "votes": 13284,
+    "pct": 53.9
+   },
+   "rep": {
+    "name": "Jeff Witte",
+    "votes": 11343,
+    "pct": 46.0
+   },
+   "other": 21,
+   "marginPts": 7.9,
+   "marginVotes": 1941,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 24648,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-57B",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "76%",
+   "dem": {
+    "name": "Kristi Pursell",
+    "votes": 10122,
+    "pct": 63.0
+   },
+   "rep": {
+    "name": "Steven E. Cherney",
+    "votes": 5925,
+    "pct": 36.9
+   },
+   "other": 8,
+   "marginPts": 26.1,
+   "marginVotes": 4197,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 16055,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-58A",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "90%",
+   "dem": {
+    "name": "Ed Fellows",
+    "votes": 9575,
+    "pct": 44.8
+   },
+   "rep": {
+    "name": "Drew Roach",
+    "votes": 11775,
+    "pct": 55.1
+   },
+   "other": 16,
+   "marginPts": -10.3,
+   "marginVotes": 2200,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 21366,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-58B",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "25%",
+   "dem": {
+    "name": "Sebastian Ellefson",
+    "votes": 4074,
+    "pct": 97.0
+   },
+   "rep": {},
+   "other": 126,
+   "marginPts": 97.0,
+   "marginVotes": 4074,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4200,
+   "state": "MN",
+   "chamber": "House",
+   "district": "HD-65B",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "22%",
+   "dem": {
+    "name": "Bjorn Solberg",
+    "votes": 1533,
+    "pct": 27.8
+   },
+   "rep": {
+    "name": "Mark Johnson",
+    "votes": 3984,
+    "pct": 72.2
+   },
+   "other": 1,
+   "marginPts": -44.4,
+   "marginVotes": 2451,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 5518,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-1",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "28%",
+   "dem": {
+    "name": "Dan R. Rogers",
+    "votes": 2527,
+    "pct": 40.2
+   },
+   "rep": {
+    "name": "Steve Green",
+    "votes": 3646,
+    "pct": 58.1
+   },
+   "other": 107,
+   "marginPts": -17.9,
+   "marginVotes": 1119,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 6280,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-2",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "43%",
+   "dem": {
+    "name": "Grant Hauschild",
+    "votes": 5288,
+    "pct": 46.5
+   },
+   "rep": {
+    "name": "Andrea Zupancich",
+    "votes": 6062,
+    "pct": 53.3
+   },
+   "other": 21,
+   "marginPts": -6.8,
+   "marginVotes": 774,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 11371,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-3",
+   "held": "D",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "68%",
+   "dem": {
+    "name": "Rob Kupec",
+    "votes": 11379,
+    "pct": 54.8
+   },
+   "rep": {
+    "name": "Austin Peterson",
+    "votes": 9344,
+    "pct": 45.0
+   },
+   "other": 23,
+   "marginPts": 9.8,
+   "marginVotes": 2035,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 20746,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-4",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "16%",
+   "dem": {
+    "name": "Skylar Fynboh",
+    "votes": 1843,
+    "pct": 24.1
+   },
+   "rep": {
+    "name": "Mike Wiener",
+    "votes": 5786,
+    "pct": 75.8
+   },
+   "other": 4,
+   "marginPts": -51.7,
+   "marginVotes": 3943,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 7633,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-5",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "41%",
+   "dem": {
+    "name": "Denise Slipy",
+    "votes": 3972,
+    "pct": 39.9
+   },
+   "rep": {
+    "name": "Keri Heintzeman",
+    "votes": 5977,
+    "pct": 60.0
+   },
+   "other": 11,
+   "marginPts": -20.1,
+   "marginVotes": 2005,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 9960,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-6",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "31%",
+   "dem": {
+    "name": "Kim (Kotonias) McLaughlin",
+    "votes": 4173,
+    "pct": 46.2
+   },
+   "rep": {
+    "name": "Robert Farnsworth",
+    "votes": 4861,
+    "pct": 53.8
+   },
+   "other": 2,
+   "marginPts": -7.6,
+   "marginVotes": 688,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 9036,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-7",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "15%",
+   "dem": {
+    "name": "Jen McEwen",
+    "votes": 3833,
+    "pct": 77.2
+   },
+   "rep": {
+    "name": "Darrick Law",
+    "votes": 1129,
+    "pct": 22.7
+   },
+   "other": 3,
+   "marginPts": 54.5,
+   "marginVotes": 2704,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4965,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-8",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "21%",
+   "dem": {
+    "name": "Krystyne M. Knutson",
+    "votes": 4958,
+    "pct": 34.0
+   },
+   "rep": {
+    "name": "Jordan Rasmusson",
+    "votes": 9607,
+    "pct": 65.9
+   },
+   "other": 11,
+   "marginPts": -31.9,
+   "marginVotes": 4649,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 14576,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-9",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "17%",
+   "dem": {
+    "name": "Tara Killen",
+    "votes": 1815,
+    "pct": 24.4
+   },
+   "rep": {
+    "name": "Nathan Wesenberg",
+    "votes": 5615,
+    "pct": 75.5
+   },
+   "other": 4,
+   "marginPts": -51.1,
+   "marginVotes": 3800,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 7434,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-10",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "25%",
+   "dem": {
+    "name": "Mary Carlson",
+    "votes": 1317,
+    "pct": 32.1
+   },
+   "rep": {
+    "name": "Jason Rarick",
+    "votes": 2681,
+    "pct": 65.3
+   },
+   "other": 106,
+   "marginPts": -33.2,
+   "marginVotes": 1364,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 4104,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-11",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "46%",
+   "dem": {
+    "name": "Kari Dorry",
+    "votes": 5946,
+    "pct": 28.5
+   },
+   "rep": {
+    "name": "Torrey Westrom",
+    "votes": 14926,
+    "pct": 71.5
+   },
+   "other": 9,
+   "marginPts": -43.0,
+   "marginVotes": 8980,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 20881,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-12",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "84%",
+   "dem": {
+    "name": "Trent C Dilks",
+    "votes": 12128,
+    "pct": 32.1
+   },
+   "rep": {
+    "name": "Jared J. Gapinski",
+    "votes": 25586,
+    "pct": 67.6
+   },
+   "other": 117,
+   "marginPts": -35.5,
+   "marginVotes": 13458,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37831,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-13",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "76%",
+   "dem": {
+    "name": "Aric Putnam",
+    "votes": 15741,
+    "pct": 55.3
+   },
+   "rep": {
+    "name": "Bernie Perryman",
+    "votes": 12699,
+    "pct": 44.6
+   },
+   "other": 38,
+   "marginPts": 10.7,
+   "marginVotes": 3042,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28478,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-14",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "23%",
+   "dem": {
+    "name": "Andrea Boettger",
+    "votes": 3827,
+    "pct": 32.4
+   },
+   "rep": {
+    "name": "Braxton John Seifert",
+    "votes": 7983,
+    "pct": 67.6
+   },
+   "other": 7,
+   "marginPts": -35.2,
+   "marginVotes": 4156,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 11817,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-15",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "33%",
+   "dem": {
+    "name": "Julie Kelzer",
+    "votes": 5589,
+    "pct": 35.3
+   },
+   "rep": {
+    "name": "Glenn H Gruenhagen",
+    "votes": 10244,
+    "pct": 64.6
+   },
+   "other": 15,
+   "marginPts": -29.3,
+   "marginVotes": 4655,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 15848,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-17",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "64%",
+   "dem": {
+    "name": "Nick Frentz",
+    "votes": 9591,
+    "pct": 54.3
+   },
+   "rep": {
+    "name": "Jackie Henry",
+    "votes": 8045,
+    "pct": 45.6
+   },
+   "other": 15,
+   "marginPts": 8.7,
+   "marginVotes": 1546,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 17651,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-18",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "38%",
+   "dem": {
+    "name": "Sam Powell",
+    "votes": 6399,
+    "pct": 40.5
+   },
+   "rep": {
+    "name": "John R. Jasinski",
+    "votes": 9391,
+    "pct": 59.4
+   },
+   "other": 14,
+   "marginPts": -18.9,
+   "marginVotes": 2992,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 15804,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-19",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "37%",
+   "dem": {
+    "name": "Jason Lohmann",
+    "votes": 5104,
+    "pct": 41.0
+   },
+   "rep": {
+    "name": "Steven E Jacob",
+    "votes": 7331,
+    "pct": 58.9
+   },
+   "other": 8,
+   "marginPts": -17.9,
+   "marginVotes": 2227,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 12443,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-20",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "58%",
+   "dem": {
+    "name": "Caitlyn Sanow-Minett",
+    "votes": 5512,
+    "pct": 29.9
+   },
+   "rep": {
+    "name": "Chris Knoll",
+    "votes": 12944,
+    "pct": 70.1
+   },
+   "other": 5,
+   "marginPts": -40.2,
+   "marginVotes": 7432,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 18461,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-21",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "37%",
+   "dem": {
+    "name": "Marisa Ulmen",
+    "votes": 3665,
+    "pct": 31.4
+   },
+   "rep": {
+    "name": "Jeremy Munson",
+    "votes": 7983,
+    "pct": 68.5
+   },
+   "other": 11,
+   "marginPts": -37.1,
+   "marginVotes": 4318,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 11659,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-22",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "4%",
+   "dem": {
+    "name": "Angie Hanson",
+    "votes": 348,
+    "pct": 28.1
+   },
+   "rep": {
+    "name": "Gene Dornink",
+    "votes": 889,
+    "pct": 71.9
+   },
+   "other": 0,
+   "marginPts": -43.8,
+   "marginVotes": 541,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 1237,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-23",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "27%",
+   "dem": {
+    "name": "Simon Glaser",
+    "votes": 2316,
+    "pct": 35.3
+   },
+   "rep": {
+    "name": "Nels T. Pierson",
+    "votes": 4242,
+    "pct": 64.7
+   },
+   "other": 3,
+   "marginPts": -29.4,
+   "marginVotes": 1926,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 6561,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-24",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "2%",
+   "dem": {
+    "name": "Liz Boldon",
+    "votes": 789,
+    "pct": 79.2
+   },
+   "rep": {
+    "name": "John Howie",
+    "votes": 207,
+    "pct": 20.8
+   },
+   "other": 0,
+   "marginPts": 58.4,
+   "marginVotes": 582,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 996,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-25",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "14%",
+   "dem": {
+    "name": "Jack Hedin",
+    "votes": 4312,
+    "pct": 61.8
+   },
+   "rep": {
+    "name": "Cherie Johnson",
+    "votes": 2662,
+    "pct": 38.1
+   },
+   "other": 5,
+   "marginPts": 23.7,
+   "marginVotes": 1650,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 6979,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-26",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "11%",
+   "dem": {
+    "name": "Max Glenna",
+    "votes": 2210,
+    "pct": 38.7
+   },
+   "rep": {
+    "name": "Mark Koran",
+    "votes": 3482,
+    "pct": 61.0
+   },
+   "other": 18,
+   "marginPts": -22.3,
+   "marginVotes": 1272,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 5710,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-28",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "68%",
+   "dem": {
+    "name": "Louis McNutt",
+    "votes": 11645,
+    "pct": 37.8
+   },
+   "rep": {
+    "name": "Michael Holmstrom Jr",
+    "votes": 19178,
+    "pct": 62.2
+   },
+   "other": 15,
+   "marginPts": -24.4,
+   "marginVotes": 7533,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 30838,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-29",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "48%",
+   "dem": {
+    "name": "Leah Temple",
+    "votes": 11580,
+    "pct": 40.8
+   },
+   "rep": {
+    "name": "Eric Lucero",
+    "votes": 16821,
+    "pct": 59.2
+   },
+   "other": 13,
+   "marginPts": -18.4,
+   "marginVotes": 5241,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 28414,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-30",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "4%",
+   "dem": {
+    "name": "John Hoffman",
+    "votes": 17,
+    "pct": 63.0
+   },
+   "rep": {
+    "name": "Karen Attia",
+    "votes": 10,
+    "pct": 37.0
+   },
+   "other": 0,
+   "marginPts": 26.0,
+   "marginVotes": 7,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 27,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-34",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "28%",
+   "dem": {
+    "name": "Judy Seeberger",
+    "votes": 5679,
+    "pct": 48.6
+   },
+   "rep": {
+    "name": "Tom Dippel",
+    "votes": 6003,
+    "pct": 51.3
+   },
+   "other": 14,
+   "marginPts": -2.7,
+   "marginVotes": 324,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 11696,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-41",
+   "held": "D",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "85%",
+   "dem": {
+    "name": "Dan Kessler",
+    "votes": 20762,
+    "pct": 48.9
+   },
+   "rep": {
+    "name": "Julia Coleman",
+    "votes": 21633,
+    "pct": 51.0
+   },
+   "other": 32,
+   "marginPts": -2.1,
+   "marginVotes": 871,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 42427,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-48",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Liz Reyer",
+    "votes": 30349,
+    "pct": 67.1
+   },
+   "rep": {
+    "name": "Brady O'Neil",
+    "votes": 14837,
+    "pct": 32.8
+   },
+   "other": 25,
+   "marginPts": 34.3,
+   "marginVotes": 15512,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 45211,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-52",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "80%",
+   "dem": {
+    "name": "Paul Cumings",
+    "votes": 21868,
+    "pct": 62.5
+   },
+   "rep": {
+    "name": "Todd Podgorski",
+    "votes": 13112,
+    "pct": 37.5
+   },
+   "other": 27,
+   "marginPts": 25.0,
+   "marginVotes": 8756,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 35007,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-53",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "61%",
+   "dem": {
+    "name": "Lindsey Port",
+    "votes": 15245,
+    "pct": 66.5
+   },
+   "rep": {
+    "name": "Van Holston",
+    "votes": 7671,
+    "pct": 33.5
+   },
+   "other": 16,
+   "marginPts": 33.0,
+   "marginVotes": 7574,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 22932,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-55",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Erin Maye Quade",
+    "votes": 28435,
+    "pct": 62.9
+   },
+   "rep": {
+    "name": "Raymond David Petersen",
+    "votes": 16709,
+    "pct": 37.0
+   },
+   "other": 43,
+   "marginPts": 25.9,
+   "marginVotes": 11726,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 45187,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-56",
+   "held": "D",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "83%",
+   "dem": {
+    "name": "Steven Schroer",
+    "votes": 19822,
+    "pct": 49.0
+   },
+   "rep": {
+    "name": "Zach Duckworth",
+    "votes": 20635,
+    "pct": 51.0
+   },
+   "other": 26,
+   "marginPts": -2.0,
+   "marginVotes": 813,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 40483,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-57",
+   "held": "R",
+   "wouldFlip": false
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "85%",
+   "dem": {
+    "name": "Mark Legvold",
+    "votes": 20002,
+    "pct": 53.1
+   },
+   "rep": {
+    "name": "Bill Lieske",
+    "votes": 17637,
+    "pct": 46.8
+   },
+   "other": 20,
+   "marginPts": 6.3,
+   "marginVotes": 2365,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 37659,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-58",
+   "held": "R",
+   "wouldFlip": true
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "12%",
+   "dem": {
+    "name": "Robyn Gulley",
+    "votes": 4095,
+    "pct": 74.6
+   },
+   "rep": {
+    "name": "_ Rocco",
+    "votes": 1374,
+    "pct": 25.0
+   },
+   "other": 18,
+   "marginPts": 49.6,
+   "marginVotes": 2721,
+   "calledBy": null,
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
+   "asOf": "2026-11-03T23:01:48-05:00",
+   "feed": true,
+   "totalVotes": 5487,
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "SD-65",
+   "held": "D",
+   "wouldFlip": false
+  }
+ ]
+}
