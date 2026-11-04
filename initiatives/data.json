@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:27:00-05:00",
+ "updated": "2026-11-03T21:12:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -61,7 +61,7 @@
    "measure": "Amendment 87 — Graduated Income Tax",
    "ballotNo": "Amendment 87",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -76,9 +76,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Competes with Prop 136; higher yes vote wins if both pass.",
+   "note": "Competes with Prop 136; higher yes vote wins if both pass. Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -87,7 +87,7 @@
    "measure": "Prop 136 — Cap Income Tax at 4.4%",
    "ballotNo": "Prop 136",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -102,9 +102,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Competes with Amendment 87; higher yes vote wins if both pass.",
+   "note": "Competes with Amendment 87; higher yes vote wins if both pass. Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -243,7 +243,7 @@
    "measure": "Amendment 1 — Two-Thirds Vote to Raise Income Taxes",
    "ballotNo": "Amendment 1",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -258,9 +258,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -581,7 +581,7 @@
    "measure": "Measure 440 — Legalize Online Sports Betting",
    "ballotNo": "Measure 440",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority + 35%",
    "thresholdPct": 50,
@@ -596,9 +596,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Also needs yes votes equal to at least 35% of ballots cast.",
+   "note": "Also needs yes votes equal to at least 35% of ballots cast. Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Economic Justice",
@@ -607,7 +607,7 @@
    "measure": "Measure 441 — Regulate Online Sports Betting",
    "ballotNo": "Measure 441",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority + 35%",
    "thresholdPct": 50,
@@ -622,9 +622,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Also needs yes votes equal to at least 35% of ballots cast.",
+   "note": "Also needs yes votes equal to at least 35% of ballots cast. Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Economic Justice",
@@ -633,7 +633,7 @@
    "measure": "Amendment K — Unclaimed Property Trust Fund",
    "ballotNo": "Amendment K",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -648,9 +648,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Economic Justice",
@@ -659,7 +659,7 @@
    "measure": "Issue 3 — Economic Development Districts",
    "ballotNo": "Issue 3",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -674,9 +674,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Economic Justice",
@@ -763,7 +763,7 @@
    "measure": "Prop NN — State Public K-12 Education Funding",
    "ballotNo": "Prop NN",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -778,9 +778,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Education",
@@ -815,7 +815,7 @@
    "measure": "Measure 2 — North Dakota Free School Meals Initiative",
    "ballotNo": "Measure 2",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -830,9 +830,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Healthcare",
@@ -893,7 +893,7 @@
    "measure": "Prop 135 — Ban Gender-Affirming Care for Minors",
    "ballotNo": "Prop 135",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -908,9 +908,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Healthcare",
@@ -919,7 +919,7 @@
    "measure": "Amendment I — End Medicaid Expansion If Federal Share Drops",
    "ballotNo": "Amendment I",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -934,9 +934,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Housing",
@@ -945,7 +945,7 @@
    "measure": "Issue 2J: Residential vacancy tax",
    "ballotNo": "Issue 2J",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -960,9 +960,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Housing",
@@ -1179,7 +1179,7 @@
    "measure": "Tenant Right to Repair",
    "ballotNo": "",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -1194,9 +1194,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "City appealing in court; votes may not count.",
+   "note": "City appealing in court; votes may not count. Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Public Transit",
@@ -1257,7 +1257,7 @@
    "measure": "Measure 7A: Front Range Passenger Rail District",
    "ballotNo": "Measure 7A",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -1272,9 +1272,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Public Transit",
@@ -1361,7 +1361,7 @@
    "measure": "Issue 4 — Water Infrastructure Bonds",
    "ballotNo": "Issue 4",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -1376,9 +1376,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Environment",
@@ -1413,7 +1413,7 @@
    "measure": "Janesville Major Development Voter Approval",
    "ballotNo": "",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -1428,9 +1428,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -2167,7 +2167,7 @@
    "measure": "Prop 144: Voter ID and Citizens Only",
    "ballotNo": "Prop 144",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -2182,9 +2182,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2349,7 +2349,7 @@
    "measure": "Amendment L — 60% Supermajority for All Constitutional Amendments",
    "ballotNo": "Amendment L",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -2364,9 +2364,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2479,7 +2479,7 @@
    "measure": "Amendment 1 — Change State Legislative Term Limits from 2 to 3 Consecutive Terms",
    "ballotNo": "Amendment 1",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority + 35%",
    "thresholdPct": 50,
@@ -2494,9 +2494,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Also needs yes votes equal to at least 35% of ballots cast.",
+   "note": "Also needs yes votes equal to at least 35% of ballots cast. Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2531,7 +2531,7 @@
    "measure": "Amendment J — Citizenship Voting Requirement",
    "ballotNo": "Amendment J",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -2546,9 +2546,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2609,7 +2609,7 @@
    "measure": "Amendment 1 — Eliminate Governor's Pocket Veto",
    "ballotNo": "Amendment 1",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -2624,9 +2624,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2791,7 +2791,7 @@
    "measure": "Amendment 84 — End Mail-Ballot Signature Verification",
    "ballotNo": "Amendment 84",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "55%",
    "thresholdPct": 55,
@@ -2806,9 +2806,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2817,7 +2817,7 @@
    "measure": "Measure 1 — 60% Vote for Constitutional Amendments",
    "ballotNo": "Measure 1",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -2832,9 +2832,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2947,7 +2947,7 @@
    "measure": "Issue 1 — Citizens-Only Voting",
    "ballotNo": "Issue 1",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -2962,9 +2962,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -3233,7 +3233,7 @@
    "measure": "Question 3: Prohibit Government Discrimination or Preferential Treatment",
    "ballotNo": "Question 3",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -3248,9 +3248,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3259,7 +3259,7 @@
    "measure": "Question 1: Prohibit Partial Veto to Increase Tax or Fee",
    "ballotNo": "Question 1",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -3274,9 +3274,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3285,7 +3285,7 @@
    "measure": "Question 2: Prohibit Closure of Places of Worship During Emergencies",
    "ballotNo": "Question 2",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -3300,9 +3300,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3363,7 +3363,7 @@
    "measure": "Prop 318 — Protect Girls' Sports Act",
    "ballotNo": "Prop 318",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -3378,9 +3378,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3415,7 +3415,7 @@
    "measure": "Prop 134 — Trans Student Sports Ban",
    "ballotNo": "Prop 134",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -3430,9 +3430,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3441,7 +3441,7 @@
    "measure": "Measure 442 — Sex-Separated Sports Amendment",
    "ballotNo": "Measure 442",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority + 35%",
    "thresholdPct": 50,
@@ -3456,9 +3456,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Also needs yes votes equal to at least 35% of ballots cast.",
+   "note": "Also needs yes votes equal to at least 35% of ballots cast. Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3467,7 +3467,7 @@
    "measure": "Prop 142 — Ban Race- and Ethnicity-Based Preferences",
    "ballotNo": "Prop 142",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -3482,9 +3482,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3519,7 +3519,7 @@
    "measure": "Amendment 81 — Require Police Cooperation With ICE",
    "ballotNo": "Amendment 81",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "55%",
    "thresholdPct": 55,
@@ -3534,9 +3534,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3649,7 +3649,7 @@
    "measure": "Issue 2 — Right to Bear Arms",
    "ballotNo": "Issue 2",
    "description": "",
-   "status": "Polls not closed",
+   "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -3664,9 +3664,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "Polls closed; no counts found yet.",
    "source": "",
-   "asOf": ""
+   "asOf": "Nov 3, 9:12 PM ET"
   }
  ]
 }
