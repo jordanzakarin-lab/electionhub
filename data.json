@@ -1746,16 +1746,16 @@
    "reporting": "97%",
    "dem": {
     "name": "Sean McCann",
-    "votes": null,
+    "votes": 185440,
     "pct": 50.1
    },
    "rep": {
     "name": "Bill Huizenga",
-    "votes": null,
+    "votes": 178741,
     "pct": 48.3
    },
    "marginPts": 1.8,
-   "marginVotes": null,
+   "marginVotes": 6699,
    "calledBy": "NBC",
    "source": "https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-4-results",
    "asOf": "2026-11-04T13:38:00-05:00",
@@ -1764,7 +1764,7 @@
     {
      "name": "Shafina Barnett",
      "party": "GRE",
-     "votes": null,
+     "votes": 5679,
      "pct": 1.5
     }
    ],
