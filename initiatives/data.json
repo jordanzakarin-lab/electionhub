@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:52:00-05:00",
+ "updated": "2026-11-04T02:21:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -35,18 +35,24 @@
    "measure": "Millionaires Tax (SB 6346) repeal",
    "ballotNo": "I-645",
    "description": "Would repeal the 9.9% income tax on $1M+ households and ban state income taxes generally.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 41.88
+   },
+   "no": {
+    "votes": null,
+    "pct": 58.12
+   },
+   "marginPts": -16.24,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/washington-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -55,18 +61,24 @@
    "measure": "Graduated Income Tax",
    "ballotNo": "Amendment 87",
    "description": "Higher income tax rates on income over $500K and a small cut for lower brackets. Competes with Prop 136; if both pass, the one with more yes votes wins.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 50.57
+   },
+   "no": {
+    "votes": null,
+    "pct": 49.43
+   },
+   "marginPts": 1.14,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/colorado-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -75,18 +87,24 @@
    "measure": "Cap Income Tax at 4.4%",
    "ballotNo": "Prop 136",
    "description": "Caps the income tax at 4.4% to block Amendment 87. If both pass, the one with more yes votes wins.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 47.05
+   },
+   "no": {
+    "votes": null,
+    "pct": 52.95
+   },
+   "marginPts": -5.9,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/colorado-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -147,18 +165,24 @@
    "measure": "Two-Thirds Vote for Citizen Local Special Taxes",
    "ballotNo": "Prop 43",
    "description": "Citizen-initiated local special taxes would need two-thirds, starting 2027. Not retroactive, so LA's mansion tax survives. Replaced the Local Taxpayer Protection Act.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 45.51
+   },
+   "no": {
+    "votes": null,
+    "pct": 54.49
+   },
+   "marginPts": -8.98,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -207,18 +231,24 @@
    "measure": "Two-Thirds Vote to Raise Income Taxes",
    "ballotNo": "Amendment 1",
    "description": "Requires a two-thirds legislative vote to raise income tax rates or create a new income-based tax.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 50.43
+   },
+   "no": {
+    "votes": null,
+    "pct": 49.57
+   },
+   "marginPts": 0.86,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/iowa-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -251,18 +281,24 @@
    "measure": "Show-Me Prosperity Fund",
    "ballotNo": "Amendment 7",
    "description": "Constitutional endowment meant to eventually replace state taxes.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 39.19
+   },
+   "no": {
+    "votes": null,
+    "pct": 60.81
+   },
+   "marginPts": -21.62,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/missouri-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -271,18 +307,24 @@
    "measure": "Tax Revenue Limit and Rebates",
    "ballotNo": "Question 5",
    "description": "Changes the Chapter 62F revenue cap formula to reduce collections and refund surpluses to taxpayers.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 44.08
+   },
+   "no": {
+    "votes": null,
+    "pct": 55.92
+   },
+   "marginPts": -11.84,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -411,18 +453,24 @@
    "measure": "Arbitration Reform for State Employees",
    "ballotNo": "Question 1",
    "description": "The governor's budget must fund state-worker union contracts, including terms set by arbitration.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "votes": null,
+    "pct": 74.56
+   },
+   "no": {
+    "votes": null,
+    "pct": 25.44
+   },
+   "marginPts": 49.12,
+   "reporting": "partial (not stated)",
+   "calledBy": "MultiState",
+   "note": "Listed as Passed on MultiState; yes % only, vote counts not available.",
+   "source": "https://www.multistate.us/elections/results/maryland-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -471,18 +519,24 @@
    "measure": "Legalize Online Sports Betting",
    "ballotNo": "Measure 440",
    "description": "Allows online sports betting through the state's six licensed racetracks.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority + 35% of ballots cast",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 45.41
+   },
+   "no": {
+    "votes": null,
+    "pct": 54.59
+   },
+   "marginPts": -9.18,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Also needs yes votes equal to 35% of ballots cast. Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available. Also needs yes votes = 35% of ballots cast.",
+   "source": "https://www.multistate.us/elections/results/nebraska-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -491,18 +545,24 @@
    "measure": "Regulate Online Sports Betting",
    "ballotNo": "Measure 441",
    "description": "Sets rules and taxes for online sports betting.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority + 35% of ballots cast",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 45.88
+   },
+   "no": {
+    "votes": null,
+    "pct": 54.12
+   },
+   "marginPts": -8.24,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Also needs yes votes equal to 35% of ballots cast. Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available. Also needs yes votes = 35% of ballots cast.",
+   "source": "https://www.multistate.us/elections/results/nebraska-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -511,18 +571,24 @@
    "measure": "Unclaimed Property Trust Fund",
    "ballotNo": "Amendment K",
    "description": "Puts unclaimed property money in a constitutional trust fund.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 60.48
+   },
+   "no": {
+    "votes": null,
+    "pct": 39.52
+   },
+   "marginPts": 20.96,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/south-dakota-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -531,18 +597,24 @@
    "measure": "Economic Development Districts",
    "ballotNo": "Issue 3",
    "description": "Lets the legislature create districts and programs that make public loans and grants and issue bonds outside debt limits.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 48.34
+   },
+   "no": {
+    "votes": null,
+    "pct": 51.66
+   },
+   "marginPts": -3.32,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/arkansas-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -599,18 +671,24 @@
    "measure": "Renew State Income Tax Increase for Education",
    "ballotNo": "Prop 3",
    "description": "Makes top marginal rates permanent; revenue to K-12 and community colleges.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 58.43
+   },
+   "no": {
+    "votes": null,
+    "pct": 41.57
+   },
+   "marginPts": 16.86,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Education",
@@ -619,18 +697,24 @@
    "measure": "State Public K-12 Education Funding",
    "ballotNo": "Prop NN",
    "description": "Lets the state keep revenue above the TABOR cap for K-12 schools (up to $4.6B; ~$500M a year expected).",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 55.36
+   },
+   "no": {
+    "votes": null,
+    "pct": 44.64
+   },
+   "marginPts": 10.72,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/colorado-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Education",
@@ -639,18 +723,24 @@
    "measure": "Free School Meals Initiative",
    "ballotNo": "Measure 2",
    "description": "Constitutional requirement: free breakfast and lunch for all K-12 students, fully reimbursed by the state.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 42.79
+   },
+   "no": {
+    "votes": null,
+    "pct": 57.21
+   },
+   "marginPts": -14.42,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/north-dakota-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Education",
@@ -683,18 +773,24 @@
    "measure": "Spending Requirements for FQHCs",
    "ballotNo": "Prop 44",
    "description": "Health centers must spend 90% of revenue on their mission.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "yes": {
+    "votes": null,
+    "pct": 17.38
+   },
+   "no": {
+    "votes": null,
+    "pct": 82.62
+   },
+   "marginPts": -65.24,
+   "reporting": "partial (not stated)",
+   "calledBy": "MultiState",
+   "note": "Listed as Failed on MultiState; yes % only, vote counts not available.",
+   "source": "https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Healthcare",
@@ -727,18 +823,24 @@
    "measure": "Ban Gender-Affirming Care for Minors",
    "ballotNo": "Prop 135",
    "description": "Bans gender-affirming surgery for minors and bars public money, including Medicaid, from paying for gender-affirming procedures.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 51.45
+   },
+   "no": {
+    "votes": null,
+    "pct": 48.55
+   },
+   "marginPts": 2.9,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/colorado-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Healthcare",
@@ -747,18 +849,24 @@
    "measure": "End Medicaid Expansion If Federal Share Drops",
    "ballotNo": "Amendment I",
    "description": "Ends Medicaid expansion if the federal share falls below 90%.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 44.0
+   },
+   "no": {
+    "votes": null,
+    "pct": 56.0
+   },
+   "marginPts": -12.0,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/south-dakota-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Housing",
@@ -807,18 +915,24 @@
    "measure": "Minimum Lot Size for Single-Family Homes",
    "ballotNo": "Question 7",
    "description": "Allows single-family homes by right on lots of at least 5,000 sq ft with public water and sewer and 50 ft of frontage. Boston is excluded.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 55.89
+   },
+   "no": {
+    "votes": null,
+    "pct": 44.11
+   },
+   "marginPts": 11.78,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Housing",
@@ -827,18 +941,24 @@
    "measure": "Veterans and Affordable Housing Bond",
    "ballotNo": "Prop 1",
    "description": "$11.25B bond for veterans and affordable housing.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 58.93
+   },
+   "no": {
+    "votes": null,
+    "pct": 41.07
+   },
+   "marginPts": 17.86,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Housing",
@@ -1577,18 +1697,24 @@
    "measure": "Same-Day Voter Registration",
    "ballotNo": "Question 4",
    "description": "Register or update at the polls on Election Day.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 62.27
+   },
+   "no": {
+    "votes": null,
+    "pct": 37.73
+   },
+   "marginPts": 24.54,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1597,18 +1723,24 @@
    "measure": "Public Campaign Financing Authorization",
    "ballotNo": "Prop 4",
    "description": "Repeals the ban on public financing.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 47.84
+   },
+   "no": {
+    "votes": null,
+    "pct": 52.16
+   },
+   "marginPts": -4.32,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1617,18 +1749,24 @@
    "measure": "Eliminate Successor Elections in Recalls",
    "ballotNo": "Prop 5",
    "description": "No replacement vote on the same recall ballot.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 49.81
+   },
+   "no": {
+    "votes": null,
+    "pct": 50.19
+   },
+   "marginPts": -0.38,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1637,18 +1775,24 @@
    "measure": "Voter ID and Citizens Only",
    "ballotNo": "Prop 144",
    "description": "Constitutional language limiting voting to citizens.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 43.19
+   },
+   "no": {
+    "votes": null,
+    "pct": 56.81
+   },
+   "marginPts": -13.62,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/arizona-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1657,18 +1801,24 @@
    "measure": "Exclude Political Spending from Artificial Persons",
    "ballotNo": "I-194",
    "description": "Bars corporations and similar entities from political contributions.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 65.26
+   },
+   "no": {
+    "votes": null,
+    "pct": 34.74
+   },
+   "marginPts": 30.52,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/montana-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1677,18 +1827,24 @@
    "measure": "Require Nonpartisan Judicial Elections",
    "ballotNo": "CI-132",
    "description": "Keeps judicial elections nonpartisan.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 68.8
+   },
+   "no": {
+    "votes": null,
+    "pct": 31.2
+   },
+   "marginPts": 37.6,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/montana-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -1697,18 +1853,24 @@
    "measure": "Initiative Process Protection",
    "ballotNo": "CI-133",
    "description": "Fair, timely processes for citizen initiatives.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 65.02
+   },
+   "no": {
+    "votes": null,
+    "pct": 34.98
+   },
+   "marginPts": 30.04,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/montana-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1777,18 +1939,24 @@
    "measure": "60% Supermajority for Constitutional Amendments",
    "ballotNo": "Amendment L",
    "description": "Future amendments would need 60%.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 41.88
+   },
+   "no": {
+    "votes": null,
+    "pct": 58.12
+   },
+   "marginPts": -16.24,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/south-dakota-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -1797,18 +1965,24 @@
    "measure": "Block Citizen Drug Policy Initiatives",
    "ballotNo": "HJR 4",
    "description": "Gives the legislature sole power over drug policy.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 28.41
+   },
+   "no": {
+    "votes": null,
+    "pct": 71.59
+   },
+   "marginPts": -43.18,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/idaho-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1857,18 +2031,24 @@
    "measure": "Respect Missouri Voters",
    "ballotNo": "Amendment 6",
    "description": "Makes initiative and referendum a fundamental right; changing voter-approved laws would need 80% of both chambers.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 60.04
+   },
+   "no": {
+    "votes": null,
+    "pct": 39.96
+   },
+   "marginPts": 20.08,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/missouri-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1921,18 +2101,24 @@
    "measure": "Citizenship Voting Requirement",
    "ballotNo": "Amendment J",
    "description": "Only US citizens may vote.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 61.09
+   },
+   "no": {
+    "votes": null,
+    "pct": 38.91
+   },
+   "marginPts": 22.18,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/south-dakota-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2025,18 +2211,24 @@
    "measure": "Congressional Districts",
    "ballotNo": "Question 3",
    "description": "Says the constitution sets no criteria for congressional maps and gives the Supreme Court of Maryland direct review.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "votes": null,
+    "pct": 59.65
+   },
+   "no": {
+    "votes": null,
+    "pct": 40.35
+   },
+   "marginPts": 19.3,
+   "reporting": "partial (not stated)",
+   "calledBy": "MultiState",
+   "note": "Listed as Passed on MultiState; yes % only, vote counts not available.",
+   "source": "https://www.multistate.us/elections/results/maryland-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2129,18 +2321,24 @@
    "measure": "End Mail-Ballot Signature Verification",
    "ballotNo": "Amendment 84",
    "description": "Replaces signature checks with the last four digits of an SSN or driver's license.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "55%",
    "thresholdPct": 55,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 36.24
+   },
+   "no": {
+    "votes": null,
+    "pct": 63.76
+   },
+   "marginPts": -27.52,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/colorado-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2149,18 +2347,24 @@
    "measure": "60% Vote for Constitutional Amendments",
    "ballotNo": "Measure 1",
    "description": "Future constitutional amendments would need 60% approval.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 40.99
+   },
+   "no": {
+    "votes": null,
+    "pct": 59.01
+   },
+   "marginPts": -18.02,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/north-dakota-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2169,18 +2373,24 @@
    "measure": "Judicial Nominating Commission Overhaul",
    "ballotNo": "SQ 845",
    "description": "Governor and Bar each appoint six members; removes the party cap on the governor's appointees.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "votes": null,
+    "pct": 27.49
+   },
+   "no": {
+    "votes": null,
+    "pct": 72.51
+   },
+   "marginPts": -45.02,
+   "reporting": "partial (not stated)",
+   "calledBy": "MultiState",
+   "note": "Listed as Failed on MultiState; yes % only, vote counts not available.",
+   "source": "https://www.multistate.us/elections/results/oklahoma-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2249,18 +2459,24 @@
    "measure": "Citizens-Only Voting",
    "ballotNo": "Issue 1",
    "description": "Adds explicit citizens-only voting language.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 67.19
+   },
+   "no": {
+    "votes": null,
+    "pct": 32.81
+   },
+   "marginPts": 34.38,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/arkansas-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2329,18 +2545,24 @@
    "measure": "Elected Sheriffs",
    "ballotNo": "Amendment 8",
    "description": "Requires elected county sheriffs; only the attorney general could start removal proceedings.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 50.99
+   },
+   "no": {
+    "votes": null,
+    "pct": 49.01
+   },
+   "marginPts": 1.98,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/missouri-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2349,18 +2571,24 @@
    "measure": "Judicial Disabilities Commission Vacancies",
    "ballotNo": "Question 2",
    "description": "Allows temporary appointments to the Commission on Judicial Disabilities.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 66.55
+   },
+   "no": {
+    "votes": null,
+    "pct": 33.45
+   },
+   "marginPts": 33.1,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/maryland-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2441,18 +2669,24 @@
    "measure": "Reproductive Freedom and Privacy Act",
    "ballotNo": "Prop 1",
    "description": "Legal abortion through viability.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 59.86
+   },
+   "no": {
+    "votes": null,
+    "pct": 40.14
+   },
+   "marginPts": 19.72,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/idaho-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2481,18 +2715,24 @@
    "measure": "Prohibit Government Preferential Treatment",
    "ballotNo": "Question 3",
    "description": "Bans race- or sex-based preferences, targeting DEI.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 55.98
+   },
+   "no": {
+    "votes": null,
+    "pct": 44.02
+   },
+   "marginPts": 11.96,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/wisconsin-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2501,18 +2741,24 @@
    "measure": "Prohibit Partial Veto to Raise Taxes",
    "ballotNo": "Question 1",
    "description": "Blocks partial vetoes that create or raise taxes.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 50.38
+   },
+   "no": {
+    "votes": null,
+    "pct": 49.62
+   },
+   "marginPts": 0.76,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/wisconsin-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2521,18 +2767,24 @@
    "measure": "No Closing Places of Worship in Emergencies",
    "ballotNo": "Question 2",
    "description": "Bars emergency closures of houses of worship.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 47.61
+   },
+   "no": {
+    "votes": null,
+    "pct": 52.39
+   },
+   "marginPts": -4.78,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/wisconsin-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2541,18 +2793,24 @@
    "measure": "Trans Student Sports Ban",
    "ballotNo": "IL26-638",
    "description": "Bars students defined as biologically male from girls' teams.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 56.76
+   },
+   "no": {
+    "votes": null,
+    "pct": 43.24
+   },
+   "marginPts": 13.52,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/washington-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2561,18 +2819,24 @@
    "measure": "Parental Rights in Public Schools",
    "ballotNo": "IL26-001",
    "description": "Re-enacts I-2081, reversing 2025 amendments.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 47.25
+   },
+   "no": {
+    "votes": null,
+    "pct": 52.75
+   },
+   "marginPts": -5.5,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/washington-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2581,18 +2845,24 @@
    "measure": "Protect Girls' Sports Act",
    "ballotNo": "Prop 318",
    "description": "Sex-based school sports teams plus restroom and locker-room limits.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 56.59
+   },
+   "no": {
+    "votes": null,
+    "pct": 43.41
+   },
+   "marginPts": 13.18,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/arizona-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2621,18 +2891,24 @@
    "measure": "Trans Student Sports Ban",
    "ballotNo": "Prop 134",
    "description": "Requires student athletes to play on teams that match their sex, defined as biological reproductive systems.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 52.01
+   },
+   "no": {
+    "votes": null,
+    "pct": 47.99
+   },
+   "marginPts": 4.02,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/colorado-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2641,18 +2917,24 @@
    "measure": "Sex-Separated Sports Amendment",
    "ballotNo": "Measure 442",
    "description": "Adds sex-separated K-12 and college sports to the constitution. Upheld by the Nebraska Supreme Court Oct 16.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority + 35% of ballots cast",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 64.92
+   },
+   "no": {
+    "votes": null,
+    "pct": 35.08
+   },
+   "marginPts": 29.84,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Also needs yes votes equal to 35% of ballots cast. Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available. Also needs yes votes = 35% of ballots cast.",
+   "source": "https://www.multistate.us/elections/results/nebraska-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2661,18 +2943,24 @@
    "measure": "Ban Race- and Ethnicity-Based Preferences",
    "ballotNo": "Prop 142",
    "description": "Constitutional ban on race- and ethnicity-based preferences and DEI programs in government and schools.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 37.86
+   },
+   "no": {
+    "votes": null,
+    "pct": 62.14
+   },
+   "marginPts": -24.28,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/arizona-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2701,18 +2989,24 @@
    "measure": "Require Police Cooperation With ICE",
    "ballotNo": "Amendment 81",
    "description": "Requires police to cooperate with ICE and notify federal immigration authorities in some cases.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "55%",
    "thresholdPct": 55,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 44.62
+   },
+   "no": {
+    "votes": null,
+    "pct": 55.38
+   },
+   "marginPts": -10.76,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/colorado-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2721,18 +3015,24 @@
    "measure": "Referendum on 2024 Gun Law",
    "ballotNo": "Question 9",
    "description": "Veto referendum: yes keeps the 2024 firearms law, no repeals it.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 72.21
+   },
+   "no": {
+    "votes": null,
+    "pct": 27.79
+   },
+   "marginPts": 44.42,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2801,18 +3101,24 @@
    "measure": "Right to Bear Arms",
    "ballotNo": "Issue 2",
    "description": "Constitutional right to keep and bear arms that 'shall not be infringed.'",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 68.56
+   },
+   "no": {
+    "votes": null,
+    "pct": 31.44
+   },
+   "marginPts": 37.12,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/arkansas-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Environment",
@@ -2821,18 +3127,24 @@
    "measure": "Water and Nature Protection Fund",
    "ballotNo": "Question 6",
    "description": "Dedicates sporting-goods sales tax revenue to land and water conservation.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 63.25
+   },
+   "no": {
+    "votes": null,
+    "pct": 36.75
+   },
+   "marginPts": 26.5,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Environment",
@@ -2861,18 +3173,24 @@
    "measure": "Water Infrastructure Bonds",
    "ballotNo": "Issue 4",
    "description": "Up to $500M in bonds for water, waste disposal and pollution control projects.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 54.73
+   },
+   "no": {
+    "votes": null,
+    "pct": 45.27
+   },
+   "marginPts": 9.46,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.multistate.us/elections/results/arkansas-2026",
+   "asOf": "Nov 4, 2:20 AM ET"
   },
   {
    "category": "Environment",
