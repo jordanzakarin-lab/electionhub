@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T08:23:00-05:00",
+  "updated": "2026-11-04T08:34:00-05:00",
   "sample": false,
   "races": [
     {
@@ -515,46 +515,46 @@
     {
       "id": "OH-AG",
       "status": "Counting",
-      "leader": "R",
-      "reporting": "95%",
+      "leader": "D",
+      "reporting": "100%",
       "dem": {
         "name": "John Kulewicz",
-        "votes": 2154952,
-        "pct": 49.6
+        "votes": 2285117,
+        "pct": 50.31
       },
       "rep": {
         "name": "Keith Faber",
-        "votes": 2186677,
-        "pct": 50.4
+        "votes": 2256710,
+        "pct": 49.69
       },
-      "marginPts": -0.7,
-      "marginVotes": 31725,
+      "marginPts": 0.62,
+      "marginVotes": 28407,
       "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-attorney-general-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
-      "ddhqUpdated": "2026-11-04 06:46:19.421263+00"
+      "source": "https://www.yahoo.com/news/politics/articles/kulewicz-holds-narrow-lead-over-112839979.html",
+      "asOf": "2026-11-04T08:31:00-05:00",
+      "note": "100% of precincts; 102,148 provisional ballots outstanding"
     },
     {
       "id": "OH-TREAS",
       "status": "Counting",
-      "leader": "R",
-      "reporting": "95%",
+      "leader": "D",
+      "reporting": "100%",
       "dem": {
         "name": "Seth Walsh",
-        "votes": 2153274,
-        "pct": 49.9
+        "votes": 2282546,
+        "pct": 50.55
       },
       "rep": {
         "name": "Jay Edwards",
-        "votes": 2163454,
-        "pct": 50.1
+        "votes": 2232758,
+        "pct": 49.45
       },
-      "marginPts": -0.2,
-      "marginVotes": 10180,
+      "marginPts": 1.1,
+      "marginVotes": 49788,
       "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-treasurer-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
-      "ddhqUpdated": "2026-11-04 06:46:19.421263+00"
+      "source": "https://www.yahoo.com/news/politics/articles/ohio-democratic-treasurer-candidate-holds-112415638.html",
+      "asOf": "2026-11-04T08:31:00-05:00",
+      "note": "100% of precincts; 102,148 provisional ballots outstanding"
     },
     {
       "id": "FL-LG",
@@ -3717,25 +3717,24 @@
     },
     {
       "id": "ID-LG",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
-      "reporting": "92%",
+      "reporting": ">95%",
       "dem": {
         "name": "Eric Myricks",
-        "votes": 209744,
-        "pct": 37.4
+        "votes": 230441,
+        "pct": 36.18
       },
       "rep": {
         "name": "Scott Bedke",
-        "votes": 350771,
-        "pct": 62.6
+        "votes": 406435,
+        "pct": 63.82
       },
-      "marginPts": -25.2,
-      "marginVotes": 141027,
-      "calledBy": null,
+      "marginPts": -27.64,
+      "marginVotes": 175994,
+      "calledBy": "DDHQ",
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/idaho-lt-governor-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
-      "ddhqUpdated": "2026-11-04 07:02:51.900649+00"
+      "asOf": "2026-11-04T08:27:00-05:00"
     },
     {
       "id": "SD-AG",
@@ -3858,6 +3857,27 @@
       "calledBy": "Nevada Independent",
       "source": "https://thenevadaindependent.com/article/nevada-democrats-lead-governors-race-sweep-other-statewide-offices-in-historic-night",
       "asOf": "2026-11-04T05:37:00-05:00"
+    },
+    {
+      "id": "NV-AUD",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "",
+      "dem": {
+        "name": "Michael MacDougall",
+        "votes": null,
+        "pct": null
+      },
+      "rep": {
+        "name": "Andy Matthews",
+        "votes": null,
+        "pct": null
+      },
+      "marginPts": null,
+      "marginVotes": null,
+      "calledBy": "Nevada Independent",
+      "source": "https://thenevadaindependent.com/article/a-blue-bloodbath-10-big-takeaways-from-nevadas-2026-midterms",
+      "asOf": "2026-11-04T08:32:00-05:00"
     }
   ]
 }
