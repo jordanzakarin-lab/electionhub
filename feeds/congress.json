@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:19:40-05:00",
+ "updated": "2026-11-04T00:21:45-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -121,6 +121,174 @@
    "feed": true,
    "totalVotes": 316789,
    "id": "NC-13"
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Chuck Hubbard",
+    "votes": 139034,
+    "pct": 48.7
+   },
+   "rep": {
+    "name": "Virginia Foxx",
+    "votes": 138935,
+    "pct": 48.7
+   },
+   "other": 7529,
+   "marginPts": 0.0,
+   "marginVotes": 99,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T00:21:45-05:00",
+   "feed": true,
+   "totalVotes": 285498,
+   "id": "NC-05"
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Cyril Jefferson",
+    "votes": 140001,
+    "pct": 51.1
+   },
+   "rep": {
+    "name": "Addison McDowell",
+    "votes": 133737,
+    "pct": 48.9
+   },
+   "other": 0,
+   "marginPts": 2.2,
+   "marginVotes": 6264,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T00:21:45-05:00",
+   "feed": true,
+   "totalVotes": 273738,
+   "id": "NC-06"
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "99%",
+   "dem": {
+    "name": "Kimberly Hardy",
+    "votes": 157076,
+    "pct": 49.2
+   },
+   "rep": {
+    "name": "David Rouzer",
+    "votes": 158914,
+    "pct": 49.8
+   },
+   "other": 3113,
+   "marginPts": -0.6,
+   "marginVotes": 1838,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T00:21:45-05:00",
+   "feed": true,
+   "totalVotes": 319103,
+   "id": "NC-07"
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Colby Watson",
+    "votes": 141915,
+    "pct": 48.6
+   },
+   "rep": {
+    "name": "Mark Harris",
+    "votes": 147094,
+    "pct": 50.4
+   },
+   "other": 2890,
+   "marginPts": -1.8,
+   "marginVotes": 5179,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T00:21:45-05:00",
+   "feed": true,
+   "totalVotes": 291899,
+   "id": "NC-08"
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Richard N. Ojeda II",
+    "votes": 138707,
+    "pct": 51.1
+   },
+   "rep": {
+    "name": "Richard Hudson",
+    "votes": 132692,
+    "pct": 48.9
+   },
+   "other": 0,
+   "marginPts": 2.2,
+   "marginVotes": 6015,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T00:21:45-05:00",
+   "feed": true,
+   "totalVotes": 271399,
+   "id": "NC-09"
+  },
+  {
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "100%",
+   "dem": {
+    "name": "Ashley Bell",
+    "votes": 143137,
+    "pct": 48.7
+   },
+   "rep": {
+    "name": "Pat Harrigan",
+    "votes": 146166,
+    "pct": 49.7
+   },
+   "other": 4673,
+   "marginPts": -1.0,
+   "marginVotes": 3029,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T00:21:45-05:00",
+   "feed": true,
+   "totalVotes": 293976,
+   "id": "NC-10"
+  },
+  {
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "100%",
+   "dem": {
+    "name": "Lakesha Womack",
+    "votes": 147388,
+    "pct": 51.1
+   },
+   "rep": {
+    "name": "Tim Moore",
+    "votes": 140973,
+    "pct": 48.9
+   },
+   "other": 0,
+   "marginPts": 2.2,
+   "marginVotes": 6415,
+   "calledBy": null,
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T00:21:45-05:00",
+   "feed": true,
+   "totalVotes": 288361,
+   "id": "NC-14"
   },
   {
    "status": "Counting",
