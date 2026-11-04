@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:10:58-05:00",
+ "updated": "2026-11-04T03:21:08-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -5937,7 +5937,7 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "97%",
+   "reporting": "100%",
    "dem": {
     "name": "Tina Liebling",
     "votes": 12849,
@@ -5953,7 +5953,7 @@
    "marginVotes": 5348,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T03:00:47-05:00",
+   "asOf": "2026-11-04T03:21:08-05:00",
    "feed": true,
    "totalVotes": 20373,
    "state": "MN",
@@ -8961,7 +8961,7 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "98%",
+   "reporting": "100%",
    "dem": {
     "name": "Simon Glaser",
     "votes": 21082,
@@ -8977,7 +8977,7 @@
    "marginVotes": 679,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T03:00:47-05:00",
+   "asOf": "2026-11-04T03:21:08-05:00",
    "feed": true,
    "totalVotes": 41527,
    "state": "MN",
