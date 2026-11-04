@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:34:00-05:00",
+ "updated": "2026-11-04T08:44:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -60,7 +60,11 @@
    "leadR": 3,
    "leadI": 0,
    "source": "CO SOS Clarity (browser, 4:16 AM): uncontested seats; leads where 60%+ of counties fully reporting",
-   "asOf": "Nov 4, 4:16 AM ET"
+   "asOf": "Nov 4, 4:16 AM ET",
+   "control": "D",
+   "calledBy": "The Sum & Substance",
+   "controlSource": "https://tsscolorado.com/democrats-capture-supermajorities-and-then-some-in-colorado-legislature/",
+   "note": "Declared victory; TSS reports Democrats captured supermajorities in both chambers"
   },
   "CO-S": {
    "D": 1,
@@ -70,7 +74,11 @@
    "leadR": 1,
    "leadI": 0,
    "source": "CO SOS Clarity (browser, 4:16 AM): uncontested seats; leads where 60%+ of counties fully reporting",
-   "asOf": "Nov 4, 4:16 AM ET"
+   "asOf": "Nov 4, 4:16 AM ET",
+   "control": "D",
+   "calledBy": "The Sum & Substance",
+   "controlSource": "https://tsscolorado.com/democrats-capture-supermajorities-and-then-some-in-colorado-legislature/",
+   "note": "Declared victory; TSS reports Democrats captured supermajorities in both chambers"
   },
   "CT-H": {
    "D": 22,
@@ -228,14 +236,22 @@
    "R": 8,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "Maine Democrats (declared)",
+   "controlSource": "https://www.bangordailynews.com/2026/11/04/politics/elections/maine-democrats-add-seats-in-legislature/",
+   "note": "Declared victory; Maine Democrats say they won at least 87 of 151 seats (BDN)"
   },
   "ME-S": {
    "D": 4,
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "Maine Democrats (declared)",
+   "controlSource": "https://www.bangordailynews.com/2026/11/04/politics/elections/maine-democrats-add-seats-in-legislature/",
+   "note": "Declared victory; Maine Democrats say they won 22 of 35 seats (BDN)"
   },
   "MN-H": {
    "D": 15,

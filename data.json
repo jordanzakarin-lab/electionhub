@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T08:23:00-05:00",
+ "updated": "2026-11-04T08:44:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1872,34 +1872,35 @@
    "reporting": "77%",
    "dem": {
     "name": "Chris Backemeyer",
-    "votes": 90053,
-    "pct": 47.8
+    "votes": null,
+    "pct": 46.4
    },
    "rep": {
     "name": "Mike Flood",
-    "votes": 92104,
-    "pct": 48.9
+    "votes": null,
+    "pct": 50.1
    },
-   "marginPts": -1.1,
-   "marginVotes": 2051,
+   "marginPts": -3.7,
+   "marginVotes": 3100,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-1-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "source": "https://www.wowt.com/2026/11/04/election-night-2026-nebraska-dist-1-race-too-close-call/",
+   "asOf": "2026-11-04T08:44:00-05:00",
    "ddhqUpdated": "2026-11-04 06:50:18.924648+00",
    "others": [
     {
      "name": "Nik Sandman",
      "party": "LIB",
-     "votes": 3253,
-     "pct": 1.7
+     "votes": null,
+     "pct": 1.8
     },
     {
      "name": "Dan Hartong",
      "party": "AF",
-     "votes": 3132,
+     "votes": null,
      "pct": 1.7
     }
-   ]
+   ],
+   "note": "Per WOWT 5:09 AM CT; not called"
   },
   {
    "id": "NE-02",
@@ -2748,7 +2749,7 @@
   },
   {
    "id": "NC-08",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "100%",
    "dem": {
@@ -2763,9 +2764,11 @@
    },
    "marginPts": -1.8,
    "marginVotes": 5179,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:21:45-05:00"
+   "calledBy": "NC news (via Yahoo)",
+   "source": "https://www.yahoo.com/news/politics/articles/eelection-2026-democrats-flip-6-060900196.html",
+   "asOf": "2026-11-04T08:44:00-05:00",
+   "flip": false,
+   "note": "Declared victory; reported Harris defeated Watson (complete unofficial results)"
   },
   {
    "id": "NC-09",
@@ -2792,7 +2795,7 @@
   },
   {
    "id": "NC-10",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "100%",
    "dem": {
@@ -2807,9 +2810,11 @@
    },
    "marginPts": -1.0,
    "marginVotes": 3029,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:21:45-05:00"
+   "calledBy": "NC news (via Yahoo)",
+   "source": "https://www.yahoo.com/news/politics/articles/eelection-2026-democrats-flip-6-060900196.html",
+   "asOf": "2026-11-04T08:44:00-05:00",
+   "flip": false,
+   "note": "Declared victory; reported Harrigan defeated Bell (complete unofficial results)"
   },
   {
    "id": "NC-14",
@@ -3328,7 +3333,7 @@
   },
   {
    "id": "WA-03",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "75%",
    "dem": {
@@ -3343,10 +3348,12 @@
    },
    "marginPts": 10.9,
    "marginVotes": 28146,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/washington-us-house-3-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 05:14:05.188403+00"
+   "calledBy": "KATU",
+   "source": "https://katu.com/news/politics/election-results-gluesenkamp-perez-braun-battle-for-washingtons-3rd",
+   "asOf": "2026-11-04T08:44:00-05:00",
+   "ddhqUpdated": "2026-11-04 05:14:05.188403+00",
+   "flip": false,
+   "note": "Declared victory; Gluesenkamp Perez declared victory (KATU)"
   },
   {
    "id": "CA-22",
@@ -3555,38 +3562,39 @@
   {
    "id": "CO-03",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "77%",
+   "leader": "R",
+   "reporting": "81%",
    "dem": {
     "name": "Dwayne Romero",
-    "votes": 136170,
-    "pct": 48.7
+    "votes": null,
+    "pct": 48.2
    },
    "rep": {
     "name": "Jeff Hurd",
-    "votes": 135196,
-    "pct": 48.3
+    "votes": null,
+    "pct": 48.6
    },
-   "marginPts": 0.3,
-   "marginVotes": 974,
+   "marginPts": -0.4,
+   "marginVotes": 1000,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/colorado-us-house-3-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "source": "https://krdo.com/news/2026/11/04/hurd-and-romero-in-tight-race-for-district-3-headed-into-wednesday-morning/",
+   "asOf": "2026-11-04T08:44:00-05:00",
    "ddhqUpdated": "2026-11-04 06:43:07.510189+00",
    "others": [
     {
      "name": "Cory Robertson",
      "party": "LIB",
-     "votes": 4255,
-     "pct": 1.5
+     "votes": null,
+     "pct": null
     },
     {
      "name": "Clifton Brown",
      "party": "UNA",
-     "votes": 4207,
-     "pct": 1.5
+     "votes": null,
+     "pct": null
     }
-   ]
+   ],
+   "note": "Per KRDO 6 AM: Hurd leads by about 1,000 votes; not called"
   },
   {
    "id": "CO-04",

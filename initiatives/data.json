@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T08:23:00-05:00",
+ "updated": "2026-11-04T08:44:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -307,8 +307,8 @@
    "measure": "Tax Revenue Limit and Rebates",
    "ballotNo": "Question 5",
    "description": "Changes the Chapter 62F revenue cap formula to reduce collections and refund surpluses to taxpayers.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -320,11 +320,11 @@
     "pct": 55.92
    },
    "marginPts": -11.84,
-   "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "reporting": "80%",
+   "calledBy": "Yes on 5 campaign (conceded)",
+   "note": "Reported failed, per WBUR; Yes on 5 campaign conceded about 7:45 AM; no AP call found.",
+   "source": "https://www.wbur.org/news/2026/11/04/massachusetts-ballot-question-results",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -373,18 +373,24 @@
    "measure": "Public Bank",
    "ballotNo": "Prop B",
    "description": "Charter amendment authorizing a municipal public bank.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 49.8
+   },
+   "no": {
+    "votes": null,
+    "pct": 50.2
+   },
+   "marginPts": -0.4,
+   "reporting": "election-night count",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Trailing by 630 votes per Mission Local; not called.",
+   "source": "https://missionlocal.org/2026/11/san-francisco-public-bank-prop-b-2026-results/",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -927,18 +933,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 55.89
+    "pct": 50
    },
    "no": {
     "votes": null,
-    "pct": 44.11
+    "pct": 50
    },
-   "marginPts": 11.78,
-   "reporting": "partial (not stated)",
+   "marginPts": 0,
+   "reporting": "80%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "WBUR and MassterList describe it as tied (rounded 50/50); not called.",
+   "source": "https://www.wbur.org/news/2026/11/04/massachusetts-ballot-question-results",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Housing",
@@ -1097,18 +1103,24 @@
    "measure": "SF Muni Parcel Tax",
    "ballotNo": "Prop H",
    "description": "15-year parcel tax, about $177M a year, for the Muni budget shortfall.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "yes": {
+    "votes": null,
+    "pct": 72.5
+   },
+   "no": {
+    "votes": null,
+    "pct": 27.5
+   },
+   "marginPts": 45.0,
+   "reporting": "initial results",
+   "calledBy": "KQED",
+   "note": "Reported passed, per KQED; campaign and Mayor Lurie declared victory; no AP call found.",
+   "source": "https://www.kqed.org/news/12107133/death-spiral-averted-bay-area-transit-taxes-rtm-and-prop-h-declare-victory",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Public Transit",
@@ -1117,18 +1129,24 @@
    "measure": "Connect Bay Area",
    "ballotNo": "Measure RTM",
    "description": "14-year sales tax: 1% in SF, 0.5% in Alameda, Contra Costa, San Mateo and Santa Clara; ~$1B a year for transit.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "yes": {
+    "votes": null,
+    "pct": 61.6
+   },
+   "no": {
+    "votes": null,
+    "pct": 38.4
+   },
+   "marginPts": 23.2,
+   "reporting": "initial results",
+   "calledBy": "KQED / KRON4",
+   "note": "Reported passed, per KQED and KRON4; campaign declared victory; no AP call found.",
+   "source": "https://www.kqed.org/news/12107133/death-spiral-averted-bay-area-transit-taxes-rtm-and-prop-h-declare-victory",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Public Transit",
@@ -1137,18 +1155,24 @@
    "measure": "Front Range Passenger Rail District",
    "ballotNo": "Measure 7A",
    "description": "0.333% sales tax (~$295M a year) for the Fort Collins–Pueblo Colorado Connector. District voters only.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 321411,
+    "pct": 55.6
+   },
+   "no": {
+    "votes": 256999,
+    "pct": 44.4
+   },
+   "marginPts": 11.2,
+   "reporting": "early",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Early SOS report per Denver Gazette; not called.",
+   "source": "https://www.denvergazette.com/2026/11/03/colorado-front-range-passenger-rail-sales-use-tax-increase-denver-fort-collins-pueblo-train-service-issue-7a-election-results/",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Public Transit",
@@ -1157,18 +1181,24 @@
    "measure": "Seattle Transit Measure",
    "ballotNo": "",
    "description": "Replaces the expiring 0.15% sales tax with 0.3% (~$138M a year) for more Metro bus service.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 72
+   },
+   "no": {
+    "votes": null,
+    "pct": 28
+   },
+   "marginPts": 44,
+   "reporting": "early",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "More than 72% yes in early results per MyNorthwest; not called.",
+   "source": "https://mynorthwest.com/mynorthwest-politics/seattle-transit-measure/4294471",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1277,18 +1307,24 @@
    "measure": "EdgeConneX Data Center Agreement Referendum",
    "ballotNo": "",
    "description": "Referendum on the term sheet guiding negotiations with EdgeConneX over two data centers.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 82
+   },
+   "no": {
+    "votes": null,
+    "pct": 18
+   },
+   "marginPts": 64,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1297,18 +1333,18 @@
    "measure": "Ban Data Centers Over 25 MW",
    "ballotNo": "",
    "description": "Prohibits data centers with demand or peak load over 25 MW.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1317,18 +1353,18 @@
    "measure": "Ban Data Centers Over 25 MW",
    "ballotNo": "",
    "description": "Prohibits data centers with demand or peak load over 25 MW.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1337,18 +1373,18 @@
    "measure": "Data Center Ban",
    "ballotNo": "",
    "description": "Prohibits data center construction.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1357,18 +1393,24 @@
    "measure": "Voter Approval for Large Developments",
    "ballotNo": "",
    "description": "Voter approval for projects of 50+ acres, over 20 MW peak demand, or using over 500,000 gallons of water a day.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 55
+   },
+   "no": {
+    "votes": null,
+    "pct": 45
+   },
+   "marginPts": 10,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1377,18 +1419,18 @@
    "measure": "Data Center Ban",
    "ballotNo": "",
    "description": "Prohibits data centers within city limits.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1457,18 +1499,18 @@
    "measure": "Large Data Center Ban",
    "ballotNo": "",
    "description": "Prohibits large-scale data centers.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Fortune / Cincinnati Enquirer",
+   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1477,18 +1519,24 @@
    "measure": "Financial Guarantees for Hyperscale Developers",
    "ballotNo": "",
    "description": "Hyperscale developers seeking special tax incentives must provide financial guarantees.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 87
+   },
+   "no": {
+    "votes": null,
+    "pct": 13
+   },
+   "marginPts": 74,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1497,18 +1545,18 @@
    "measure": "Charter Ban on Data Centers",
    "ballotNo": "",
    "description": "Charter amendment prohibiting data center construction.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1537,18 +1585,18 @@
    "measure": "Ban Data Centers Over 25 MW",
    "ballotNo": "",
    "description": "Prohibits data centers with demand or peak load over 25 MW.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Fortune / Cincinnati Enquirer",
+   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1557,18 +1605,24 @@
    "measure": "Large Data Center Ban",
    "ballotNo": "",
    "description": "Prohibits large-scale data centers.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 80
+   },
+   "no": {
+    "votes": null,
+    "pct": 20
+   },
+   "marginPts": 60,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Fortune / Cincinnati Enquirer",
+   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1577,18 +1631,18 @@
    "measure": "Charter Ban on Data Centers",
    "ballotNo": "",
    "description": "Charter amendment prohibiting data center construction.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1597,18 +1651,18 @@
    "measure": "Data Center Ban",
    "ballotNo": "",
    "description": "Prohibits data centers within city limits.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1617,18 +1671,18 @@
    "measure": "Rezoning Referendum: 1957 State Route 730",
    "ballotNo": "",
    "description": "Whether to uphold rezoning 65.29 acres from rural residential to light industrial.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1637,18 +1691,18 @@
    "measure": "Rezoning Referendum: McGuinn Road and State Route 730",
    "ballotNo": "",
    "description": "Whether to uphold rezoning these properties from rural residential to light industrial.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1657,18 +1711,18 @@
    "measure": "Rezoning Referendum: U.S. Route 68 South",
    "ballotNo": "",
    "description": "Whether to uphold rezoning about 170 acres from rural residential to light industrial.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Cincinnati Enquirer",
+   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1885,18 +1939,18 @@
    "measure": "Voter ID Requirement",
    "ballotNo": "Question 7",
    "description": "Photo ID in person; ID digits on mail ballots. Second vote.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "calledBy": "Nevada Independent",
+   "note": "Reported passed, per Nevada Independent; no AP call found.",
+   "source": "https://thenevadaindependent.com/article/a-blue-bloodbath-10-big-takeaways-from-nevadas-2026-midterms",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2255,18 +2309,24 @@
    "measure": "Repeal Top-Four Primary and Ranked-Choice Voting",
    "ballotNo": "Measure 2",
    "description": "Returns Alaska to closed party primaries.",
-   "status": "Polls not closed",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": null,
+    "pct": 49
+   },
+   "no": {
+    "votes": null,
+    "pct": 51
+   },
+   "marginPts": -2,
+   "reporting": "78%",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "No leads with 51% per Alaska Public/KTOO; yes is the remainder; not called.",
+   "source": "https://www.ktoo.org/2026/11/04/early-results-show-alaskans-narrowly-rejecting-repeal-of-ranked-choice-voting/",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2275,7 +2335,7 @@
    "measure": "Citizens-Only Voting",
    "ballotNo": "Measure 3",
    "description": "Rewords state law so that only U.S. citizens may vote.",
-   "status": "Polls not closed",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
@@ -2284,9 +2344,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "Early results show it approved by a wide margin (Alaska Public); no numbers yet; not called.",
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-03/early-results-show-alaskans-rejecting-ranked-choice-voting-repeal",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2771,24 +2831,24 @@
    "measure": "Prohibit Partial Veto to Raise Taxes",
    "ballotNo": "Question 1",
    "description": "Blocks partial vetoes that create or raise taxes.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 50.38
+    "pct": 50.6
    },
    "no": {
     "votes": null,
-    "pct": 49.62
+    "pct": 49.4
    },
-   "marginPts": 0.76,
-   "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/wisconsin-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "marginPts": 1.2,
+   "reporting": "98%",
+   "calledBy": "Wisconsin Examiner",
+   "note": "Reported passed, per Wisconsin Examiner; no AP call found. WPR had it too close to call at 98%.",
+   "source": "https://www.wpr.org/news/wisconsin-constitutional-amendments-2026-governors-powers-dei",
+   "asOf": "Nov 4, 8:44 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
