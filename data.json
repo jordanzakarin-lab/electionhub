@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:21:43-05:00",
+ "updated": "2026-11-04T02:32:27-05:00",
  "sample": false,
  "races": [
   {
@@ -2078,7 +2078,7 @@
   },
   {
    "id": "TX-09",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "74%",
    "dem": {
@@ -2093,9 +2093,9 @@
    },
    "marginPts": 13.2,
    "marginVotes": 18157,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-9-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://x.com/DecisionDeskHQ/status/2117880413620236354",
+   "asOf": "2026-11-04T02:32:27-05:00",
    "ddhqUpdated": "2026-11-04 07:02:19.542723+00"
   },
   {
@@ -2430,7 +2430,7 @@
   },
   {
    "id": "MT-01",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "68%",
    "dem": {
@@ -2445,9 +2445,9 @@
    },
    "marginPts": 11.4,
    "marginVotes": 20582,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/montana-us-house-1-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://x.com/DecisionDeskHQ/status/2117877201614073861",
+   "asOf": "2026-11-04T02:32:27-05:00",
    "ddhqUpdated": "2026-11-04 06:56:53.503813+00",
    "others": [
     {
