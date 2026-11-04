@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:50:00-05:00",
+ "updated": "2026-11-03T19:55:00-05:00",
  "sample": false,
  "races": [
   {
@@ -472,6 +472,28 @@
      "pct": 5.4
     }
    ]
+  },
+  {
+   "id": "SC-LG",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "0%",
+   "dem": {
+    "name": "Sam Skardon",
+    "votes": 2947,
+    "pct": 67.3
+   },
+   "rep": {
+    "name": "Mike Reichenbach",
+    "votes": 1379,
+    "pct": 31.5
+   },
+   "marginPts": 35.8,
+   "marginVotes": 1568,
+   "calledBy": null,
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-governor-general-election",
+   "asOf": "2026-11-03T19:28:37-05:00",
+   "jointTicket": true
   }
  ]
 }
