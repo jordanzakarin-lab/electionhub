@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:44:00-05:00",
+ "updated": "2026-11-03T23:51:50-05:00",
  "sample": false,
  "races": [
   {
@@ -620,7 +620,7 @@
   },
   {
    "id": "OH-07",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "57%",
    "dem": {
@@ -635,9 +635,9 @@
    },
    "marginPts": 8.6,
    "marginVotes": 16373,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-7-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://ua.news/en/world/poindekster-peremagaie-millera-v-ogaio-za-prognozom-decision-desk-hq-the-hill",
+   "asOf": "2026-11-03T23:51:50-05:00",
    "ddhqUpdated": "2026-11-04 03:15:04.076089+00"
   },
   {
@@ -1378,7 +1378,7 @@
   },
   {
    "id": "PA-10",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "59%",
    "dem": {
@@ -1393,9 +1393,9 @@
    },
    "marginPts": 16.8,
    "marginVotes": 33459,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-10-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.spotlightpa.org/news/2026/11/pennsylvania-election-results-tenth-congressional-district-scott-perry-janelle-stelson-elections/",
+   "asOf": "2026-11-03T23:51:50-05:00",
    "ddhqUpdated": "2026-11-04 03:12:34.467634+00"
   },
   {
@@ -1658,7 +1658,7 @@
   },
   {
    "id": "IA-02",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "38%",
    "dem": {
@@ -1673,9 +1673,9 @@
    },
    "marginPts": 16.0,
    "marginVotes": 22304,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "The Hill",
+   "source": "https://thehill.com/homenews/campaign/6181406-lindsay-james-iowa-2nd-congressional-district/",
+   "asOf": "2026-11-03T23:51:50-05:00",
    "ddhqUpdated": "2026-11-04 03:14:40.095686+00",
    "others": [
     {
@@ -2027,7 +2027,7 @@
   },
   {
    "id": "NY-17",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "48%",
    "dem": {
@@ -2042,9 +2042,9 @@
    },
    "marginPts": 0.1,
    "marginVotes": 90,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-17-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "Spectrum News",
+   "source": "https://spectrumlocalnews.com/nys/central-ny/news/2026/11/03/lawler--conley-in-ny-17-",
+   "asOf": "2026-11-03T23:51:50-05:00",
    "ddhqUpdated": "2026-11-04 03:19:21.421916+00"
   },
   {
@@ -2137,7 +2137,7 @@
   },
   {
    "id": "WI-03",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "62%",
    "dem": {
@@ -2152,9 +2152,9 @@
    },
    "marginPts": 8.1,
    "marginVotes": 17023,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-us-house-3-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "WKOW",
+   "source": "https://www.wkow.com/news/election/democrat-rebecca-cooke-unseats-incumbent-derrick-van-orden-in-3rd-congressional-district/article_49aa3c98-9814-4a00-9c9a-0d1b1a2aa553.html",
+   "asOf": "2026-11-03T23:51:50-05:00",
    "ddhqUpdated": "2026-11-04 03:20:48.995564+00",
    "others": [
     {
@@ -2209,8 +2209,8 @@
   },
   {
    "id": "IA-01",
-   "status": "Counting",
-   "leader": "R",
+   "status": "Called",
+   "leader": "D",
    "reporting": "15%",
    "dem": {
     "name": "Christina Bohannan",
@@ -2224,9 +2224,9 @@
    },
    "marginPts": -10.2,
    "marginVotes": 5550,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "The Hill",
+   "source": "https://thehill.com/homenews/campaign/6189867-bohannan-unseats-miller-meeks/",
+   "asOf": "2026-11-03T23:51:50-05:00",
    "ddhqUpdated": "2026-11-04 03:18:48.419035+00",
    "others": [
     {
