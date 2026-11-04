@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:30:00-05:00",
+ "updated": "2026-11-04T10:52:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1537,7 +1537,7 @@
   },
   {
    "id": "TX-32",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "98%",
    "dem": {
@@ -1552,10 +1552,11 @@
    },
    "marginPts": -3.8,
    "marginVotes": 9946,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-32-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:54:01.747328+00"
+   "calledBy": "DDHQ",
+   "source": "https://www.yahoo.com/news/politics/articles/yarbrough-wins-texas-house-election-085039277.html",
+   "asOf": "2026-11-04T10:52:00-05:00",
+   "ddhqUpdated": "2026-11-04 06:54:01.747328+00",
+   "note": "DDHQ projected Yarbrough (R) the winner (The Hill, Nov. 4). Vote counts from DDHQ ~2am ET; NBC shows 51.5%-48.5% at 95% counted."
   },
   {
    "id": "TX-34",
