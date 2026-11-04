@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:46:00-05:00",
+  "updated": "2026-11-04T02:51:41-05:00",
   "sample": false,
   "races": [
     {
@@ -2252,7 +2252,7 @@
     },
     {
       "id": "MN-AUD",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
       "reporting": "99%",
       "dem": {
@@ -2267,9 +2267,9 @@
       },
       "marginPts": 9.0,
       "marginVotes": 247981,
-      "calledBy": null,
+      "calledBy": "KAAL-TV/WDIO (ABC affiliates)",
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-auditor-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "asOf": "2026-11-04T02:51:41-05:00",
       "ddhqUpdated": "2026-11-04 07:00:04.091725+00",
       "others": [
         {
@@ -2278,7 +2278,8 @@
           "votes": 78135,
           "pct": 2.8
         }
-      ]
+      ],
+      "callSource": "https://www.kaaltv.com/news/election-2026-zack-filipovich-wins-election-for-minnesota-state-auditor/"
     },
     {
       "id": "MN-GOV",
@@ -2640,7 +2641,7 @@
     },
     {
       "id": "SD-AUD",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
       "reporting": "67%",
       "dem": {
@@ -2655,10 +2656,11 @@
       },
       "marginPts": -26.7,
       "marginVotes": 66679,
-      "calledBy": null,
+      "calledBy": "Local media via Yahoo News",
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-dakota-auditor-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
-      "ddhqUpdated": "2026-11-04 07:00:13.703978+00"
+      "asOf": "2026-11-04T02:51:41-05:00",
+      "ddhqUpdated": "2026-11-04 07:00:13.703978+00",
+      "callSource": "https://www.yahoo.com/news/politics/articles/barranco-wins-state-auditor-seat-063350920.html"
     },
     {
       "id": "SD-GOV",
