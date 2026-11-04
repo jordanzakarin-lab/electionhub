@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:27:00-05:00",
+  "updated": "2026-11-04T02:46:00-05:00",
   "sample": false,
   "races": [
     {
@@ -1587,7 +1587,7 @@
       "marginVotes": 5557,
       "calledBy": null,
       "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
-      "asOf": "2026-11-04T02:27:00-05:00"
+      "asOf": "2026-11-04T02:38:00-05:00"
     },
     {
       "id": "KS-SOS",
@@ -1715,24 +1715,24 @@
     },
     {
       "id": "MI-SOS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
       "reporting": "78%",
       "dem": {
         "name": "Garlin Gilchrist II",
         "votes": 1807511,
-        "pct": 52.3
+        "pct": 52.1
       },
       "rep": {
         "name": "Anthony Forlini",
         "votes": 1556469,
-        "pct": 45.0
+        "pct": 44.4
       },
-      "marginPts": 7.3,
+      "marginPts": 7.7,
       "marginVotes": 251042,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-secretary-of-state-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "AP",
+      "source": "https://www.yahoo.com/news/politics/articles/garlin-gilchrist-wins-secretary-state-071506431.html",
+      "asOf": "2026-11-04T02:46:00-05:00",
       "ddhqUpdated": "2026-11-04 07:01:32.574924+00",
       "others": [
         {
@@ -2534,7 +2534,7 @@
       "leader": "D",
       "reporting": "98%",
       "dem": {
-        "name": "Ra\u00fal Torrez",
+        "name": "Raúl Torrez",
         "votes": 449472,
         "pct": 62.9
       },
@@ -2758,7 +2758,7 @@
     },
     {
       "id": "WI-SOS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
       "reporting": "93%",
       "dem": {
@@ -2773,9 +2773,9 @@
       },
       "marginPts": 3.6,
       "marginVotes": 93007,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-secretary-of-state-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "AP",
+      "source": "https://www.wpr.org/news/democrats-win-secretary-of-state-state-treasurer",
+      "asOf": "2026-11-04T02:46:00-05:00",
       "ddhqUpdated": "2026-11-04 06:51:47.098113+00",
       "others": [
         {
@@ -2788,7 +2788,7 @@
     },
     {
       "id": "WI-TREAS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
       "reporting": "93%",
       "dem": {
@@ -2803,9 +2803,9 @@
       },
       "marginPts": 2.1,
       "marginVotes": 54763,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-treasurer-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "AP",
+      "source": "https://www.wpr.org/news/democrats-win-secretary-of-state-state-treasurer",
+      "asOf": "2026-11-04T02:46:00-05:00",
       "ddhqUpdated": "2026-11-04 06:51:47.098113+00"
     },
     {
@@ -2920,7 +2920,7 @@
       "marginVotes": 5557,
       "calledBy": null,
       "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
-      "asOf": "2026-11-04T02:27:00-05:00"
+      "asOf": "2026-11-04T02:38:00-05:00"
     },
     {
       "id": "NE-LG",
@@ -3404,7 +3404,7 @@
       "marginVotes": 38488,
       "calledBy": null,
       "source": "https://www.foxnews.com/elections/2026/midterm-results/state/alaska",
-      "asOf": "2026-11-04T02:27:00-05:00",
+      "asOf": "2026-11-04T02:38:00-05:00",
       "others": [
         {
           "name": "Dave Bronson",
@@ -3439,7 +3439,7 @@
       "marginVotes": 38488,
       "calledBy": null,
       "source": "https://www.foxnews.com/elections/2026/midterm-results/state/alaska",
-      "asOf": "2026-11-04T02:27:00-05:00"
+      "asOf": "2026-11-04T02:38:00-05:00"
     },
     {
       "id": "ID-SOS",
@@ -3702,7 +3702,7 @@
         "pct": 41.2
       },
       "rep": {
-        "name": "Ra\u00fal Labrador",
+        "name": "Raúl Labrador",
         "votes": 331146,
         "pct": 58.8
       },
