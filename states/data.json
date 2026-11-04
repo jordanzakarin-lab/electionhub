@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:31:00-05:00",
+ "updated": "2026-11-03T21:16:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -237,8 +237,8 @@
    "D": 45,
    "R": 15,
    "I": 0,
-   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "source": "PA DOS (browser): uncontested seats; no calls or reporting figures yet",
+   "asOf": "Nov 3, 9:16 PM ET"
   },
   "PA-S": {
    "D": 3,
@@ -330,6 +330,125 @@
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
    "asOf": "Nov 3, 8:31 PM ET"
+  },
+  "AZ-S": {
+   "D": 2,
+   "R": 1,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "CO-H": {
+   "D": 6,
+   "R": 4,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "CO-S": {
+   "D": 0,
+   "R": 1,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "IA-H": {
+   "D": 20,
+   "R": 9,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "IA-S": {
+   "D": 4,
+   "R": 2,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "MN-H": {
+   "D": 15,
+   "R": 0,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "MN-S": {
+   "D": 4,
+   "R": 0,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "NM-H": {
+   "D": 22,
+   "R": 16,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "NY-H": {
+   "D": 10,
+   "R": 0,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "NY-S": {
+   "D": 3,
+   "R": 0,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "ND-S": {
+   "D": 2,
+   "R": 7,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "SD-H": {
+   "D": 0,
+   "R": 1,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "SD-S": {
+   "D": 0,
+   "R": 21,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "WI-H": {
+   "D": 1,
+   "R": 5,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "WI-S": {
+   "D": 2,
+   "R": 0,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "WY-H": {
+   "D": 1,
+   "R": 33,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
+  },
+  "WY-S": {
+   "D": 2,
+   "R": 10,
+   "I": 0,
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
+   "asOf": "Nov 3, 9:16 PM ET"
   }
  },
  "races": [
@@ -340,7 +459,7 @@
    "incumbent": "Sen. Shawnna Bolick (R)",
    "challenger": "Daniel Toporek (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -351,9 +470,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -362,7 +481,7 @@
    "incumbent": "Sen. Carine Werner (R)",
    "challenger": "Aaron Lieberman (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -373,9 +492,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -384,7 +503,7 @@
    "incumbent": "Sen. Kiana Sears (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -395,9 +514,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -408,7 +527,7 @@
    "others": [
     "Rep. Julie Willoughby"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -419,9 +538,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -433,7 +552,7 @@
     "Christopher King",
     "Anthony Dunham"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -444,9 +563,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -457,7 +576,7 @@
    "others": [
     "Karen Gresham (D)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -468,10 +587,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": "",
-   "seats": []
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -482,7 +600,7 @@
    "others": [
     "Rep. Seth Blattman (D) (not running)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -493,10 +611,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": "",
-   "seats": []
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -505,11 +622,10 @@
    "incumbent": "Rep.  Julie Willoughby (R) (not running)",
    "challenger": "Raquel Armstrong (D)",
    "others": [
-    "Rep. Jeff Weninger (R)",
-    "Jacob Weinberg (D)",
+    "Rep. Jeff Weninger (R) Jacob Weinberg (D)",
     "Chandler Mayor Kevin Hartke (R)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -520,10 +636,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": "",
-   "seats": []
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -532,7 +647,7 @@
    "incumbent": "Rep. Chris Lopez (R)",
    "challenger": "Julia Gusse (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -543,10 +658,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": "",
-   "seats": []
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -555,10 +669,9 @@
    "incumbent": "Rep. Kevin Volk (D)",
    "challenger": "",
    "others": [
-    "Rep. Rachel Jones (R)",
-    "Matthew Coelho (D)"
+    "Rep. Rachel Jones (R) Matthew Coelho (D)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -569,10 +682,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": "",
-   "seats": []
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "AZ",
@@ -581,10 +693,9 @@
    "incumbent": "Michele Pe\u00f1a (R)",
    "challenger": "Emilia Cortez (D)",
    "others": [
-    "Rep. Mariana Sandoval (D)",
-    "Juan Manuel Guerrero (D)"
+    "Rep. Mariana Sandoval (D) Juan Manuel Guerrero (D)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -595,10 +706,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": "",
-   "seats": []
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:09 PM",
+   "source": "https://results.arizona.vote",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -607,20 +717,28 @@
    "incumbent": "Sen. Frank Farry (R)",
    "challenger": "Eileen Hartnett Albillar (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Eileen Hartnett Albillar",
+    "votes": 21008,
+    "pct": 67.65
+   },
+   "rep": {
+    "name": "Frank Farry",
+    "votes": 10044,
+    "pct": 32.35
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 35.3,
+   "marginVotes": 10964,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=12&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -629,20 +747,28 @@
    "incumbent": "Sen. Tracy Pennycuick (R)",
    "challenger": "Chris Thomas (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
-   "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "wouldFlip": true,
+   "dem": {
+    "name": "Chris Thomas",
+    "votes": 18535,
+    "pct": 72.77
+   },
+   "rep": {
+    "name": "Tracy Pennycuick",
+    "votes": 6377,
+    "pct": 25.04
+   },
+   "other": 559,
+   "marginPts": 47.7,
+   "marginVotes": 12158,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted; Mike Schonewolf (GRN) 559",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=12&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -651,20 +777,28 @@
    "incumbent": "Sen. Jarrett Coleman (R)",
    "challenger": "Mark Pinsley (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Mark Pinsley",
+    "votes": 23090,
+    "pct": 69.43
+   },
+   "rep": {
+    "name": "Jarrett Coleman",
+    "votes": 10168,
+    "pct": 30.57
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 38.9,
+   "marginVotes": 12922,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=12&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -673,20 +807,24 @@
    "incumbent": "Rep. Sean Dougherty (D)",
    "challenger": "",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
+   "dem": {
+    "name": "Sean M. Dougherty",
+    "votes": 3194,
+    "pct": 100.0
+   },
    "rep": {},
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 100.0,
+   "marginVotes": 3194,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted; unopposed",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -695,20 +833,28 @@
    "incumbent": "Rep. Brian Munroe (D)",
    "challenger": "Mike Murphy (R)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Brian Munroe",
+    "votes": 7489,
+    "pct": 75.44
+   },
+   "rep": {
+    "name": "Mike Murphy",
+    "votes": 2438,
+    "pct": 24.56
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 50.9,
+   "marginVotes": 5051,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -717,20 +863,28 @@
    "incumbent": "Rep. Frank Burns (D)",
    "challenger": "Philip Rice (R)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Frank Burns",
+    "votes": 4341,
+    "pct": 69.79
+   },
+   "rep": {
+    "name": "Phil Rice",
+    "votes": 1879,
+    "pct": 30.21
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 39.6,
+   "marginVotes": 2462,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -739,20 +893,28 @@
    "incumbent": "Rep. Joe Emrick (R)",
    "challenger": "Jeff Warren (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Jeff Warren",
+    "votes": 6579,
+    "pct": 69.6
+   },
+   "rep": {
+    "name": "Joe Emrick",
+    "votes": 2873,
+    "pct": 30.4
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 39.2,
+   "marginVotes": 3706,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -761,20 +923,28 @@
    "incumbent": "Rep. Craig Williams (R)",
    "challenger": "Elizabeth Moro (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Elizabeth Moro",
+    "votes": 6251,
+    "pct": 68.48
+   },
+   "rep": {
+    "name": "Craig Williams",
+    "votes": 2877,
+    "pct": 31.52
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 37.0,
+   "marginVotes": 3374,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -783,20 +953,28 @@
    "incumbent": "Rep. Robert Matzie (D)",
    "challenger": "Michael Perich (R)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Robert Matzie",
+    "votes": 4257,
+    "pct": 81.19
+   },
+   "rep": {
+    "name": "John Costanza",
+    "votes": 986,
+    "pct": 18.81
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 62.4,
+   "marginVotes": 3271,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted; R nominee on ballot: John Costanza",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -824,9 +1002,9 @@
    "marginVotes": 3422,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "Early returns (likely mail ballots); state site gives no share counted",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -838,7 +1016,7 @@
    "status": "Counting",
    "leader": "D",
    "flip": false,
-   "wouldFlip": false,
+   "wouldFlip": true,
    "dem": {
     "name": "Hadley Haas",
     "votes": 5701,
@@ -854,9 +1032,9 @@
    "marginVotes": 3288,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "Early returns (likely mail ballots); state site gives no share counted",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -865,20 +1043,28 @@
    "incumbent": "Rep. Joseph Hogan (R)",
    "challenger": "Kristin Egan (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Kristin Egan",
+    "votes": 5920,
+    "pct": 70.18
+   },
+   "rep": {
+    "name": "Joe Hogan",
+    "votes": 2516,
+    "pct": 29.82
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 40.4,
+   "marginVotes": 3404,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -887,20 +1073,28 @@
    "incumbent": "Rep. Gary Day (R)",
    "challenger": "Rachel Cuevas (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Rachel Cuevas",
+    "votes": 6504,
+    "pct": 68.13
+   },
+   "rep": {
+    "name": "Gary Day",
+    "votes": 3043,
+    "pct": 31.87
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 36.3,
+   "marginVotes": 3461,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -909,20 +1103,28 @@
    "incumbent": "Rep. K.C. Tomlinson (R)",
    "challenger": "Bryan Allen (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Bryan Allen",
+    "votes": 4116,
+    "pct": 69.7
+   },
+   "rep": {
+    "name": "K.C. Tomlinson",
+    "votes": 1789,
+    "pct": 30.3
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 39.4,
+   "marginVotes": 2327,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -931,20 +1133,28 @@
    "incumbent": "Rep. Brett Miller (R)",
    "challenger": "Brad Chambers (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Brad Chambers",
+    "votes": 3846,
+    "pct": 69.67
+   },
+   "rep": {
+    "name": "Brett Miller",
+    "votes": 1674,
+    "pct": 30.33
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 39.3,
+   "marginVotes": 2172,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -956,25 +1166,25 @@
    "status": "Counting",
    "leader": "D",
    "flip": false,
-   "wouldFlip": false,
+   "wouldFlip": true,
    "dem": {
     "name": "Jeremy Ferderber",
-    "votes": 5990,
-    "pct": 63.8
+    "votes": 8466,
+    "pct": 55.34
    },
    "rep": {
     "name": "Jeremy Shaffer",
-    "votes": 3398,
-    "pct": 36.2
+    "votes": 6833,
+    "pct": 44.66
    },
    "other": 0,
-   "marginPts": 27.6,
-   "marginVotes": 2592,
+   "marginPts": 10.7,
+   "marginVotes": 1633,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "Early returns (likely mail ballots); state site gives no share counted",
+   "note": "early returns; state site gives no share counted; official ballot spells D nominee \"Ferderber\"",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "PA",
@@ -983,20 +1193,28 @@
    "incumbent": "Rep. Brenda Pugh",
    "challenger": "Fern Leard (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Fern Leard",
+    "votes": 4426,
+    "pct": 65.62
+   },
+   "rep": {
+    "name": "Brenda Pugh",
+    "votes": 2319,
+    "pct": 34.38
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
+   "marginPts": 31.2,
+   "marginVotes": 2107,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "0 votes reported on state site",
+   "note": "early returns; state site gives no share counted",
    "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MI",
@@ -1016,9 +1234,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-senate-12-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1029,20 +1247,28 @@
    "others": [
     "Rickie Kreuzer (D)"
    ],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Carol Glanville",
+    "votes": 10849,
+    "pct": 75.17
+   },
+   "rep": {
+    "name": "Mark Huizenga",
+    "votes": 3584,
+    "pct": 24.83
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 50.3,
+   "marginVotes": 7265,
+   "reporting": "11%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-senate-30-general-election",
+   "asOf": "Nov 3, 8:16 PM ET"
   },
   {
    "state": "MI",
@@ -1064,9 +1290,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ lists Kim Cole (R) as GOP nominee; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-senate-32-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1086,9 +1312,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-44-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1097,20 +1323,28 @@
    "incumbent": "Rep. Reggie Miller (D)",
    "challenger": "",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Shannon Wayne",
+    "votes": 1272,
+    "pct": 51.39
+   },
+   "rep": {
+    "name": "Laura Perry",
+    "votes": 1203,
+    "pct": 48.61
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 2.8,
+   "marginVotes": 69,
+   "reporting": "6%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "ballot: Shannon Wayne (D) vs Laura Perry (R); not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-31-general-election",
+   "asOf": "Nov 3, 8:40 PM ET"
   },
   {
    "state": "MI",
@@ -1130,9 +1364,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-61-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1152,9 +1386,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "UP polls close 9 PM ET; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-109-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1163,20 +1397,28 @@
    "incumbent": "Rep. Kathy Schmaltz (R)",
    "challenger": "Jan Maino (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Jan Maino",
+    "votes": 1740,
+    "pct": 65.98
+   },
+   "rep": {
+    "name": "Kathy Schmaltz",
+    "votes": 897,
+    "pct": 34.02
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 32.0,
+   "marginVotes": 843,
+   "reporting": "7%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-46-general-election",
+   "asOf": "Nov 3, 8:40 PM ET"
   },
   {
    "state": "MI",
@@ -1196,9 +1438,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-103-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1207,20 +1449,28 @@
    "incumbent": "Rep. Angela Witwer (D)",
    "challenger": "",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Angela Witwer",
+    "votes": 15908,
+    "pct": 50.36
+   },
+   "rep": {
+    "name": "Bill Kaiser",
+    "votes": 15682,
+    "pct": 49.64
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 0.7,
+   "marginVotes": 226,
+   "reporting": "66%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "R nominee Bill Kaiser; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-76-general-election",
+   "asOf": "Nov 3, 8:53 PM ET"
   },
   {
    "state": "MI",
@@ -1240,9 +1490,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-27-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1251,20 +1501,28 @@
    "incumbent": "Rep. Jennifer Conlin (D)",
    "challenger": "Brian Ignatowski (R)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "R",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Jennifer Conlin",
+    "votes": 5929,
+    "pct": 42.36
+   },
+   "rep": {
+    "name": "Brian Ignatowski",
+    "votes": 8068,
+    "pct": 57.64
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": -15.3,
+   "marginVotes": 2139,
+   "reporting": "27%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-48-general-election",
+   "asOf": "Nov 3, 8:52 PM ET"
   },
   {
    "state": "MI",
@@ -1273,20 +1531,28 @@
    "incumbent": "Rep. Mai Xiong (D)",
    "challenger": "",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Mai Xiong",
+    "votes": 4198,
+    "pct": 70.4
+   },
+   "rep": {
+    "name": "Mark Foster",
+    "votes": 1765,
+    "pct": 29.6
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 40.8,
+   "marginVotes": 2433,
+   "reporting": "14%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-13-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1295,20 +1561,28 @@
    "incumbent": "Roman Gaskey (R)",
    "challenger": "Sarah Pounds (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Sarah Pounds",
+    "votes": 10854,
+    "pct": 51.37
+   },
+   "rep": {
+    "name": "Roman Gaskey",
+    "votes": 10276,
+    "pct": 48.63
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 2.7,
+   "marginVotes": 578,
+   "reporting": "44%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-54-general-election",
+   "asOf": "Nov 3, 8:46 PM ET"
   },
   {
    "state": "MI",
@@ -1330,9 +1604,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-22-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1341,20 +1615,28 @@
    "incumbent": "Rep. Ron Robinson (R)",
    "challenger": "Katrina Manetta (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Katrina Manetta",
+    "votes": 220,
+    "pct": 50.34
+   },
+   "rep": {
+    "name": "Ron Robinson",
+    "votes": 217,
+    "pct": 49.66
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 0.7,
+   "marginVotes": 3,
+   "reporting": "1%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-58-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1363,20 +1645,28 @@
    "incumbent": "Rep. Mark Tisdel (R)",
    "challenger": "Alex Hawkins (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "R",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Alex Hawkins",
+    "votes": 10140,
+    "pct": 45.18
+   },
+   "rep": {
+    "name": "Mark Tisdel",
+    "votes": 12304,
+    "pct": 54.82
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": -9.6,
+   "marginVotes": 2164,
+   "reporting": "48%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-55-general-election",
+   "asOf": "Nov 3, 8:33 PM ET"
   },
   {
    "state": "MI",
@@ -1396,9 +1686,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-28-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1407,20 +1697,28 @@
    "incumbent": "Rep. David Martin (R)",
    "challenger": "Matt Schlinker (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "R",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
-   "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "dem": {
+    "name": "Matt Schlinker",
+    "votes": 851,
+    "pct": 34.11
+   },
+   "rep": {
+    "name": "David Martin",
+    "votes": 1563,
+    "pct": 62.65
+   },
+   "other": 81,
+   "marginPts": -28.5,
+   "marginVotes": 712,
+   "reporting": "6%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "others incl. Deanna Martin (L); not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-68-general-election",
+   "asOf": "Nov 3, 8:26 PM ET"
   },
   {
    "state": "MI",
@@ -1440,9 +1738,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-88-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1451,20 +1749,28 @@
    "incumbent": "Rep. Thomas Kuhn (R)",
    "challenger": "Tom Turner (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "R",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Tom Turner",
+    "votes": 1460,
+    "pct": 48.96
+   },
+   "rep": {
+    "name": "Thomas Kuhn",
+    "votes": 1522,
+    "pct": 51.04
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": -2.1,
+   "marginVotes": 62,
+   "reporting": "7%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-57-general-election",
+   "asOf": "Nov 3, 8:46 PM ET"
   },
   {
    "state": "MI",
@@ -1484,9 +1790,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-42-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MI",
@@ -1506,9 +1812,9 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "",
-   "note": "No results found yet (no statewide site; polls just closed)",
-   "source": "https://ballotpedia.org/Michigan_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ: polls closed, awaiting results; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-state-house-92-general-election",
+   "asOf": "Nov 3, 8:51 PM ET"
   },
   {
    "state": "MN",
@@ -1517,7 +1823,7 @@
    "incumbent": "Sen. Jim Abeler (R)",
    "challenger": "Angela Nelson (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1528,9 +1834,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1539,7 +1845,7 @@
    "incumbent": "Sen. Judy Seeberger (D)",
    "challenger": "Tom Dippel (R)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1550,9 +1856,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1561,7 +1867,7 @@
    "incumbent": "Sen. Grant Hauschild (D)",
    "challenger": "Andrea Zupancich",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1572,9 +1878,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1583,7 +1889,7 @@
    "incumbent": "Sen. Aric Putnam (D)",
    "challenger": "Rep. Bernie Perryman",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1594,9 +1900,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1605,7 +1911,7 @@
    "incumbent": "Sen. Karin Housley (R)",
    "challenger": "Nat Smith (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1616,9 +1922,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1627,7 +1933,7 @@
    "incumbent": "Sen. Heather Gustafson (D)",
    "challenger": "Heidi Heino (R)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1638,9 +1944,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1649,7 +1955,7 @@
    "incumbent": "Rep. Brad Tabke (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1660,9 +1966,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1671,7 +1977,7 @@
    "incumbent": "Rep. Natalie Zeleznikar (R)",
    "challenger": "Aaron Schweiger (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1682,9 +1988,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1693,7 +1999,7 @@
    "incumbent": "Rep. Lucy Rehm (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1704,9 +2010,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1717,7 +2023,7 @@
    "others": [
     "Zach Dorholt (D)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1728,9 +2034,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1739,7 +2045,7 @@
    "incumbent": "Rep. Wayne Johnson (R)",
    "challenger": "Cole Birkeland (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1750,9 +2056,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1761,7 +2067,7 @@
    "incumbent": "Rep. Kari Rehrauer (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1772,9 +2078,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1783,7 +2089,7 @@
    "incumbent": "Rep. Matt Norris (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1794,9 +2100,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1807,7 +2113,7 @@
    "others": [
     "William Beck (R)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1818,9 +2124,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1829,7 +2135,7 @@
    "incumbent": "Rep. Erica Schwartz (R)",
    "challenger": "Leah Hanson (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1840,9 +2146,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1851,7 +2157,7 @@
    "incumbent": "Rep. Zack Stephensen (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1862,9 +2168,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1873,7 +2179,7 @@
    "incumbent": "Rep. Bidal Duran Jr. (R)",
    "challenger": "Reed Olson (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1884,9 +2190,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1895,7 +2201,7 @@
    "incumbent": "Rep. Josiah Hill (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1906,9 +2212,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1917,7 +2223,7 @@
    "incumbent": "Rep. Jeff Dotseth (R)",
    "challenger": "Chris Swanson (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1928,9 +2234,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1939,7 +2245,7 @@
    "incumbent": "Rep. Ethan Cha (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1950,9 +2256,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1961,7 +2267,7 @@
    "incumbent": "Rep. BIanca Virnig (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1972,9 +2278,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -1983,7 +2289,7 @@
    "incumbent": "Rep. John Witte (R)",
    "challenger": "Brian Cohn (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -1994,9 +2300,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -2005,7 +2311,7 @@
    "incumbent": "Rep. Duane Quam (R)",
    "challenger": "Heather Holmes (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2016,9 +2322,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -2027,7 +2333,7 @@
    "incumbent": "Rep. Kristi Pursell (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2038,9 +2344,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -2049,7 +2355,7 @@
    "incumbent": "Rep. Ben Davis (R)",
    "challenger": "Samuel Grigsby (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2060,9 +2366,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -2071,7 +2377,7 @@
    "incumbent": "Rep. Roger Skraba (R)",
    "challenger": "Aaron Kania (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2082,9 +2388,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -2095,7 +2401,7 @@
    "others": [
     "Sebastian Stoss (R)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2106,9 +2412,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -2117,7 +2423,7 @@
    "incumbent": "Rep. Danny Nadeau",
    "challenger": "Jason Heaser (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2128,9 +2434,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -2139,7 +2445,7 @@
    "incumbent": "Rep. Andrew Myers (R)",
    "challenger": "Tracey Breazeale (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2150,9 +2456,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "MN",
@@ -2161,7 +2467,7 @@
    "incumbent": "Rep. Patricia Mueller (R)",
    "challenger": "Christoph Dundas (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2172,9 +2478,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; official feed has no MN data yet",
+   "source": "https://github.com/jordanzakarin-lab/electionhub/blob/main/feeds/states.json",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "WI",
@@ -2183,7 +2489,7 @@
    "incumbent": "Sen. Rob Hutton (R) (not running)",
    "challenger": "Rep. Robyn Vining (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2194,7 +2500,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2205,7 +2511,7 @@
    "incumbent": "Sen. Howard Marklein (R)",
    "challenger": "Rep. Jenna Jacobson (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2216,7 +2522,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2227,7 +2533,7 @@
    "incumbent": "Sen. Van Wanggaard (R) (not running)",
    "challenger": "Trevor Jung (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2238,7 +2544,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2249,7 +2555,7 @@
    "incumbent": "Sen. Jeff Smith (D)",
    "challenger": "Jesse James (R) (dropped out)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2260,7 +2566,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2271,7 +2577,7 @@
    "incumbent": "Rep. Benjamin Franklin (R)",
    "challenger": "Brandy Tollefson (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2282,7 +2588,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2293,7 +2599,7 @@
    "incumbent": "Rep. Steve Doyle (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2304,7 +2610,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2315,7 +2621,7 @@
    "incumbent": "Rep. Dean Kaufert (R)",
    "challenger": "Becky Nichols (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2326,7 +2632,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2337,7 +2643,7 @@
    "incumbent": "Rep. Ryan Spaude (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2348,7 +2654,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2359,7 +2665,7 @@
    "incumbent": "Rep. Joe Sheehan (D)",
    "challenger": "",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2370,7 +2676,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2383,7 +2689,7 @@
    "others": [
     "Dylan Pfaffenbach (R)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2394,7 +2700,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2405,7 +2711,7 @@
    "incumbent": "Rep. Bob Donovan (R)",
    "challenger": "Lawanda Chambers (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2416,7 +2722,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2427,7 +2733,7 @@
    "incumbent": "Rep. Todd Novak (R)",
    "challenger": "Ben Gruber (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2438,7 +2744,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2449,7 +2755,7 @@
    "incumbent": "Rep. Patrick Snyder (R)",
    "challenger": "John Kroll (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2460,7 +2766,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2471,7 +2777,7 @@
    "incumbent": "Rep. Clint Moses",
    "challenger": "Jeremiah Fredrickson (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2482,7 +2788,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2493,7 +2799,7 @@
    "incumbent": "Rep. Shannon Zimmerman (R)",
    "challenger": "Kevin Knoke (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2504,7 +2810,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2515,20 +2821,28 @@
    "incumbent": "Sen. Terrence Everitt (D)",
    "challenger": "Chris Stock (R)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
-   "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "dem": {
+    "name": "Haseeb Fatmi",
+    "votes": 38727,
+    "pct": 59.83
+   },
+   "rep": {
+    "name": "Chris Stock",
+    "votes": 24648,
+    "pct": 38.08
+   },
+   "other": 1355,
+   "marginPts": 21.8,
+   "marginVotes": 14079,
+   "reporting": "69%",
    "calledBy": "",
-   "note": "0 precincts reporting; ballot lists Haseeb Fatmi (D) as Dem nominee",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; ballot lists Haseeb Fatmi (D) as Dem nominee; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-senate-18-general-election",
+   "asOf": "Nov 3, 8:21 PM ET"
   },
   {
    "state": "NC",
@@ -2537,20 +2851,28 @@
    "incumbent": "Sen. Woodson Bradley (D)",
    "challenger": "Stacie McGinn",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Woodson Bradley",
+    "votes": 43364,
+    "pct": 65.13
+   },
+   "rep": {
+    "name": "Stacie McGinn",
+    "votes": 23220,
+    "pct": 34.87
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 30.3,
+   "marginVotes": 20144,
+   "reporting": "85%",
    "calledBy": "",
-   "note": "0 precincts reporting",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-senate-42-general-election",
+   "asOf": "Nov 3, 8:34 PM ET"
   },
   {
    "state": "NC",
@@ -2559,20 +2881,28 @@
    "incumbent": "Lisa Barnes (R)",
    "challenger": "James Gailliard (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
-   "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "wouldFlip": true,
+   "dem": {
+    "name": "James Gailliard",
+    "votes": 24357,
+    "pct": 56.89
+   },
+   "rep": {
+    "name": "Lisa Barnes",
+    "votes": 17615,
+    "pct": 41.14
+   },
+   "other": 844,
+   "marginPts": 15.7,
+   "marginVotes": 6742,
+   "reporting": "51%",
    "calledBy": "",
-   "note": "0 precincts reporting",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-senate-11-general-election",
+   "asOf": "Nov 3, 8:35 PM ET"
   },
   {
    "state": "NC",
@@ -2581,20 +2911,28 @@
    "incumbent": "Rep. Tricia Cotham (R)",
    "challenger": "Ken McCool (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Ken McCool",
+    "votes": 19158,
+    "pct": 62.65
+   },
+   "rep": {
+    "name": "Tricia Cotham",
+    "votes": 11423,
+    "pct": 37.35
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 25.3,
+   "marginVotes": 7735,
+   "reporting": "92%",
    "calledBy": "",
-   "note": "NCSBE feed read incomplete this run",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-105-general-election",
+   "asOf": "Nov 3, 8:34 PM ET"
   },
   {
    "state": "NC",
@@ -2605,20 +2943,28 @@
    "others": [
     "Curtis McRae (D)"
    ],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Bryan Cohn",
+    "votes": 15462,
+    "pct": 57.68
+   },
+   "rep": {
+    "name": "Frank Sossamon",
+    "votes": 11344,
+    "pct": 42.32
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 15.4,
+   "marginVotes": 4118,
+   "reporting": "80%",
    "calledBy": "",
-   "note": "0 precincts reporting; ballot lists Bryan K. Cohn (D)",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; ballot lists Bryan K. Cohn (D); not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-32-general-election",
+   "asOf": "Nov 3, 8:35 PM ET"
   },
   {
    "state": "NC",
@@ -2627,20 +2973,28 @@
    "incumbent": "Rep. Allen Chesser II (R)",
    "challenger": "Lorenza M. Wilkins (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
-   "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "wouldFlip": true,
+   "dem": {
+    "name": "Lorenza Wilkins",
+    "votes": 15580,
+    "pct": 57.24
+   },
+   "rep": {
+    "name": "Allen Chesser",
+    "votes": 11003,
+    "pct": 40.43
+   },
+   "other": 634,
+   "marginPts": 16.8,
+   "marginVotes": 4577,
+   "reporting": "73%",
    "calledBy": "",
-   "note": "0 precincts reporting",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-25-general-election",
+   "asOf": "Nov 3, 8:34 PM ET"
   },
   {
    "state": "NC",
@@ -2649,20 +3003,28 @@
    "incumbent": "Rep. Mike Schietzelt (R)",
    "challenger": "Evonne S. Hopkins (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Evonne Hopkins",
+    "votes": 17995,
+    "pct": 61.17
+   },
+   "rep": {
+    "name": "Mike Schietzelt",
+    "votes": 11422,
+    "pct": 38.83
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 22.3,
+   "marginVotes": 6573,
+   "reporting": "69%",
    "calledBy": "",
-   "note": "0 precincts reporting",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-35-general-election",
+   "asOf": "Nov 3, 8:34 PM ET"
   },
   {
    "state": "NC",
@@ -2671,20 +3033,28 @@
    "incumbent": "Rep. Erin Par\u00e9 (R)",
    "challenger": "Winn Decker (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Winn Decker",
+    "votes": 19200,
+    "pct": 59.06
+   },
+   "rep": {
+    "name": "Erin Par\u00e9",
+    "votes": 13312,
+    "pct": 40.94
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 18.1,
+   "marginVotes": 5888,
+   "reporting": "71%",
    "calledBy": "",
-   "note": "0 precincts reporting",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-37-general-election",
+   "asOf": "Nov 3, 8:21 PM ET"
   },
   {
    "state": "NC",
@@ -2693,20 +3063,28 @@
    "incumbent": "Rep. Jeff Zenger (R)",
    "challenger": "Amy Taylor North (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Amy Taylor North",
+    "votes": 18336,
+    "pct": 61.88
+   },
+   "rep": {
+    "name": "Jeff Zenger",
+    "votes": 11296,
+    "pct": 38.12
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 23.8,
+   "marginVotes": 7040,
+   "reporting": "82%",
    "calledBy": "",
-   "note": "NCSBE feed read incomplete this run",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-74-general-election",
+   "asOf": "Nov 3, 8:34 PM ET"
   },
   {
    "state": "NC",
@@ -2715,20 +3093,28 @@
    "incumbent": "Rep. Jonathan Almond",
    "challenger": "Thomas Monks (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Thomas Monks",
+    "votes": 12051,
+    "pct": 60.77
+   },
+   "rep": {
+    "name": "Jonathan Almond",
+    "votes": 7781,
+    "pct": 39.23
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 21.5,
+   "marginVotes": 4270,
+   "reporting": "62%",
    "calledBy": "",
-   "note": "NCSBE feed read incomplete this run",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-73-general-election",
+   "asOf": "Nov 3, 8:34 PM ET"
   },
   {
    "state": "NC",
@@ -2737,20 +3123,28 @@
    "incumbent": "Rep. Dante Pittman (D)",
    "challenger": "Blake Boykin (R)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "R",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Dante Pittman",
+    "votes": 535,
+    "pct": 40.35
+   },
+   "rep": {
+    "name": "Blake Boykin",
+    "votes": 791,
+    "pct": 59.65
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": -19.3,
+   "marginVotes": 256,
+   "reporting": "4%",
    "calledBy": "",
-   "note": "0 precincts reporting",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-24-general-election",
+   "asOf": "Nov 3, 8:34 PM ET"
   },
   {
    "state": "NC",
@@ -2759,20 +3153,28 @@
    "incumbent": "Rep. Garland Pierce (D)",
    "challenger": "Ralph Carter (R)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Garland Pierce",
+    "votes": 13148,
+    "pct": 62.1
+   },
+   "rep": {
+    "name": "Ralph Carter",
+    "votes": 8023,
+    "pct": 37.9
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 24.2,
+   "marginVotes": 5125,
+   "reporting": "84%",
    "calledBy": "",
-   "note": "0 precincts reporting",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "DDHQ (NCSBE feed not updating); early votes report first; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-state-house-48-general-election",
+   "asOf": "Nov 3, 8:34 PM ET"
   },
   {
    "state": "KS",
@@ -2783,20 +3185,28 @@
    "others": [
     "Alex Bergman (R)"
    ],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Bryan Mouber",
+    "votes": 4564,
+    "pct": 58.41
+   },
+   "rep": {
+    "name": "Alex Bergman",
+    "votes": 3250,
+    "pct": 41.59
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 16.8,
+   "marginVotes": 1314,
+   "reporting": "74%",
    "calledBy": "",
-   "note": "No general-election results found yet (polls just closed)",
-   "source": "https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-28-general-election",
+   "asOf": "Nov 3, 8:47 PM ET"
   },
   {
    "state": "KS",
@@ -2805,20 +3215,28 @@
    "incumbent": "Rep. Nikki McDonald (D)",
    "challenger": "",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
    "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "dem": {
+    "name": "Nikki McDonald",
+    "votes": 4564,
+    "pct": 63.85
+   },
+   "rep": {
+    "name": "Tricia Sinclair",
+    "votes": 2584,
+    "pct": 36.15
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 27.7,
+   "marginVotes": 1980,
+   "reporting": "69%",
    "calledBy": "",
-   "note": "No general-election results found yet (polls just closed)",
-   "source": "https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "R nominee Tricia Sinclair; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-49-general-election",
+   "asOf": "Nov 3, 8:49 PM ET"
   },
   {
    "state": "KS",
@@ -2827,20 +3245,28 @@
    "incumbent": "Lauren Bohi (R)",
    "challenger": "Allison Hougland (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Allison Hougland",
+    "votes": 2355,
+    "pct": 59.38
+   },
+   "rep": {
+    "name": "Lauren Bohi",
+    "votes": 1611,
+    "pct": 40.62
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 18.8,
+   "marginVotes": 744,
+   "reporting": "55%",
    "calledBy": "",
-   "note": "No general-election results found yet (polls just closed)",
-   "source": "https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-15-general-election",
+   "asOf": "Nov 3, 8:47 PM ET"
   },
   {
    "state": "KS",
@@ -2849,20 +3275,28 @@
    "incumbent": "Charlotte Esau (R)",
    "challenger": "Sherry Giebler (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Sherry Giebler",
+    "votes": 5249,
+    "pct": 61.33
+   },
+   "rep": {
+    "name": "Charlotte Esau",
+    "votes": 3309,
+    "pct": 38.67
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 22.7,
+   "marginVotes": 1940,
+   "reporting": "72%",
    "calledBy": "",
-   "note": "No general-election results found yet (polls just closed)",
-   "source": "https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-14-general-election",
+   "asOf": "Nov 3, 8:44 PM ET"
   },
   {
    "state": "KS",
@@ -2871,20 +3305,28 @@
    "incumbent": "Angela Stiens (R)",
    "challenger": "Zach Maier (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Zach Maier",
+    "votes": 4593,
+    "pct": 58.58
+   },
+   "rep": {
+    "name": "Angela Stiens",
+    "votes": 3247,
+    "pct": 41.42
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 17.2,
+   "marginVotes": 1346,
+   "reporting": "74%",
    "calledBy": "",
-   "note": "No general-election results found yet (polls just closed)",
-   "source": "https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-39-general-election",
+   "asOf": "Nov 3, 8:48 PM ET"
   },
   {
    "state": "KS",
@@ -2893,20 +3335,28 @@
    "incumbent": "Rep. Kyler Sweely",
    "challenger": "Jason Probst (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Jason Probst",
+    "votes": 1594,
+    "pct": 58.97
+   },
+   "rep": {
+    "name": "Kyler Sweely",
+    "votes": 1109,
+    "pct": 41.03
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 17.9,
+   "marginVotes": 485,
+   "reporting": "36%",
    "calledBy": "",
-   "note": "No general-election results found yet (polls just closed)",
-   "source": "https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "Sweely is the R incumbent; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-102-general-election",
+   "asOf": "Nov 3, 8:24 PM ET"
   },
   {
    "state": "KS",
@@ -2915,20 +3365,28 @@
    "incumbent": "Mike Dodson (R)",
    "challenger": "Brenda Bandy (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Brenda Bandy",
+    "votes": 2380,
+    "pct": 59.12
+   },
+   "rep": {
+    "name": "Stacy Kohlmeier",
+    "votes": 1646,
+    "pct": 40.88
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 18.2,
+   "marginVotes": 734,
+   "reporting": "50%",
    "calledBy": "",
-   "note": "No general-election results found yet (polls just closed)",
-   "source": "https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "ballot lists Stacy Kohlmeier as R nominee; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-67-general-election",
+   "asOf": "Nov 3, 8:30 PM ET"
   },
   {
    "state": "KS",
@@ -2937,20 +3395,28 @@
    "incumbent": "Laura Williams (R)",
    "challenger": "Zachary Hawkins (D)",
    "others": [],
-   "status": "No results yet",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "flip": false,
-   "wouldFlip": false,
-   "dem": {},
-   "rep": {},
+   "wouldFlip": true,
+   "dem": {
+    "name": "Amelia Wiederaenders",
+    "votes": 3978,
+    "pct": 57.18
+   },
+   "rep": {
+    "name": "Laura Williams",
+    "votes": 2979,
+    "pct": 42.82
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "0%",
+   "marginPts": 14.4,
+   "marginVotes": 999,
+   "reporting": "70%",
    "calledBy": "",
-   "note": "No general-election results found yet (polls just closed)",
-   "source": "https://ballotpedia.org/Kansas_House_of_Representatives_elections,_2026",
-   "asOf": "Nov 3, 8:13 PM ET"
+   "note": "ballot lists Amelia Wiederaenders as D nominee; not refreshed this run",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-30-general-election",
+   "asOf": "Nov 3, 8:48 PM ET"
   },
   {
    "state": "NE",
@@ -2959,7 +3425,7 @@
    "incumbent": "George Dungan (D)",
    "challenger": "Tobias Howard (R)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2970,7 +3436,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -2981,7 +3447,7 @@
    "incumbent": "John Fredrickson (D)",
    "challenger": "Chris Anderson (R)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -2992,7 +3458,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -3003,7 +3469,7 @@
    "incumbent": "Merv Riepe (R)",
    "challenger": "Christy Knorr (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3014,7 +3480,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -3025,7 +3491,7 @@
    "incumbent": "Brand von Gillern (R)",
    "challenger": "Cindy Maxwell-Ostdiek (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3036,7 +3502,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -3049,7 +3515,7 @@
    "others": [
     "Cindy Johnson (D)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3060,7 +3526,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -3073,7 +3539,7 @@
    "others": [
     "Taylor Royal (R)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3084,7 +3550,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -3097,7 +3563,7 @@
    "others": [
     "Dean Helmick (R)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3108,7 +3574,7 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
+   "note": "polls closed 9 PM ET; not checked this run",
    "source": "",
    "asOf": ""
   },
@@ -3122,7 +3588,7 @@
     "Jill Haffley (R)",
     "Jamie Koch (R)"
    ],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3133,9 +3599,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:10 PM",
+   "source": "https://results.enr.clarityelections.com/CO/127407/",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "CO",
@@ -3144,7 +3610,7 @@
    "incumbent": "Dan Woog (R)",
    "challenger": "Jillaire McMillan (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3155,9 +3621,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:10 PM",
+   "source": "https://results.enr.clarityelections.com/CO/127407/",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "CO",
@@ -3166,7 +3632,7 @@
    "incumbent": "Ryan Gonzalez (R)",
    "challenger": "Tommy Butler (D)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3177,9 +3643,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:10 PM",
+   "source": "https://results.enr.clarityelections.com/CO/127407/",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "CO",
@@ -3188,7 +3654,7 @@
    "incumbent": "Bob Marshall (D)",
    "challenger": "Nate Marsh (R)",
    "others": [],
-   "status": "Polls not closed",
+   "status": "No results yet",
    "leader": null,
    "flip": false,
    "wouldFlip": false,
@@ -3199,9 +3665,9 @@
    "marginVotes": null,
    "reporting": "",
    "calledBy": "",
-   "note": "",
-   "source": "",
-   "asOf": ""
+   "note": "polls closed 9 PM ET; 0 votes on state site at 9:10 PM",
+   "source": "https://results.enr.clarityelections.com/CO/127407/",
+   "asOf": "Nov 3, 9:08 PM ET"
   },
   {
    "state": "NV",
@@ -3300,8 +3766,7 @@
    "incumbent": "Heidi Kasama (R) (not running)",
    "challenger": "Kamilah Bywaters (D)",
    "others": [
-    "Drew Teitelbaum (R)",
-    "Mike Kung (D)"
+    "Drew Teitelbaum (R) Mike Kung (D)"
    ],
    "status": "Polls not closed",
    "leader": null,
