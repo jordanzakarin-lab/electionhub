@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:58:04-05:00",
+ "updated": "2026-11-04T01:05:00-05:00",
  "sample": false,
  "races": [
   {
@@ -550,37 +550,22 @@
    "id": "NC-SEN",
    "status": "Called",
    "leader": "D",
-   "reporting": "90%",
+   "reporting": "100%",
    "dem": {
     "name": "Roy Cooper",
-    "votes": 2297448,
-    "pct": 58.2
+    "votes": 2462440,
+    "pct": 58.7
    },
    "rep": {
     "name": "Michael Whatley",
-    "votes": 1559793,
-    "pct": 39.5
+    "votes": 1640368,
+    "pct": 39.1
    },
-   "marginPts": 18.7,
-   "marginVotes": 737655,
+   "marginPts": 19.6,
+   "marginVotes": 822072,
    "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:34.70362+00",
-   "others": [
-    {
-     "name": "Shannon Bray",
-     "party": "LIB",
-     "votes": 52982,
-     "pct": 1.3
-    },
-    {
-     "name": "Michael Dublin",
-     "party": "GRE",
-     "votes": 33876,
-     "pct": 0.9
-    }
-   ]
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T00:58:28-05:00"
   },
   {
    "id": "OH-SEN",
@@ -895,43 +880,22 @@
    "id": "ME-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "34%",
+   "reporting": "72%",
    "dem": {
     "name": "Matthew Dunlap",
-    "votes": 54899,
-    "pct": 46.7
+    "votes": null,
+    "pct": 49.0
    },
    "rep": {
     "name": "Paul LePage",
-    "votes": 61348,
-    "pct": 52.2
+    "votes": null,
+    "pct": 51.0
    },
-   "marginPts": -5.5,
-   "marginVotes": 6449,
+   "marginPts": -2.0,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:10.216123+00",
-   "others": [
-    {
-     "name": "Blank Votes",
-     "party": "NPA",
-     "votes": 1229,
-     "pct": 1.1
-    },
-    {
-     "name": " Write-In",
-     "party": "WRI",
-     "votes": 58,
-     "pct": 0.1
-    },
-    {
-     "name": "Gregory Ward",
-     "party": "WRI",
-     "votes": 26,
-     "pct": 0.0
-    }
-   ]
+   "source": "https://www.yahoo.com/news/politics/articles/lepage-dunlap-race-maine-2nd-053822450.html",
+   "asOf": "2026-11-04T01:05:00-05:00"
   },
   {
    "id": "ME-SEN",
@@ -1101,32 +1065,23 @@
   {
    "id": "MS-SEN",
    "status": "Counting",
-   "leader": "R",
-   "reporting": "75%",
+   "leader": "D",
+   "reporting": "87%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 321403,
-    "pct": 47.9
+    "votes": 396892,
+    "pct": 49.1
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 336203,
-    "pct": 50.1
+    "votes": 394366,
+    "pct": 48.8
    },
-   "marginPts": -2.2,
-   "marginVotes": 14800,
+   "marginPts": 0.3,
+   "marginVotes": 2526,
    "calledBy": null,
-   "source": "https://x.com/DecisionDeskHQ/status/2117822664127746520",
-   "asOf": "2026-11-03T23:59:43-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:46.574842+00",
-   "others": [
-    {
-     "name": "Ty Pinkins",
-     "party": "IND",
-     "votes": 13164,
-     "pct": 2.1
-    }
-   ]
+   "source": "https://x.com/DecisionDeskHQ/status/2117835601865011225",
+   "asOf": "2026-11-03T23:25:29-05:00"
   },
   {
    "id": "NC-03",
@@ -1255,35 +1210,26 @@
    "id": "OH-10",
    "status": "Counting",
    "leader": "D",
-   "reporting": "77%",
+   "reporting": "88% of precincts",
    "dem": {
     "name": "Kristina Knickerbocker",
-    "votes": 126558,
-    "pct": 50.0
+    "votes": null,
+    "pct": 49.34
    },
    "rep": {
     "name": "Mike Turner",
-    "votes": 119549,
-    "pct": 47.2
+    "votes": null,
+    "pct": 47.71
    },
-   "marginPts": 2.8,
-   "marginVotes": 7009,
+   "marginPts": 1.6,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-10-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:14:20.315796+00",
-   "others": [
-    {
-     "name": "Thomas McMasters",
-     "party": "LIB",
-     "votes": 7094,
-     "pct": 2.8
-    }
-   ]
+   "source": "https://www.daytondailynews.com/local/congressional-vote-knickerbocker-leads-turner-landsman-projected-to-win/article_a92bfa17-40e2-5964-9979-40f92b6d437f.html",
+   "asOf": "2026-11-04T01:05:00-05:00"
   },
   {
    "id": "OH-15",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "83%",
    "dem": {
@@ -1298,8 +1244,8 @@
    },
    "marginPts": 6.6,
    "marginVotes": 16365,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-15-general-election",
+   "calledBy": "AP",
+   "source": "https://www.daytondailynews.com/local/congressional-vote-knickerbocker-leads-turner-landsman-projected-to-win/article_a92bfa17-40e2-5964-9979-40f92b6d437f.html",
    "asOf": "2026-11-03T22:23:48-05:00",
    "ddhqUpdated": "2026-11-04 03:20:18.688683+00",
    "others": [
@@ -1382,31 +1328,22 @@
    "id": "SC-01",
    "status": "Counting",
    "leader": "D",
-   "reporting": "88%",
+   "reporting": "98%",
    "dem": {
     "name": "Nancy Lacore",
-    "votes": 150121,
-    "pct": 50.6
+    "votes": null,
+    "pct": null
    },
    "rep": {
     "name": "Jenny Costa Honeycutt",
-    "votes": 141787,
-    "pct": 47.8
+    "votes": null,
+    "pct": null
    },
-   "marginPts": 2.8,
-   "marginVotes": 8334,
+   "marginPts": 0.7,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:19.380561+00",
-   "others": [
-    {
-     "name": "Bill Reeside",
-     "party": "LIB",
-     "votes": 4818,
-     "pct": 1.6
-    }
-   ]
+   "source": "https://www.yahoo.com/news/politics/articles/democrat-fired-trump-administration-narrowly-010006229.html",
+   "asOf": "2026-11-04T01:05:00-05:00"
   },
   {
    "id": "TN-09",
@@ -1586,7 +1523,7 @@
   },
   {
    "id": "TX-35",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "70%",
    "dem": {
@@ -1601,8 +1538,8 @@
    },
    "marginPts": 17.9,
    "marginVotes": 33392,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-35-general-election",
+   "calledBy": "DDHQ",
+   "source": "https://townhall.com/news/josephchalfant/2026/11/04/democrat-johnny-garcia-defeats-republican-carlos-de-la-cruz-in-tx-35-n2685888",
    "asOf": "2026-11-03T22:23:48-05:00",
    "ddhqUpdated": "2026-11-04 03:18:22.979805+00"
   },
@@ -1800,58 +1737,43 @@
    "id": "MN-01",
    "status": "Counting",
    "leader": "R",
-   "reporting": "84%",
+   "reporting": "94%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 130521,
-    "pct": 48.9
+    "votes": 148245,
+    "pct": 49.4
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": 136186,
-    "pct": 51.0
+    "votes": 151776,
+    "pct": 50.5
    },
-   "marginPts": -2.1,
-   "marginVotes": 5665,
+   "marginPts": -1.1,
+   "marginVotes": 3531,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T00:29:58-05:00"
+   "asOf": "2026-11-04T01:00:34-05:00"
   },
   {
    "id": "MN-SEN",
    "status": "Called",
    "leader": "D",
-   "reporting": "3%",
+   "reporting": "92%",
    "dem": {
     "name": "Peggy Flanagan",
-    "votes": 29817,
-    "pct": 41.1
+    "votes": 1435318,
+    "pct": 54.3
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 40703,
-    "pct": 56.1
+    "votes": 1137866,
+    "pct": 43.0
    },
-   "marginPts": -15.0,
-   "marginVotes": 10886,
+   "marginPts": 11.3,
+   "marginVotes": 297452,
    "calledBy": "CBS News",
-   "source": "https://www.cbsnews.com/news/minnesota-2026-senate-flanagan-tafoya/",
-   "asOf": "2026-11-04T00:57:36-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:19.591926+00",
-   "others": [
-    {
-     "name": "Marisa Simonetti",
-     "party": "UNA",
-     "votes": 1147,
-     "pct": 1.6
-    },
-    {
-     "name": "Rebecca Whiting",
-     "party": "LIB",
-     "votes": 917,
-     "pct": 1.3
-    }
-   ]
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
+   "asOf": "2026-11-04T01:00:34-05:00"
   },
   {
    "id": "NE-01",
@@ -2052,24 +1974,23 @@
   {
    "id": "NY-21",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "49%",
+   "leader": "R",
+   "reporting": "99% of districts",
    "dem": {
     "name": "Blake Gendebien",
-    "votes": 74403,
-    "pct": 51.7
+    "votes": null,
+    "pct": 47.0
    },
    "rep": {
     "name": "Anthony Constantino",
-    "votes": 69554,
-    "pct": 48.3
+    "votes": null,
+    "pct": 49.0
    },
-   "marginPts": 3.4,
-   "marginVotes": 4849,
+   "marginPts": -2.0,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-21-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:12.571376+00"
+   "source": "https://www.dailygazette.com/the_recorder/cjfund/political/constantino-gendebien-election-results-ny21-congress-stefanik-amsterdam/article_8d7c4557-1f28-41b2-9ca4-89f3a00052fb.html",
+   "asOf": "2026-11-04T01:05:00-05:00"
   },
   {
    "id": "TX-09",
@@ -2095,7 +2016,7 @@
   },
   {
    "id": "WI-01",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "73%",
    "dem": {
@@ -2110,8 +2031,8 @@
    },
    "marginPts": 0.5,
    "marginVotes": 1061,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-us-house-1-general-election",
+   "calledBy": "WPR (Steil conceded)",
+   "source": "https://www.wpr.org/news/democrat-mitchell-berman-defeats-republican-bryan-steil-2026",
    "asOf": "2026-11-03T22:23:48-05:00",
    "ddhqUpdated": "2026-11-04 03:12:07.19109+00"
   },
@@ -2394,19 +2315,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Matt Little",
-    "votes": 210215,
-    "pct": 57.2
+    "votes": 210829,
+    "pct": 57.1
    },
    "rep": {
     "name": "Eric Pratt",
-    "votes": 157273,
+    "votes": 157767,
     "pct": 42.8
    },
-   "marginPts": 14.4,
-   "marginVotes": 52942,
+   "marginPts": 14.3,
+   "marginVotes": 53062,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T00:29:58-05:00"
+   "asOf": "2026-11-04T00:40:08-05:00"
   },
   {
    "id": "MT-01",
@@ -3296,6 +3217,27 @@
    "calledBy": null,
    "source": "https://www.fox13seattle.com/news/wa-03-election-results",
    "asOf": "2026-11-03T23:48:00-05:00"
+  },
+  {
+   "id": "CA-22",
+   "calledBy": null,
+   "leader": "D",
+   "reporting": "37% of precincts (partial)",
+   "dem": {
+    "name": "Randy Villegas",
+    "votes": 40019,
+    "pct": 64.9
+   },
+   "rep": {
+    "name": "David Valadao",
+    "votes": 21621,
+    "pct": 35.1
+   },
+   "marginPts": 29.8,
+   "marginVotes": 18398,
+   "source": "https://gvwire.com/2026/11/03/villegas-claims-victory-against-valadao-no-news-networks-calling-race-yet/",
+   "asOf": "2026-11-04T01:05:00-05:00",
+   "status": "Counting"
   }
  ]
 }
