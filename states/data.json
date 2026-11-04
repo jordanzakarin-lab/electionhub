@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:20:00-05:00",
+ "updated": "2026-11-04T11:29:34-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -7,28 +7,44 @@
    "R": 74,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet; Nov 4 seat sweep: uncontested seats + calls from Alabama Political Reporter (APR)",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "AL-S": {
    "D": 9,
    "R": 24,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet; Nov 4 seat sweep: uncontested seats + calls from Alabama Political Reporter (APR)",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "AR-H": {
    "D": 13,
    "R": 49,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:31 PM ET"
+   "asOf": "Nov 3, 8:31 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "AR-S": {
    "D": 2,
    "R": 10,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:31 PM ET"
+   "asOf": "Nov 3, 8:31 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "AZ-H": {
    "D": 28,
@@ -138,14 +154,22 @@
    "R": 11,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4; R supermajority lost (about R 67, D 49, unofficial)"
   },
   "FL-S": {
    "D": 1,
    "R": 1,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4; R supermajority hinges on one uncalled race"
   },
   "GA-H": {
    "D": 40,
@@ -178,7 +202,11 @@
     "by": "WHO Radio",
     "source": "https://whoradio.iheart.com/content/2026-11-04-iowa-democrats-break-gop-supermajority-in-iowa-house-state-senate-remains-unchanged/",
     "note": "GOP supermajority broken"
-   }
+   },
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4; R supermajority broken"
   },
   "IA-S": {
    "D": 4,
@@ -192,21 +220,33 @@
     "by": "WHO Radio",
     "source": "https://whoradio.iheart.com/content/2026-11-04-iowa-democrats-break-gop-supermajority-in-iowa-house-state-senate-remains-unchanged/",
     "note": "balance unchanged"
-   }
+   },
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "IL-H": {
    "D": 41,
    "R": 24,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "IL-S": {
    "D": 10,
    "R": 7,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "IN-H": {
    "D": 29,
@@ -219,7 +259,11 @@
     "by": "WFYI",
     "source": "https://www.wfyi.org/statewide/2026-11-04/democrats-break-indiana-house-supermajority",
     "note": "GOP supermajority broken; Speaker Houston lost"
-   }
+   },
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4; R supermajority broken"
   },
   "IN-S": {
    "D": 4,
@@ -231,7 +275,11 @@
     "D": "at least 1",
     "by": "WFYI",
     "source": "https://www.wfyi.org/statewide/2026-11-04/democrats-break-indiana-house-supermajority"
-   }
+   },
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "KS-H": {
    "D": 20,
@@ -255,42 +303,66 @@
    "R": 42,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "KY-S": {
    "D": 0,
    "R": 10,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "MA-H": {
    "D": 103,
    "R": 9,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "MA-S": {
    "D": 26,
    "R": 4,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "MD-H": {
    "D": 6,
    "R": 1,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "MD-S": {
    "D": 19,
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "ME-H": {
    "D": 20,
@@ -371,14 +443,22 @@
     "by": "Missouri Independent",
     "source": "https://missouriindependent.com/2026/11/04/democrats-flip-16-missouri-house-seats-ending-republican-supermajority/",
     "note": "GOP supermajority ended"
-   }
+   },
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4; R supermajority broken (R 95, D 68, unofficial)"
   },
   "MO-S": {
    "D": 1,
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4; R supermajority broken"
   },
   "NC-H": {
    "D": 32,
@@ -419,7 +499,11 @@
    "R": 20,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "NH-H": {
    "D": 30,
@@ -446,7 +530,11 @@
    "R": 23,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "NV-H": {
    "D": 8,
@@ -463,14 +551,22 @@
    "R": 1,
    "I": 0,
    "source": "NV SOS (browser): uncontested seats; no results received yet",
-   "asOf": "Nov 3, 11:16 PM ET"
+   "asOf": "Nov 3, 11:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "NY-H": {
    "D": 57,
    "R": 4,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Ballotpedia winner marks",
-   "asOf": "Nov 4, 11:20 AM ET"
+   "asOf": "Nov 4, 11:20 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "NY-S": {
    "D": 30,
@@ -518,14 +614,22 @@
    "R": 34,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "OK-S": {
    "D": 6,
    "R": 4,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "PA-H": {
    "D": 101,
@@ -560,14 +664,22 @@
    "R": 6,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "RI-S": {
    "D": 30,
    "R": 2,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "SC-H": {
    "D": 19,
@@ -580,35 +692,55 @@
     "by": "SC Daily Gazette",
     "source": "https://scdailygazette.com/2026/11/04/sc-democrats-flip-10-state-house-seats-undoing-gop-supermajority",
     "note": "headline; GOP supermajority undone"
-   }
+   },
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "SD-H": {
    "D": 8,
    "R": 57,
    "I": 1,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "SD-S": {
    "D": 2,
    "R": 31,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "TN-H": {
    "D": 15,
    "R": 19,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "TN-S": {
    "D": 4,
    "R": 5,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "TX-H": {
    "D": 17,
@@ -633,21 +765,33 @@
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "VT-H": {
    "D": 15,
    "R": 13,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "VT-S": {
    "D": 1,
    "R": 2,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "WI-H": {
    "D": 60,
@@ -687,21 +831,33 @@
    "R": 9,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "WY-H": {
    "D": 6,
    "R": 55,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "WY-S": {
    "D": 2,
    "R": 14,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "MI-H": {
    "D": 9,
@@ -767,98 +923,154 @@
    "R": 3,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "CA-S": {
    "D": 9,
    "R": 0,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "HI-H": {
    "D": 18,
    "R": 2,
    "I": 0,
    "source": "",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "HI-S": {
    "D": 9,
    "R": 0,
    "I": 0,
    "source": "",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "MT-H": {
    "D": 9,
    "R": 17,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "MT-S": {
    "D": 2,
    "R": 4,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "ND-H": {
    "D": 3,
    "R": 31,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "OR-H": {
    "D": 28,
    "R": 19,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "OR-S": {
    "D": 7,
    "R": 1,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "UT-H": {
    "D": 15,
    "R": 13,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "UT-S": {
    "D": 1,
    "R": 3,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   },
   "WA-H": {
    "D": 12,
    "R": 8,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "WA-S": {
    "D": 9,
    "R": 3,
    "I": 0,
    "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "D",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by D as of 7 AM ET Nov 4"
   },
   "WV-S": {
    "D": 0,
    "R": 0,
    "I": 0,
    "source": "",
-   "asOf": "Nov 4, 10:52 AM ET"
+   "asOf": "Nov 4, 10:52 AM ET",
+   "control": "R",
+   "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
+   "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
+   "note": "Held by R as of 7 AM ET Nov 4"
   }
  },
  "races": [
@@ -1258,27 +1470,28 @@
    "incumbent": "Sen. Tracy Pennycuick (R)",
    "challenger": "Chris Thomas (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Chris Thomas",
-    "votes": 61779,
-    "pct": 54.18
+    "votes": 62932,
+    "pct": 54.31
    },
    "rep": {
     "name": "Tracy E Pennycuick",
-    "votes": 50140,
-    "pct": 43.98
+    "votes": 50815,
+    "pct": 43.85
    },
-   "other": 2100,
-   "marginPts": 10.2,
-   "marginVotes": 11639,
-   "reporting": "unknown",
-   "calledBy": "",
-   "note": "state site gives no per-district share counted; Green Mike Schonewolf 2,100",
-   "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=12&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 4, 8:37 AM ET (fetched)",
-   "wouldFlip": true
+   "other": 2126,
+   "marginPts": 10.5,
+   "marginVotes": 12117,
+   "reporting": "~97%",
+   "calledBy": "AP",
+   "note": "AP call 1:23 AM ET via movement.vote; Green Mike Schonewolf 2,126",
+   "source": "https://movement.vote/election-results/2026/pennsylvania/state-senate-district-24/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Chris Thomas",
+   "flip": true
   },
   {
    "state": "PA",
@@ -1429,7 +1642,7 @@
    "incumbent": "Rep. Craig Williams (R)",
    "challenger": "Elizabeth Moro (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Elizabeth Moro",
@@ -1445,11 +1658,12 @@
    "marginPts": 8.9,
    "marginVotes": 2787,
    "reporting": "unknown",
-   "calledBy": "",
-   "note": "state site gives no per-district share counted",
-   "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 4, 8:37 AM ET (fetched)",
-   "wouldFlip": true
+   "calledBy": "AP",
+   "note": "AP call 1:32 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/pennsylvania/state-house-district-160/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Elizabeth Moro",
+   "flip": true
   },
   {
    "state": "PA",
@@ -1517,7 +1731,7 @@
    "incumbent": "Rep. Valerie Gaydos (R)",
    "challenger": "Hadley Haas (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Hadley Haas",
@@ -1533,11 +1747,12 @@
    "marginPts": 6.5,
    "marginVotes": 1862,
    "reporting": "unknown",
-   "calledBy": "",
-   "note": "state site gives no per-district share counted",
-   "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 4, 8:37 AM ET (fetched)",
-   "wouldFlip": true
+   "calledBy": "AP",
+   "note": "AP call 1:51 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/pennsylvania/state-house-district-44/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Hadley Haas",
+   "flip": true
   },
   {
    "state": "PA",
@@ -1546,27 +1761,28 @@
    "incumbent": "Rep. Joseph Hogan (R)",
    "challenger": "Kristin Egan (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Kristin Egan",
-    "votes": 15394,
-    "pct": 53.11
+    "votes": 15733,
+    "pct": 52.97
    },
    "rep": {
     "name": "Joe Hogan",
-    "votes": 13589,
-    "pct": 46.89
+    "votes": 13968,
+    "pct": 47.03
    },
    "other": 0,
-   "marginPts": 6.2,
-   "marginVotes": 1805,
-   "reporting": "unknown",
-   "calledBy": "",
-   "note": "state site gives no per-district share counted",
-   "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 4, 8:37 AM ET (fetched)",
-   "wouldFlip": true
+   "marginPts": 5.9,
+   "marginVotes": 1765,
+   "reporting": "~99%",
+   "calledBy": "AP",
+   "note": "AP call 2:00 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/pennsylvania/state-house-district-142/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Kristin Egan",
+   "flip": true
   },
   {
    "state": "PA",
@@ -1604,7 +1820,7 @@
    "incumbent": "Rep. K.C. Tomlinson (R)",
    "challenger": "Bryan Allen (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Bryan Allen",
@@ -1620,11 +1836,12 @@
    "marginPts": 9.7,
    "marginVotes": 2314,
    "reporting": "unknown",
-   "calledBy": "",
-   "note": "state site gives no per-district share counted",
-   "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 4, 8:37 AM ET (fetched)",
-   "wouldFlip": true
+   "calledBy": "AP",
+   "note": "AP call 1:27 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/pennsylvania/state-house-district-18/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Bryan Allen",
+   "flip": true
   },
   {
    "state": "PA",
@@ -1691,7 +1908,7 @@
    "incumbent": "Rep. Brenda Pugh",
    "challenger": "Fern Leard (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "dem": {
     "name": "Fern Leard",
@@ -1707,11 +1924,12 @@
    "marginPts": -8.5,
    "marginVotes": 2181,
    "reporting": "unknown",
-   "calledBy": "",
-   "note": "state site gives no per-district share counted",
-   "source": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=13&ElectionID=117&ElectionType=G&IsActive=1",
-   "asOf": "Nov 4, 8:37 AM ET (fetched)",
-   "wouldFlip": false
+   "calledBy": "AP",
+   "note": "AP call 1:36 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/pennsylvania/state-house-district-120/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Brenda Pugh",
+   "flip": false
   },
   {
    "state": "MI",
@@ -1961,27 +2179,28 @@
    "incumbent": "Rep. Betsy Coffia (D)",
    "challenger": "",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Betsy Coffia",
-    "votes": 5965,
-    "pct": 54
+    "votes": 32791,
+    "pct": 57.18
    },
    "rep": {
     "name": "Edwin Dean",
-    "votes": 4949,
-    "pct": 44.8
+    "votes": 23773,
+    "pct": 41.45
    },
-   "other": 126,
-   "marginPts": 9.2,
-   "marginVotes": 1016,
-   "reporting": "26%",
-   "calledBy": "",
-   "note": "% is precincts reporting; other = Libertarian; not refreshed this run",
-   "source": "https://www.clickondetroit.com/decision-2026/2026/11/02/2026-michigan-state-house-general-election-results/",
-   "asOf": "Nov 4, 12:40 AM ET (fetched; page update time not shown)",
-   "wouldFlip": false
+   "other": 787,
+   "marginPts": 15.7,
+   "marginVotes": 9018,
+   "reporting": "~99%",
+   "calledBy": "AP",
+   "note": "AP call 3:37 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/michigan/state-house-district-103/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Betsy Coffia",
+   "flip": false
   },
   {
    "state": "MI",
@@ -2080,27 +2299,28 @@
    "incumbent": "Rep. Mai Xiong (D)",
    "challenger": "",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Mai Xiong",
-    "votes": 15022,
-    "pct": 61.1
+    "votes": 24417,
+    "pct": 60.01
    },
    "rep": {
     "name": "Mark Foster",
-    "votes": 9567,
-    "pct": 38.9
+    "votes": 16272,
+    "pct": 39.99
    },
    "other": 0,
-   "marginPts": 22.2,
-   "marginVotes": 5455,
-   "reporting": "33%",
-   "calledBy": "",
-   "note": "% is precincts reporting; not refreshed this run",
-   "source": "https://www.clickondetroit.com/decision-2026/2026/11/02/2026-michigan-state-house-general-election-results/",
-   "asOf": "Nov 4, 12:40 AM ET (fetched; page update time not shown)",
-   "wouldFlip": false
+   "marginPts": 20.0,
+   "marginVotes": 8145,
+   "reporting": "~99%",
+   "calledBy": "AP",
+   "note": "AP call 1:29 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/michigan/state-house-district-13/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Mai Xiong",
+   "flip": false
   },
   {
    "state": "MI",
@@ -2141,27 +2361,28 @@
    "others": [
     "Lisa McIntyre (D)"
    ],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Lisa McIntyre",
-    "votes": 10827,
-    "pct": 58.3
+    "votes": 30059,
+    "pct": 55.76
    },
    "rep": {
     "name": "Casey Noce",
-    "votes": 7733,
-    "pct": 41.7
+    "votes": 23846,
+    "pct": 44.24
    },
    "other": 0,
-   "marginPts": 16.7,
-   "marginVotes": 3094,
-   "reporting": "14%",
-   "calledBy": "",
-   "note": "% is precincts reporting; open seat; not refreshed this run",
-   "source": "https://www.clickondetroit.com/decision-2026/2026/11/02/2026-michigan-state-house-general-election-results/",
-   "asOf": "Nov 4, 12:40 AM ET (fetched; page update time not shown)",
-   "wouldFlip": false
+   "marginPts": 11.5,
+   "marginVotes": 6213,
+   "reporting": "~85%",
+   "calledBy": "AP",
+   "note": "AP call 3:32 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/michigan/state-house-district-22/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Lisa McIntyre",
+   "flip": false
   },
   {
    "state": "MI",
@@ -2170,27 +2391,28 @@
    "incumbent": "Rep. Ron Robinson (R)",
    "challenger": "Katrina Manetta (D)",
    "others": [],
-   "status": "Counting",
-   "leader": "R",
+   "status": "Called",
+   "leader": "D",
    "dem": {
     "name": "Katrina Manetta",
-    "votes": 7434,
-    "pct": 47.7
+    "votes": 21058,
+    "pct": 52.64
    },
    "rep": {
     "name": "Ron Robinson",
-    "votes": 8158,
-    "pct": 52.3
+    "votes": 18949,
+    "pct": 47.36
    },
    "other": 0,
-   "marginPts": -4.6,
-   "marginVotes": 724,
-   "reporting": "3%",
-   "calledBy": "",
-   "note": "% is precincts reporting; not refreshed this run",
-   "source": "https://www.clickondetroit.com/decision-2026/2026/11/02/2026-michigan-state-house-general-election-results/",
-   "asOf": "Nov 4, 12:40 AM ET (fetched; page update time not shown)",
-   "wouldFlip": false
+   "marginPts": 5.3,
+   "marginVotes": 2109,
+   "reporting": "~99%",
+   "calledBy": "AP",
+   "note": "AP call 9:17 AM ET via movement.vote",
+   "source": "https://movement.vote/election-results/2026/michigan/state-house-district-58/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Katrina Manetta",
+   "flip": true
   },
   {
    "state": "MI",
@@ -2310,26 +2532,26 @@
    "challenger": "Tom Turner (D)",
    "others": [],
    "status": "Counting",
-   "leader": "R",
+   "leader": "D",
    "dem": {
     "name": "Tom Turner",
-    "votes": 4665,
-    "pct": 39.4
+    "votes": 19854,
+    "pct": 50.37
    },
    "rep": {
     "name": "Thomas Kuhn",
-    "votes": 7187,
-    "pct": 60.6
+    "votes": 19562,
+    "pct": 49.63
    },
    "other": 0,
-   "marginPts": -21.3,
-   "marginVotes": 2522,
-   "reporting": "4%",
+   "marginPts": 0.7,
+   "marginVotes": 292,
+   "reporting": "~99%",
    "calledBy": "",
-   "note": "% is precincts reporting; not refreshed this run",
-   "source": "https://www.clickondetroit.com/decision-2026/2026/11/02/2026-michigan-state-house-general-election-results/",
-   "asOf": "Nov 4, 12:40 AM ET (fetched; page update time not shown)",
-   "wouldFlip": false
+   "note": "AP has not called (movement.vote, 11:20 AM ET)",
+   "source": "https://movement.vote/election-results/2026/michigan/state-house-district-57/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": true
   },
   {
    "state": "MI",
@@ -2396,7 +2618,7 @@
    "incumbent": "Sen. Jim Abeler (R)",
    "challenger": "Angela Nelson (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Angela Nelson",
@@ -2412,11 +2634,12 @@
    "marginPts": 7.6,
    "marginVotes": 3020,
    "reporting": "100%",
-   "calledBy": "",
-   "note": "",
-   "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "Nov 4, 1:59 AM ET",
-   "wouldFlip": true
+   "calledBy": "MPR News",
+   "note": "MPR News: Abeler among GOP lawmakers who lost",
+   "source": "https://www.mprnews.org/story/2026/11/03/control-of-minnesota-capitol-hangs-in-balance-as-voters-decide-all-201-legislative-seats",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Angela Nelson",
+   "flip": true
   },
   {
    "state": "MN",
@@ -2690,7 +2913,7 @@
    "incumbent": "Rep. Wayne Johnson (R)",
    "challenger": "Cole Birkeland (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Cole Birkeland",
@@ -2706,11 +2929,12 @@
    "marginPts": 8.2,
    "marginVotes": 2258,
    "reporting": "100%",
-   "calledBy": "",
-   "note": "",
-   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "Nov 4, 12:29 AM ET",
-   "wouldFlip": true
+   "calledBy": "MPR News",
+   "note": "MPR News: Rep. Wayne Johnson defeated",
+   "source": "https://www.mprnews.org/story/2026/11/03/control-of-minnesota-capitol-hangs-in-balance-as-voters-decide-all-201-legislative-seats",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Cole Birkeland",
+   "flip": true
   },
   {
    "state": "MN",
@@ -2808,7 +3032,7 @@
    "incumbent": "Rep. Erica Schwartz (R)",
    "challenger": "Leah Hanson (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Leah Hanson",
@@ -2824,11 +3048,12 @@
    "marginPts": 5.3,
    "marginVotes": 1089,
    "reporting": "100%",
-   "calledBy": "",
-   "note": "",
-   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "Nov 4, 1:20 AM ET",
-   "wouldFlip": true
+   "calledBy": "MPR News",
+   "note": "MPR News: Rep. Erika Schwartz defeated",
+   "source": "https://www.mprnews.org/story/2026/11/03/control-of-minnesota-capitol-hangs-in-balance-as-voters-decide-all-201-legislative-seats",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Leah Hanson",
+   "flip": true
   },
   {
    "state": "MN",
@@ -2925,7 +3150,7 @@
    "incumbent": "Rep. Jeff Dotseth (R)",
    "challenger": "Chris Swanson (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Chris Swanson",
@@ -2941,11 +3166,12 @@
    "marginPts": 11.3,
    "marginVotes": 2310,
    "reporting": "100%",
-   "calledBy": "",
-   "note": "",
-   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "Nov 4, 2:32 AM ET",
-   "wouldFlip": true
+   "calledBy": "MPR News",
+   "note": "MPR News: Rep. Jeff Dotseth defeated",
+   "source": "https://www.mprnews.org/story/2026/11/03/control-of-minnesota-capitol-hangs-in-balance-as-voters-decide-all-201-legislative-seats",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Chris Swanson",
+   "flip": true
   },
   {
    "state": "MN",
@@ -3189,7 +3415,7 @@
    "incumbent": "Rep. Danny Nadeau",
    "challenger": "Jason Heaser (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Jason Heaser",
@@ -3205,11 +3431,12 @@
    "marginPts": 4.0,
    "marginVotes": 1061,
    "reporting": "100%",
-   "calledBy": "",
-   "note": "",
-   "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "Nov 4, 1:20 AM ET",
-   "wouldFlip": true
+   "calledBy": "MPR News",
+   "note": "MPR News: Rep. Danny Nadeau defeated",
+   "source": "https://www.mprnews.org/story/2026/11/03/control-of-minnesota-capitol-hangs-in-balance-as-voters-decide-all-201-legislative-seats",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Jason Heaser",
+   "flip": true
   },
   {
    "state": "MN",
@@ -4095,22 +4322,22 @@
    "leader": "D",
    "dem": {
     "name": "Bryan Mouber",
-    "votes": 4564,
-    "pct": 58.41
+    "votes": 6157,
+    "pct": 54.75
    },
    "rep": {
     "name": "Alex Bergman",
-    "votes": 3250,
-    "pct": 41.59
+    "votes": 5089,
+    "pct": 45.25
    },
    "other": 0,
-   "marginPts": 16.8,
-   "marginVotes": 1314,
-   "reporting": "74%",
+   "marginPts": 9.5,
+   "marginVotes": 1068,
+   "reporting": "all Election Day precincts (mail/provisional pending)",
    "calledBy": "",
-   "note": "not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-28-general-election",
-   "asOf": "Nov 3, 8:47 PM ET",
+   "note": "Johnson Co. unofficial final (mail/provisional pending); DDHQ: not called",
+   "source": "https://johnsoncountypost.com/2026/11/04/unofficial-final-election-results-2026-300654/",
+   "asOf": "Nov 4, 11:29 AM ET",
    "wouldFlip": true
   },
   {
@@ -4124,22 +4351,22 @@
    "leader": "D",
    "dem": {
     "name": "Nikki McDonald",
-    "votes": 4564,
-    "pct": 63.85
+    "votes": 6255,
+    "pct": 58.54
    },
    "rep": {
     "name": "Tricia Sinclair",
-    "votes": 2584,
-    "pct": 36.15
+    "votes": 4430,
+    "pct": 41.46
    },
    "other": 0,
-   "marginPts": 27.7,
-   "marginVotes": 1980,
-   "reporting": "69%",
+   "marginPts": 17.1,
+   "marginVotes": 1825,
+   "reporting": "all Election Day precincts (mail/provisional pending)",
    "calledBy": "",
-   "note": "R nominee Tricia Sinclair; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-49-general-election",
-   "asOf": "Nov 3, 8:49 PM ET",
+   "note": "Johnson Co. unofficial final (mail/provisional pending); DDHQ: not called",
+   "source": "https://johnsoncountypost.com/2026/11/04/unofficial-final-election-results-2026-300654/",
+   "asOf": "Nov 4, 11:29 AM ET",
    "wouldFlip": false
   },
   {
@@ -4153,22 +4380,22 @@
    "leader": "D",
    "dem": {
     "name": "Allison Hougland",
-    "votes": 2355,
-    "pct": 59.38
+    "votes": 3794,
+    "pct": 57.44
    },
    "rep": {
     "name": "Lauren Bohi",
-    "votes": 1611,
-    "pct": 40.62
+    "votes": 2811,
+    "pct": 42.56
    },
    "other": 0,
-   "marginPts": 18.8,
-   "marginVotes": 744,
-   "reporting": "55%",
+   "marginPts": 14.9,
+   "marginVotes": 983,
+   "reporting": "all Election Day precincts (mail/provisional pending)",
    "calledBy": "",
-   "note": "not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-15-general-election",
-   "asOf": "Nov 3, 8:47 PM ET",
+   "note": "Johnson Co. unofficial final (mail/provisional pending); DDHQ: not called",
+   "source": "https://johnsoncountypost.com/2026/11/04/unofficial-final-election-results-2026-300654/",
+   "asOf": "Nov 4, 11:29 AM ET",
    "wouldFlip": true
   },
   {
@@ -4182,22 +4409,22 @@
    "leader": "D",
    "dem": {
     "name": "Sherry Giebler",
-    "votes": 5249,
-    "pct": 61.33
+    "votes": 7392,
+    "pct": 55.52
    },
    "rep": {
     "name": "Charlotte Esau",
-    "votes": 3309,
-    "pct": 38.67
+    "votes": 5923,
+    "pct": 44.48
    },
    "other": 0,
-   "marginPts": 22.7,
-   "marginVotes": 1940,
-   "reporting": "72%",
+   "marginPts": 11.0,
+   "marginVotes": 1469,
+   "reporting": "all Election Day precincts (mail/provisional pending)",
    "calledBy": "",
-   "note": "not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-14-general-election",
-   "asOf": "Nov 3, 8:44 PM ET",
+   "note": "Johnson Co. unofficial final (mail/provisional pending); DDHQ: not called",
+   "source": "https://johnsoncountypost.com/2026/11/04/unofficial-final-election-results-2026-300654/",
+   "asOf": "Nov 4, 11:29 AM ET",
    "wouldFlip": true
   },
   {
@@ -4211,22 +4438,22 @@
    "leader": "D",
    "dem": {
     "name": "Zach Maier",
-    "votes": 4593,
-    "pct": 58.58
+    "votes": 6206,
+    "pct": 54.15
    },
    "rep": {
     "name": "Angela Stiens",
-    "votes": 3247,
-    "pct": 41.42
+    "votes": 5255,
+    "pct": 45.85
    },
    "other": 0,
-   "marginPts": 17.2,
-   "marginVotes": 1346,
-   "reporting": "74%",
+   "marginPts": 8.3,
+   "marginVotes": 951,
+   "reporting": "all Election Day precincts (mail/provisional pending)",
    "calledBy": "",
-   "note": "not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-39-general-election",
-   "asOf": "Nov 3, 8:48 PM ET",
+   "note": "Johnson Co. unofficial final (mail/provisional pending); DDHQ: not called",
+   "source": "https://johnsoncountypost.com/2026/11/04/unofficial-final-election-results-2026-300654/",
+   "asOf": "Nov 4, 11:29 AM ET",
    "wouldFlip": true
   },
   {
@@ -4266,27 +4493,28 @@
    "incumbent": "Mike Dodson (R)",
    "challenger": "Brenda Bandy (D)",
    "others": [],
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "dem": {
     "name": "Brenda Bandy",
-    "votes": 2380,
-    "pct": 59.12
+    "votes": 4943,
+    "pct": 52.74
    },
    "rep": {
     "name": "Stacy Kohlmeier",
-    "votes": 1646,
-    "pct": 40.88
+    "votes": 4429,
+    "pct": 47.26
    },
    "other": 0,
-   "marginPts": 18.2,
-   "marginVotes": 734,
-   "reporting": "50%",
-   "calledBy": "",
-   "note": "ballot lists Stacy Kohlmeier as R nominee; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-67-general-election",
-   "asOf": "Nov 3, 8:30 PM ET",
-   "wouldFlip": true
+   "marginPts": 5.5,
+   "marginVotes": 514,
+   "reporting": "unofficial final",
+   "calledBy": "KMAN (unofficial final results)",
+   "note": "KMAN: Bandy won by 514 votes per unofficial final results; not yet called by AP/DDHQ",
+   "source": "https://1350kman.com/2026/11/bandy-defeats-kohlmeier-in-race-for-district-67/",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "winner": "Brenda Bandy",
+   "flip": true
   },
   {
    "state": "KS",
@@ -4299,22 +4527,22 @@
    "leader": "D",
    "dem": {
     "name": "Amelia Wiederaenders",
-    "votes": 3978,
-    "pct": 57.18
+    "votes": 5550,
+    "pct": 53.24
    },
    "rep": {
     "name": "Laura Williams",
-    "votes": 2979,
-    "pct": 42.82
+    "votes": 4874,
+    "pct": 46.76
    },
    "other": 0,
-   "marginPts": 14.4,
-   "marginVotes": 999,
-   "reporting": "70%",
+   "marginPts": 6.5,
+   "marginVotes": 676,
+   "reporting": "all Election Day precincts (mail/provisional pending)",
    "calledBy": "",
-   "note": "ballot lists Amelia Wiederaenders as D nominee; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-state-house-30-general-election",
-   "asOf": "Nov 3, 8:48 PM ET",
+   "note": "Johnson Co. unofficial final (mail/provisional pending); DDHQ: not called",
+   "source": "https://johnsoncountypost.com/2026/11/04/unofficial-final-election-results-2026-300654/",
+   "asOf": "Nov 4, 11:29 AM ET",
    "wouldFlip": true
   },
   {
@@ -4324,18 +4552,27 @@
    "incumbent": "George Dungan (D)",
    "challenger": "Tobias Howard (R)",
    "others": [],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "George Dungan",
+    "votes": 7057,
+    "pct": 66.95
+   },
+   "rep": {
+    "name": "Tobias Howard",
+    "votes": 3484,
+    "pct": 33.05
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 33.9,
+   "marginVotes": 3573,
+   "reporting": "78%",
    "calledBy": "",
-   "note": "source slow/unavailable — NE state results site still shows 0 precincts (last updated Oct 29); no other source found",
-   "source": "https://electionresults.nebraska.gov/resultsSW.aspx?type=LD&map=DIST",
-   "asOf": "Nov 4, 8:42 AM ET (fetched)"
+   "note": "DDHQ, not called; nonpartisan ballot",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-unicameral-legislature-26-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": false
   },
   {
    "state": "NE",
@@ -4344,18 +4581,27 @@
    "incumbent": "John Fredrickson (D)",
    "challenger": "Chris Anderson (R)",
    "others": [],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "John Fredrickson",
+    "votes": 9501,
+    "pct": 60.71
+   },
+   "rep": {
+    "name": "Chris Anderson",
+    "votes": 6150,
+    "pct": 39.29
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 21.4,
+   "marginVotes": 3351,
+   "reporting": ">95%",
    "calledBy": "",
-   "note": "source slow/unavailable — NE state results site still shows 0 precincts (last updated Oct 29); no other source found",
-   "source": "https://electionresults.nebraska.gov/resultsSW.aspx?type=LD&map=DIST",
-   "asOf": "Nov 4, 8:42 AM ET (fetched)"
+   "note": "DDHQ, not called; nonpartisan ballot",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-unicameral-legislature-20-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": false
   },
   {
    "state": "NE",
@@ -4364,18 +4610,27 @@
    "incumbent": "Merv Riepe (R)",
    "challenger": "Christy Knorr (D)",
    "others": [],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "Christy Knorr",
+    "votes": 6464,
+    "pct": 55.65
+   },
+   "rep": {
+    "name": "Merv Riepe",
+    "votes": 5151,
+    "pct": 44.35
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 11.3,
+   "marginVotes": 1313,
+   "reporting": ">95%",
    "calledBy": "",
-   "note": "source slow/unavailable — NE state results site still shows 0 precincts (last updated Oct 29); no other source found",
-   "source": "https://electionresults.nebraska.gov/resultsSW.aspx?type=LD&map=DIST",
-   "asOf": "Nov 4, 8:42 AM ET (fetched)"
+   "note": "DDHQ, not called; nonpartisan ballot",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-unicameral-legislature-12-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": true
   },
   {
    "state": "NE",
@@ -4384,18 +4639,27 @@
    "incumbent": "Brand von Gillern (R)",
    "challenger": "Cindy Maxwell-Ostdiek (D)",
    "others": [],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "Cindy Maxwell-Ostdiek",
+    "votes": 8739,
+    "pct": 50.85
+   },
+   "rep": {
+    "name": "R. Brad von Gillern",
+    "votes": 8447,
+    "pct": 49.15
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 1.7,
+   "marginVotes": 292,
+   "reporting": ">95%",
    "calledBy": "",
-   "note": "source slow/unavailable — NE state results site still shows 0 precincts (last updated Oct 29); no other source found",
-   "source": "https://electionresults.nebraska.gov/resultsSW.aspx?type=LD&map=DIST",
-   "asOf": "Nov 4, 8:42 AM ET (fetched)"
+   "note": "DDHQ, not called; nonpartisan ballot",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-unicameral-legislature-4-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": true
   },
   {
    "state": "NE",
@@ -4406,18 +4670,27 @@
    "others": [
     "Cindy Johnson (D)"
    ],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "Cindy Johnson",
+    "votes": 7687,
+    "pct": 58.72
+   },
+   "rep": {
+    "name": "Rebecca Rens",
+    "votes": 5405,
+    "pct": 41.28
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 17.4,
+   "marginVotes": 2282,
+   "reporting": ">95%",
    "calledBy": "",
-   "note": "source slow/unavailable — NE state results site still shows 0 precincts (last updated Oct 29); no other source found",
-   "source": "https://electionresults.nebraska.gov/resultsSW.aspx?type=LD&map=DIST",
-   "asOf": "Nov 4, 8:42 AM ET (fetched)"
+   "note": "DDHQ, not called; nonpartisan ballot",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-unicameral-legislature-10-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": false
   },
   {
    "state": "NE",
@@ -4428,18 +4701,27 @@
    "others": [
     "Taylor Royal (R)"
    ],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "Jess Goldoni",
+    "votes": 7048,
+    "pct": 51.95
+   },
+   "rep": {
+    "name": "Taylor Royal",
+    "votes": 6518,
+    "pct": 48.05
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 3.9,
+   "marginVotes": 530,
+   "reporting": "83%",
    "calledBy": "",
-   "note": "source slow/unavailable — NE state results site still shows 0 precincts (last updated Oct 29); no other source found",
-   "source": "https://electionresults.nebraska.gov/resultsSW.aspx?type=LD&map=DIST",
-   "asOf": "Nov 4, 8:42 AM ET (fetched)"
+   "note": "DDHQ, not called; nonpartisan ballot",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-unicameral-legislature-18-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": true
   },
   {
    "state": "NE",
@@ -4450,18 +4732,27 @@
    "others": [
     "Dean Helmick (R)"
    ],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "R",
+   "dem": {
+    "name": "Caitlin Knutson",
+    "votes": 7580,
+    "pct": 49.06
+   },
+   "rep": {
+    "name": "Dean Helmick",
+    "votes": 7872,
+    "pct": 50.94
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": -1.9,
+   "marginVotes": -292,
+   "reporting": "81%",
    "calledBy": "",
-   "note": "source slow/unavailable — NE state results site still shows 0 precincts (last updated Oct 29); no other source found",
-   "source": "https://electionresults.nebraska.gov/resultsSW.aspx?type=LD&map=DIST",
-   "asOf": "Nov 4, 8:42 AM ET (fetched)"
+   "note": "DDHQ, not called; nonpartisan ballot",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-unicameral-legislature-2-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": false
   },
   {
    "state": "CO",
@@ -4769,18 +5060,27 @@
    "incumbent": "Phil Fortunato (R)",
    "challenger": "Tamara Stramel (D)",
    "others": [],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "R",
+   "dem": {
+    "name": "Tamara Stramel",
+    "votes": 20130,
+    "pct": 46.35
+   },
+   "rep": {
+    "name": "Phil Fortunato",
+    "votes": 23299,
+    "pct": 53.65
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": -7.3,
+   "marginVotes": -3169,
+   "reporting": "67% (election night)",
    "calledBy": "",
-   "note": "source slow/unavailable — WA results site unreachable, WA not in feed, Poliwave/MultiState show no counts",
-   "source": "https://www.poliwave.com/us/live/midterms-2026/washington/state-senate",
-   "asOf": "Nov 4, 8:45 AM ET (checked)"
+   "note": "DDHQ, not called; WA mail count continues for days",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/washington-state-senate-31-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": false
   },
   {
    "state": "WA",
@@ -4789,8 +5089,8 @@
    "incumbent": "Drew MacEwen (R)",
    "challenger": "Carolina Mejia (D)",
    "others": [],
-   "status": "Not found",
-   "leader": null,
+   "status": "Counting",
+   "leader": "D",
    "dem": {},
    "rep": {},
    "other": 0,
@@ -4798,9 +5098,10 @@
    "marginVotes": null,
    "reporting": "unknown",
    "calledBy": "",
-   "note": "source slow/unavailable — WA results site unreachable, WA not in feed, Poliwave/MultiState show no counts",
-   "source": "https://www.poliwave.com/us/live/midterms-2026/washington/state-senate",
-   "asOf": "Nov 4, 8:45 AM ET (checked)"
+   "note": "WA State Standard: Mejia leads by ~3 pts (1,380 votes of 43,000 counted, election night); no per-candidate totals found",
+   "source": "https://www.yahoo.com/news/politics/articles/rough-election-night-republicans-wa-061022391.html",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": true
   },
   {
    "state": "WA",
@@ -4809,18 +5110,27 @@
    "incumbent": "David Stuebe (R)",
    "challenger": "Diana Perez (D)",
    "others": [],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "Diana H. Perez",
+    "votes": 26882,
+    "pct": 58.27
+   },
+   "rep": {
+    "name": "David Stuebe",
+    "votes": 19251,
+    "pct": 41.73
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 16.5,
+   "marginVotes": 7631,
+   "reporting": "Clark County only (election night)",
    "calledBy": "",
-   "note": "source slow/unavailable — WA results site unreachable, WA not in feed, Poliwave/MultiState show no counts",
-   "source": "https://www.poliwave.com/us/live/midterms-2026/washington/state-senate",
-   "asOf": "Nov 4, 8:45 AM ET (checked)"
+   "note": "Clark County Report No. 1 (8:01 PM PT); Skamania/Klickitat not included; counting continues",
+   "source": "https://clark.wa.gov/sites/default/files/media/document/2026-11/report_no-1-11-3-2026_08-02-02_pm.pdf",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": true
   },
   {
    "state": "WA",
@@ -4851,18 +5161,27 @@
    "others": [
     "Katy Cornell (R)"
    ],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "Renee Hernandez Greenfield",
+    "votes": 31204,
+    "pct": 54.87
+   },
+   "rep": {
+    "name": "Katy Cornell",
+    "votes": 25660,
+    "pct": 45.13
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 9.7,
+   "marginVotes": 5544,
+   "reporting": "~80% (election night)",
    "calledBy": "",
-   "note": "source slow/unavailable — WA results site unreachable, WA not in feed, Poliwave/MultiState show no counts",
-   "source": "https://www.poliwave.com/us/live/midterms-2026/washington/state-senate",
-   "asOf": "Nov 4, 8:45 AM ET (checked)"
+   "note": "DDHQ, not called; WA mail count continues for days",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/washington-state-house-26-position-2-general-election",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": true
   },
   {
    "state": "WA",
@@ -4891,18 +5210,27 @@
    "incumbent": "Kevin Waters (R)",
    "challenger": "Ben Christly (D)",
    "others": [],
-   "status": "Not found",
-   "leader": null,
-   "dem": {},
-   "rep": {},
+   "status": "Counting",
+   "leader": "D",
+   "dem": {
+    "name": "Ben Christly",
+    "votes": 26789,
+    "pct": 58.14
+   },
+   "rep": {
+    "name": "Kevin Waters",
+    "votes": 19285,
+    "pct": 41.86
+   },
    "other": 0,
-   "marginPts": null,
-   "marginVotes": null,
-   "reporting": "unknown",
+   "marginPts": 16.3,
+   "marginVotes": 7504,
+   "reporting": "Clark County only (election night)",
    "calledBy": "",
-   "note": "source slow/unavailable — WA results site unreachable, WA not in feed, Poliwave/MultiState show no counts",
-   "source": "https://www.poliwave.com/us/live/midterms-2026/washington/state-senate",
-   "asOf": "Nov 4, 8:45 AM ET (checked)"
+   "note": "Clark County Report No. 1 (8:01 PM PT); Skamania/Klickitat not included; counting continues",
+   "source": "https://clark.wa.gov/sites/default/files/media/document/2026-11/report_no-1-11-3-2026_08-02-02_pm.pdf",
+   "asOf": "Nov 4, 11:29 AM ET",
+   "wouldFlip": true
   },
   {
    "state": "AK",
