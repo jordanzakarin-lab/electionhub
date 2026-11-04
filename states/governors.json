@@ -1,78 +1,98 @@
 {
- "updated": "2026-11-03T21:01:00-05:00",
+ "updated": "2026-11-03T20:59:20-05:00",
  "sample": false,
  "races": [
   {
    "id": "FL-GOV",
    "status": "Called",
    "leader": "R",
-   "reporting": "93.4%",
+   "reporting": "96%",
    "dem": {
     "name": "David Jolly",
-    "votes": 3832323,
-    "pct": 49.2
+    "votes": 3936201,
+    "pct": 48.8
    },
    "rep": {
     "name": "Byron Donalds",
-    "votes": 3865904,
-    "pct": 49.6
+    "votes": 4029009,
+    "pct": 50.0
    },
-   "marginPts": -0.4,
-   "marginVotes": 33581,
+   "marginPts": -1.2,
+   "marginVotes": 92808,
    "calledBy": "DDHQ",
-   "source": "https://thehill.com/homenews/campaign/6134195-byron-donalds-florida-governor-win/",
-   "asOf": "2026-11-03T21:01:00-05:00"
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-governor-general-election",
+   "asOf": "2026-11-03T20:59:20-05:00",
+   "ddhqUpdated": "2026-11-04 01:51:23.553526+00",
+   "others": [
+    {
+     "name": "Scott Jewett",
+     "party": "LIB",
+     "votes": 36679,
+     "pct": 0.5
+    },
+    {
+     "name": "Frank Russo",
+     "party": "NPA",
+     "votes": 22540,
+     "pct": 0.3
+    },
+    {
+     "name": "Charles Burkett",
+     "party": "NPA",
+     "votes": 14773,
+     "pct": 0.2
+    }
+   ]
   },
   {
    "id": "GA-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "29%",
+   "reporting": "68%",
    "dem": {
     "name": "Keisha Lance Bottoms",
-    "votes": 852128,
-    "pct": 60.2
+    "votes": 1621456,
+    "pct": 56.0
    },
    "rep": {
     "name": "Rick Jackson",
-    "votes": 563143,
-    "pct": 39.8
+    "votes": 1273722,
+    "pct": 44.0
    },
-   "marginPts": 20.4,
-   "marginVotes": 288985,
+   "marginPts": 12.0,
+   "marginVotes": 347734,
    "calledBy": null,
-   "source": "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
-   "asOf": "2026-11-03T19:50:00-05:00",
-   "others": [],
-   "note": "Votes: Georgia Secretary of State (62 of 159 counties). % in: AP estimate as of 7:40 PM (a floor)."
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-governor-general-election",
+   "asOf": "2026-11-03T20:59:20-05:00",
+   "ddhqUpdated": "2026-11-04 01:57:10.661437+00"
   },
   {
    "id": "NH-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "6%",
+   "reporting": "36%",
    "dem": {
     "name": "Cinde Warmington",
-    "votes": 16444,
-    "pct": 52.9
+    "votes": 106233,
+    "pct": 50.8
    },
    "rep": {
     "name": "Kelly Ayotte",
-    "votes": 14092,
-    "pct": 45.4
+    "votes": 99736,
+    "pct": 47.7
    },
-   "marginPts": 7.6,
-   "marginVotes": 2352,
+   "marginPts": 3.1,
+   "marginVotes": 6497,
    "calledBy": null,
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-governor-general-election",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "ddhqUpdated": "2026-11-04 00:27:12.055092+00",
+   "asOf": "2026-11-03T20:59:20-05:00",
+   "ddhqUpdated": "2026-11-04 01:52:04.159202+00",
    "others": [
     {
      "name": "Stephen Villee",
      "party": "LIB",
-     "votes": 537,
-     "pct": 1.7
+     "votes": 3293,
+     "pct": 1.6
     }
    ]
   },
@@ -80,44 +100,163 @@
    "id": "PA-GOV",
    "status": "Called",
    "leader": "D",
-   "reporting": null,
+   "reporting": "15%",
    "dem": {
     "name": "Josh Shapiro",
-    "votes": null,
-    "pct": null
+    "votes": 701761,
+    "pct": 78.2
    },
    "rep": {
     "name": "Stacy Garrity",
-    "votes": null,
-    "pct": null
+    "votes": 187873,
+    "pct": 20.9
    },
-   "marginPts": null,
-   "marginVotes": null,
-   "calledBy": "AP",
-   "source": "https://www.fox29.com/news/josh-shapiro-wins-second-term-pennsylvania-governor-ap",
-   "asOf": "2026-11-03T20:14:05-05:00",
-   "note": "Call entered by Jordan from AP (via FOX 29; also NBC News)"
+   "marginPts": 57.2,
+   "marginVotes": 513888,
+   "calledBy": "DDHQ",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-governor-general-election",
+   "asOf": "2026-11-03T20:59:20-05:00",
+   "ddhqUpdated": "2026-11-04 01:56:46.010602+00",
+   "others": [
+    {
+     "name": "Kenneth Krawchuk",
+     "party": "LIB",
+     "votes": 8104,
+     "pct": 0.9
+    }
+   ]
   },
   {
    "id": "OH-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "",
+   "reporting": "38%",
    "dem": {
     "name": "Amy Acton",
-    "votes": 684920,
-    "pct": 66.58
+    "votes": 1075902,
+    "pct": 56.7
    },
    "rep": {
     "name": "Vivek Ramaswamy",
-    "votes": 321919,
-    "pct": 31.29
+    "votes": 769719,
+    "pct": 40.6
    },
-   "marginPts": 35.29,
-   "marginVotes": 363001,
+   "marginPts": 16.1,
+   "marginVotes": 306183,
    "calledBy": null,
-   "source": "https://en.libnanews.com/midterms-first-partial-results-in-ohio",
-   "asOf": "2026-11-03T19:52:03-05:00"
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-governor-general-election",
+   "asOf": "2026-11-03T20:59:20-05:00",
+   "ddhqUpdated": "2026-11-04 01:57:07.83226+00",
+   "others": [
+    {
+     "name": "Don Kissick",
+     "party": "LIB",
+     "votes": 50986,
+     "pct": 2.7
+    }
+   ]
+  },
+  {
+   "id": "ME-GOV",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "5%",
+   "dem": {
+    "name": "Hannah Pingree",
+    "votes": 16500,
+    "pct": 48.2
+   },
+   "rep": {
+    "name": "Bobby Charles",
+    "votes": 14974,
+    "pct": 43.8
+   },
+   "marginPts": 4.5,
+   "marginVotes": 1526,
+   "calledBy": null,
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-governor-general-election",
+   "asOf": "2026-11-03T20:59:20-05:00",
+   "ddhqUpdated": "2026-11-04 01:56:41.427798+00",
+   "others": [
+    {
+     "name": "Rick Bennett",
+     "party": "IND",
+     "votes": 2735,
+     "pct": 8.0
+    }
+   ]
+  },
+  {
+   "id": "MI-GOV",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "11%",
+   "dem": {
+    "name": "Jocelyn Benson",
+    "votes": 334998,
+    "pct": 59.2
+   },
+   "rep": {
+    "name": "John James",
+    "votes": 222843,
+    "pct": 39.4
+   },
+   "marginPts": 19.8,
+   "marginVotes": 112155,
+   "calledBy": null,
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-governor-general-election",
+   "asOf": "2026-11-03T20:59:20-05:00",
+   "ddhqUpdated": "2026-11-04 01:56:41.327018+00",
+   "others": [
+    {
+     "name": "Anthony Hudson",
+     "party": "LIB",
+     "votes": 4232,
+     "pct": 0.8
+    },
+    {
+     "name": "Douglas Campbell",
+     "party": "GRE",
+     "votes": 2065,
+     "pct": 0.4
+    },
+    {
+     "name": "Donna Brandenburg",
+     "party": "UST",
+     "votes": 1684,
+     "pct": 0.3
+    }
+   ]
+  },
+  {
+   "id": "TX-GOV",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "41%",
+   "dem": {
+    "name": "Gina Hinojosa",
+    "votes": 2263469,
+    "pct": 54.6
+   },
+   "rep": {
+    "name": "Greg Abbott",
+    "votes": 1828381,
+    "pct": 44.1
+   },
+   "marginPts": 10.5,
+   "marginVotes": 435088,
+   "calledBy": null,
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-governor-general-election",
+   "asOf": "2026-11-03T20:59:20-05:00",
+   "ddhqUpdated": "2026-11-04 01:57:15.059832+00",
+   "others": [
+    {
+     "name": "Pat Dixon",
+     "party": "LIB",
+     "votes": 52434,
+     "pct": 1.3
+    }
+   ]
   }
  ]
 }
