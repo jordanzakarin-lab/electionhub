@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:52:00-05:00",
+ "updated": "2026-11-04T14:45:00-05:00",
  "sample": false,
  "races": [
   {
@@ -536,7 +536,7 @@
   },
   {
    "id": "OH-TREAS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "99%",
    "dem": {
@@ -551,9 +551,9 @@
    },
    "marginPts": 1.1,
    "marginVotes": 49785,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-treasurer-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "calledBy": "Signal Ohio (Edwards conceded)",
+   "source": "https://signalohio.org/ohio-democrats-gain-long-lost-statewide-offices-including-attorney-general-elections-2026-midterm/",
+   "asOf": "2026-11-04T14:30:00-05:00",
    "ddhqUpdated": "2026-11-04 10:40:07.666544+00"
   },
   {
@@ -1788,7 +1788,7 @@
   },
   {
    "id": "OH-AUD",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "99%",
    "dem": {
@@ -1803,9 +1803,9 @@
    },
    "marginPts": -1.6,
    "marginVotes": 72155,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-auditor-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "calledBy": "Signal Ohio",
+   "source": "https://signalohio.org/ohio-democrats-gain-long-lost-statewide-offices-including-attorney-general-elections-2026-midterm/",
+   "asOf": "2026-11-04T14:30:00-05:00",
    "ddhqUpdated": "2026-11-04 10:40:07.666544+00"
   },
   {
@@ -2101,23 +2101,24 @@
    "id": "IA-AUD",
    "status": "Counting",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "Taylor Wettach",
-    "votes": 663777,
-    "pct": 50.2
+    "votes": 666632,
+    "pct": 50.24
    },
    "rep": {
     "name": "Chris Cournoyer",
-    "votes": 658440,
-    "pct": 49.8
+    "votes": 660159,
+    "pct": 49.76
    },
-   "marginPts": 0.4,
-   "marginVotes": 5337,
+   "marginPts": 0.48,
+   "marginVotes": 6473,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-auditor-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 08:13:10.730282+00"
+   "source": "https://iowastartingline.com/news/elections/iowa-2026-election-results/",
+   "asOf": "2026-11-04T12:32:00-05:00",
+   "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
+   "note": "All 99 counties reporting (unofficial); two-party shares"
   },
   {
    "id": "IA-GOV",
@@ -2165,25 +2166,26 @@
   },
   {
    "id": "IA-TREAS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "John Norwood",
-    "votes": 652844,
-    "pct": 49.6
+    "votes": 655763,
+    "pct": 49.65
    },
    "rep": {
     "name": "Roby Smith",
-    "votes": 663054,
-    "pct": 50.4
+    "votes": 664948,
+    "pct": 50.35
    },
-   "marginPts": -0.8,
-   "marginVotes": 10210,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-treasurer-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 08:13:10.730282+00"
+   "marginPts": -0.7,
+   "marginVotes": -9185,
+   "calledBy": "Iowa Starting Line",
+   "source": "https://iowastartingline.com/news/elections/iowa-2026-election-results/",
+   "asOf": "2026-11-04T12:32:00-05:00",
+   "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
+   "note": "All 99 counties reporting (unofficial); two-party shares"
   },
   {
    "id": "MD-AG",
