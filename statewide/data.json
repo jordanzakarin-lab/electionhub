@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T07:21:39-05:00",
+  "updated": "2026-11-04T07:34:00-05:00",
   "sample": false,
   "races": [
     {
@@ -202,7 +202,7 @@
     },
     {
       "id": "SC-AUD",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
       "reporting": "97%",
       "dem": {
@@ -217,9 +217,9 @@
       },
       "marginPts": -4.2,
       "marginVotes": 84593,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-comptroller-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "SC Daily Gazette",
+      "source": "https://www.yahoo.com/news/politics/articles/republicans-win-sc-top-accounting-071114045.html",
+      "asOf": "2026-11-04T07:34:00-05:00",
       "ddhqUpdated": "2026-11-04 06:39:05.884408+00"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "id": "SC-TREAS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
       "reporting": "98%",
       "dem": {
@@ -297,9 +297,9 @@
       },
       "marginPts": -5.2,
       "marginVotes": 104182,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-treasurer-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "SC Daily Gazette",
+      "source": "https://www.yahoo.com/news/politics/articles/republicans-win-sc-top-accounting-071114045.html",
+      "asOf": "2026-11-04T07:34:00-05:00",
       "ddhqUpdated": "2026-11-04 06:39:05.884408+00"
     },
     {
@@ -493,7 +493,7 @@
     },
     {
       "id": "FL-TREAS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
       "reporting": ">95%",
       "dem": {
@@ -508,9 +508,9 @@
       },
       "marginPts": -2.0,
       "marginVotes": 162732,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-chief-financial-officer-general-election",
-      "asOf": "2026-11-03T22:11:00-05:00"
+      "calledBy": "WUSF",
+      "source": "https://www.wusf.org/politics-issues/2026-11-04/republican-blaise-ingoglia-wins-florida-chief-financial-officer-race",
+      "asOf": "2026-11-04T07:34:00-05:00"
     },
     {
       "id": "OH-AG",

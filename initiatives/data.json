@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:21:39-05:00",
+ "updated": "2026-11-04T07:34:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -597,8 +597,8 @@
    "measure": "Economic Development Districts",
    "ballotNo": "Issue 3",
    "description": "Lets the legislature create districts and programs that make public loans and grants and issue bonds outside debt limits.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -611,10 +611,10 @@
    },
    "marginPts": -3.32,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/arkansas-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "Arkansas Advocate",
+   "note": "Call entered by Jordan from Arkansas Advocate report; no AP call found. Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.yahoo.com/news/politics/articles/arkansans-approve-3-4-proposed-065418661.html",
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -723,8 +723,8 @@
    "measure": "Free School Meals Initiative",
    "ballotNo": "Measure 2",
    "description": "Constitutional requirement: free breakfast and lunch for all K-12 students, fully reimbursed by the state.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -737,10 +737,10 @@
    },
    "marginPts": -1.2,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "KFYR reports it failed with 50.6% no (under 3,000 votes); no AP call found.",
+   "calledBy": "KFYR",
+   "note": "Call entered by Jordan from KFYR report; no AP call found. KFYR reports it failed with 50.6% no (under 3,000 votes); no AP call found.",
    "source": "https://www.kfyrtv.com/2026/11/04/north-dakota-voters-reject-constitutional-measure-free-meals-students/",
-   "asOf": "Nov 4, 7:21 AM ET"
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Education",
@@ -1965,8 +1965,8 @@
    "measure": "Block Citizen Drug Policy Initiatives",
    "ballotNo": "HJR 4",
    "description": "Gives the legislature sole power over drug policy.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -1979,10 +1979,10 @@
    },
    "marginPts": -43.18,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/idaho-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "Idaho Capital Sun",
+   "note": "Call entered by Jordan from Idaho Capital Sun report; no AP call found. Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.marijuanamoment.net/idaho-voters-reject-ballot-measure-that-would-have-restricted-their-own-ability-to-legalize-marijuana/",
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2347,8 +2347,8 @@
    "measure": "60% Vote for Constitutional Amendments",
    "ballotNo": "Measure 1",
    "description": "Future constitutional amendments would need 60% approval.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -2361,10 +2361,10 @@
    },
    "marginPts": -18.02,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/north-dakota-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "KFYR",
+   "note": "Call entered by Jordan from KFYR report; no AP call found. Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.kfyrtv.com/2026/11/04/north-dakota-voters-reject-constitutional-measure-free-meals-students/",
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2459,8 +2459,8 @@
    "measure": "Citizens-Only Voting",
    "ballotNo": "Issue 1",
    "description": "Adds explicit citizens-only voting language.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -2473,10 +2473,10 @@
    },
    "marginPts": 34.38,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/arkansas-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "Arkansas Advocate",
+   "note": "Call entered by Jordan from Arkansas Advocate report; no AP call found. Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.yahoo.com/news/politics/articles/arkansans-approve-3-4-proposed-065418661.html",
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2715,8 +2715,8 @@
    "measure": "Prohibit Government Preferential Treatment",
    "ballotNo": "Question 3",
    "description": "Bans race- or sex-based preferences, targeting DEI.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -2729,10 +2729,10 @@
    },
    "marginPts": 11.96,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/wisconsin-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "WPR",
+   "note": "Call entered by Jordan from WPR report; no AP call found. Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.wpr.org/news/wisconsin-constitutional-amendments-2026-governors-powers-dei",
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2767,8 +2767,8 @@
    "measure": "No Closing Places of Worship in Emergencies",
    "ballotNo": "Question 2",
    "description": "Bars emergency closures of houses of worship.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -2781,10 +2781,10 @@
    },
    "marginPts": -4.78,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/wisconsin-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "WPR",
+   "note": "Call entered by Jordan from WPR report; no AP call found. Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.wpr.org/news/wisconsin-constitutional-amendments-2026-governors-powers-dei",
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3101,8 +3101,8 @@
    "measure": "Right to Bear Arms",
    "ballotNo": "Issue 2",
    "description": "Constitutional right to keep and bear arms that 'shall not be infringed.'",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -3115,10 +3115,10 @@
    },
    "marginPts": 37.12,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/arkansas-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "Arkansas Advocate",
+   "note": "Call entered by Jordan from Arkansas Advocate report; no AP call found. Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.yahoo.com/news/politics/articles/arkansans-approve-3-4-proposed-065418661.html",
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Environment",
@@ -3173,8 +3173,8 @@
    "measure": "Water Infrastructure Bonds",
    "ballotNo": "Issue 4",
    "description": "Up to $500M in bonds for water, waste disposal and pollution control projects.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -3187,10 +3187,10 @@
    },
    "marginPts": 9.46,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/arkansas-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "Arkansas Advocate",
+   "note": "Call entered by Jordan from Arkansas Advocate report; no AP call found. Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "source": "https://www.yahoo.com/news/politics/articles/arkansans-approve-3-4-proposed-065418661.html",
+   "asOf": "Nov 4, 7:34 AM ET"
   },
   {
    "category": "Environment",

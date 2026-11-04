@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:21:39-05:00",
+ "updated": "2026-11-04T07:34:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2856,24 +2856,24 @@
   },
   {
    "id": "TN-04",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "Victoria Broderick",
     "votes": 95585,
-    "pct": 48.9
+    "pct": 48.87
    },
    "rep": {
     "name": "Scott DesJarlais",
     "votes": 95305,
-    "pct": 48.7
+    "pct": 48.73
    },
-   "marginPts": 0.1,
+   "marginPts": 0.14,
    "marginVotes": 280,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/tennessee-us-house-4-general-election",
-   "asOf": "2026-11-04T00:10:20-05:00",
+   "calledBy": "State officials (per WPLN)",
+   "source": "https://wpln.org/post/democrat-victoria-broderick-wins-tennessees-district-4-in-upset/",
+   "asOf": "2026-11-04T07:34:00-05:00",
    "ddhqUpdated": "2026-11-04 05:02:48.315006+00",
    "others": [
     {
@@ -2888,7 +2888,9 @@
      "votes": 1853,
      "pct": 0.9
     }
-   ]
+   ],
+   "flip": true,
+   "note": "Call entered by Jordan from WPLN report; final unofficial results, Broderick +280; no AP call yet"
   },
   {
    "id": "TN-05",
