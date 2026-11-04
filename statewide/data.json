@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:56:44-05:00",
+ "updated": "2026-11-04T01:10:41-05:00",
  "sample": false,
  "races": [
   {
@@ -2260,29 +2260,29 @@
   {
    "id": "NE-AG",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "47%",
+   "leader": "R",
+   "reporting": "",
    "dem": {
     "name": "Jocelyn Brasher",
-    "votes": 171057,
-    "pct": 53.0
+    "votes": 208548,
+    "pct": 48.7
    },
    "rep": {
     "name": "Mike Hilgers",
-    "votes": 151693,
-    "pct": 47.0
+    "votes": 219649,
+    "pct": 51.3
    },
-   "marginPts": 6.0,
-   "marginVotes": 19364,
+   "marginPts": -2.6,
+   "marginVotes": 11101,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-attorney-general-general-election",
-   "asOf": "2026-11-03T22:39:00-05:00"
+   "source": "https://norfolkdailynews.com/news/feature/unofficial-results-from-the-nebraska-general-election/article_3640088b-1475-4540-8362-c7494c7c7ec2.html",
+   "asOf": "2026-11-04T00:00:00-05:00"
   },
   {
    "id": "NE-AUD",
    "status": "Called",
    "leader": "R",
-   "reporting": "27%",
+   "reporting": "",
    "dem": {
     "name": null,
     "votes": 0,
@@ -2290,21 +2290,20 @@
    },
    "rep": {
     "name": "Mike Foley",
-    "votes": 125647,
-    "pct": 68.9
+    "votes": 279629,
+    "pct": 72.81
    },
-   "marginPts": -68.9,
-   "marginVotes": 125647,
+   "marginPts": -72.81,
+   "marginVotes": 279629,
    "calledBy": "AP",
-   "source": "https://www.klkntv.com/2026-nebraska-general-election-updates-and-results/",
-   "asOf": "2026-11-04T00:50:00-05:00",
-   "ddhqUpdated": "2026-11-04 03:16:38.496423+00",
+   "source": "https://norfolkdailynews.com/news/feature/unofficial-results-from-the-nebraska-general-election/article_3640088b-1475-4540-8362-c7494c7c7ec2.html",
+   "asOf": "2026-11-04T00:00:00-05:00",
    "others": [
     {
      "name": "John Knight",
-     "party": "AF",
-     "votes": 56731,
-     "pct": 31.1
+     "party": "AFP",
+     "votes": 104448,
+     "pct": 27.19
     }
    ]
   },
@@ -2340,52 +2339,52 @@
   {
    "id": "NE-SOS",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "46%",
+   "leader": "R",
+   "reporting": "",
    "dem": {
     "name": "Sarah Slattery",
-    "votes": 162466,
-    "pct": 51.4
+    "votes": 196665,
+    "pct": 45.51
    },
    "rep": {
     "name": "Scott Petersen",
-    "votes": 146465,
-    "pct": 46.33
+    "votes": 212410,
+    "pct": 49.15
    },
-   "marginPts": 5.07,
-   "marginVotes": 16001,
+   "marginPts": -3.64,
+   "marginVotes": 15745,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:39:00-05:00",
+   "source": "https://norfolkdailynews.com/news/feature/unofficial-results-from-the-nebraska-general-election/article_3640088b-1475-4540-8362-c7494c7c7ec2.html",
+   "asOf": "2026-11-04T00:00:00-05:00",
    "others": [
     {
      "name": "Bob Krist",
-     "party": "AF",
-     "votes": 3911,
-     "pct": 1.24
+     "party": "AFP",
+     "votes": 11111,
+     "pct": 2.57
     }
    ]
   },
   {
    "id": "NE-TREAS",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "47%",
+   "leader": "R",
+   "reporting": "",
    "dem": {
     "name": "Daniel Ebers",
-    "votes": 162519,
-    "pct": 50.54
+    "votes": 197752,
+    "pct": 46.31
    },
    "rep": {
     "name": "Joey Spellerberg",
-    "votes": 159030,
-    "pct": 49.46
+    "votes": 229259,
+    "pct": 53.69
    },
-   "marginPts": 1.08,
-   "marginVotes": 3489,
+   "marginPts": -7.38,
+   "marginVotes": 31507,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-treasurer-general-election",
-   "asOf": "2026-11-03T22:39:00-05:00"
+   "source": "https://norfolkdailynews.com/news/feature/unofficial-results-from-the-nebraska-general-election/article_3640088b-1475-4540-8362-c7494c7c7ec2.html",
+   "asOf": "2026-11-04T00:00:00-05:00"
   },
   {
    "id": "NM-AG",
@@ -3159,6 +3158,62 @@
    "calledBy": "AP",
    "source": "https://www.newson6.com/oklahoma-politics/oklahoma-state-treasurer-election-results",
    "asOf": "2026-11-04T00:58:00-05:00"
+  },
+  {
+   "id": "AK-GOV",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "11% of precincts",
+   "dem": {
+    "name": "Jonathan Kreiss-Tomkins",
+    "votes": null,
+    "pct": 55
+   },
+   "rep": {
+    "name": "Bernadette Wilson",
+    "votes": null,
+    "pct": 28
+   },
+   "marginPts": 27,
+   "marginVotes": null,
+   "calledBy": null,
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-03/democrat-jonathan-kreiss-tomkins-leads-in-alaska-governors-race",
+   "asOf": "2026-11-04T00:51:00-05:00",
+   "others": [
+    {
+     "name": "Dave Bronson",
+     "party": "R",
+     "votes": null,
+     "pct": 11
+    },
+    {
+     "name": "Treg Taylor",
+     "party": "R",
+     "votes": null,
+     "pct": 6
+    }
+   ]
+  },
+  {
+   "id": "AK-LG",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "11% of precincts",
+   "dem": {
+    "name": "Zachary Johnson",
+    "votes": null,
+    "pct": 55
+   },
+   "rep": {
+    "name": "Mike Shower",
+    "votes": null,
+    "pct": 28
+   },
+   "marginPts": 27,
+   "marginVotes": null,
+   "calledBy": null,
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-03/democrat-jonathan-kreiss-tomkins-leads-in-alaska-governors-race",
+   "asOf": "2026-11-04T00:51:00-05:00"
   }
  ]
 }
