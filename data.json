@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:35:44-05:00",
+ "updated": "2026-11-03T20:37:39-05:00",
  "sample": false,
  "races": [
   {
@@ -160,7 +160,7 @@
     "pct": 50.0
    },
    "rep": {
-    "name": "María Elvira Salazar",
+    "name": "Mar\u00eda Elvira Salazar",
     "votes": 119114,
     "pct": 50.0
    },
@@ -498,18 +498,18 @@
    "dem": {
     "name": "Roy Cooper",
     "votes": null,
-    "pct": null
+    "pct": 66.8
    },
    "rep": {
     "name": "Michael Whatley",
     "votes": null,
-    "pct": null
+    "pct": 31.6
    },
-   "marginPts": null,
+   "marginPts": 35.2,
    "marginVotes": null,
    "calledBy": "AP",
-   "source": "https://www.fox13now.com/politics/america-votes/democrat-roy-cooper-wins-north-carolina-senate-race",
-   "asOf": "2026-11-03T20:30:11-05:00"
+   "source": "https://www.wbtv.com/2026/11/04/roy-cooper-wins-2026-us-senate-race-north-carolina-ap-projects/",
+   "asOf": "2026-11-03T20:37:39-05:00"
   },
   {
    "id": "OH-SEN",
