@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:44:00-05:00",
+ "updated": "2026-11-04T01:47:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1704,7 +1704,7 @@
   },
   {
    "id": "OH-SOS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "78%",
    "dem": {
@@ -1719,13 +1719,13 @@
    },
    "marginPts": 0.27,
    "marginVotes": 10089,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:39:00-05:00"
+   "calledBy": "Signal Ohio",
+   "source": "https://signalohio.org/democrat-allison-russo-wins-ohio-secretary-of-state-election-2026-midterm/",
+   "asOf": "2026-11-04T01:47:00-05:00"
   },
   {
    "id": "TX-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "70%",
    "dem": {
@@ -1740,14 +1740,14 @@
    },
    "marginPts": 7.4,
    "marginVotes": 488683,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "Texas Tribune",
+   "source": "https://www.texastribune.org/2026/11/03/texas-nathan-johnson-mayes-middleton-attorney-general-elections-2026/",
+   "asOf": "2026-11-04T01:47:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:17.873168+00"
   },
   {
    "id": "TX-AUD",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "70%",
    "dem": {
@@ -1762,9 +1762,9 @@
    },
    "marginPts": 6.1,
    "marginVotes": 407401,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-comptroller-of-public-accounts-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "KERA/Texas Tribune",
+   "source": "https://www.kera.org/2026/11/03/sarah-eckhardt-unseats-gop-comptroller-don-huffines-in-historic-victory-for-democrats/",
+   "asOf": "2026-11-04T01:47:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:47.109387+00",
    "others": [
     {
@@ -1783,7 +1783,7 @@
   },
   {
    "id": "TX-LG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "67%",
    "dem": {
@@ -1798,9 +1798,9 @@
    },
    "marginPts": 7.2,
    "marginVotes": 461299,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-lt-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "Texas Tribune",
+   "source": "https://www.texastribune.org/2026/11/03/texas-dan-patrick-vikki-goodwin-lt-governor-election-2026/",
+   "asOf": "2026-11-04T01:47:00-05:00",
    "ddhqUpdated": "2026-11-04 03:19:58.95134+00"
   },
   {
