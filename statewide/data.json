@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:51:17-05:00",
+ "updated": "2026-11-03T23:30:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1972,14 +1972,14 @@
    ]
   },
   {
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "24%",
    "marginPts": 13.8,
    "marginVotes": 163534,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "WLUC (projection; joint ticket with governor)",
+   "source": "https://www.uppermichiganssource.com/2026/11/04/election-results-jocelyn-benson-projected-next-michigan-governor/",
+   "asOf": "2026-11-03T23:30:00-05:00",
    "id": "MI-LG",
    "dem": {
     "name": "Winnie Brinks",

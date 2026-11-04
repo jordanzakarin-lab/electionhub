@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:48:00-05:00",
+ "updated": "2026-11-03T23:30:00-05:00",
  "sample": false,
  "races": [
   {
@@ -188,7 +188,7 @@
   },
   {
    "id": "MI-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "24%",
    "dem": {
@@ -203,9 +203,9 @@
    },
    "marginPts": 13.8,
    "marginVotes": 163534,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "WLUC (projection)",
+   "source": "https://www.uppermichiganssource.com/2026/11/04/election-results-jocelyn-benson-projected-next-michigan-governor/",
+   "asOf": "2026-11-03T23:30:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:30.129034+00",
    "others": [
     {
@@ -230,7 +230,7 @@
   },
   {
    "id": "TX-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "68%",
    "dem": {
@@ -245,9 +245,9 @@
    },
    "marginPts": 7.8,
    "marginVotes": 528739,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "CNN",
+   "source": "https://www.cbsnews.com/texas/news/texas-governor-election-2026-greg-abbott-gina-hinojosa-results/",
+   "asOf": "2026-11-03T23:30:00-05:00",
    "ddhqUpdated": "2026-11-04 03:19:31.217374+00",
    "others": [
     {
