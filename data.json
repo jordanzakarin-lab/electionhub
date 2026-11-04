@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:30:00-05:00",
+ "updated": "2026-11-03T23:35:15-05:00",
  "sample": false,
  "races": [
   {
@@ -669,19 +669,19 @@
    "reporting": "100%",
    "dem": {
     "name": "Don Davis",
-    "votes": 148327,
+    "votes": 148510,
     "pct": 49.5
    },
    "rep": {
     "name": "Laurie Buckhout",
-    "votes": 141951,
+    "votes": 142019,
     "pct": 47.3
    },
    "marginPts": 2.2,
-   "marginVotes": 6376,
+   "marginVotes": 6491,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:16:09-05:00"
+   "asOf": "2026-11-03T23:24:24-05:00"
   },
   {
    "id": "OH-09",
@@ -1195,22 +1195,22 @@
    "id": "NC-13",
    "status": "Counting",
    "leader": "D",
-   "reporting": "94%",
+   "reporting": "96%",
    "dem": {
     "name": "Paul Barringer",
-    "votes": 157304,
+    "votes": 157664,
     "pct": 50.7
    },
    "rep": {
     "name": "Brad Knott",
-    "votes": 148567,
+    "votes": 149035,
     "pct": 47.9
    },
    "marginPts": 2.8,
-   "marginVotes": 8737,
+   "marginVotes": 8629,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:14:03-05:00"
+   "asOf": "2026-11-03T23:32:36-05:00"
   },
   {
    "id": "NJ-09",
@@ -1820,22 +1820,22 @@
    "id": "MN-01",
    "status": "Counting",
    "leader": "R",
-   "reporting": "37%",
+   "reporting": "44%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 54924,
-    "pct": 47.8
+    "votes": 67296,
+    "pct": 47.9
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": 59827,
-    "pct": 52.1
+    "votes": 73118,
+    "pct": 52.0
    },
-   "marginPts": -4.3,
-   "marginVotes": 4903,
+   "marginPts": -4.1,
+   "marginVotes": 5822,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-03T23:20:17-05:00"
+   "asOf": "2026-11-03T23:30:31-05:00"
   },
   {
    "id": "MN-SEN",
