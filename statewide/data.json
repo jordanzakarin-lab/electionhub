@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:15:02-05:00",
+  "updated": "2026-11-04T00:29:00-05:00",
   "sample": false,
   "races": [
     {
@@ -122,39 +122,24 @@
     },
     {
       "id": "IN-SOS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
-      "reporting": "84%",
+      "reporting": "90%",
       "dem": {
         "name": "Beau Bayh",
-        "votes": 823189,
-        "pct": 50.1
+        "votes": 940000,
+        "pct": 51.4
       },
       "rep": {
         "name": "Max Engling",
-        "votes": 728330,
-        "pct": 44.4
+        "votes": 787000,
+        "pct": 43.0
       },
-      "marginPts": 5.8,
-      "marginVotes": 94859,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/indiana-secretary-of-state-general-election",
-      "asOf": "2026-11-03T22:23:48-05:00",
-      "ddhqUpdated": "2026-11-04 03:20:16.624577+00",
-      "others": [
-        {
-          "name": "Greg Ballard",
-          "party": "LP",
-          "votes": 57769,
-          "pct": 3.5
-        },
-        {
-          "name": "Lauri Shillings",
-          "party": "LIB",
-          "votes": 32956,
-          "pct": 2.0
-        }
-      ]
+      "marginPts": 8.4,
+      "marginVotes": 153000,
+      "calledBy": "WIBC/IPM (Engling conceded)",
+      "source": "https://wibc.com/901024/bayh-wins-indiana-secretary-of-states-race/",
+      "asOf": "2026-11-04T00:29:00-05:00"
     },
     {
       "id": "IN-TREAS",
@@ -783,19 +768,19 @@
       "reporting": "",
       "dem": {
         "name": "Jerri Green",
-        "votes": 867246,
-        "pct": 42.9
+        "votes": 895412,
+        "pct": 42.81
       },
       "rep": {
         "name": "Marsha Blackburn",
-        "votes": 922863,
-        "pct": 45.6
+        "votes": 954750,
+        "pct": 45.65
       },
-      "marginPts": -2.7,
-      "marginVotes": 55617,
+      "marginPts": -2.8,
+      "marginVotes": 59338,
       "calledBy": null,
-      "source": "https://tnfirefly.com/election-night",
-      "asOf": "2026-11-03T22:51:17-05:00"
+      "source": "https://www.wsmv.com/2026/11/04/marsha-blackburn-declares-herself-winner-tennessee-governor-race-without-official-results-heres-what-we-know/",
+      "asOf": "2026-11-04T00:29:00-05:00"
     },
     {
       "id": "OK-GOV",
@@ -2148,95 +2133,85 @@
       "id": "MN-AG",
       "status": "Counting",
       "leader": "R",
-      "reporting": "3%",
+      "reporting": "11%",
       "dem": {
         "name": "Keith Ellison",
-        "votes": 30062,
-        "pct": 41.8
+        "votes": 63926,
+        "pct": 42.04
       },
       "rep": {
         "name": "Ron Schutz",
-        "votes": 41807,
-        "pct": 58.2
+        "votes": 87950,
+        "pct": 57.83
       },
-      "marginPts": -16.3,
-      "marginVotes": 11745,
+      "marginPts": -15.8,
+      "marginVotes": 24024,
       "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-attorney-general-general-election",
-      "asOf": "2026-11-03T22:23:48-05:00",
-      "ddhqUpdated": "2026-11-04 03:20:05.110169+00"
+      "source": "https://knsiradio.com/2026/11/03/election-results/",
+      "asOf": "2026-11-03T22:29:00-05:00"
     },
     {
       "id": "MN-AUD",
       "status": "Counting",
       "leader": "R",
-      "reporting": "3%",
+      "reporting": "11%",
       "dem": {
         "name": "Zack Filipovich",
-        "votes": 29109,
-        "pct": 40.5
+        "votes": 61876,
+        "pct": 40.78
       },
       "rep": {
         "name": "Scott Jensen",
-        "votes": 40801,
-        "pct": 56.8
+        "votes": 85512,
+        "pct": 56.36
       },
-      "marginPts": -16.3,
-      "marginVotes": 11692,
+      "marginPts": -15.6,
+      "marginVotes": 23636,
       "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-auditor-general-election",
-      "asOf": "2026-11-03T22:23:48-05:00",
-      "ddhqUpdated": "2026-11-04 03:20:05.374539+00",
-      "others": [
-        {
-          "name": "Jay Reeves",
-          "party": "FIP",
-          "votes": 1876,
-          "pct": 2.6
-        }
-      ]
+      "source": "https://knsiradio.com/2026/11/03/election-results/",
+      "asOf": "2026-11-03T22:29:00-05:00"
     },
     {
       "id": "MN-GOV",
-      "status": "Counting",
-      "leader": "R",
-      "reporting": "7%",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "71%",
       "dem": {
         "name": "Amy Klobuchar",
-        "votes": 38755,
-        "pct": 42
+        "votes": null,
+        "pct": 56
       },
       "rep": {
         "name": "Lisa Demuth",
-        "votes": 51840,
-        "pct": 56
+        "votes": null,
+        "pct": 42
       },
-      "marginPts": -14,
-      "marginVotes": 13085,
-      "calledBy": null,
-      "source": "https://www.kaaltv.com/2026-minnesota-midterm-election-results/",
-      "asOf": "2026-11-03T22:51:17-05:00"
+      "marginPts": 14,
+      "marginVotes": null,
+      "calledBy": "KAAL ABC 6",
+      "source": "https://www.kaaltv.com/news/election-2026-amy-klobuchar-wins-election-for-minnesota-governor/",
+      "asOf": "2026-11-04T00:29:00-05:00"
     },
     {
       "id": "MN-SOS",
       "status": "Counting",
       "leader": "R",
-      "reporting": "6%",
+      "reporting": "11%",
       "dem": {
         "name": "Steve Simon",
-        "votes": 30329,
-        "pct": 41
+        "votes": 64996,
+        "pct": 42.79
       },
       "rep": {
         "name": "Tad Jude",
-        "votes": 41409,
-        "pct": 56
+        "votes": 81851,
+        "pct": 53.89
       },
-      "marginPts": -15,
-      "marginVotes": 11080,
+      "marginPts": -11.1,
+      "marginVotes": 16855,
       "calledBy": null,
-      "source": "https://www.kaaltv.com/2026-minnesota-midterm-election-results/",
-      "asOf": "2026-11-03T22:51:17-05:00"
+      "source": "https://knsiradio.com/2026/11/03/election-results/",
+      "asOf": "2026-11-03T22:29:00-05:00"
     },
     {
       "id": "ND-AG",
@@ -2940,24 +2915,24 @@
     },
     {
       "id": "MN-LG",
-      "status": "Counting",
-      "leader": "R",
-      "reporting": "7%",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "71%",
       "dem": {
         "name": "Ben Schierer",
-        "votes": 38755,
-        "pct": 42
+        "votes": null,
+        "pct": 56
       },
       "rep": {
         "name": "Ryan Wilson",
-        "votes": 51840,
-        "pct": 56
+        "votes": null,
+        "pct": 42
       },
-      "marginPts": -14,
-      "marginVotes": 13085,
-      "calledBy": null,
-      "source": "https://www.kaaltv.com/2026-minnesota-midterm-election-results/",
-      "asOf": "2026-11-03T22:51:17-05:00"
+      "marginPts": 14,
+      "marginVotes": null,
+      "calledBy": "KAAL ABC 6",
+      "source": "https://www.kaaltv.com/news/election-2026-amy-klobuchar-wins-election-for-minnesota-governor/",
+      "asOf": "2026-11-04T00:29:00-05:00"
     },
     {
       "id": "RI-SOS",
