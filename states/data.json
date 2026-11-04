@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:08:00-05:00",
+ "updated": "2026-11-04T02:08:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -229,20 +229,20 @@
    "D": 15,
    "R": 0,
    "I": 0,
-   "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 1:00 AM): leads where 60%+ precincts reporting",
-   "asOf": "Nov 4, 1:01 AM ET",
-   "leadD": 61,
-   "leadR": 53,
+   "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 2:00 AM): leads where 60%+ precincts reporting",
+   "asOf": "Nov 4, 2:08 AM ET",
+   "leadD": 62,
+   "leadR": 57,
    "leadI": 0
   },
   "MN-S": {
    "D": 4,
    "R": 0,
    "I": 0,
-   "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 1:00 AM): leads where 60%+ precincts reporting",
-   "asOf": "Nov 4, 1:01 AM ET",
+   "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 2:00 AM): leads where 60%+ precincts reporting",
+   "asOf": "Nov 4, 2:08 AM ET",
    "leadD": 35,
-   "leadR": 27,
+   "leadR": 28,
    "leadI": 0
   },
   "MO-H": {
