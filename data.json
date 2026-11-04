@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:38:00-05:00",
+ "updated": "2026-11-04T14:22:00-05:00",
  "sample": false,
  "races": [
   {
@@ -970,7 +970,7 @@
   },
   {
    "id": "MI-07",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "98%",
    "dem": {
@@ -985,9 +985,9 @@
    },
    "marginPts": 3.3,
    "marginVotes": 13175,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-7-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "calledBy": "NBC",
+   "source": "https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-7-results",
+   "asOf": "2026-11-04T14:22:00-05:00",
    "ddhqUpdated": "2026-11-04 16:05:13.751814+00",
    "others": [
     {
@@ -996,7 +996,8 @@
      "votes": 4974,
      "pct": 1.2
     }
-   ]
+   ],
+   "note": "NBC: \"Progressive William Lawrence defeats GOP Rep. Tom Barrett in swing Michigan district.\" 97.3% counted."
   },
   {
    "id": "MI-10",
