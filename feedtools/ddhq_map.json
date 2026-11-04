@@ -1,0 +1,1205 @@
+{
+ "note": "ElectionHub race id -> Decision Desk HQ race id/slug. Built Nov 3 2026 from votes.decisiondeskhq.com state pages.",
+ "races": {
+  "AK-AL": {
+   "ddhq": 294717,
+   "file": "data.json",
+   "slug": "alaska-us-house-at-large-general-election"
+  },
+  "AK-GOV": {
+   "ddhq": 716858,
+   "file": "statewide/data.json",
+   "slug": "alaska-governor-general-election"
+  },
+  "AK-SEN": {
+   "ddhq": 294672,
+   "file": "data.json",
+   "slug": "alaska-us-senate-general-election"
+  },
+  "AL-02": {
+   "ddhq": 294711,
+   "file": "data.json",
+   "slug": "alabama-us-house-2-general-election"
+  },
+  "AL-AG": {
+   "ddhq": 700195,
+   "file": "statewide/data.json",
+   "slug": "alabama-attorney-general-general-election"
+  },
+  "AL-AUD": {
+   "ddhq": 700260,
+   "file": "statewide/data.json",
+   "slug": "alabama-auditor-general-election"
+  },
+  "AL-GOV": {
+   "ddhq": 700160,
+   "file": "statewide/data.json",
+   "slug": "alabama-governor-general-election"
+  },
+  "AL-LG": {
+   "ddhq": 700193,
+   "file": "statewide/data.json",
+   "slug": "alabama-lt-governor-general-election"
+  },
+  "AL-SOS": {
+   "ddhq": 700227,
+   "file": "statewide/data.json",
+   "slug": "alabama-secretary-of-state-general-election"
+  },
+  "AL-TREAS": {
+   "ddhq": 700259,
+   "file": "statewide/data.json",
+   "slug": "alabama-treasurer-general-election"
+  },
+  "AR-02": {
+   "ddhq": 294728,
+   "file": "data.json",
+   "slug": "arkansas-us-house-2-general-election"
+  },
+  "AR-GOV": {
+   "ddhq": 716859,
+   "file": "statewide/data.json",
+   "slug": "arkansas-governor-general-election"
+  },
+  "AR-LG": {
+   "ddhq": 784945,
+   "file": "statewide/data.json",
+   "slug": "arkansas-lt-governor-general-election"
+  },
+  "AR-SOS": {
+   "ddhq": 784947,
+   "file": "statewide/data.json",
+   "slug": "arkansas-secretary-of-state-general-election"
+  },
+  "AZ-01": {
+   "ddhq": 294718,
+   "file": "data.json",
+   "slug": "arizona-us-house-1-general-election"
+  },
+  "AZ-02": {
+   "ddhq": 294719,
+   "file": "data.json",
+   "slug": "arizona-us-house-2-general-election"
+  },
+  "AZ-06": {
+   "ddhq": 294723,
+   "file": "data.json",
+   "slug": "arizona-us-house-6-general-election"
+  },
+  "AZ-AG": {
+   "ddhq": 772352,
+   "file": "statewide/data.json",
+   "slug": "arizona-attorney-general-general-election"
+  },
+  "AZ-GOV": {
+   "ddhq": 716860,
+   "file": "states/governors.json",
+   "slug": "arizona-governor-general-election"
+  },
+  "AZ-SOS": {
+   "ddhq": 772353,
+   "file": "statewide/data.json",
+   "slug": "arizona-secretary-of-state-general-election"
+  },
+  "AZ-TREAS": {
+   "ddhq": 772354,
+   "file": "statewide/data.json",
+   "slug": "arizona-treasurer-general-election"
+  },
+  "CA-01": {
+   "ddhq": 294731,
+   "file": "data.json",
+   "slug": "california-us-house-1-general-election"
+  },
+  "CA-06": {
+   "ddhq": 294736,
+   "file": "data.json",
+   "slug": "california-us-house-6-general-election"
+  },
+  "CA-13": {
+   "ddhq": 294743,
+   "file": "data.json",
+   "slug": "california-us-house-13-general-election"
+  },
+  "CA-22": {
+   "ddhq": 294752,
+   "file": "data.json",
+   "slug": "california-us-house-22-general-election"
+  },
+  "CA-41": {
+   "ddhq": 294771,
+   "file": "data.json",
+   "slug": "california-us-house-41-general-election"
+  },
+  "CA-45": {
+   "ddhq": 294775,
+   "file": "data.json",
+   "slug": "california-us-house-45-general-election"
+  },
+  "CA-48": {
+   "ddhq": 294778,
+   "file": "data.json",
+   "slug": "california-us-house-48-general-election"
+  },
+  "CA-AG": {
+   "ddhq": 702338,
+   "file": "statewide/data.json",
+   "slug": "california-attorney-general-general-election"
+  },
+  "CA-AUD": {
+   "ddhq": 702339,
+   "file": "statewide/data.json",
+   "slug": "california-controller-general-election"
+  },
+  "CA-GOV": {
+   "ddhq": 702340,
+   "file": "statewide/data.json",
+   "slug": "california-governor-general-election"
+  },
+  "CA-LG": {
+   "ddhq": 702342,
+   "file": "statewide/data.json",
+   "slug": "california-lt-governor-general-election"
+  },
+  "CA-SOS": {
+   "ddhq": 702343,
+   "file": "statewide/data.json",
+   "slug": "california-secretary-of-state-general-election"
+  },
+  "CA-TREAS": {
+   "ddhq": 702345,
+   "file": "statewide/data.json",
+   "slug": "california-treasurer-general-election"
+  },
+  "CO-03": {
+   "ddhq": 294785,
+   "file": "data.json",
+   "slug": "colorado-us-house-3-general-election"
+  },
+  "CO-04": {
+   "ddhq": 294786,
+   "file": "data.json",
+   "slug": "colorado-us-house-4-general-election"
+  },
+  "CO-05": {
+   "ddhq": 294787,
+   "file": "data.json",
+   "slug": "colorado-us-house-5-general-election"
+  },
+  "CO-08": {
+   "ddhq": 294790,
+   "file": "data.json",
+   "slug": "colorado-us-house-8-general-election"
+  },
+  "CO-AG": {
+   "ddhq": 784955,
+   "file": "statewide/data.json",
+   "slug": "colorado-attorney-general-general-election"
+  },
+  "CO-GOV": {
+   "ddhq": 716861,
+   "file": "statewide/data.json",
+   "slug": "colorado-governor-general-election"
+  },
+  "CO-SOS": {
+   "ddhq": 784956,
+   "file": "statewide/data.json",
+   "slug": "colorado-secretary-of-state-general-election"
+  },
+  "CO-TREAS": {
+   "ddhq": 784957,
+   "file": "statewide/data.json",
+   "slug": "colorado-treasurer-general-election"
+  },
+  "CT-AG": {
+   "ddhq": 784958,
+   "file": "statewide/data.json",
+   "slug": "connecticut-attorney-general-general-election"
+  },
+  "CT-AUD": {
+   "ddhq": 784960,
+   "file": "statewide/data.json",
+   "slug": "connecticut-comptroller-general-election"
+  },
+  "CT-GOV": {
+   "ddhq": 716862,
+   "file": "statewide/data.json",
+   "slug": "connecticut-governor-general-election"
+  },
+  "CT-SOS": {
+   "ddhq": 784959,
+   "file": "statewide/data.json",
+   "slug": "connecticut-secretary-of-state-general-election"
+  },
+  "CT-TREAS": {
+   "ddhq": 784961,
+   "file": "statewide/data.json",
+   "slug": "connecticut-treasurer-general-election"
+  },
+  "DE-AG": {
+   "ddhq": 799372,
+   "file": "statewide/data.json",
+   "slug": "delaware-attorney-general-general-election"
+  },
+  "DE-AUD": {
+   "ddhq": 799373,
+   "file": "statewide/data.json",
+   "slug": "delaware-auditor-general-election"
+  },
+  "DE-TREAS": {
+   "ddhq": 799374,
+   "file": "statewide/data.json",
+   "slug": "delaware-treasurer-general-election"
+  },
+  "FL-07": {
+   "ddhq": 294803,
+   "file": "data.json",
+   "slug": "florida-us-house-7-general-election"
+  },
+  "FL-09": {
+   "ddhq": 294805,
+   "file": "data.json",
+   "slug": "florida-us-house-9-general-election"
+  },
+  "FL-13": {
+   "ddhq": 294809,
+   "file": "data.json",
+   "slug": "florida-us-house-13-general-election"
+  },
+  "FL-14": {
+   "ddhq": 294810,
+   "file": "data.json",
+   "slug": "florida-us-house-14-general-election"
+  },
+  "FL-16": {
+   "ddhq": 294812,
+   "file": "data.json",
+   "slug": "florida-us-house-16-general-election"
+  },
+  "FL-22": {
+   "ddhq": 294818,
+   "file": "data.json",
+   "slug": "florida-us-house-22-general-election"
+  },
+  "FL-25": {
+   "ddhq": 294821,
+   "file": "data.json",
+   "slug": "florida-us-house-25-general-election"
+  },
+  "FL-27": {
+   "ddhq": 294823,
+   "file": "data.json",
+   "slug": "florida-us-house-27-general-election"
+  },
+  "FL-AG": {
+   "ddhq": 784962,
+   "file": "statewide/data.json",
+   "slug": "florida-attorney-general-general-election"
+  },
+  "FL-GOV": {
+   "ddhq": 716891,
+   "file": "states/governors.json",
+   "slug": "florida-governor-general-election"
+  },
+  "FL-SEN": {
+   "ddhq": 294676,
+   "file": "data.json",
+   "slug": "florida-us-senate-special-election-general"
+  },
+  "GA-AG": {
+   "ddhq": 698673,
+   "file": "statewide/data.json",
+   "slug": "georgia-attorney-general-general-election"
+  },
+  "GA-GOV": {
+   "ddhq": 697741,
+   "file": "states/governors.json",
+   "slug": "georgia-governor-general-election"
+  },
+  "GA-LG": {
+   "ddhq": 703790,
+   "file": "statewide/data.json",
+   "slug": "georgia-lt-governor-general-election"
+  },
+  "GA-SEN": {
+   "ddhq": 294677,
+   "file": "data.json",
+   "slug": "georgia-us-senate-general-election"
+  },
+  "GA-SOS": {
+   "ddhq": 703791,
+   "file": "statewide/data.json",
+   "slug": "georgia-secretary-of-state-general-election"
+  },
+  "HI-GOV": {
+   "ddhq": 716892,
+   "file": "statewide/data.json",
+   "slug": "hawaii-governor-general-election"
+  },
+  "IA-01": {
+   "ddhq": 294869,
+   "file": "data.json",
+   "slug": "iowa-us-house-1-general-election"
+  },
+  "IA-02": {
+   "ddhq": 294870,
+   "file": "data.json",
+   "slug": "iowa-us-house-2-general-election"
+  },
+  "IA-03": {
+   "ddhq": 294871,
+   "file": "data.json",
+   "slug": "iowa-us-house-3-general-election"
+  },
+  "IA-AG": {
+   "ddhq": 701580,
+   "file": "statewide/data.json",
+   "slug": "iowa-attorney-general-general-election"
+  },
+  "IA-AUD": {
+   "ddhq": 701581,
+   "file": "statewide/data.json",
+   "slug": "iowa-auditor-general-election"
+  },
+  "IA-GOV": {
+   "ddhq": 701582,
+   "file": "statewide/data.json",
+   "slug": "iowa-governor-general-election"
+  },
+  "IA-SEN": {
+   "ddhq": 294680,
+   "file": "data.json",
+   "slug": "iowa-us-senate-general-election"
+  },
+  "IA-SOS": {
+   "ddhq": 701583,
+   "file": "statewide/data.json",
+   "slug": "iowa-secretary-of-state-general-election"
+  },
+  "IA-TREAS": {
+   "ddhq": 701584,
+   "file": "statewide/data.json",
+   "slug": "iowa-treasurer-general-election"
+  },
+  "ID-AG": {
+   "ddhq": 698692,
+   "file": "statewide/data.json",
+   "slug": "idaho-attorney-general-general-election"
+  },
+  "ID-AUD": {
+   "ddhq": 698775,
+   "file": "statewide/data.json",
+   "slug": "idaho-controller-general-election"
+  },
+  "ID-GOV": {
+   "ddhq": 698690,
+   "file": "statewide/data.json",
+   "slug": "idaho-governor-general-election"
+  },
+  "ID-LG": {
+   "ddhq": 698691,
+   "file": "statewide/data.json",
+   "slug": "idaho-lt-governor-general-election"
+  },
+  "ID-SOS": {
+   "ddhq": 698774,
+   "file": "statewide/data.json",
+   "slug": "idaho-secretary-of-state-general-election"
+  },
+  "ID-TREAS": {
+   "ddhq": 699962,
+   "file": "statewide/data.json",
+   "slug": "idaho-treasurer-general-election"
+  },
+  "IL-AG": {
+   "ddhq": 608025,
+   "file": "statewide/data.json",
+   "slug": "illinois-attorney-general-general-election"
+  },
+  "IL-AUD": {
+   "ddhq": 608090,
+   "file": "statewide/data.json",
+   "slug": "illinois-comptroller-general-election"
+  },
+  "IL-GOV": {
+   "ddhq": 608024,
+   "file": "statewide/data.json",
+   "slug": "illinois-governor-general-election"
+  },
+  "IL-SOS": {
+   "ddhq": 608057,
+   "file": "statewide/data.json",
+   "slug": "illinois-secretary-of-state-general-election"
+  },
+  "IL-TREAS": {
+   "ddhq": 608123,
+   "file": "statewide/data.json",
+   "slug": "illinois-treasurer-general-election"
+  },
+  "IN-01": {
+   "ddhq": 294860,
+   "file": "data.json",
+   "slug": "indiana-us-house-1-general-election"
+  },
+  "IN-05": {
+   "ddhq": 294864,
+   "file": "data.json",
+   "slug": "indiana-us-house-5-general-election"
+  },
+  "IN-AUD": {
+   "ddhq": 784966,
+   "file": "statewide/data.json",
+   "slug": "indiana-comptroller-general-election"
+  },
+  "IN-SOS": {
+   "ddhq": 784965,
+   "file": "statewide/data.json",
+   "slug": "indiana-secretary-of-state-general-election"
+  },
+  "IN-TREAS": {
+   "ddhq": 784967,
+   "file": "statewide/data.json",
+   "slug": "indiana-treasurer-general-election"
+  },
+  "KS-02": {
+   "ddhq": 294874,
+   "file": "data.json",
+   "slug": "kansas-us-house-2-general-election"
+  },
+  "KS-AG": {
+   "ddhq": 784968,
+   "file": "statewide/data.json",
+   "slug": "kansas-attorney-general-general-election"
+  },
+  "KS-GOV": {
+   "ddhq": 716893,
+   "file": "statewide/data.json",
+   "slug": "kansas-governor-general-election"
+  },
+  "KS-SEN": {
+   "ddhq": 294681,
+   "file": "data.json",
+   "slug": "kansas-us-senate-general-election"
+  },
+  "KS-SOS": {
+   "ddhq": 784969,
+   "file": "statewide/data.json",
+   "slug": "kansas-secretary-of-state-general-election"
+  },
+  "KS-TREAS": {
+   "ddhq": 784971,
+   "file": "statewide/data.json",
+   "slug": "kansas-treasurer-general-election"
+  },
+  "KY-06": {
+   "ddhq": 294882,
+   "file": "data.json",
+   "slug": "kentucky-us-house-6-general-election"
+  },
+  "MA-AG": {
+   "ddhq": 784972,
+   "file": "statewide/data.json",
+   "slug": "massachusetts-attorney-general-general-election"
+  },
+  "MA-GOV": {
+   "ddhq": 716924,
+   "file": "statewide/data.json",
+   "slug": "massachusetts-governor-general-election"
+  },
+  "MA-TREAS": {
+   "ddhq": 784975,
+   "file": "statewide/data.json",
+   "slug": "massachusetts-treasurer-general-election"
+  },
+  "MD-AG": {
+   "ddhq": 723689,
+   "file": "statewide/data.json",
+   "slug": "maryland-attorney-general-general-election"
+  },
+  "MD-AUD": {
+   "ddhq": 723690,
+   "file": "statewide/data.json",
+   "slug": "maryland-comptroller-general-election"
+  },
+  "MD-GOV": {
+   "ddhq": 716925,
+   "file": "statewide/data.json",
+   "slug": "maryland-governor-general-election"
+  },
+  "ME-02": {
+   "ddhq": 294890,
+   "file": "data.json",
+   "slug": "maine-us-house-2-general-election"
+  },
+  "ME-GOV": {
+   "ddhq": 704318,
+   "file": "states/governors.json",
+   "slug": "maine-governor-general-election"
+  },
+  "ME-SEN": {
+   "ddhq": 294684,
+   "file": "data.json",
+   "slug": "maine-us-senate-general-election"
+  },
+  "MI-04": {
+   "ddhq": 294911,
+   "file": "data.json",
+   "slug": "michigan-us-house-4-general-election"
+  },
+  "MI-07": {
+   "ddhq": 294914,
+   "file": "data.json",
+   "slug": "michigan-us-house-7-general-election"
+  },
+  "MI-08": {
+   "ddhq": 294915,
+   "file": "data.json",
+   "slug": "michigan-us-house-8-general-election"
+  },
+  "MI-10": {
+   "ddhq": 294917,
+   "file": "data.json",
+   "slug": "michigan-us-house-10-general-election"
+  },
+  "MI-AG": {
+   "ddhq": 784976,
+   "file": "statewide/data.json",
+   "slug": "michigan-attorney-general-general-election"
+  },
+  "MI-GOV": {
+   "ddhq": 716926,
+   "file": "states/governors.json",
+   "slug": "michigan-governor-general-election"
+  },
+  "MI-SEN": {
+   "ddhq": 294686,
+   "file": "data.json",
+   "slug": "michigan-us-senate-general-election"
+  },
+  "MI-SOS": {
+   "ddhq": 784977,
+   "file": "statewide/data.json",
+   "slug": "michigan-secretary-of-state-general-election"
+  },
+  "MN-01": {
+   "ddhq": 294921,
+   "file": "data.json",
+   "slug": "minnesota-us-house-1-general-election"
+  },
+  "MN-02": {
+   "ddhq": 294922,
+   "file": "data.json",
+   "slug": "minnesota-us-house-2-general-election"
+  },
+  "MN-AG": {
+   "ddhq": 784978,
+   "file": "statewide/data.json",
+   "slug": "minnesota-attorney-general-general-election"
+  },
+  "MN-AUD": {
+   "ddhq": 784980,
+   "file": "statewide/data.json",
+   "slug": "minnesota-auditor-general-election"
+  },
+  "MN-GOV": {
+   "ddhq": 716957,
+   "file": "statewide/data.json",
+   "slug": "minnesota-governor-general-election"
+  },
+  "MN-SEN": {
+   "ddhq": 294687,
+   "file": "data.json",
+   "slug": "minnesota-us-senate-general-election"
+  },
+  "MN-SOS": {
+   "ddhq": 784979,
+   "file": "statewide/data.json",
+   "slug": "minnesota-secretary-of-state-general-election"
+  },
+  "MO-02": {
+   "ddhq": 294934,
+   "file": "data.json",
+   "slug": "missouri-us-house-2-general-election"
+  },
+  "MO-AUD": {
+   "ddhq": 784981,
+   "file": "statewide/data.json",
+   "slug": "missouri-auditor-general-election"
+  },
+  "MS-SEN": {
+   "ddhq": 294688,
+   "file": "data.json",
+   "slug": "mississippi-us-senate-general-election"
+  },
+  "MT-01": {
+   "ddhq": 294941,
+   "file": "data.json",
+   "slug": "montana-us-house-1-general-election"
+  },
+  "NC-01": {
+   "ddhq": 294993,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-1-general-election"
+  },
+  "NC-03": {
+   "ddhq": 294995,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-3-general-election"
+  },
+  "NC-11": {
+   "ddhq": 295003,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-11-general-election"
+  },
+  "NC-13": {
+   "ddhq": 295005,
+   "file": "data.json",
+   "slug": "north-carolina-us-house-13-general-election"
+  },
+  "NC-SEN": {
+   "ddhq": 294694,
+   "file": "data.json",
+   "slug": "north-carolina-us-senate-general-election"
+  },
+  "ND-AG": {
+   "ddhq": 702273,
+   "file": "statewide/data.json",
+   "slug": "north-dakota-attorney-general-general-election"
+  },
+  "ND-SOS": {
+   "ddhq": 702276,
+   "file": "statewide/data.json",
+   "slug": "north-dakota-secretary-of-state-general-election"
+  },
+  "NE-01": {
+   "ddhq": 294943,
+   "file": "data.json",
+   "slug": "nebraska-us-house-1-general-election"
+  },
+  "NE-02": {
+   "ddhq": 294944,
+   "file": "data.json",
+   "slug": "nebraska-us-house-2-general-election"
+  },
+  "NE-AG": {
+   "ddhq": 695012,
+   "file": "statewide/data.json",
+   "slug": "nebraska-attorney-general-general-election"
+  },
+  "NE-AUD": {
+   "ddhq": 695014,
+   "file": "statewide/data.json",
+   "slug": "nebraska-auditor-general-election"
+  },
+  "NE-GOV": {
+   "ddhq": 694979,
+   "file": "statewide/data.json",
+   "slug": "nebraska-governor-general-election"
+  },
+  "NE-SEN": {
+   "ddhq": 294690,
+   "file": "data.json",
+   "slug": "nebraska-us-senate-general-election"
+  },
+  "NE-SOS": {
+   "ddhq": 695013,
+   "file": "statewide/data.json",
+   "slug": "nebraska-secretary-of-state-general-election"
+  },
+  "NE-TREAS": {
+   "ddhq": 695015,
+   "file": "statewide/data.json",
+   "slug": "nebraska-treasurer-general-election"
+  },
+  "NH-01": {
+   "ddhq": 294950,
+   "file": "data.json",
+   "slug": "new-hampshire-us-house-1-general-election"
+  },
+  "NH-GOV": {
+   "ddhq": 716990,
+   "file": "states/governors.json",
+   "slug": "new-hampshire-governor-general-election"
+  },
+  "NH-SEN": {
+   "ddhq": 294691,
+   "file": "data.json",
+   "slug": "new-hampshire-us-senate-general-election"
+  },
+  "NJ-07": {
+   "ddhq": 294958,
+   "file": "data.json",
+   "slug": "new-jersey-us-house-7-general-election"
+  },
+  "NJ-09": {
+   "ddhq": 294960,
+   "file": "data.json",
+   "slug": "new-jersey-us-house-9-general-election"
+  },
+  "NM-02": {
+   "ddhq": 294965,
+   "file": "data.json",
+   "slug": "new-mexico-us-house-2-general-election"
+  },
+  "NM-AG": {
+   "ddhq": 701678,
+   "file": "statewide/data.json",
+   "slug": "new-mexico-attorney-general-general-election"
+  },
+  "NM-GOV": {
+   "ddhq": 701680,
+   "file": "statewide/data.json",
+   "slug": "new-mexico-governor-general-election"
+  },
+  "NM-SOS": {
+   "ddhq": 701712,
+   "file": "statewide/data.json",
+   "slug": "new-mexico-secretary-of-state-general-election"
+  },
+  "NV-01": {
+   "ddhq": 294946,
+   "file": "data.json",
+   "slug": "nevada-us-house-1-general-election"
+  },
+  "NV-02": {
+   "ddhq": 294947,
+   "file": "data.json",
+   "slug": "nevada-us-house-2-general-election"
+  },
+  "NV-03": {
+   "ddhq": 294948,
+   "file": "data.json",
+   "slug": "nevada-us-house-3-general-election"
+  },
+  "NV-04": {
+   "ddhq": 294949,
+   "file": "data.json",
+   "slug": "nevada-us-house-4-general-election"
+  },
+  "NV-AG": {
+   "ddhq": 702305,
+   "file": "statewide/data.json",
+   "slug": "nevada-attorney-general-general-election"
+  },
+  "NV-AUD": {
+   "ddhq": 702306,
+   "file": "statewide/data.json",
+   "slug": "nevada-controller-general-election"
+  },
+  "NV-GOV": {
+   "ddhq": 702307,
+   "file": "statewide/data.json",
+   "slug": "nevada-governor-general-election"
+  },
+  "NV-LG": {
+   "ddhq": 702308,
+   "file": "statewide/data.json",
+   "slug": "nevada-lt-governor-general-election"
+  },
+  "NV-SOS": {
+   "ddhq": 702371,
+   "file": "statewide/data.json",
+   "slug": "nevada-secretary-of-state-general-election"
+  },
+  "NV-TREAS": {
+   "ddhq": 703229,
+   "file": "statewide/data.json",
+   "slug": "nevada-treasurer-general-election"
+  },
+  "NY-01": {
+   "ddhq": 294967,
+   "file": "data.json",
+   "slug": "new-york-us-house-1-general-election"
+  },
+  "NY-03": {
+   "ddhq": 294969,
+   "file": "data.json",
+   "slug": "new-york-us-house-3-general-election"
+  },
+  "NY-04": {
+   "ddhq": 294970,
+   "file": "data.json",
+   "slug": "new-york-us-house-4-general-election"
+  },
+  "NY-17": {
+   "ddhq": 294983,
+   "file": "data.json",
+   "slug": "new-york-us-house-17-general-election"
+  },
+  "NY-19": {
+   "ddhq": 294985,
+   "file": "data.json",
+   "slug": "new-york-us-house-19-general-election"
+  },
+  "NY-21": {
+   "ddhq": 294987,
+   "file": "data.json",
+   "slug": "new-york-us-house-21-general-election"
+  },
+  "NY-AG": {
+   "ddhq": 784982,
+   "file": "statewide/data.json",
+   "slug": "new-york-attorney-general-general-election"
+  },
+  "NY-AUD": {
+   "ddhq": 784983,
+   "file": "statewide/data.json",
+   "slug": "new-york-comptroller-general-election"
+  },
+  "NY-GOV": {
+   "ddhq": 716991,
+   "file": "statewide/data.json",
+   "slug": "new-york-governor-general-election"
+  },
+  "OH-01": {
+   "ddhq": 295008,
+   "file": "data.json",
+   "slug": "ohio-us-house-1-general-election"
+  },
+  "OH-07": {
+   "ddhq": 295014,
+   "file": "data.json",
+   "slug": "ohio-us-house-7-general-election"
+  },
+  "OH-09": {
+   "ddhq": 295016,
+   "file": "data.json",
+   "slug": "ohio-us-house-9-general-election"
+  },
+  "OH-10": {
+   "ddhq": 295017,
+   "file": "data.json",
+   "slug": "ohio-us-house-10-general-election"
+  },
+  "OH-13": {
+   "ddhq": 295020,
+   "file": "data.json",
+   "slug": "ohio-us-house-13-general-election"
+  },
+  "OH-15": {
+   "ddhq": 295022,
+   "file": "data.json",
+   "slug": "ohio-us-house-15-general-election"
+  },
+  "OH-AG": {
+   "ddhq": 681153,
+   "file": "statewide/data.json",
+   "slug": "ohio-attorney-general-general-election"
+  },
+  "OH-AUD": {
+   "ddhq": 681185,
+   "file": "statewide/data.json",
+   "slug": "ohio-auditor-general-election"
+  },
+  "OH-GOV": {
+   "ddhq": 681152,
+   "file": "states/governors.json",
+   "slug": "ohio-governor-general-election"
+  },
+  "OH-SEN": {
+   "ddhq": 294695,
+   "file": "data.json",
+   "slug": "ohio-us-senate-special-election-general"
+  },
+  "OH-SOS": {
+   "ddhq": 681154,
+   "file": "statewide/data.json",
+   "slug": "ohio-secretary-of-state-general-election"
+  },
+  "OH-TREAS": {
+   "ddhq": 681186,
+   "file": "statewide/data.json",
+   "slug": "ohio-treasurer-general-election"
+  },
+  "OK-AG": {
+   "ddhq": 703955,
+   "file": "statewide/data.json",
+   "slug": "oklahoma-attorney-general-general-election"
+  },
+  "OK-GOV": {
+   "ddhq": 704021,
+   "file": "statewide/data.json",
+   "slug": "oklahoma-governor-general-election"
+  },
+  "OK-LG": {
+   "ddhq": 704121,
+   "file": "statewide/data.json",
+   "slug": "oklahoma-lt-governor-general-election"
+  },
+  "OR-GOV": {
+   "ddhq": 700028,
+   "file": "statewide/data.json",
+   "slug": "oregon-governor-general-election"
+  },
+  "PA-01": {
+   "ddhq": 295034,
+   "file": "data.json",
+   "slug": "pennsylvania-us-house-1-general-election"
+  },
+  "PA-07": {
+   "ddhq": 295040,
+   "file": "data.json",
+   "slug": "pennsylvania-us-house-7-general-election"
+  },
+  "PA-08": {
+   "ddhq": 295041,
+   "file": "data.json",
+   "slug": "pennsylvania-us-house-8-general-election"
+  },
+  "PA-10": {
+   "ddhq": 295043,
+   "file": "data.json",
+   "slug": "pennsylvania-us-house-10-general-election"
+  },
+  "PA-GOV": {
+   "ddhq": 700061,
+   "file": "states/governors.json",
+   "slug": "pennsylvania-governor-general-election"
+  },
+  "RI-AG": {
+   "ddhq": 799256,
+   "file": "statewide/data.json",
+   "slug": "rhode-island-attorney-general-general-election"
+  },
+  "RI-GOV": {
+   "ddhq": 716992,
+   "file": "statewide/data.json",
+   "slug": "rhode-island-governor-general-election"
+  },
+  "RI-LG": {
+   "ddhq": 799255,
+   "file": "statewide/data.json",
+   "slug": "rhode-island-lt-governor-general-election"
+  },
+  "RI-TREAS": {
+   "ddhq": 799258,
+   "file": "statewide/data.json",
+   "slug": "rhode-island-treasurer-general-election"
+  },
+  "SC-01": {
+   "ddhq": 295053,
+   "file": "data.json",
+   "slug": "south-carolina-us-house-1-general-election"
+  },
+  "SC-AG": {
+   "ddhq": 702281,
+   "file": "statewide/data.json",
+   "slug": "south-carolina-attorney-general-general-election"
+  },
+  "SC-AUD": {
+   "ddhq": 702283,
+   "file": "statewide/data.json",
+   "slug": "south-carolina-comptroller-general-election"
+  },
+  "SC-GOV": {
+   "ddhq": 702284,
+   "file": "statewide/data.json",
+   "slug": "south-carolina-governor-general-election"
+  },
+  "SC-SEN": {
+   "ddhq": 294699,
+   "file": "data.json",
+   "slug": "south-carolina-us-senate-general-election"
+  },
+  "SC-SOS": {
+   "ddhq": 702286,
+   "file": "statewide/data.json",
+   "slug": "south-carolina-secretary-of-state-general-election"
+  },
+  "SC-TREAS": {
+   "ddhq": 702288,
+   "file": "statewide/data.json",
+   "slug": "south-carolina-treasurer-general-election"
+  },
+  "SD-AUD": {
+   "ddhq": 784986,
+   "file": "statewide/data.json",
+   "slug": "south-dakota-auditor-general-election"
+  },
+  "SD-GOV": {
+   "ddhq": 701777,
+   "file": "statewide/data.json",
+   "slug": "south-dakota-governor-general-election"
+  },
+  "SD-SOS": {
+   "ddhq": 784985,
+   "file": "statewide/data.json",
+   "slug": "south-dakota-secretary-of-state-general-election"
+  },
+  "SD-TREAS": {
+   "ddhq": 784988,
+   "file": "statewide/data.json",
+   "slug": "south-dakota-treasurer-general-election"
+  },
+  "TN-09": {
+   "ddhq": 295069,
+   "file": "data.json",
+   "slug": "tennessee-us-house-9-general-election"
+  },
+  "TN-GOV": {
+   "ddhq": 716993,
+   "file": "statewide/data.json",
+   "slug": "tennessee-governor-general-election"
+  },
+  "TX-09": {
+   "ddhq": 295078,
+   "file": "data.json",
+   "slug": "texas-us-house-9-general-election"
+  },
+  "TX-15": {
+   "ddhq": 295084,
+   "file": "data.json",
+   "slug": "texas-us-house-15-general-election"
+  },
+  "TX-23": {
+   "ddhq": 295092,
+   "file": "data.json",
+   "slug": "texas-us-house-23-general-election"
+  },
+  "TX-28": {
+   "ddhq": 295097,
+   "file": "data.json",
+   "slug": "texas-us-house-28-general-election"
+  },
+  "TX-32": {
+   "ddhq": 295101,
+   "file": "data.json",
+   "slug": "texas-us-house-32-general-election"
+  },
+  "TX-34": {
+   "ddhq": 295103,
+   "file": "data.json",
+   "slug": "texas-us-house-34-general-election"
+  },
+  "TX-35": {
+   "ddhq": 295104,
+   "file": "data.json",
+   "slug": "texas-us-house-35-general-election"
+  },
+  "TX-AG": {
+   "ddhq": 701528,
+   "file": "statewide/data.json",
+   "slug": "texas-attorney-general-general-election"
+  },
+  "TX-AUD": {
+   "ddhq": 701532,
+   "file": "statewide/data.json",
+   "slug": "texas-comptroller-of-public-accounts-general-election"
+  },
+  "TX-GOV": {
+   "ddhq": 701534,
+   "file": "states/governors.json",
+   "slug": "texas-governor-general-election"
+  },
+  "TX-LG": {
+   "ddhq": 701535,
+   "file": "statewide/data.json",
+   "slug": "texas-lt-governor-general-election"
+  },
+  "TX-SEN": {
+   "ddhq": 294702,
+   "file": "data.json",
+   "slug": "texas-us-senate-general-election"
+  },
+  "UT-01": {
+   "ddhq": 295108,
+   "file": "data.json",
+   "slug": "utah-us-house-1-general-election"
+  },
+  "VA-01": {
+   "ddhq": 295113,
+   "file": "data.json",
+   "slug": "virginia-us-house-1-general-election"
+  },
+  "VA-02": {
+   "ddhq": 295114,
+   "file": "data.json",
+   "slug": "virginia-us-house-2-general-election"
+  },
+  "VA-05": {
+   "ddhq": 295117,
+   "file": "data.json",
+   "slug": "virginia-us-house-5-general-election"
+  },
+  "VA-07": {
+   "ddhq": 295119,
+   "file": "data.json",
+   "slug": "virginia-us-house-7-general-election"
+  },
+  "VT-AG": {
+   "ddhq": 784991,
+   "file": "statewide/data.json",
+   "slug": "vermont-attorney-general-general-election"
+  },
+  "VT-AUD": {
+   "ddhq": 784993,
+   "file": "statewide/data.json",
+   "slug": "vermont-auditor-general-election"
+  },
+  "VT-GOV": {
+   "ddhq": 716994,
+   "file": "statewide/data.json",
+   "slug": "vermont-governor-general-election"
+  },
+  "VT-LG": {
+   "ddhq": 784990,
+   "file": "statewide/data.json",
+   "slug": "vermont-lt-governor-general-election"
+  },
+  "VT-SOS": {
+   "ddhq": 784992,
+   "file": "statewide/data.json",
+   "slug": "vermont-secretary-of-state-general-election"
+  },
+  "VT-TREAS": {
+   "ddhq": 784994,
+   "file": "statewide/data.json",
+   "slug": "vermont-treasurer-general-election"
+  },
+  "WA-03": {
+   "ddhq": 295126,
+   "file": "data.json",
+   "slug": "washington-us-house-3-general-election"
+  },
+  "WI-01": {
+   "ddhq": 295136,
+   "file": "data.json",
+   "slug": "wisconsin-us-house-1-general-election"
+  },
+  "WI-03": {
+   "ddhq": 295138,
+   "file": "data.json",
+   "slug": "wisconsin-us-house-3-general-election"
+  },
+  "WI-AG": {
+   "ddhq": 784995,
+   "file": "statewide/data.json",
+   "slug": "wisconsin-attorney-general-general-election"
+  },
+  "WI-GOV": {
+   "ddhq": 770252,
+   "file": "states/governors.json",
+   "slug": "wisconsin-governor-general-election"
+  },
+  "WI-SOS": {
+   "ddhq": 784996,
+   "file": "statewide/data.json",
+   "slug": "wisconsin-secretary-of-state-general-election"
+  },
+  "WI-TREAS": {
+   "ddhq": 784997,
+   "file": "statewide/data.json",
+   "slug": "wisconsin-treasurer-general-election"
+  },
+  "WY-GOV": {
+   "ddhq": 716996,
+   "file": "statewide/data.json",
+   "slug": "wyoming-governor-general-election"
+  },
+  "WY-SOS": {
+   "ddhq": 784998,
+   "file": "statewide/data.json",
+   "slug": "wyoming-secretary-of-state-general-election"
+  }
+ }
+}
