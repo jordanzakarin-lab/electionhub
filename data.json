@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:40:34-05:00",
+  "updated": "2026-11-04T00:42:00-05:00",
   "sample": false,
   "races": [
     {
@@ -935,8 +935,8 @@
     },
     {
       "id": "ME-SEN",
-      "status": "Counting",
-      "leader": "R",
+      "status": "Called",
+      "leader": "D",
       "reporting": "27%",
       "dem": {
         "name": "Troy Jackson",
@@ -950,9 +950,9 @@
       },
       "marginPts": -4.4,
       "marginVotes": 8738,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election",
-      "asOf": "2026-11-03T22:23:48-05:00",
+      "calledBy": "WGAN (Collins conceded, per CNN)",
+      "source": "https://wgan.com/news/074470-wgan-projects-troy-jackson-as-winner-in-high-stakes-maine-senate-race/",
+      "asOf": "2026-11-04T00:42:00-05:00",
       "ddhqUpdated": "2026-11-04 03:20:29.398574+00",
       "others": [
         {
