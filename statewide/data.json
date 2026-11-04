@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:32:00-05:00",
+ "updated": "2026-11-04T00:05:00-05:00",
  "sample": false,
  "races": [
   {
@@ -348,7 +348,7 @@
   },
   {
    "id": "VT-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "79%",
    "dem": {
@@ -363,9 +363,9 @@
    },
    "marginPts": -5.7,
    "marginVotes": 14107,
-   "calledBy": null,
-   "source": "https://www.poliwave.com/us/live/midterms-2026/governors/vermont",
-   "asOf": "2026-11-03T22:22:57-05:00"
+   "calledBy": "VTDigger",
+   "source": "https://vtdigger.org/2026/11/03/republican-phil-scott-wins-record-6th-term-as-vermonts-governor/",
+   "asOf": "2026-11-03T23:50:00-05:00"
   },
   {
    "id": "VT-LG",
@@ -762,19 +762,19 @@
    "reporting": "",
    "dem": {
     "name": "Doug Jones",
-    "votes": 537572,
-    "pct": 47.6
+    "votes": 719623,
+    "pct": 46.8
    },
    "rep": {
     "name": "Tommy Tuberville",
-    "votes": 587595,
-    "pct": 52.0
+    "votes": 813049,
+    "pct": 52.9
    },
-   "marginPts": -4.4,
-   "marginVotes": 50023,
+   "marginPts": -6.1,
+   "marginVotes": 93426,
    "calledBy": null,
    "source": "https://www.alreporter.com/election-results",
-   "asOf": "2026-11-03T22:51:17-05:00"
+   "asOf": "2026-11-03T23:54:00-05:00"
   },
   {
    "id": "TN-GOV",
@@ -1128,19 +1128,19 @@
    "reporting": "",
    "dem": {
     "name": "Jeffrey McLaughlin",
-    "votes": 504087,
-    "pct": 44.9
+    "votes": 673380,
+    "pct": 44.0
    },
    "rep": {
     "name": "Katherine Robertson",
-    "votes": 617511,
-    "pct": 55.0
+    "votes": 854919,
+    "pct": 55.9
    },
-   "marginPts": -10.1,
-   "marginVotes": 113424,
+   "marginPts": -11.9,
+   "marginVotes": 181539,
    "calledBy": null,
    "source": "https://www.alreporter.com/election-results",
-   "asOf": "2026-11-03T22:51:17-05:00"
+   "asOf": "2026-11-03T23:54:00-05:00"
   },
   {
    "id": "AL-AUD",
@@ -1149,19 +1149,19 @@
    "reporting": "",
    "dem": {
     "name": "Violet Edwards",
-    "votes": 498522,
-    "pct": 44.7
+    "votes": 665828,
+    "pct": 43.8
    },
    "rep": {
     "name": "Andrew Sorrell",
-    "votes": 616242,
-    "pct": 55.2
+    "votes": 853303,
+    "pct": 56.1
    },
-   "marginPts": -10.5,
-   "marginVotes": 117720,
+   "marginPts": -12.3,
+   "marginVotes": 187475,
    "calledBy": null,
    "source": "https://www.alreporter.com/election-results",
-   "asOf": "2026-11-03T22:51:17-05:00"
+   "asOf": "2026-11-03T23:54:00-05:00"
   },
   {
    "id": "AL-LG",
@@ -1170,19 +1170,19 @@
    "reporting": "",
    "dem": {
     "name": "Phillip Ensler",
-    "votes": 510449,
-    "pct": 45.4
+    "votes": 683199,
+    "pct": 44.6
    },
    "rep": {
     "name": "John Wahl",
-    "votes": 612808,
-    "pct": 54.5
+    "votes": 847481,
+    "pct": 55.3
    },
-   "marginPts": -9.1,
-   "marginVotes": 102359,
+   "marginPts": -10.7,
+   "marginVotes": 164282,
    "calledBy": null,
    "source": "https://www.alreporter.com/election-results",
-   "asOf": "2026-11-03T22:51:17-05:00"
+   "asOf": "2026-11-03T23:54:00-05:00"
   },
   {
    "id": "AL-SOS",
@@ -1191,19 +1191,19 @@
    "reporting": "",
    "dem": {
     "name": "Wayne Rogers",
-    "votes": 505456,
-    "pct": 45.2
+    "votes": 675948,
+    "pct": 44.4
    },
    "rep": {
     "name": "Caroleene Dobson",
-    "votes": 610822,
-    "pct": 54.7
+    "votes": 845350,
+    "pct": 55.5
    },
-   "marginPts": -9.5,
-   "marginVotes": 105366,
+   "marginPts": -11.1,
+   "marginVotes": 169402,
    "calledBy": null,
    "source": "https://www.alreporter.com/election-results",
-   "asOf": "2026-11-03T22:51:17-05:00"
+   "asOf": "2026-11-03T23:54:00-05:00"
   },
   {
    "id": "AL-TREAS",
@@ -1212,19 +1212,19 @@
    "reporting": "",
    "dem": {
     "name": "Rosilyn Houston",
-    "votes": 501596,
-    "pct": 44.9
+    "votes": 669776,
+    "pct": 44.0
    },
    "rep": {
     "name": "Young Boozer",
-    "votes": 615269,
-    "pct": 55.1
+    "votes": 852487,
+    "pct": 56.0
    },
-   "marginPts": -10.2,
-   "marginVotes": 113673,
+   "marginPts": -12.0,
+   "marginVotes": 182711,
    "calledBy": null,
    "source": "https://www.alreporter.com/election-results",
-   "asOf": "2026-11-03T22:51:17-05:00"
+   "asOf": "2026-11-03T23:54:00-05:00"
   },
   {
    "id": "AR-LG",
@@ -2975,6 +2975,107 @@
    "calledBy": "Boston Globe",
    "source": "https://www.bostonglobe.com/2026/11/03/metro/ri-attorney-general-race-kim-ahern-wins-first-lgbtq-state-office/",
    "asOf": "2026-11-03T22:51:17-05:00"
+  },
+  {
+   "id": "CA-GOV",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "43%",
+   "dem": {
+    "name": "Xavier Becerra",
+    "votes": 3605844,
+    "pct": 63.7
+   },
+   "rep": {
+    "name": "Steve Hilton",
+    "votes": 2052810,
+    "pct": 36.3
+   },
+   "marginPts": 27.4,
+   "marginVotes": 1553034,
+   "calledBy": "NBC",
+   "source": "https://www.nbclosangeles.com/elections/former-health-and-human-services-secretary-xavier-becerra-wins-california-governors-race/3965511/",
+   "asOf": "2026-11-03T23:55:00-05:00"
+  },
+  {
+   "id": "OR-GOV",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "35%",
+   "dem": {
+    "name": "Tina Kotek",
+    "votes": null,
+    "pct": 54.4
+   },
+   "rep": {
+    "name": "Christine Drazan",
+    "votes": null,
+    "pct": 43.0
+   },
+   "marginPts": 11.4,
+   "marginVotes": null,
+   "calledBy": null,
+   "source": "https://www.opb.org/article/2026/11/03/oregon-governors-race-election-results-kotek-drazan/",
+   "asOf": "2026-11-03T23:52:00-05:00"
+  },
+  {
+   "id": "CO-AG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Jena Griswold",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Michael Allen",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/politics/articles/democrat-jena-griswold-wins-election-030847879.html",
+   "asOf": "2026-11-04T00:00:00-05:00"
+  },
+  {
+   "id": "CA-AG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Rob Bonta",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Michael Gates",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/politics/articles/democrat-rob-bonta-wins-reelection-042811392.html",
+   "asOf": "2026-11-04T00:00:00-05:00"
+  },
+  {
+   "id": "MA-AUD",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Diana DiZoglio",
+    "votes": null,
+    "pct": null
+   },
+   "rep": null,
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.bostonglobe.com/2026/11/03/metro/massachusetts-statewide-dizoglio-goldberg-campbell-galvin/",
+   "asOf": "2026-11-04T00:00:00-05:00"
   }
  ]
 }
