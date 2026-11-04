@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:59:20-05:00",
+ "updated": "2026-11-03T21:09:25-05:00",
  "sample": false,
  "races": [
   {
@@ -294,7 +294,7 @@
   },
   {
    "id": "KY-06",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "89%",
    "dem": {
@@ -309,7 +309,7 @@
    },
    "marginPts": 14.2,
    "marginVotes": 29093,
-   "calledBy": null,
+   "calledBy": "LEX18",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kentucky-us-house-6-general-election",
    "asOf": "2026-11-03T20:59:20-05:00",
    "ddhqUpdated": "2026-11-04 01:51:36.086085+00",
@@ -326,7 +326,8 @@
      "votes": 2740,
      "pct": 1.3
     }
-   ]
+   ],
+   "callSource": "https://www.lex18.com/news/covering-kentucky/zach-dembo-wins-race-for-kentuckys-6th-congressional-district"
   },
   {
    "id": "NH-01",
