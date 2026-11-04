@@ -39,7 +39,7 @@
    "control": "D",
    "calledBy": "Arizona Democrats (declared)",
    "controlSource": "https://www.yahoo.com/news/politics/articles/trifecta-democrats-declare-victory-fight-054136223.html",
-   "note": "Control entered by Jordan; Democratic leaders declared a majority (Arizona Mirror); not called"
+   "note": "Declared victory; Democratic leaders declared a majority (Arizona Mirror); not called"
   },
   "AZ-S": {
    "D": 4,
@@ -50,7 +50,7 @@
    "control": "D",
    "calledBy": "Arizona Democrats (declared)",
    "controlSource": "https://www.yahoo.com/news/politics/articles/trifecta-democrats-declare-victory-fight-054136223.html",
-   "note": "Control entered by Jordan; Democratic leaders declared a majority (Arizona Mirror); not called"
+   "note": "Declared victory; Democratic leaders declared a majority (Arizona Mirror); not called"
   },
   "CO-H": {
    "D": 6,
@@ -179,7 +179,7 @@
    "control": "R",
    "calledBy": "Wichita Eagle",
    "controlSource": "https://www.yahoo.com/news/politics/articles/democrats-break-gop-supermajority-ks-061454633.html",
-   "note": "Control entered by Jordan; Wichita Eagle: next session R 68, D 57 (unofficial, SOS)"
+   "note": "Declared victory; Wichita Eagle: next session R 68, D 57 (unofficial, SOS)"
   },
   "KY-H": {
    "D": 9,
@@ -249,7 +249,7 @@
    "control": "D",
    "calledBy": "MPR News / MinnPost",
    "controlSource": "https://www.minnpost.com/elections/2026/11/party-like-its-2023-just-a-few-years-after-the-trifecta-the-dfl-retakes-the-minnesota-legislature/",
-   "note": "Control entered by Jordan; MPR/MinnPost headlines: DFL wins control of Minnesota House and Senate"
+   "note": "Declared victory; MPR/MinnPost headlines: DFL wins control of Minnesota House and Senate"
   },
   "MN-S": {
    "D": 4,
@@ -263,7 +263,7 @@
    "control": "D",
    "calledBy": "MPR News / MinnPost",
    "controlSource": "https://www.minnpost.com/elections/2026/11/party-like-its-2023-just-a-few-years-after-the-trifecta-the-dfl-retakes-the-minnesota-legislature/",
-   "note": "Control entered by Jordan; MPR/MinnPost headlines: DFL wins control of Minnesota House and Senate"
+   "note": "Declared victory; MPR/MinnPost headlines: DFL wins control of Minnesota House and Senate"
   },
   "MO-H": {
    "D": 25,
@@ -293,7 +293,7 @@
    "control": "D",
    "calledBy": "WFMY News 2",
    "controlSource": "https://www.yahoo.com/news/politics/articles/democrats-win-control-north-carolina-062155242.html",
-   "note": "Control entered by Jordan; WFMY: Democrats win control, D 70, R 49, U 1 (unofficial NCSBE)"
+   "note": "Declared victory; WFMY: Democrats win control, D 70, R 49, U 1 (unofficial NCSBE)"
   },
   "NC-S": {
    "D": 8,
@@ -400,7 +400,7 @@
    "control": "D",
    "calledBy": "Spotlight PA",
    "controlSource": "https://www.spotlightpa.org/news/2026/11/pennsylvania-house-election-results-legislature-control-elections/",
-   "note": "Control entered by Jordan; Spotlight PA: \"Democrats flip PA Senate, giving Shapiro a powerful trifecta\" (House Dems claim 102 seats)"
+   "note": "Declared victory; Spotlight PA: \"Democrats flip PA Senate, giving Shapiro a powerful trifecta\" (House Dems claim 102 seats)"
   },
   "PA-S": {
    "D": 3,
@@ -411,7 +411,7 @@
    "control": "D",
    "calledBy": "Spotlight PA",
    "controlSource": "https://www.spotlightpa.org/news/2026/11/pennsylvania-house-election-results-legislature-control-elections/",
-   "note": "Control entered by Jordan; Spotlight PA: \"Democrats flip PA Senate, giving Shapiro a powerful trifecta\""
+   "note": "Declared victory; Spotlight PA: \"Democrats flip PA Senate, giving Shapiro a powerful trifecta\""
   },
   "RI-H": {
    "D": 50,
@@ -542,7 +542,7 @@
    "control": "D",
    "calledBy": "Michigan Democrats (declared)",
    "controlSource": "https://www.yahoo.com/news/politics/articles/return-trifecta-michigan-democrats-reclaim-100617155.html",
-   "note": "Control entered by Jordan; Democrats declared victory (Michigan Advance); AP count D 51 of 56 needed"
+   "note": "Declared victory; Democrats declared victory (Michigan Advance); AP count D 51 of 56 needed"
   }
  },
  "races": [
@@ -3291,7 +3291,7 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "WisPolitics",
-   "note": "called by WisPolitics; call entered by Jordan from WisPolitics (no vote counts available yet); not refreshed this run",
+   "note": "called by WisPolitics; declared victory, per WisPolitics (no vote counts available yet); not refreshed this run",
    "source": "https://www.wispolitics.com/2026/dem-flip-control-of-wisconsin-assembly/",
    "asOf": "Nov 4, 12:58 AM ET"
   },
@@ -3320,7 +3320,7 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "WisPolitics",
-   "note": "called by WisPolitics; call entered by Jordan from WisPolitics (no vote counts available yet); not refreshed this run",
+   "note": "called by WisPolitics; declared victory, per WisPolitics (no vote counts available yet); not refreshed this run",
    "source": "https://www.wispolitics.com/2026/dem-flip-control-of-wisconsin-assembly/",
    "asOf": "Nov 4, 12:58 AM ET"
   },
@@ -3349,7 +3349,7 @@
    "marginVotes": null,
    "reporting": "0%",
    "calledBy": "WisPolitics",
-   "note": "called by WisPolitics; call entered by Jordan from WisPolitics (no vote counts available yet); not refreshed this run",
+   "note": "called by WisPolitics; declared victory, per WisPolitics (no vote counts available yet); not refreshed this run",
    "source": "https://www.wispolitics.com/2026/dem-flip-control-of-wisconsin-assembly/",
    "asOf": "Nov 4, 12:58 AM ET"
   },
