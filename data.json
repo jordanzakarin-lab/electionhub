@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:22:00-05:00",
+ "updated": "2026-11-04T17:36:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2392,34 +2392,34 @@
    "reporting": "81%",
    "dem": {
     "name": "JoAnna Mendoza",
-    "votes": 157413,
-    "pct": 52.9
+    "votes": 157496,
+    "pct": 52.86
    },
    "rep": {
     "name": "Juan Ciscomani",
-    "votes": 134010,
-    "pct": 45.03
+    "votes": 134306,
+    "pct": 45.07
    },
-   "marginPts": 7.87,
-   "marginVotes": 23403,
+   "marginPts": 7.79,
+   "marginVotes": 23190,
    "calledBy": "DDHQ",
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-04T17:22:00-05:00",
+   "asOf": "2026-11-04T17:36:00-05:00",
    "others": [
     {
      "name": "Jereme Peters",
      "party": "LIB",
-     "votes": 3630,
+     "votes": 3637,
      "pct": 1.2
     },
     {
      "name": "Gary Swing",
      "party": "GRE",
-     "votes": 2525,
+     "votes": 2529,
      "pct": 0.8
     }
    ],
-   "totalVotes": 297578
+   "totalVotes": 297968
   },
   {
    "id": "MN-02",
