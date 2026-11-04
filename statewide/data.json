@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:48:00-05:00",
+ "updated": "2026-11-03T22:51:17-05:00",
  "sample": false,
  "races": [
   {
@@ -369,7 +369,7 @@
   },
   {
    "id": "VT-LG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "78%",
    "dem": {
@@ -384,9 +384,9 @@
    },
    "marginPts": 23.6,
    "marginVotes": 54828,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/vermont-lt-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "VTDigger",
+   "source": "https://vtdigger.org/2026/11/03/molly-gray-elected-as-vermonts-next-lieutenant-governor/",
+   "asOf": "2026-11-03T22:51:17-05:00",
    "ddhqUpdated": "2026-11-04 03:18:22.999112+00"
   },
   {
@@ -759,65 +759,43 @@
    "id": "AL-GOV",
    "status": "Counting",
    "leader": "R",
-   "reporting": "54%",
+   "reporting": "",
    "dem": {
     "name": "Doug Jones",
-    "votes": 453474,
-    "pct": 48.3
+    "votes": 537572,
+    "pct": 47.6
    },
    "rep": {
     "name": "Tommy Tuberville",
-    "votes": 485149,
-    "pct": 51.7
+    "votes": 587595,
+    "pct": 52.0
    },
-   "marginPts": -3.4,
-   "marginVotes": 31675,
+   "marginPts": -4.4,
+   "marginVotes": 50023,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:18.957219+00"
+   "source": "https://www.alreporter.com/election-results",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "TN-GOV",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "58%",
+   "leader": "R",
+   "reporting": "",
    "dem": {
     "name": "Jerri Green",
-    "votes": 526828,
-    "pct": 47.1
+    "votes": 867246,
+    "pct": 42.9
    },
    "rep": {
     "name": "Marsha Blackburn",
-    "votes": 475188,
-    "pct": 42.5
+    "votes": 922863,
+    "pct": 45.6
    },
-   "marginPts": 4.6,
-   "marginVotes": 51640,
+   "marginPts": -2.7,
+   "marginVotes": 55617,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/tennessee-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:36.349245+00",
-   "others": [
-    {
-     "name": "David Hatley",
-     "party": "IND",
-     "votes": 95676,
-     "pct": 8.6
-    },
-    {
-     "name": "Lauren Pinkston",
-     "party": "IND",
-     "votes": 12050,
-     "pct": 1.1
-    },
-    {
-     "name": "Dean Brewer",
-     "party": "IND",
-     "votes": 1883,
-     "pct": 0.2
-    }
-   ]
+   "source": "https://tnfirefly.com/election-night",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "OK-GOV",
@@ -970,7 +948,7 @@
   },
   {
    "id": "RI-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "92%",
    "dem": {
@@ -985,14 +963,14 @@
    },
    "marginPts": 32.6,
    "marginVotes": 112353,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/rhode-island-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.bostonglobe.com/2026/11/03/metro/ri-attorney-general-race-kim-ahern-wins-first-lgbtq-state-office/",
+   "asOf": "2026-11-03T22:51:17-05:00",
    "ddhqUpdated": "2026-11-04 03:20:39.318583+00"
   },
   {
    "id": "RI-TREAS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "92%",
    "dem": {
@@ -1007,40 +985,31 @@
    },
    "marginPts": 30.3,
    "marginVotes": 104044,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/rhode-island-treasurer-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.bostonglobe.com/2026/11/03/metro/ri-attorney-general-race-kim-ahern-wins-first-lgbtq-state-office/",
+   "asOf": "2026-11-03T22:51:17-05:00",
    "ddhqUpdated": "2026-11-04 03:20:39.318583+00"
   },
   {
    "id": "AR-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "48%",
+   "reporting": "",
    "dem": {
     "name": "Fredrick Love",
-    "votes": 200222,
-    "pct": 41.8
+    "votes": 252039,
+    "pct": 40.4
    },
    "rep": {
     "name": "Sarah Huckabee Sanders",
-    "votes": 245002,
-    "pct": 51.1
+    "votes": 329721,
+    "pct": 52.8
    },
-   "marginPts": -9.3,
-   "marginVotes": 44780,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arkansas-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:56.74654+00",
-   "others": [
-    {
-     "name": "Colt Shelby",
-     "party": "LIB",
-     "votes": 34111,
-     "pct": 7.1
-    }
-   ]
+   "marginPts": -12.4,
+   "marginVotes": 77682,
+   "calledBy": "AP",
+   "source": "https://katv.com/news/local/sarah-huckabee-sanders-wins-arkansas-governor-race-ap-reports",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "OK-LG",
@@ -1156,111 +1125,106 @@
    "id": "AL-AG",
    "status": "Counting",
    "leader": "R",
-   "reporting": "47%",
+   "reporting": "",
    "dem": {
     "name": "Jeffrey McLaughlin",
-    "votes": 319074,
-    "pct": 42.0
+    "votes": 504087,
+    "pct": 44.9
    },
    "rep": {
     "name": "Katherine Robertson",
-    "votes": 441559,
-    "pct": 58.0
+    "votes": 617511,
+    "pct": 55.0
    },
-   "marginPts": -16.1,
-   "marginVotes": 122485,
+   "marginPts": -10.1,
+   "marginVotes": 113424,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:06.245417+00"
+   "source": "https://www.alreporter.com/election-results",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "AL-AUD",
    "status": "Counting",
    "leader": "R",
-   "reporting": "43%",
+   "reporting": "",
    "dem": {
     "name": "Violet Edwards",
-    "votes": 274127,
-    "pct": 39.3
+    "votes": 498522,
+    "pct": 44.7
    },
    "rep": {
     "name": "Andrew Sorrell",
-    "votes": 423602,
-    "pct": 60.7
+    "votes": 616242,
+    "pct": 55.2
    },
-   "marginPts": -21.4,
-   "marginVotes": 149475,
+   "marginPts": -10.5,
+   "marginVotes": 117720,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-auditor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:41.208107+00"
+   "source": "https://www.alreporter.com/election-results",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "AL-LG",
    "status": "Counting",
    "leader": "R",
-   "reporting": "52%",
+   "reporting": "",
    "dem": {
     "name": "Phillip Ensler",
-    "votes": 379683,
-    "pct": 44.8
+    "votes": 510449,
+    "pct": 45.4
    },
    "rep": {
     "name": "John Wahl",
-    "votes": 468748,
-    "pct": 55.2
+    "votes": 612808,
+    "pct": 54.5
    },
-   "marginPts": -10.5,
-   "marginVotes": 89065,
+   "marginPts": -9.1,
+   "marginVotes": 102359,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-lt-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:29.562541+00"
+   "source": "https://www.alreporter.com/election-results",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "AL-SOS",
    "status": "Counting",
    "leader": "R",
-   "reporting": "41%",
+   "reporting": "",
    "dem": {
     "name": "Wayne Rogers",
-    "votes": 266615,
-    "pct": 39.6
+    "votes": 505456,
+    "pct": 45.2
    },
    "rep": {
     "name": "Caroleene Dobson",
-    "votes": 407252,
-    "pct": 60.4
+    "votes": 610822,
+    "pct": 54.7
    },
-   "marginPts": -20.9,
-   "marginVotes": 140637,
+   "marginPts": -9.5,
+   "marginVotes": 105366,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:31.221145+00"
+   "source": "https://www.alreporter.com/election-results",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "AL-TREAS",
    "status": "Counting",
    "leader": "R",
-   "reporting": "43%",
+   "reporting": "",
    "dem": {
     "name": "Rosilyn Houston",
-    "votes": 271561,
-    "pct": 39.1
+    "votes": 501596,
+    "pct": 44.9
    },
    "rep": {
     "name": "Young Boozer",
-    "votes": 423081,
-    "pct": 60.9
+    "votes": 615269,
+    "pct": 55.1
    },
-   "marginPts": -21.8,
-   "marginVotes": 151520,
+   "marginPts": -10.2,
+   "marginVotes": 113673,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-treasurer-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:07.620702+00"
+   "source": "https://www.alreporter.com/election-results",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "AR-LG",
@@ -1390,7 +1354,7 @@
   },
   {
    "id": "DE-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "99%",
    "dem": {
@@ -1405,9 +1369,9 @@
    },
    "marginPts": 28.5,
    "marginVotes": 101795,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/delaware-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://whyy.org/articles/kathy-jennings-delaware-attorney-general-midterm-elections-2026/",
+   "asOf": "2026-11-03T22:51:17-05:00",
    "ddhqUpdated": "2026-11-04 03:18:50.222176+00"
   },
   {
@@ -1486,7 +1450,7 @@
   },
   {
    "id": "IL-SOS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "45%",
    "dem": {
@@ -1501,9 +1465,9 @@
    },
    "marginPts": 37.1,
    "marginVotes": 733232,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/illinois-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "NBC",
+   "source": "https://www.nbcchicago.com/news/local/chicago-politics/alexi-giannoulias-wins-reelection-as-illinois-secretary-of-state-nbc-news-projects/4011557/",
+   "asOf": "2026-11-03T22:51:17-05:00",
    "ddhqUpdated": "2026-11-04 03:20:23.090033+00"
   },
   {
@@ -2236,59 +2200,43 @@
    "id": "MN-GOV",
    "status": "Counting",
    "leader": "R",
-   "reporting": "3%",
+   "reporting": "7%",
    "dem": {
     "name": "Amy Klobuchar",
-    "votes": 30886,
-    "pct": 43.3
+    "votes": 38755,
+    "pct": 42
    },
    "rep": {
     "name": "Lisa Demuth",
-    "votes": 40410,
-    "pct": 56.7
+    "votes": 51840,
+    "pct": 56
    },
-   "marginPts": -13.4,
-   "marginVotes": 9524,
+   "marginPts": -14,
+   "marginVotes": 13085,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:05.222939+00"
+   "source": "https://www.kaaltv.com/2026-minnesota-midterm-election-results/",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "MN-SOS",
    "status": "Counting",
    "leader": "R",
-   "reporting": "2%",
+   "reporting": "6%",
    "dem": {
     "name": "Steve Simon",
-    "votes": 0,
-    "pct": 0.0
+    "votes": 30329,
+    "pct": 41
    },
    "rep": {
     "name": "Tad Jude",
-    "votes": 39082,
-    "pct": 94.2
+    "votes": 41409,
+    "pct": 56
    },
-   "marginPts": -94.2,
-   "marginVotes": 39082,
+   "marginPts": -15,
+   "marginVotes": 11080,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:05.462951+00",
-   "others": [
-    {
-     "name": "George Tangen",
-     "party": "LIB",
-     "votes": 1448,
-     "pct": 3.5
-    },
-    {
-     "name": "Seth Kuhl-Stennes",
-     "party": "GRE",
-     "votes": 979,
-     "pct": 2.4
-    }
-   ]
+   "source": "https://www.kaaltv.com/2026-minnesota-midterm-election-results/",
+   "asOf": "2026-11-03T22:51:17-05:00"
   },
   {
    "id": "ND-AG",
@@ -2989,6 +2937,44 @@
     "votes": 532763,
     "pct": 41.8
    }
+  },
+  {
+   "id": "MN-LG",
+   "status": "Counting",
+   "leader": "R",
+   "reporting": "7%",
+   "dem": {
+    "name": "Ben Schierer",
+    "votes": 38755,
+    "pct": 42
+   },
+   "rep": {
+    "name": "Ryan Wilson",
+    "votes": 51840,
+    "pct": 56
+   },
+   "marginPts": -14,
+   "marginVotes": 13085,
+   "calledBy": null,
+   "source": "https://www.kaaltv.com/2026-minnesota-midterm-election-results/",
+   "asOf": "2026-11-03T22:51:17-05:00"
+  },
+  {
+   "id": "RI-SOS",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Gregg Amore",
+    "votes": null,
+    "pct": null
+   },
+   "rep": null,
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "Boston Globe",
+   "source": "https://www.bostonglobe.com/2026/11/03/metro/ri-attorney-general-race-kim-ahern-wins-first-lgbtq-state-office/",
+   "asOf": "2026-11-03T22:51:17-05:00"
   }
  ]
 }
