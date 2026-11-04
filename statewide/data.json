@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:29:00-05:00",
+  "updated": "2026-11-04T03:46:00-05:00",
   "sample": false,
   "races": [
     {
@@ -1550,23 +1550,22 @@
       "id": "KS-AG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "97%",
+      "reporting": "",
       "dem": {
         "name": "Chris Mann",
-        "votes": 545386,
-        "pct": 50.8
+        "votes": 548047,
+        "pct": 50.52
       },
       "rep": {
         "name": "Kris Kobach",
-        "votes": 528809,
-        "pct": 49.2
+        "votes": 536759,
+        "pct": 49.48
       },
-      "marginPts": 1.5,
-      "marginVotes": 16577,
+      "marginPts": 1.04,
+      "marginVotes": 11288,
       "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-attorney-general-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
-      "ddhqUpdated": "2026-11-04 06:51:32.196953+00"
+      "source": "https://www.wibw.com/2026/11/04/im-proud-democrat-chris-mann-declares-victory-kansas-attorney-general-race/",
+      "asOf": "2026-11-04T02:45:00-05:00"
     },
     {
       "id": "KS-GOV",
