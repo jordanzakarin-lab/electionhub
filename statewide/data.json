@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:47:00-05:00",
+ "updated": "2026-11-04T01:51:00-05:00",
  "sample": false,
  "races": [
   {
@@ -908,7 +908,7 @@
   },
   {
    "id": "RI-LG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "93%",
    "dem": {
@@ -923,10 +923,11 @@
    },
    "marginPts": 18.6,
    "marginVotes": 64569,
-   "calledBy": null,
+   "calledBy": "WPRI 12 News (Loughlin conceded)",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/rhode-island-lt-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:39.318583+00"
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "ddhqUpdated": "2026-11-04 03:20:39.318583+00",
+   "callSource": "https://www.yahoo.com/news/politics/articles/sabina-matos-reelected-ri-lieutenant-014520159.html"
   },
   {
    "id": "RI-AG",
@@ -1016,7 +1017,7 @@
   },
   {
    "id": "OK-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "75%",
    "dem": {
@@ -1031,10 +1032,11 @@
    },
    "marginPts": -13.8,
    "marginVotes": 127028,
-   "calledBy": null,
+   "calledBy": "KJRH",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/oklahoma-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:18:43.645528+00"
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "ddhqUpdated": "2026-11-04 03:18:43.645528+00",
+   "callSource": "https://www.kjrh.com/news/political/elections-local/republican-jon-echols-wins-election-for-attorney-general-in-oklahoma"
   },
   {
    "id": "CT-AG",
@@ -1208,61 +1210,55 @@
   },
   {
    "id": "AR-LG",
-   "status": "Counting",
+   "source": "https://wtop.com/national/2026/11/republican-leslie-rutledge-wins-reelection-for-lieutenant-governor-in-arkansas",
+   "status": "Called",
    "leader": "R",
-   "reporting": "47%",
-   "dem": {
-    "name": null,
-    "votes": 0,
-    "pct": 0
-   },
+   "calledBy": "AP",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
+   "dem": null,
    "rep": {
     "name": "Leslie Rutledge",
-    "votes": 272696,
-    "pct": 61.0
+    "votes": null,
+    "pct": 64.0
    },
-   "marginPts": -61.0,
-   "marginVotes": 272696,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arkansas-lt-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:56.790471+00",
    "others": [
     {
-     "name": "Michael Kalagia",
-     "party": "LIB",
-     "votes": 174045,
-     "pct": 39.0
+     "name": "Michael Kalagias",
+     "party": "L",
+     "votes": null,
+     "pct": 36.0
     }
-   ]
+   ],
+   "marginPts": null,
+   "marginVotes": null
   },
   {
    "id": "AR-SOS",
    "status": "Counting",
    "leader": "R",
-   "reporting": "50%",
+   "reporting": "",
    "dem": {
     "name": "Kelly Grappe",
-    "votes": 203155,
-    "pct": 43.1
+    "votes": null,
+    "pct": 39.0
    },
    "rep": {
     "name": "Kim Hammer",
-    "votes": 247120,
-    "pct": 52.5
+    "votes": null,
+    "pct": 56.0
    },
-   "marginPts": -9.3,
-   "marginVotes": 43965,
+   "marginPts": -17.0,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arkansas-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:56.747057+00",
+   "source": "https://talkbusiness.net/2026/11/gov-sanders-re-elected-hammer-headed-toward-secretary-of-states-office",
+   "asOf": "2026-11-04T01:51:00-05:00",
    "others": [
     {
      "name": "Michael Pakko",
-     "party": "LIB",
-     "votes": 20666,
-     "pct": 4.4
+     "party": "L",
+     "votes": null,
+     "pct": 4.5
     }
    ]
   },
@@ -1353,55 +1349,45 @@
   },
   {
    "id": "DE-AUD",
-   "status": "Counting",
+   "source": "https://www.yahoo.com/news/politics/articles/lydia-york-wins-delaware-state-040028823.html",
+   "status": "Called",
    "leader": "D",
+   "calledBy": "Delaware News Journal",
+   "asOf": "2026-11-04T01:51:00-05:00",
    "reporting": "99%",
    "dem": {
     "name": "Lydia York",
-    "votes": 217015,
-    "pct": 61.0
+    "votes": null,
+    "pct": 60.5
    },
    "rep": {
     "name": "April Callaway",
-    "votes": 121185,
-    "pct": 34.1
+    "votes": null,
+    "pct": 34.61
    },
-   "marginPts": 27.0,
-   "marginVotes": 95830,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/delaware-auditor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:18:49.827343+00",
-   "others": [
-    {
-     "name": "Austin Cassidy",
-     "party": "IND",
-     "votes": 17347,
-     "pct": 4.9
-    }
-   ]
+   "marginPts": 25.9,
+   "marginVotes": null
   },
   {
    "id": "DE-TREAS",
-   "status": "Counting",
+   "source": "https://www.yahoo.com/news/politics/articles/ted-lauzen-beats-mike-ramone-035559853.html",
+   "status": "Called",
    "leader": "D",
-   "reporting": "99%",
+   "calledBy": "Delaware News Journal",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "100%",
    "dem": {
     "name": "Ted Lauzen",
-    "votes": 224610,
-    "pct": 63.1
+    "votes": null,
+    "pct": 62.0
    },
    "rep": {
     "name": "Michael Ramone",
-    "votes": 131571,
-    "pct": 36.9
+    "votes": null,
+    "pct": 38.0
    },
-   "marginPts": 26.1,
-   "marginVotes": 93039,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/delaware-treasurer-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:18:50.078417+00"
+   "marginPts": 24.0,
+   "marginVotes": null
   },
   {
    "id": "IL-AUD",
@@ -1449,25 +1435,24 @@
   },
   {
    "id": "IL-TREAS",
-   "status": "Counting",
+   "source": "https://www.shawlocal.com/news/2026/11/04/2026-election-democrat-michael-frerichs-wins-4th-term-as-illinois-treasurer/",
+   "status": "Called",
    "leader": "D",
-   "reporting": "35%",
+   "calledBy": "Shaw Local",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "83%",
    "dem": {
     "name": "Mike Frerichs",
-    "votes": 1142163,
-    "pct": 75.0
+    "votes": null,
+    "pct": 61.9
    },
    "rep": {
     "name": "Max Solomon",
-    "votes": 379782,
-    "pct": 24.9
+    "votes": null,
+    "pct": 38.1
    },
-   "marginPts": 50.1,
-   "marginVotes": 762381,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/illinois-treasurer-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:51.625445+00"
+   "marginPts": 23.8,
+   "marginVotes": null
   },
   {
    "id": "KS-AG",
@@ -2113,24 +2098,24 @@
   },
   {
    "id": "MN-AG",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "11%",
+   "source": "https://www.kaxe.org/elections/2026-11-04/minnesota-attorney-general-keith-ellison-elected-to-third-term",
+   "status": "Called",
+   "leader": "D",
+   "calledBy": "KAXE (Schutz conceded, per KSTP)",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
    "dem": {
     "name": "Keith Ellison",
-    "votes": 63926,
-    "pct": 42.04
+    "votes": null,
+    "pct": null
    },
    "rep": {
     "name": "Ron Schutz",
-    "votes": 87950,
-    "pct": 57.83
+    "votes": null,
+    "pct": null
    },
-   "marginPts": -15.8,
-   "marginVotes": 24024,
-   "calledBy": null,
-   "source": "https://knsiradio.com/2026/11/03/election-results/",
-   "asOf": "2026-11-03T22:29:00-05:00"
+   "marginPts": null,
+   "marginVotes": null
   },
   {
    "id": "MN-AUD",
@@ -2176,24 +2161,24 @@
   },
   {
    "id": "MN-SOS",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "11%",
+   "source": "https://www.duluthnewstribune.com/news/minnesota/dfls-steve-simon-wins-fourth-term-as-minnesota-secretary-of-state",
+   "status": "Called",
+   "leader": "D",
+   "calledBy": "Forum News Service",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
    "dem": {
     "name": "Steve Simon",
-    "votes": 64996,
-    "pct": 42.79
+    "votes": null,
+    "pct": null
    },
    "rep": {
     "name": "Tad Jude",
-    "votes": 81851,
-    "pct": 53.89
+    "votes": null,
+    "pct": null
    },
-   "marginPts": -11.1,
-   "marginVotes": 16855,
-   "calledBy": null,
-   "source": "https://knsiradio.com/2026/11/03/election-results/",
-   "asOf": "2026-11-03T22:29:00-05:00"
+   "marginPts": null,
+   "marginVotes": null
   },
   {
    "id": "ND-AG",
@@ -2372,7 +2357,7 @@
    "leader": "D",
    "reporting": "36%",
    "dem": {
-    "name": "Ra\u00fal Torrez",
+    "name": "Raúl Torrez",
     "votes": 158830,
     "pct": 61.1
    },
@@ -2637,7 +2622,7 @@
   },
   {
    "id": "CO-SOS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "",
    "dem": {
@@ -2652,13 +2637,14 @@
    },
    "marginPts": 23.9,
    "marginVotes": null,
-   "calledBy": null,
+   "calledBy": "Colorado Sun",
    "source": "https://gazette.com/2026/11/03/democrats-lead-in-race-for-secretary-of-state-treasurer/",
-   "asOf": "2026-11-04T01:21:00-05:00"
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "callSource": "https://coloradosun.com/2026/11/03/secretary-of-state-election-results-amanda-gonzalez-james-wiley/"
   },
   {
    "id": "CO-TREAS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "",
    "dem": {
@@ -2673,9 +2659,10 @@
    },
    "marginPts": 21.0,
    "marginVotes": null,
-   "calledBy": null,
+   "calledBy": "Colorado Politics",
    "source": "https://gazette.com/2026/11/03/democrats-lead-in-race-for-secretary-of-state-treasurer/",
-   "asOf": "2026-11-04T01:21:00-05:00"
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "callSource": "https://www.coloradopolitics.com/2026/11/03/democrats-lead-in-race-for-secretary-of-state-treasurer/"
   },
   {
    "id": "IA-LG",
@@ -2835,7 +2822,7 @@
   },
   {
    "id": "WY-SOS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "0%",
    "dem": {
@@ -2850,10 +2837,11 @@
    },
    "marginPts": -76.5,
    "marginVotes": 741,
-   "calledBy": null,
+   "calledBy": "WyoFile",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wyoming-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 03:00:34.68565+00"
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "ddhqUpdated": "2026-11-04 03:00:34.68565+00",
+   "callSource": "https://wyofile.com/republicans-sweep-wyomings-statewide-elected-offices/"
   },
   {
    "id": "NM-LG",
@@ -3318,6 +3306,124 @@
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-dakota-governor-general-election",
    "asOf": "2026-11-03T22:23:48-05:00"
+  },
+  {
+   "id": "MA-SOS",
+   "source": "https://www.yahoo.com/news/us/articles/democrat-william-galvin-wins-reelection-045634299.html",
+   "status": "Called",
+   "leader": "D",
+   "calledBy": "AP",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
+   "dem": {
+    "name": "William Galvin",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Anne Brensley",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null
+  },
+  {
+   "id": "CA-SOS",
+   "source": "https://timesofsandiego.com/politics/2026/11/03/whos-winning-californias-statewide-races/",
+   "status": "Called",
+   "leader": "D",
+   "calledBy": "AP",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
+   "dem": {
+    "name": "Shirley Weber",
+    "votes": null,
+    "pct": 65.5
+   },
+   "rep": {
+    "name": "Donald P. Wagner",
+    "votes": null,
+    "pct": 34.5
+   },
+   "marginPts": 31.0,
+   "marginVotes": null
+  },
+  {
+   "id": "CA-TREAS",
+   "source": "https://timesofsandiego.com/politics/2026/11/03/whos-winning-californias-statewide-races/",
+   "status": "Called",
+   "leader": "D",
+   "calledBy": "AP",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
+   "dem": {
+    "name": "Eleni Kounalakis",
+    "votes": null,
+    "pct": 64.2
+   },
+   "rep": {
+    "name": "Jennifer Hawks",
+    "votes": null,
+    "pct": 35.8
+   },
+   "marginPts": 28.4,
+   "marginVotes": null
+  },
+  {
+   "id": "CA-AUD",
+   "source": "https://timesofsandiego.com/politics/2026/11/03/whos-winning-californias-statewide-races/",
+   "status": "Called",
+   "leader": "D",
+   "calledBy": "AP",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
+   "dem": {
+    "name": "Malia Cohen",
+    "votes": null,
+    "pct": 63.1
+   },
+   "rep": {
+    "name": "Herb Morgan",
+    "votes": null,
+    "pct": 36.9
+   },
+   "marginPts": 26.2,
+   "marginVotes": null
+  },
+  {
+   "id": "WY-TREAS",
+   "source": "https://wyofile.com/republicans-sweep-wyomings-statewide-elected-offices/",
+   "status": "Called",
+   "leader": "R",
+   "calledBy": "WyoFile",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
+   "dem": null,
+   "rep": {
+    "name": "Curt Meier",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null
+  },
+  {
+   "id": "WY-AUD",
+   "source": "https://wyofile.com/republicans-sweep-wyomings-statewide-elected-offices/",
+   "status": "Called",
+   "leader": "R",
+   "calledBy": "WyoFile",
+   "asOf": "2026-11-04T01:51:00-05:00",
+   "reporting": "",
+   "dem": null,
+   "rep": {
+    "name": "Kristi Racines",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null
   }
  ]
 }
