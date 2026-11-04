@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:24:00-05:00",
+ "updated": "2026-11-04T11:40:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3376,29 +3376,28 @@
    "id": "AK-AL",
    "status": "Counting",
    "leader": "R",
-   "reporting": "84%",
+   "reporting": "74%",
    "dem": {
     "name": "Eric Hafner",
     "votes": null,
-    "pct": 7.2
+    "pct": 7.3
    },
    "rep": {
     "name": "Nick Begich III",
     "votes": null,
-    "pct": 49.9
+    "pct": 49.6
    },
-   "marginPts": -42.7,
+   "marginPts": -42.3,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.yahoo.com/news/politics/articles/alaska-u-house-race-tight-060211356.html",
-   "asOf": "2026-11-04T07:21:39-05:00",
-   "ddhqUpdated": "2026-11-04 06:34:47.415043+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/alaska-us-house-district-1-results",
+   "asOf": "2026-11-04T11:31:00-05:00",
    "others": [
     {
      "name": "Bill Hill",
      "party": "NP",
      "votes": null,
-     "pct": 40.1
+     "pct": 40.4
     },
     {
      "name": "James McDermott",
@@ -3406,7 +3405,8 @@
      "votes": null,
      "pct": 2.7
     }
-   ]
+   ],
+   "totalVotes": 212455
   },
   {
    "id": "AK-SEN",
