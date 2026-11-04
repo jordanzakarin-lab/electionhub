@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-03T23:30:31-05:00",
+ "updated": "2026-11-03T23:32:36-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "97%",
+   "reporting": "98%",
    "dem": {
     "name": "Roy Cooper",
-    "votes": 2425734,
+    "votes": 2431014,
     "pct": 58.6
    },
    "rep": {
     "name": "Michael Whatley",
-    "votes": 1620891,
+    "votes": 1624701,
     "pct": 39.2
    },
-   "other": 90488,
+   "other": 90761,
    "marginPts": 19.4,
-   "marginVotes": 804843,
+   "marginVotes": 806313,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:24:24-05:00",
+   "asOf": "2026-11-03T23:32:36-05:00",
    "feed": true,
-   "totalVotes": 4137113,
+   "totalVotes": 4146476,
    "id": "NC-SEN"
   },
   {
@@ -101,25 +101,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "94%",
+   "reporting": "96%",
    "dem": {
     "name": "Paul Barringer",
-    "votes": 157304,
+    "votes": 157664,
     "pct": 50.7
    },
    "rep": {
     "name": "Brad Knott",
-    "votes": 148567,
+    "votes": 149035,
     "pct": 47.9
    },
-   "other": 4351,
+   "other": 4367,
    "marginPts": 2.8,
-   "marginVotes": 8737,
+   "marginVotes": 8629,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:14:03-05:00",
+   "asOf": "2026-11-03T23:32:36-05:00",
    "feed": true,
-   "totalVotes": 310222,
+   "totalVotes": 311066,
    "id": "NC-13"
   },
   {
