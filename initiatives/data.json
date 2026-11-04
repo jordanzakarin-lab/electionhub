@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:49:00-05:00",
+ "updated": "2026-11-04T01:40:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -209,18 +209,22 @@
    "measure": "Homestead Exemption Increase",
    "ballotNo": "Amendment 3",
    "description": "Raises the homestead exemption to $150K in 2027 and $250K in 2028, cuts the non-homestead cap to 5% and limits local use of property-tax revenue.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "60%",
    "thresholdPct": 60,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "pct": 62
+   },
+   "no": {
+    "pct": 38
+   },
+   "marginPts": 24,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "AP",
+   "note": "AP call 9:53 PM ET (WFTV); cleared the 60% threshold with about 62% yes (CBS12). Exact counts not yet captured.",
+   "source": "https://www.wftv.com/news/local/florida-midterm-elections-amendment-3-passes-expanding-property-tax-exemptions/FIGUROAHDRC5PHKJJZL4VNXZXE/",
+   "asOf": "Nov 4, 1:40 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -409,18 +413,18 @@
    "measure": "Public Defender Union Rights (CPCS)",
    "ballotNo": "Question 2",
    "description": "Lets Committee for Public Counsel Services employees unionize like other state workers.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "AP",
+   "note": "AP call via GBH; Yes over 60%. Exact counts not yet captured.",
+   "source": "https://www.wgbh.org/news/politics/2026-11-03/ballot-question-1-approved-to-expand-public-records-laws-in-mass-ap-calls",
+   "asOf": "Nov 4, 1:40 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -2043,18 +2047,22 @@
    "measure": "Top-Two All-Party Primaries",
    "ballotNo": "Question 3",
    "description": "Replaces party primaries with one primary; the top two finishers advance.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "pct": 39
+   },
+   "no": {
+    "pct": 61
+   },
+   "marginPts": 22,
+   "reporting": "46%",
+   "calledBy": "Yes campaign conceded (GBH)",
+   "note": "Not called by AP yet; Yes campaign conceded. 61% No with 46% in as of 11:45 PM ET (GBH).",
+   "source": "https://www.wgbh.org/news/politics/2026-11-03/ballot-question-1-approved-to-expand-public-records-laws-in-mass-ap-calls",
+   "asOf": "Nov 4, 1:40 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2063,18 +2071,18 @@
    "measure": "Public Records for Governor and Legislature",
    "ballotNo": "Question 1",
    "description": "Puts the governor and Legislature under the public records law.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "AP",
+   "note": "AP call via GBH; Yes over 80% as of 12:14 AM ET. Exact counts not yet captured.",
+   "source": "https://www.wgbh.org/news/politics/2026-11-03/ballot-question-1-approved-to-expand-public-records-laws-in-mass-ap-calls",
+   "asOf": "Nov 4, 1:40 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2415,18 +2423,18 @@
    "measure": "Eliminate Recreational Marijuana Sales",
    "ballotNo": "Question 8",
    "description": "Repeals legal sales; allows limited possession.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "AP",
+   "note": "AP call via GBH: repeal rejected; recreational marijuana stays legal. Exact counts not yet captured.",
+   "source": "https://www.wgbh.org/news/politics/2026-11-03/ballot-question-1-approved-to-expand-public-records-laws-in-mass-ap-calls",
+   "asOf": "Nov 4, 1:40 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
