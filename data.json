@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:35:36-05:00",
+  "updated": "2026-11-04T00:40:34-05:00",
   "sample": false,
   "races": [
     {
@@ -3294,6 +3294,27 @@
       "calledBy": "DDHQ",
       "source": "https://www.advocate.com/politics/election/marni-von-wilpert-2026-election",
       "asOf": "2026-11-03T23:14:00-05:00"
+    },
+    {
+      "id": "WA-03",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "80%",
+      "dem": {
+        "name": "Marie Gluesenkamp Perez",
+        "votes": 142298,
+        "pct": 55.0
+      },
+      "rep": {
+        "name": "John Braun",
+        "votes": 114028,
+        "pct": 44.1
+      },
+      "marginPts": 10.9,
+      "marginVotes": 28270,
+      "calledBy": null,
+      "source": "https://www.fox13seattle.com/news/wa-03-election-results",
+      "asOf": "2026-11-03T23:48:00-05:00"
     }
   ]
 }
