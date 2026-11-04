@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:58:00-05:00",
+ "updated": "2026-11-04T11:08:00-05:00",
  "sample": false,
  "races": [
   {
@@ -9,28 +9,28 @@
    "reporting": "99%",
    "dem": {
     "name": "Bale Dalton",
-    "votes": 159113,
+    "votes": null,
     "pct": 49.2
    },
    "rep": {
     "name": "Ryan Elijah",
-    "votes": 161019,
-    "pct": 49.8
+    "votes": null,
+    "pct": 49.7
    },
-   "marginPts": -0.6,
-   "marginVotes": 1906,
+   "marginPts": -0.5,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-7-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:15:22.348073+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/florida-us-house-district-7-results",
+   "asOf": "2026-11-04T10:59:00-05:00",
    "others": [
     {
      "name": "Christopher Dennison",
      "party": "LIB",
-     "votes": 3471,
+     "votes": null,
      "pct": 1.1
     }
-   ]
+   ],
+   "totalVotes": 324157
   },
   {
    "id": "FL-09",
@@ -1735,32 +1735,32 @@
   {
    "id": "MI-04",
    "status": "Counting",
-   "leader": "R",
-   "reporting": "73%",
+   "leader": "D",
+   "reporting": "95%",
    "dem": {
     "name": "Sean McCann",
-    "votes": 123881,
-    "pct": 47.5
+    "votes": null,
+    "pct": 50.3
    },
    "rep": {
     "name": "Bill Huizenga",
-    "votes": 133465,
-    "pct": 51.1
+    "votes": null,
+    "pct": 48.2
    },
-   "marginPts": -3.7,
-   "marginVotes": 9584,
+   "marginPts": 2.1,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-4-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 07:01:16.747034+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-4-results",
+   "asOf": "2026-11-04T10:59:00-05:00",
    "others": [
     {
      "name": "Shafina Barnett",
      "party": "GRE",
-     "votes": 3756,
+     "votes": null,
      "pct": 1.4
     }
-   ]
+   ],
+   "totalVotes": 359206
   },
   {
    "id": "MI-08",
@@ -2232,23 +2232,23 @@
    "id": "NY-01",
    "status": "Counting",
    "leader": "R",
-   "reporting": "93%",
+   "reporting": "86%",
    "dem": {
     "name": "Chris Gallant",
-    "votes": 145869,
+    "votes": null,
     "pct": 48.9
    },
    "rep": {
     "name": "Nick LaLota",
-    "votes": 152546,
+    "votes": null,
     "pct": 51.1
    },
    "marginPts": -2.2,
-   "marginVotes": 6677,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-1-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 05:09:25.608314+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-1-results",
+   "asOf": "2026-11-04T11:01:00-05:00",
+   "totalVotes": 298585
   },
   {
    "id": "NY-04",
@@ -2506,23 +2506,23 @@
    "id": "CA-23",
    "status": "Counting",
    "leader": "R",
-   "reporting": "62%",
+   "reporting": "57%",
    "dem": {
     "name": "Tessa Hodge",
-    "votes": 52135,
-    "pct": 49.5
+    "votes": null,
+    "pct": 48.7
    },
    "rep": {
     "name": "Jay Obernolte",
-    "votes": 53160,
-    "pct": 50.5
+    "votes": null,
+    "pct": 51.3
    },
-   "marginPts": -1.0,
-   "marginVotes": 1025,
+   "marginPts": -2.6,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-us-house-23-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:48:05.563716+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/california-us-house-district-23-results",
+   "asOf": "2026-11-04T10:59:00-05:00",
+   "totalVotes": 130850
   },
   {
    "id": "FL-26",
@@ -2654,23 +2654,23 @@
    "id": "NY-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "85%",
+   "reporting": "78%",
    "dem": {
     "name": "Patrick Halpin",
-    "votes": 119079,
+    "votes": null,
     "pct": 48.7
    },
    "rep": {
     "name": "Andrew Garbarino",
-    "votes": 125338,
-    "pct": 51.3
+    "votes": null,
+    "pct": 51.2
    },
-   "marginPts": -2.6,
-   "marginVotes": 6259,
+   "marginPts": -2.5,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-2-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 05:28:40.961357+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-2-results",
+   "asOf": "2026-11-04T11:03:00-05:00",
+   "totalVotes": 244620
   },
   {
    "id": "NC-05",
@@ -3221,23 +3221,23 @@
    "id": "WA-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "56%",
+   "reporting": "57%",
    "dem": {
     "name": "Carmela Conroy",
-    "votes": 94806,
-    "pct": 49.5
+    "votes": null,
+    "pct": 49.3
    },
    "rep": {
     "name": "Michael Baumgartner",
-    "votes": 96663,
-    "pct": 50.5
+    "votes": null,
+    "pct": 50.3
    },
    "marginPts": -1.0,
-   "marginVotes": 1857,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/washington-us-house-5-general-election",
-   "asOf": "2026-11-04T00:10:20-05:00",
-   "ddhqUpdated": "2026-11-04 04:38:06.122958+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-5-results",
+   "asOf": "2026-11-04T10:59:00-05:00",
+   "totalVotes": 192113
   },
   {
    "id": "WV-01",
@@ -3559,11 +3559,10 @@
     "pct": 48.6
    },
    "marginPts": -0.4,
-   "marginVotes": 1000,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://krdo.com/news/2026/11/04/hurd-and-romero-in-tight-race-for-district-3-headed-into-wednesday-morning/",
-   "asOf": "2026-11-04T08:44:00-05:00",
-   "ddhqUpdated": "2026-11-04 06:43:07.510189+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-3-results",
+   "asOf": "2026-11-04T10:59:00-05:00",
    "others": [
     {
      "name": "Cory Robertson",
@@ -3578,7 +3577,7 @@
      "pct": null
     }
    ],
-   "note": "Per KRDO 6 AM: Hurd leads by about 1,000 votes; not called"
+   "totalVotes": 302108
   },
   {
    "id": "CO-04",
@@ -3587,28 +3586,28 @@
    "reporting": "83%",
    "dem": {
     "name": "Eileen Laubacher",
-    "votes": 161982,
-    "pct": 49.3
+    "votes": null,
+    "pct": 49.2
    },
    "rep": {
     "name": "Lauren Boebert",
-    "votes": 156963,
+    "votes": null,
     "pct": 47.7
    },
    "marginPts": 1.5,
-   "marginVotes": 5019,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/colorado-us-house-4-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:56:07.164494+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-4-results",
+   "asOf": "2026-11-04T10:59:00-05:00",
    "others": [
     {
      "name": "Douglas Mangeris",
      "party": "LIB",
-     "votes": 9913,
+     "votes": null,
      "pct": 3.0
     }
-   ]
+   ],
+   "totalVotes": 343281
   }
  ]
 }
