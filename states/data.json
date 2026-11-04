@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:12:00-05:00",
+ "updated": "2026-11-04T10:23:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -85,28 +85,40 @@
    "R": 5,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "CT Mirror (Democratic projection)",
+   "controlSource": "https://ctmirror.org/2026/11/04/ct-election-general-assembly-legislature/"
   },
   "CT-S": {
    "D": 2,
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "CT Mirror (Democratic projection)",
+   "controlSource": "https://ctmirror.org/2026/11/04/ct-election-general-assembly-legislature/"
   },
   "DE-H": {
    "D": 13,
    "R": 5,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "Delaware News Journal",
+   "controlSource": "https://www.yahoo.com/news/politics/articles/see-delaware-house-senate-election-141600997.html"
   },
   "DE-S": {
    "D": 2,
    "R": 1,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "Delaware News Journal",
+   "controlSource": "https://www.yahoo.com/news/politics/articles/see-delaware-house-senate-election-141600997.html"
   },
   "FL-H": {
    "D": 18,
@@ -338,14 +350,20 @@
    "R": 2,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "DLCC (declared; confirmed by editor)",
+   "controlSource": "https://www.dlcc.org/news/press/breaking-dlcc-flips-nh-house-senate/"
   },
   "NH-S": {
    "D": 1,
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "D",
+   "calledBy": "DLCC (declared; confirmed by editor)",
+   "controlSource": "https://www.dlcc.org/news/press/breaking-dlcc-flips-nh-house-senate/"
   },
   "NM-H": {
    "D": 22,
@@ -383,21 +401,30 @@
    "R": 0,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
-   "asOf": "Nov 3, 9:16 PM ET"
+   "asOf": "Nov 3, 9:16 PM ET",
+   "control": "D",
+   "calledBy": "WXXI News",
+   "controlSource": "https://www.wxxinews.org/local-news/2026-11-03/locals-win-re-election-to-state-senate-as-democrats-widen-majority"
   },
   "OH-H": {
    "D": 7,
    "R": 1,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "Columbus Dispatch",
+   "controlSource": "https://www.yahoo.com/news/politics/articles/gop-loses-supermajority-ohio-house-113007796.html"
   },
   "OH-S": {
    "D": 0,
    "R": 1,
    "I": 0,
    "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET"
+   "asOf": "Nov 3, 8:16 PM ET",
+   "control": "R",
+   "calledBy": "Columbus Dispatch",
+   "controlSource": "https://www.yahoo.com/news/politics/articles/gop-loses-supermajority-ohio-house-113007796.html"
   },
   "OK-H": {
    "D": 12,
@@ -574,6 +601,24 @@
    "calledBy": "The Detroit News",
    "controlSource": "https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html",
    "asOf": "Nov 4, 10:12 AM ET"
+  },
+  "ID-H": {
+   "D": 0,
+   "R": 0,
+   "I": 0,
+   "control": "R",
+   "calledBy": "Idaho Capital Sun",
+   "controlSource": "https://www.yahoo.com/news/politics/articles/amid-national-blue-wave-idaho-101135948.html",
+   "asOf": "Nov 4, 10:23 AM ET"
+  },
+  "ID-S": {
+   "D": 0,
+   "R": 0,
+   "I": 0,
+   "control": "R",
+   "calledBy": "Idaho Capital Sun",
+   "controlSource": "https://www.yahoo.com/news/politics/articles/amid-national-blue-wave-idaho-101135948.html",
+   "asOf": "Nov 4, 10:23 AM ET"
   }
  },
  "races": [
