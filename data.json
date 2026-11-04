@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:50:36-05:00",
+ "updated": "2026-11-04T07:21:39-05:00",
  "sample": false,
  "races": [
   {
@@ -679,25 +679,26 @@
   },
   {
    "id": "OH-09",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "67%",
+   "reporting": "97%",
    "dem": {
     "name": "Marcy Kaptur",
-    "votes": 104443,
-    "pct": 50.2
+    "votes": null,
+    "pct": 52.7
    },
    "rep": {
     "name": "Derek Merrin",
-    "votes": 103426,
-    "pct": 49.8
+    "votes": null,
+    "pct": 47.3
    },
-   "marginPts": 0.5,
-   "marginVotes": 1017,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-9-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:46:14.475415+00"
+   "marginPts": 5.4,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.13abc.com/2026/11/04/kaptur-holds-again-defeats-merrin-ohios-9th-district-rematch/",
+   "asOf": "2026-11-04T07:21:39-05:00",
+   "ddhqUpdated": "2026-11-04 06:46:14.475415+00",
+   "flip": false
   },
   {
    "id": "NJ-07",
@@ -972,23 +973,23 @@
   {
    "id": "MI-07",
    "status": "Counting",
-   "leader": "R",
-   "reporting": "86%",
+   "leader": "D",
+   "reporting": "96%",
    "dem": {
     "name": "William Lawrence",
-    "votes": 172006,
-    "pct": 48.9
+    "votes": null,
+    "pct": 51.0
    },
    "rep": {
     "name": "Tom Barrett",
-    "votes": 174995,
-    "pct": 49.8
+    "votes": null,
+    "pct": 47.8
    },
-   "marginPts": -0.9,
-   "marginVotes": 2989,
+   "marginPts": 3.2,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://x.com/DecisionDeskHQ/status/2117863047423537165",
-   "asOf": "2026-11-04T01:30:00-05:00"
+   "source": "https://www.yahoo.com/news/politics/articles/william-lawrence-declares-victory-over-081232128.html",
+   "asOf": "2026-11-04T07:21:39-05:00"
   },
   {
    "id": "MI-10",
@@ -1111,25 +1112,25 @@
    "reporting": "98%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 461370,
-    "pct": 49.1
+    "votes": 462779,
+    "pct": 48.9
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 459201,
-    "pct": 48.8
+    "votes": 462751,
+    "pct": 48.9
    },
-   "marginPts": 0.2,
-   "marginVotes": 2169,
+   "marginPts": 0.0,
+   "marginVotes": 28,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/mississippi-us-senate-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "source": "https://msindy.org/p/colom-pulls-ahead-of-hyde-smith-by",
+   "asOf": "2026-11-04T07:21:39-05:00",
    "ddhqUpdated": "2026-11-04 07:01:59.553311+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 19766,
+     "votes": 19934,
      "pct": 2.1
     }
    ]
@@ -3353,71 +3354,71 @@
    "id": "AK-AL",
    "status": "Counting",
    "leader": "R",
-   "reporting": "55%",
+   "reporting": "84%",
    "dem": {
     "name": "Eric Hafner",
-    "votes": 11604,
-    "pct": 7.1
+    "votes": null,
+    "pct": 7.2
    },
    "rep": {
     "name": "Nick Begich III",
-    "votes": 80521,
-    "pct": 49.3
+    "votes": null,
+    "pct": 49.9
    },
-   "marginPts": -42.2,
-   "marginVotes": 68917,
+   "marginPts": -42.7,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alaska-us-house-at-large-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "source": "https://www.yahoo.com/news/politics/articles/alaska-u-house-race-tight-060211356.html",
+   "asOf": "2026-11-04T07:21:39-05:00",
    "ddhqUpdated": "2026-11-04 06:34:47.415043+00",
    "others": [
     {
      "name": "Bill Hill",
      "party": "NP",
-     "votes": 66871,
-     "pct": 41.0
+     "votes": null,
+     "pct": 40.1
     },
     {
      "name": "James McDermott",
      "party": "LIB",
-     "votes": 4303,
-     "pct": 2.6
+     "votes": null,
+     "pct": 2.7
     }
    ]
   },
   {
    "id": "AK-SEN",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "54%",
+   "leader": "R",
+   "reporting": "84%",
    "dem": {
     "name": "Mary Peltola",
-    "votes": 79017,
-    "pct": 48.3
+    "votes": null,
+    "pct": 47.5
    },
    "rep": {
     "name": "Dan Sullivan",
-    "votes": 78719,
-    "pct": 48.1
+    "votes": null,
+    "pct": 48.3
    },
-   "marginPts": 0.2,
-   "marginVotes": 298,
+   "marginPts": -0.8,
+   "marginVotes": 1677,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alaska-us-senate-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "source": "https://www.yahoo.com/news/politics/articles/democratic-candidate-mary-peltola-leads-055234918.html",
+   "asOf": "2026-11-04T07:21:39-05:00",
    "ddhqUpdated": "2026-11-04 06:34:47.415043+00",
    "others": [
     {
      "name": "Gerald Heikes",
      "party": "GOP",
-     "votes": 3265,
-     "pct": 2.0
+     "votes": null,
+     "pct": null
     },
     {
      "name": "Daniel J. Sullivan Jr.",
      "party": "IND",
-     "votes": 2693,
-     "pct": 1.6
+     "votes": null,
+     "pct": null
     }
    ]
   },

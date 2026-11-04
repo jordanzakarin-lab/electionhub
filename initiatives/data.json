@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:20:00-05:00",
+ "updated": "2026-11-04T07:21:39-05:00",
  "sample": false,
  "measures": [
   {
@@ -14,19 +14,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 2841073,
-    "pct": 43.6
+    "votes": 2878218,
+    "pct": 43.5
    },
    "no": {
-    "votes": 3673933,
-    "pct": 56.4
+    "votes": 3734908,
+    "pct": 56.5
    },
-   "marginPts": -12.8,
-   "reporting": "",
+   "marginPts": -13.0,
+   "reporting": "51% of expected vote",
    "calledBy": "",
-   "note": "Partial early returns per SF Standard (published 8:49 PM PT); % reporting not stated. Not called.",
-   "source": "https://sfstandard.com/2026/11/03/billionaire-tax-trailing-early-returns/",
-   "asOf": "Nov 3, 11:49 PM ET"
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -40,19 +40,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 41.88
+    "votes": 648860,
+    "pct": 41.59
    },
    "no": {
-    "votes": null,
-    "pct": 58.12
+    "votes": 911390,
+    "pct": 58.41
    },
-   "marginPts": -16.24,
+   "marginPts": -16.82,
    "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Election-night returns per Source One; not formally called.",
+   "source": "https://www.yoursourceone.com/columbia_basin/breaking-washington-voters-reject-millionaire-income-tax-repeal-initiative-ip26-645/article_e94c3e5d-73b1-4ebf-9c48-34762ed344ae.html",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -118,19 +118,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 3033591,
-    "pct": 47.4
+    "votes": 3088021,
+    "pct": 47.5
    },
    "no": {
-    "votes": 3370158,
-    "pct": 52.6
+    "votes": 3411760,
+    "pct": 52.5
    },
-   "marginPts": -5.2,
-   "reporting": "",
+   "marginPts": -5.0,
+   "reporting": "50% of expected vote",
    "calledBy": "",
-   "note": "Partial early returns per SF Standard (published 8:49 PM PT); % reporting not stated. Not called.",
-   "source": "https://sfstandard.com/2026/11/03/billionaire-tax-trailing-early-returns/",
-   "asOf": "Nov 3, 11:49 PM ET"
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -144,19 +144,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 3518254,
-    "pct": 54.4
+    "votes": 3578147,
+    "pct": 54.5
    },
    "no": {
-    "votes": 2946838,
-    "pct": 45.6
+    "votes": 2984170,
+    "pct": 45.5
    },
-   "marginPts": 8.8,
-   "reporting": "",
+   "marginPts": 9.0,
+   "reporting": "51% of expected vote",
    "calledBy": "",
-   "note": "Partial early returns per SF Standard (published 8:49 PM PT); % reporting not stated. Not called.",
-   "source": "https://sfstandard.com/2026/11/03/billionaire-tax-trailing-early-returns/",
-   "asOf": "Nov 3, 11:49 PM ET"
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Tax Wealthy / Initiative Process",
@@ -170,19 +170,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 45.51
+    "votes": 2875498,
+    "pct": 45.11
    },
    "no": {
-    "votes": null,
-    "pct": 54.49
+    "votes": 3499156,
+    "pct": 54.89
    },
-   "marginPts": -8.98,
-   "reporting": "partial (not stated)",
+   "marginPts": -9.78,
+   "reporting": "49% of expected vote",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -676,19 +676,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 58.43
+    "votes": 3816251,
+    "pct": 58.98
    },
    "no": {
-    "votes": null,
-    "pct": 41.57
+    "votes": 2654195,
+    "pct": 41.02
    },
-   "marginPts": 16.86,
-   "reporting": "partial (not stated)",
+   "marginPts": 17.96,
+   "reporting": "50% of expected vote",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Education",
@@ -729,18 +729,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 42.79
+    "pct": 49.4
    },
    "no": {
     "votes": null,
-    "pct": 57.21
+    "pct": 50.6
    },
-   "marginPts": -14.42,
+   "marginPts": -1.2,
    "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/north-dakota-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "KFYR reports it failed with 50.6% no (under 3,000 votes); no AP call found.",
+   "source": "https://www.kfyrtv.com/2026/11/04/north-dakota-voters-reject-constitutional-measure-free-meals-students/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Education",
@@ -946,19 +946,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 58.93
+    "votes": 3818920,
+    "pct": 59.46
    },
    "no": {
-    "votes": null,
-    "pct": 41.07
+    "votes": 2603877,
+    "pct": 40.54
    },
-   "marginPts": 17.86,
-   "reporting": "partial (not stated)",
+   "marginPts": 18.92,
+   "reporting": "50% of expected vote",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Housing",
@@ -1697,8 +1697,8 @@
    "measure": "Same-Day Voter Registration",
    "ballotNo": "Question 4",
    "description": "Register or update at the polls on Election Day.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -1711,10 +1711,10 @@
    },
    "marginPts": 24.54,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "AP",
+   "note": "AP called it passed about 2 AM Wed per WBUR; vote shares are earlier partial returns.",
+   "source": "https://www.wbur.org/news/2026/11/04/massachusetts-question-4-election-results",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1728,19 +1728,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 47.84
+    "votes": 3051455,
+    "pct": 48.09
    },
    "no": {
-    "votes": null,
-    "pct": 52.16
+    "votes": 3293319,
+    "pct": 51.91
    },
-   "marginPts": -4.32,
-   "reporting": "partial (not stated)",
+   "marginPts": -3.82,
+   "reporting": "49% of expected vote",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1754,19 +1754,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 49.81
+    "votes": 3179089,
+    "pct": 50.35
    },
    "no": {
-    "votes": null,
-    "pct": 50.19
+    "votes": 3134334,
+    "pct": 49.65
    },
-   "marginPts": -0.38,
-   "reporting": "partial (not stated)",
+   "marginPts": 0.7,
+   "reporting": "49% of expected vote",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2669,24 +2669,24 @@
    "measure": "Reproductive Freedom and Privacy Act",
    "ballotNo": "Prop 1",
    "description": "Legal abortion through viability.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 59.86
+    "pct": 44.7
    },
    "no": {
     "votes": null,
-    "pct": 40.14
+    "pct": 55.3
    },
-   "marginPts": 19.72,
+   "marginPts": -10.6,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/idaho-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "AP",
+   "note": "AP called it failed per KIVI (55.3% no, 44.7% yes).",
+   "source": "https://www.kivitv.com/news/political/elections/proposition-1-rejected-on-election-day",
+   "asOf": "Nov 4, 7:21 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
