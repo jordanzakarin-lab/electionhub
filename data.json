@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:32:27-05:00",
+ "updated": "2026-11-04T02:50:36-05:00",
  "sample": false,
  "races": [
   {
@@ -207,7 +207,7 @@
     "pct": 49.8
    },
    "rep": {
-    "name": "Mar\u00eda Elvira Salazar",
+    "name": "María Elvira Salazar",
     "votes": 124474,
     "pct": 50.2
    },
@@ -1808,19 +1808,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 158920,
+    "votes": 158929,
     "pct": 49.7
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": 160251,
+    "votes": 160266,
     "pct": 50.1
    },
    "marginPts": -0.4,
-   "marginVotes": 1331,
+   "marginVotes": 1337,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T02:09:51-05:00"
+   "asOf": "2026-11-04T02:40:25-05:00"
   },
   {
    "id": "MN-SEN",
@@ -2918,7 +2918,7 @@
      "pct": 1.2
     },
     {
-     "name": "Miche\u00e1l O'Leary",
+     "name": "Micheál O'Leary",
      "party": "IND",
      "votes": 815,
      "pct": 0.4
@@ -3493,7 +3493,7 @@
    "leader": "D",
    "reporting": "65%",
    "dem": {
-    "name": "Linda S\u00e1nchez",
+    "name": "Linda Sánchez",
     "votes": 90112,
     "pct": 66.0
    },
