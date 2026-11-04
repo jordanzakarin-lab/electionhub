@@ -1,2462 +1,2462 @@
 {
- "updated": "2026-11-03T23:59:43-05:00",
- "sample": false,
- "races": [
-  {
-   "id": "FL-07",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "99%",
-   "dem": {
-    "name": "Bale Dalton",
-    "votes": 159113,
-    "pct": 49.2
-   },
-   "rep": {
-    "name": "Ryan Elijah",
-    "votes": 161019,
-    "pct": 49.8
-   },
-   "marginPts": -0.6,
-   "marginVotes": 1906,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-7-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:15:22.348073+00",
-   "others": [
+  "updated": "2026-11-04T00:05:15-05:00",
+  "sample": false,
+  "races": [
     {
-     "name": "Christopher Dennison",
-     "party": "LIB",
-     "votes": 3471,
-     "pct": 1.1
-    }
-   ]
-  },
-  {
-   "id": "FL-09",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "99%",
-   "dem": {
-    "name": "Darren Soto",
-    "votes": 142754,
-    "pct": 50.2
-   },
-   "rep": {
-    "name": "Dan Green",
-    "votes": 141519,
-    "pct": 49.8
-   },
-   "marginPts": 0.4,
-   "marginVotes": 1235,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-9-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 02:58:45.374815+00"
-  },
-  {
-   "id": "FL-13",
-   "status": "Called",
-   "leader": "R",
-   "reporting": "98%",
-   "dem": {
-    "name": "Leela Gray",
-    "votes": 151443,
-    "pct": 48.6
-   },
-   "rep": {
-    "name": "Anna Paulina Luna",
-    "votes": 154351,
-    "pct": 49.5
-   },
-   "marginPts": -0.9,
-   "marginVotes": 2908,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-13-general-election",
-   "asOf": "2026-11-03T20:59:20-05:00",
-   "ddhqUpdated": "2026-11-04 01:26:48.891949+00",
-   "others": [
-    {
-     "name": "Tony D'Arrigo",
-     "party": "NPA",
-     "votes": 5722,
-     "pct": 1.8
-    }
-   ]
-  },
-  {
-   "id": "FL-14",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "100%",
-   "dem": {
-    "name": "Kathy Castor",
-    "votes": 153586,
-    "pct": 51.2
-   },
-   "rep": {
-    "name": "Mike Beltran",
-    "votes": 137599,
-    "pct": 45.9
-   },
-   "marginPts": 5.3,
-   "marginVotes": 15987,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-14-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:15:08.312137+00",
-   "others": [
-    {
-     "name": "Brian Lambert",
-     "party": "LIB",
-     "votes": 8730,
-     "pct": 2.9
-    }
-   ]
-  },
-  {
-   "id": "FL-16",
-   "status": "Called",
-   "leader": "R",
-   "reporting": "99%",
-   "dem": {
-    "name": "Kelly Kirschner",
-    "votes": 160084,
-    "pct": 46.9
-   },
-   "rep": {
-    "name": "Sydney Gruters",
-    "votes": 175194,
-    "pct": 51.3
-   },
-   "marginPts": -4.4,
-   "marginVotes": 15110,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-16-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:06:02.661313+00",
-   "others": [
-    {
-     "name": "Mark Davis",
-     "party": "NPA",
-     "votes": 6233,
-     "pct": 1.8
-    }
-   ]
-  },
-  {
-   "id": "FL-22",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "99%",
-   "dem": {
-    "name": "Pia Dandiya",
-    "votes": 152156,
-    "pct": 51.9
-   },
-   "rep": {
-    "name": "Casey Askar",
-    "votes": 141293,
-    "pct": 48.1
-   },
-   "marginPts": 3.7,
-   "marginVotes": 10863,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-22-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 02:58:38.474482+00"
-  },
-  {
-   "id": "FL-25",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "100%",
-   "dem": {
-    "name": "Jared Moskowitz",
-    "votes": 142925,
-    "pct": 51.2
-   },
-   "rep": {
-    "name": "Scott Singer",
-    "votes": 130149,
-    "pct": 46.7
-   },
-   "marginPts": 4.6,
-   "marginVotes": 12776,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-25-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:15:08.301206+00",
-   "others": [
-    {
-     "name": "Peter Jassenoff",
-     "party": "LIB",
-     "votes": 5852,
-     "pct": 2.1
-    }
-   ]
-  },
-  {
-   "id": "FL-27",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "99%",
-   "dem": {
-    "name": "Eliott Rodriguez",
-    "votes": 122513,
-    "pct": 49.7
-   },
-   "rep": {
-    "name": "María Elvira Salazar",
-    "votes": 123838,
-    "pct": 50.3
-   },
-   "marginPts": -0.5,
-   "marginVotes": 1325,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-27-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:15:08.300126+00"
-  },
-  {
-   "id": "FL-SEN",
-   "status": "Called",
-   "leader": "R",
-   "reporting": "98%",
-   "dem": {
-    "name": "Angie Nixon",
-    "votes": 3942852,
-    "pct": 47.9
-   },
-   "rep": {
-    "name": "Ashley Moody",
-    "votes": 4191024,
-    "pct": 50.9
-   },
-   "marginPts": -3.0,
-   "marginVotes": 248172,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:15:22.348073+00",
-   "others": [
-    {
-     "name": "Neil Gillespie",
-     "party": "NPA",
-     "votes": 93888,
-     "pct": 1.1
-    }
-   ]
-  },
-  {
-   "id": "GA-SEN",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "88%",
-   "dem": {
-    "name": "Jon Ossoff",
-    "votes": 2247421,
-    "pct": 59.3
-   },
-   "rep": {
-    "name": "Mike Collins",
-    "votes": 1539713,
-    "pct": 40.7
-   },
-   "marginPts": 18.7,
-   "marginVotes": 707708,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:18:56.475808+00"
-  },
-  {
-   "id": "IN-05",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "98%",
-   "dem": {
-    "name": "J. D. Ford",
-    "votes": 130689,
-    "pct": 51.8
-   },
-   "rep": {
-    "name": "Victoria Spartz",
-    "votes": 121671,
-    "pct": 48.2
-   },
-   "marginPts": 3.6,
-   "marginVotes": 9018,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/indiana-us-house-5-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 02:50:00.323267+00"
-  },
-  {
-   "id": "KY-06",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "96%",
-   "dem": {
-    "name": "Zach Dembo",
-    "votes": 117854,
-    "pct": 54.0
-   },
-   "rep": {
-    "name": "Ralph Alvarado",
-    "votes": 92129,
-    "pct": 42.2
-   },
-   "marginPts": 11.8,
-   "marginVotes": 25725,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kentucky-us-house-6-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:10:24.515563+00",
-   "others": [
-    {
-     "name": "Jay Bowman",
-     "party": "IND",
-     "votes": 5371,
-     "pct": 2.5
+      "id": "FL-07",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "99%",
+      "dem": {
+        "name": "Bale Dalton",
+        "votes": 159113,
+        "pct": 49.2
+      },
+      "rep": {
+        "name": "Ryan Elijah",
+        "votes": 161019,
+        "pct": 49.8
+      },
+      "marginPts": -0.6,
+      "marginVotes": 1906,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-7-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:15:22.348073+00",
+      "others": [
+        {
+          "name": "Christopher Dennison",
+          "party": "LIB",
+          "votes": 3471,
+          "pct": 1.1
+        }
+      ]
     },
     {
-     "name": "Pete Lynch",
-     "party": "UNA",
-     "votes": 3015,
-     "pct": 1.4
-    }
-   ]
-  },
-  {
-   "id": "NH-01",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "64%",
-   "dem": {
-    "name": "Stefany Shaheen",
-    "votes": 109008,
-    "pct": 57.8
-   },
-   "rep": {
-    "name": "Anthony DiLorenzo",
-    "votes": 79733,
-    "pct": 42.2
-   },
-   "marginPts": 15.5,
-   "marginVotes": 29275,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:18:47.198645+00"
-  },
-  {
-   "id": "NH-SEN",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "57%",
-   "dem": {
-    "name": "Chris Pappas",
-    "votes": 200826,
-    "pct": 57.0
-   },
-   "rep": {
-    "name": "John E. Sununu",
-    "votes": 144873,
-    "pct": 41.1
-   },
-   "marginPts": 15.9,
-   "marginVotes": 55953,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:02.508657+00",
-   "others": [
-    {
-     "name": "Edmond Laplante",
-     "party": "CST",
-     "votes": 6380,
-     "pct": 1.8
-    }
-   ]
-  },
-  {
-   "id": "SC-SEN",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "88%",
-   "dem": {
-    "name": "Annie Andrews",
-    "votes": 972446,
-    "pct": 50.9
-   },
-   "rep": {
-    "name": "Darline Graham",
-    "votes": 900127,
-    "pct": 47.1
-   },
-   "marginPts": 3.8,
-   "marginVotes": 72319,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:21.86927+00",
-   "others": [
-    {
-     "name": "Kasie Whitener",
-     "party": "LIB",
-     "votes": 21661,
-     "pct": 1.1
+      "id": "FL-09",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "99%",
+      "dem": {
+        "name": "Darren Soto",
+        "votes": 142754,
+        "pct": 50.2
+      },
+      "rep": {
+        "name": "Dan Green",
+        "votes": 141519,
+        "pct": 49.8
+      },
+      "marginPts": 0.4,
+      "marginVotes": 1235,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-9-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 02:58:45.374815+00"
     },
     {
-     "name": "Mark Hackett",
-     "party": "CST",
-     "votes": 15700,
-     "pct": 0.8
-    }
-   ]
-  },
-  {
-   "id": "VA-01",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "97%",
-   "dem": {
-    "name": "Shannon Taylor",
-    "votes": 194368,
-    "pct": 50.6
-   },
-   "rep": {
-    "name": "Rob Wittman",
-    "votes": 189586,
-    "pct": 49.4
-   },
-   "marginPts": 1.2,
-   "marginVotes": 4782,
-   "calledBy": "DDHQ",
-   "source": "https://townhall.com/news/josephchalfant/2026/11/03/democrat-shannon-taylor-flips-virginias-first-district-defeating-20-year-incumbent-rob-wittman-n2685873",
-   "asOf": "2026-11-03T23:21:48-05:00",
-   "ddhqUpdated": "2026-11-04 02:57:15.675906+00"
-  },
-  {
-   "id": "VA-02",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "83%",
-   "dem": {
-    "name": "Elaine Luria",
-    "votes": 139792,
-    "pct": 51.8
-   },
-   "rep": {
-    "name": "Jen Kiggans",
-    "votes": 124358,
-    "pct": 46.1
-   },
-   "marginPts": 5.7,
-   "marginVotes": 15434,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/virginia-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:16.449842+00",
-   "others": [
-    {
-     "name": "J. Matt Baker",
-     "party": "IND",
-     "votes": 3822,
-     "pct": 1.4
+      "id": "FL-13",
+      "status": "Called",
+      "leader": "R",
+      "reporting": "98%",
+      "dem": {
+        "name": "Leela Gray",
+        "votes": 151443,
+        "pct": 48.6
+      },
+      "rep": {
+        "name": "Anna Paulina Luna",
+        "votes": 154351,
+        "pct": 49.5
+      },
+      "marginPts": -0.9,
+      "marginVotes": 2908,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-13-general-election",
+      "asOf": "2026-11-03T20:59:20-05:00",
+      "ddhqUpdated": "2026-11-04 01:26:48.891949+00",
+      "others": [
+        {
+          "name": "Tony D'Arrigo",
+          "party": "NPA",
+          "votes": 5722,
+          "pct": 1.8
+        }
+      ]
     },
     {
-     "name": "Geral Staten",
-     "party": "IND",
-     "votes": 1980,
-     "pct": 0.7
-    }
-   ]
-  },
-  {
-   "id": "VA-05",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "91%",
-   "dem": {
-    "name": "Tom Perriello",
-    "votes": 162101,
-    "pct": 49.2
-   },
-   "rep": {
-    "name": "John McGuire",
-    "votes": 162292,
-    "pct": 49.2
-   },
-   "marginPts": -0.1,
-   "marginVotes": 191,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/virginia-us-house-5-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:17.129627+00",
-   "others": [
-    {
-     "name": "Cooke Harvey",
-     "party": "IND",
-     "votes": 5263,
-     "pct": 1.6
-    }
-   ]
-  },
-  {
-   "id": "VA-07",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "97%",
-   "dem": {
-    "name": "Eugene Vindman",
-    "votes": 190743,
-    "pct": 59.8
-   },
-   "rep": {
-    "name": "Doug Ollivant",
-    "votes": 120857,
-    "pct": 37.9
-   },
-   "marginPts": 21.9,
-   "marginVotes": 69886,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/virginia-us-house-7-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 02:50:15.914142+00",
-   "others": [
-    {
-     "name": "Alaha Ahrar",
-     "party": "IND",
-     "votes": 3018,
-     "pct": 0.9
+      "id": "FL-14",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "100%",
+      "dem": {
+        "name": "Kathy Castor",
+        "votes": 153586,
+        "pct": 51.2
+      },
+      "rep": {
+        "name": "Mike Beltran",
+        "votes": 137599,
+        "pct": 45.9
+      },
+      "marginPts": 5.3,
+      "marginVotes": 15987,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-14-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:15:08.312137+00",
+      "others": [
+        {
+          "name": "Brian Lambert",
+          "party": "LIB",
+          "votes": 8730,
+          "pct": 2.9
+        }
+      ]
     },
     {
-     "name": "Taner Lopez",
-     "party": "LIB",
-     "votes": 2628,
-     "pct": 0.8
+      "id": "FL-16",
+      "status": "Called",
+      "leader": "R",
+      "reporting": "99%",
+      "dem": {
+        "name": "Kelly Kirschner",
+        "votes": 160084,
+        "pct": 46.9
+      },
+      "rep": {
+        "name": "Sydney Gruters",
+        "votes": 175194,
+        "pct": 51.3
+      },
+      "marginPts": -4.4,
+      "marginVotes": 15110,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-16-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:06:02.661313+00",
+      "others": [
+        {
+          "name": "Mark Davis",
+          "party": "NPA",
+          "votes": 6233,
+          "pct": 1.8
+        }
+      ]
     },
     {
-     "name": "Randall Terry",
-     "party": "IND",
-     "votes": 1197,
-     "pct": 0.4
-    }
-   ]
-  },
-  {
-   "id": "NC-SEN",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "90%",
-   "dem": {
-    "name": "Roy Cooper",
-    "votes": 2297448,
-    "pct": 58.2
-   },
-   "rep": {
-    "name": "Michael Whatley",
-    "votes": 1559793,
-    "pct": 39.5
-   },
-   "marginPts": 18.7,
-   "marginVotes": 737655,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:34.70362+00",
-   "others": [
-    {
-     "name": "Shannon Bray",
-     "party": "LIB",
-     "votes": 52982,
-     "pct": 1.3
+      "id": "FL-22",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "99%",
+      "dem": {
+        "name": "Pia Dandiya",
+        "votes": 152156,
+        "pct": 51.9
+      },
+      "rep": {
+        "name": "Casey Askar",
+        "votes": 141293,
+        "pct": 48.1
+      },
+      "marginPts": 3.7,
+      "marginVotes": 10863,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-22-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 02:58:38.474482+00"
     },
     {
-     "name": "Michael Dublin",
-     "party": "GRE",
-     "votes": 33876,
-     "pct": 0.9
-    }
-   ]
-  },
-  {
-   "id": "OH-SEN",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "73%",
-   "dem": {
-    "name": "Sherrod Brown",
-    "votes": 1777343,
-    "pct": 48.5
-   },
-   "rep": {
-    "name": "Jon Husted",
-    "votes": 1714683,
-    "pct": 46.8
-   },
-   "marginPts": 1.7,
-   "marginVotes": 62660,
-   "calledBy": "AP",
-   "source": "https://www.washingtonpost.com/elections/results/2026/11/03/ohio-senate-brown-husted-live-updates/",
-   "asOf": "2026-11-03T23:30:00-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:33.452118+00",
-   "others": [
-    {
-     "name": "William Redpath",
-     "party": "LIB",
-     "votes": 102303,
-     "pct": 2.8
+      "id": "FL-25",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "100%",
+      "dem": {
+        "name": "Jared Moskowitz",
+        "votes": 142925,
+        "pct": 51.2
+      },
+      "rep": {
+        "name": "Scott Singer",
+        "votes": 130149,
+        "pct": 46.7
+      },
+      "marginPts": 4.6,
+      "marginVotes": 12776,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-25-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:15:08.301206+00",
+      "others": [
+        {
+          "name": "Peter Jassenoff",
+          "party": "LIB",
+          "votes": 5852,
+          "pct": 2.1
+        }
+      ]
     },
     {
-     "name": "Greg Levy",
-     "party": "OTH",
-     "votes": 72052,
-     "pct": 2.0
-    }
-   ]
-  },
-  {
-   "id": "OH-07",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "57%",
-   "dem": {
-    "name": "Brian Poindexter",
-    "votes": 103252,
-    "pct": 54.3
-   },
-   "rep": {
-    "name": "Max Miller",
-    "votes": 86879,
-    "pct": 45.7
-   },
-   "marginPts": 8.6,
-   "marginVotes": 16373,
-   "calledBy": "DDHQ",
-   "source": "https://ua.news/en/world/poindekster-peremagaie-millera-v-ogaio-za-prognozom-decision-desk-hq-the-hill",
-   "asOf": "2026-11-03T23:51:50-05:00",
-   "ddhqUpdated": "2026-11-04 03:15:04.076089+00"
-  },
-  {
-   "id": "PA-07",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "73%",
-   "dem": {
-    "name": "Bob Brooks",
-    "votes": 131513,
-    "pct": 56.9
-   },
-   "rep": {
-    "name": "Ryan Mackenzie",
-    "votes": 99442,
-    "pct": 43.1
-   },
-   "marginPts": 13.9,
-   "marginVotes": 32071,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-7-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:24.94485+00"
-  },
-  {
-   "id": "NC-01",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "100%",
-   "dem": {
-    "name": "Don Davis",
-    "votes": 148510,
-    "pct": 49.5
-   },
-   "rep": {
-    "name": "Laurie Buckhout",
-    "votes": 142019,
-    "pct": 47.3
-   },
-   "marginPts": 2.2,
-   "marginVotes": 6491,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:24:24-05:00"
-  },
-  {
-   "id": "OH-09",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "45%",
-   "dem": {
-    "name": "Marcy Kaptur",
-    "votes": 58735,
-    "pct": 40.4
-   },
-   "rep": {
-    "name": "Derek Merrin",
-    "votes": 86534,
-    "pct": 59.6
-   },
-   "marginPts": -19.1,
-   "marginVotes": 27799,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-9-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 03:02:38.787663+00"
-  },
-  {
-   "id": "NJ-07",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "94%",
-   "dem": {
-    "name": "Rebecca Bennett",
-    "votes": 174989,
-    "pct": 57.9
-   },
-   "rep": {
-    "name": "Thomas Kean Jr.",
-    "votes": 122665,
-    "pct": 40.6
-   },
-   "marginPts": 17.3,
-   "marginVotes": 52324,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-jersey-us-house-7-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:37.744932+00",
-   "others": [
-    {
-     "name": "Seamus O'Toole",
-     "party": "UNA",
-     "votes": 4580,
-     "pct": 1.5
-    }
-   ]
-  },
-  {
-   "id": "OH-13",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "69%",
-   "dem": {
-    "name": "Emilia Sykes",
-    "votes": 139975,
-    "pct": 58.9
-   },
-   "rep": {
-    "name": "Carey Coleman",
-    "votes": 93981,
-    "pct": 39.6
-   },
-   "marginPts": 19.4,
-   "marginVotes": 45994,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-13-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:10:35.786842+00",
-   "others": [
-    {
-     "name": "Sandeep Dixit",
-     "party": "IND",
-     "votes": 3526,
-     "pct": 1.5
-    }
-   ]
-  },
-  {
-   "id": "AL-02",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "77%",
-   "dem": {
-    "name": "Shomari Figures",
-    "votes": 98300,
-    "pct": 54.4
-   },
-   "rep": {
-    "name": "Rhett Marques",
-    "votes": 82329,
-    "pct": 45.6
-   },
-   "marginPts": 8.8,
-   "marginVotes": 15971,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:17:52.254156+00"
-  },
-  {
-   "id": "AR-02",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "52%",
-   "dem": {
-    "name": "Chris Jones",
-    "votes": 78551,
-    "pct": 56.7
-   },
-   "rep": {
-    "name": "French Hill",
-    "votes": 59895,
-    "pct": 43.3
-   },
-   "marginPts": 13.5,
-   "marginVotes": 18656,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arkansas-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:14:55.879591+00"
-  },
-  {
-   "id": "IN-01",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "85%",
-   "dem": {
-    "name": "Frank Mrvan",
-    "votes": 124690,
-    "pct": 63.2
-   },
-   "rep": {
-    "name": "Barb Regnitz",
-    "votes": 72473,
-    "pct": 36.8
-   },
-   "marginPts": 26.5,
-   "marginVotes": 52217,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/indiana-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:10:18.627937+00"
-  },
-  {
-   "id": "KS-02",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "65%",
-   "dem": {
-    "name": "Don Coover",
-    "votes": 83131,
-    "pct": 49.1
-   },
-   "rep": {
-    "name": "Derek Schmidt",
-    "votes": 79956,
-    "pct": 47.3
-   },
-   "marginPts": 1.9,
-   "marginVotes": 3175,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:26.550526+00",
-   "others": [
-    {
-     "name": "John Hauer",
-     "party": "LIB",
-     "votes": 6079,
-     "pct": 3.6
-    }
-   ]
-  },
-  {
-   "id": "KS-SEN",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "75%",
-   "dem": {
-    "name": "Adam Hamilton",
-    "votes": 466171,
-    "pct": 55.2
-   },
-   "rep": {
-    "name": "Roger Marshall",
-    "votes": 355824,
-    "pct": 42.1
-   },
-   "marginPts": 13.1,
-   "marginVotes": 110347,
-   "calledBy": "NBC News",
-   "source": "https://www.nbcnews.com/politics/2026-election/adam-hamilton-kansas-senate-democrat-winner-upset-roger-marshall-rcna603310",
-   "asOf": "2026-11-03T23:44:00-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:52.117767+00",
-   "others": [
-    {
-     "name": "David Graham",
-     "party": "LIB",
-     "votes": 23114,
-     "pct": 2.7
-    }
-   ]
-  },
-  {
-   "id": "ME-02",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "34%",
-   "dem": {
-    "name": "Matthew Dunlap",
-    "votes": 54899,
-    "pct": 46.7
-   },
-   "rep": {
-    "name": "Paul LePage",
-    "votes": 61348,
-    "pct": 52.2
-   },
-   "marginPts": -5.5,
-   "marginVotes": 6449,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:10.216123+00",
-   "others": [
-    {
-     "name": "Blank Votes",
-     "party": "NPA",
-     "votes": 1229,
-     "pct": 1.1
+      "id": "FL-27",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "99%",
+      "dem": {
+        "name": "Eliott Rodriguez",
+        "votes": 122513,
+        "pct": 49.7
+      },
+      "rep": {
+        "name": "María Elvira Salazar",
+        "votes": 123838,
+        "pct": 50.3
+      },
+      "marginPts": -0.5,
+      "marginVotes": 1325,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-27-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:15:08.300126+00"
     },
     {
-     "name": " Write-In",
-     "party": "WRI",
-     "votes": 58,
-     "pct": 0.1
+      "id": "FL-SEN",
+      "status": "Called",
+      "leader": "R",
+      "reporting": "98%",
+      "dem": {
+        "name": "Angie Nixon",
+        "votes": 3942852,
+        "pct": 47.9
+      },
+      "rep": {
+        "name": "Ashley Moody",
+        "votes": 4191024,
+        "pct": 50.9
+      },
+      "marginPts": -3.0,
+      "marginVotes": 248172,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:15:22.348073+00",
+      "others": [
+        {
+          "name": "Neil Gillespie",
+          "party": "NPA",
+          "votes": 93888,
+          "pct": 1.1
+        }
+      ]
     },
     {
-     "name": "Gregory Ward",
-     "party": "WRI",
-     "votes": 26,
-     "pct": 0.0
-    }
-   ]
-  },
-  {
-   "id": "ME-SEN",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "27%",
-   "dem": {
-    "name": "Troy Jackson",
-    "votes": 94452,
-    "pct": 47.3
-   },
-   "rep": {
-    "name": "Susan Collins",
-    "votes": 103190,
-    "pct": 51.7
-   },
-   "marginPts": -4.4,
-   "marginVotes": 8738,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:29.398574+00",
-   "others": [
-    {
-     "name": "Blank Votes",
-     "party": "NPA",
-     "votes": 1689,
-     "pct": 0.8
+      "id": "GA-SEN",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "88%",
+      "dem": {
+        "name": "Jon Ossoff",
+        "votes": 2247421,
+        "pct": 59.3
+      },
+      "rep": {
+        "name": "Mike Collins",
+        "votes": 1539713,
+        "pct": 40.7
+      },
+      "marginPts": 18.7,
+      "marginVotes": 707708,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-us-senate-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:18:56.475808+00"
     },
     {
-     "name": " Write-In",
-     "party": "WRI",
-     "votes": 239,
-     "pct": 0.1
+      "id": "IN-05",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "98%",
+      "dem": {
+        "name": "J. D. Ford",
+        "votes": 130689,
+        "pct": 51.8
+      },
+      "rep": {
+        "name": "Victoria Spartz",
+        "votes": 121671,
+        "pct": 48.2
+      },
+      "marginPts": 3.6,
+      "marginVotes": 9018,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/indiana-us-house-5-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 02:50:00.323267+00"
     },
     {
-     "name": "Brent Andrews",
-     "party": "WRI",
-     "votes": 25,
-     "pct": 0.0
-    }
-   ]
-  },
-  {
-   "id": "MI-07",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "41%",
-   "dem": {
-    "name": "William Lawrence",
-    "votes": 73741,
-    "pct": 43.7
-   },
-   "rep": {
-    "name": "Tom Barrett",
-    "votes": 92995,
-    "pct": 55.1
-   },
-   "marginPts": -11.4,
-   "marginVotes": 19254,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-7-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:34.786107+00",
-   "others": [
-    {
-     "name": "Shane Dedrick",
-     "party": "GRE",
-     "votes": 2082,
-     "pct": 1.2
-    }
-   ]
-  },
-  {
-   "id": "MI-10",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "22%",
-   "dem": {
-    "name": "Christina Hines",
-    "votes": 39164,
-    "pct": 48.1
-   },
-   "rep": {
-    "name": "Mike Bouchard Jr.",
-    "votes": 39554,
-    "pct": 48.5
-   },
-   "marginPts": -0.5,
-   "marginVotes": 390,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-10-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:13:12.672714+00",
-   "others": [
-    {
-     "name": "Andrea Kirby",
-     "party": "WC",
-     "votes": 997,
-     "pct": 1.2
+      "id": "KY-06",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "96%",
+      "dem": {
+        "name": "Zach Dembo",
+        "votes": 117854,
+        "pct": 54.0
+      },
+      "rep": {
+        "name": "Ralph Alvarado",
+        "votes": 92129,
+        "pct": 42.2
+      },
+      "marginPts": 11.8,
+      "marginVotes": 25725,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kentucky-us-house-6-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:10:24.515563+00",
+      "others": [
+        {
+          "name": "Jay Bowman",
+          "party": "IND",
+          "votes": 5371,
+          "pct": 2.5
+        },
+        {
+          "name": "Pete Lynch",
+          "party": "UNA",
+          "votes": 3015,
+          "pct": 1.4
+        }
+      ]
     },
     {
-     "name": "Kwabena Nkromo",
-     "party": "GRE",
-     "votes": 924,
-     "pct": 1.1
+      "id": "NH-01",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "64%",
+      "dem": {
+        "name": "Stefany Shaheen",
+        "votes": 109008,
+        "pct": 57.8
+      },
+      "rep": {
+        "name": "Anthony DiLorenzo",
+        "votes": 79733,
+        "pct": 42.2
+      },
+      "marginPts": 15.5,
+      "marginVotes": 29275,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:18:47.198645+00"
     },
     {
-     "name": "Mike Saliba",
-     "party": "LIB",
-     "votes": 841,
-     "pct": 1.0
-    }
-   ]
-  },
-  {
-   "id": "MI-SEN",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "27%",
-   "dem": {
-    "name": "Abdul El-Sayed",
-    "votes": 711769,
-    "pct": 53.5
-   },
-   "rep": {
-    "name": "Mike Rogers",
-    "votes": 596382,
-    "pct": 44.8
-   },
-   "marginPts": 8.7,
-   "marginVotes": 115387,
-   "calledBy": null,
-   "source": "https://x.com/DecisionDeskHQ/status/2117821439864713416",
-   "asOf": "2026-11-03T23:59:43-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:18.768446+00",
-   "others": [
-    {
-     "name": "Lydia Christensen",
-     "party": "LIB",
-     "votes": 11322,
-     "pct": 0.9
+      "id": "NH-SEN",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "57%",
+      "dem": {
+        "name": "Chris Pappas",
+        "votes": 200826,
+        "pct": 57.0
+      },
+      "rep": {
+        "name": "John E. Sununu",
+        "votes": 144873,
+        "pct": 41.1
+      },
+      "marginPts": 15.9,
+      "marginVotes": 55953,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-us-senate-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:02.508657+00",
+      "others": [
+        {
+          "name": "Edmond Laplante",
+          "party": "CST",
+          "votes": 6380,
+          "pct": 1.8
+        }
+      ]
     },
     {
-     "name": "Tim Long",
-     "party": "UST",
-     "votes": 5066,
-     "pct": 0.4
+      "id": "SC-SEN",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "88%",
+      "dem": {
+        "name": "Annie Andrews",
+        "votes": 972446,
+        "pct": 50.9
+      },
+      "rep": {
+        "name": "Darline Graham",
+        "votes": 900127,
+        "pct": 47.1
+      },
+      "marginPts": 3.8,
+      "marginVotes": 72319,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-us-senate-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:21.86927+00",
+      "others": [
+        {
+          "name": "Kasie Whitener",
+          "party": "LIB",
+          "votes": 21661,
+          "pct": 1.1
+        },
+        {
+          "name": "Mark Hackett",
+          "party": "CST",
+          "votes": 15700,
+          "pct": 0.8
+        }
+      ]
     },
     {
-     "name": "Douglas Marsh",
-     "party": "GRE",
-     "votes": 2846,
-     "pct": 0.2
-    }
-   ]
-  },
-  {
-   "id": "MO-02",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "53%",
-   "dem": {
-    "name": "Fred Wellman",
-    "votes": 93712,
-    "pct": 57.1
-   },
-   "rep": {
-    "name": "Ann Wagner",
-    "votes": 66898,
-    "pct": 40.8
-   },
-   "marginPts": 16.3,
-   "marginVotes": 26814,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/missouri-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:16:09.522641+00",
-   "others": [
-    {
-     "name": "Brandon Daugherty",
-     "party": "LIB",
-     "votes": 3567,
-     "pct": 2.2
-    }
-   ]
-  },
-  {
-   "id": "MS-SEN",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "75%",
-   "dem": {
-    "name": "Scott Colom",
-    "votes": 321403,
-    "pct": 47.9
-   },
-   "rep": {
-    "name": "Cindy Hyde-Smith",
-    "votes": 336203,
-    "pct": 50.1
-   },
-   "marginPts": -2.2,
-   "marginVotes": 14800,
-   "calledBy": null,
-   "source": "https://x.com/DecisionDeskHQ/status/2117822664127746520",
-   "asOf": "2026-11-03T23:59:43-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:46.574842+00",
-   "others": [
-    {
-     "name": "Ty Pinkins",
-     "party": "IND",
-     "votes": 13164,
-     "pct": 2.1
-    }
-   ]
-  },
-  {
-   "id": "NC-03",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "98%",
-   "dem": {
-    "name": "Raymond Smith",
-    "votes": 115558,
-    "pct": 49.3
-   },
-   "rep": {
-    "name": "Greg Murphy",
-    "votes": 115765,
-    "pct": 49.4
-   },
-   "marginPts": -0.1,
-   "marginVotes": 207,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:16:09-05:00"
-  },
-  {
-   "id": "NC-11",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "100%",
-   "dem": {
-    "name": "Jamie Ager",
-    "votes": 195637,
-    "pct": 57.1
-   },
-   "rep": {
-    "name": "Jennifer Capps Balkcom",
-    "votes": 141427,
-    "pct": 41.3
-   },
-   "marginPts": 15.8,
-   "marginVotes": 54210,
-   "calledBy": "DDHQ",
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00"
-  },
-  {
-   "id": "NC-13",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "96%",
-   "dem": {
-    "name": "Paul Barringer",
-    "votes": 157664,
-    "pct": 50.7
-   },
-   "rep": {
-    "name": "Brad Knott",
-    "votes": 149035,
-    "pct": 47.9
-   },
-   "marginPts": 2.8,
-   "marginVotes": 8629,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:32:36-05:00"
-  },
-  {
-   "id": "NJ-09",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "65%",
-   "dem": {
-    "name": "Nellie Pou",
-    "votes": 85552,
-    "pct": 64.9
-   },
-   "rep": {
-    "name": "Rosie Pino",
-    "votes": 44653,
-    "pct": 33.9
-   },
-   "marginPts": 31.0,
-   "marginVotes": 40899,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-jersey-us-house-9-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:53.294658+00",
-   "others": [
-    {
-     "name": "Terrisa Bukovinac",
-     "party": "UNA",
-     "votes": 1694,
-     "pct": 1.3
-    }
-   ]
-  },
-  {
-   "id": "OH-01",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "74%",
-   "dem": {
-    "name": "Greg Landsman",
-    "votes": 147423,
-    "pct": 55.5
-   },
-   "rep": {
-    "name": "Eric Conroy",
-    "votes": 111479,
-    "pct": 41.9
-   },
-   "marginPts": 13.5,
-   "marginVotes": 35944,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-1-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 03:04:11.143983+00",
-   "others": [
-    {
-     "name": "Nathan Weise",
-     "party": "LIB",
-     "votes": 6895,
-     "pct": 2.6
-    }
-   ]
-  },
-  {
-   "id": "OH-10",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "77%",
-   "dem": {
-    "name": "Kristina Knickerbocker",
-    "votes": 126558,
-    "pct": 50.0
-   },
-   "rep": {
-    "name": "Mike Turner",
-    "votes": 119549,
-    "pct": 47.2
-   },
-   "marginPts": 2.8,
-   "marginVotes": 7009,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-10-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:14:20.315796+00",
-   "others": [
-    {
-     "name": "Thomas McMasters",
-     "party": "LIB",
-     "votes": 7094,
-     "pct": 2.8
-    }
-   ]
-  },
-  {
-   "id": "OH-15",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "83%",
-   "dem": {
-    "name": "Don Leonard",
-    "votes": 129416,
-    "pct": 51.9
-   },
-   "rep": {
-    "name": "Mike Carey",
-    "votes": 113051,
-    "pct": 45.3
-   },
-   "marginPts": 6.6,
-   "marginVotes": 16365,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-15-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:18.688683+00",
-   "others": [
-    {
-     "name": "Brennan Barrington",
-     "party": "LIB",
-     "votes": 6977,
-     "pct": 2.8
-    }
-   ]
-  },
-  {
-   "id": "PA-01",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "45%",
-   "dem": {
-    "name": "Bob Harvie",
-    "votes": 101147,
-    "pct": 57.4
-   },
-   "rep": {
-    "name": "Brian Fitzpatrick",
-    "votes": 74996,
-    "pct": 42.6
-   },
-   "marginPts": 14.8,
-   "marginVotes": 26151,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:07:59.672249+00"
-  },
-  {
-   "id": "PA-08",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "78%",
-   "dem": {
-    "name": "Paige Cognetti",
-    "votes": 136107,
-    "pct": 56.4
-   },
-   "rep": {
-    "name": "Rob Bresnahan",
-    "votes": 105035,
-    "pct": 43.6
-   },
-   "marginPts": 12.9,
-   "marginVotes": 31072,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-8-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:18:02.594881+00"
-  },
-  {
-   "id": "PA-10",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "59%",
-   "dem": {
-    "name": "Janelle Stelson",
-    "votes": 116097,
-    "pct": 58.4
-   },
-   "rep": {
-    "name": "Scott Perry",
-    "votes": 82638,
-    "pct": 41.6
-   },
-   "marginPts": 16.8,
-   "marginVotes": 33459,
-   "calledBy": "AP",
-   "source": "https://www.spotlightpa.org/news/2026/11/pennsylvania-election-results-tenth-congressional-district-scott-perry-janelle-stelson-elections/",
-   "asOf": "2026-11-03T23:51:50-05:00",
-   "ddhqUpdated": "2026-11-04 03:12:34.467634+00"
-  },
-  {
-   "id": "SC-01",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "88%",
-   "dem": {
-    "name": "Nancy Lacore",
-    "votes": 150121,
-    "pct": 50.6
-   },
-   "rep": {
-    "name": "Jenny Costa Honeycutt",
-    "votes": 141787,
-    "pct": 47.8
-   },
-   "marginPts": 2.8,
-   "marginVotes": 8334,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:19.380561+00",
-   "others": [
-    {
-     "name": "Bill Reeside",
-     "party": "LIB",
-     "votes": 4818,
-     "pct": 1.6
-    }
-   ]
-  },
-  {
-   "id": "TN-09",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "64%",
-   "dem": {
-    "name": "Justin Pearson",
-    "votes": 72284,
-    "pct": 54.5
-   },
-   "rep": {
-    "name": "Brent Taylor",
-    "votes": 58033,
-    "pct": 43.7
-   },
-   "marginPts": 10.7,
-   "marginVotes": 14251,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/tennessee-us-house-9-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:13:33.649452+00",
-   "others": [
-    {
-     "name": "Dennis Clark",
-     "party": "IND",
-     "votes": 1317,
-     "pct": 1.0
+      "id": "VA-01",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "97%",
+      "dem": {
+        "name": "Shannon Taylor",
+        "votes": 194368,
+        "pct": 50.6
+      },
+      "rep": {
+        "name": "Rob Wittman",
+        "votes": 189586,
+        "pct": 49.4
+      },
+      "marginPts": 1.2,
+      "marginVotes": 4782,
+      "calledBy": "DDHQ",
+      "source": "https://townhall.com/news/josephchalfant/2026/11/03/democrat-shannon-taylor-flips-virginias-first-district-defeating-20-year-incumbent-rob-wittman-n2685873",
+      "asOf": "2026-11-03T23:21:48-05:00",
+      "ddhqUpdated": "2026-11-04 02:57:15.675906+00"
     },
     {
-     "name": "Michelle Head",
-     "party": "IND",
-     "votes": 1053,
-     "pct": 0.8
-    }
-   ]
-  },
-  {
-   "id": "TX-15",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "21%",
-   "dem": {
-    "name": "Bobby Pulido",
-    "votes": 17760,
-    "pct": 45.2
-   },
-   "rep": {
-    "name": "Monica De La Cruz",
-    "votes": 21488,
-    "pct": 54.8
-   },
-   "marginPts": -9.5,
-   "marginVotes": 3728,
-   "calledBy": "DDHQ",
-   "source": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-pulido-wins-texas-house-race-ddhq-projects",
-   "asOf": "2026-11-03T23:21:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:34.877483+00"
-  },
-  {
-   "id": "TX-23",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "73%",
-   "dem": {
-    "name": "Katy Padilla Stout",
-    "votes": 101176,
-    "pct": 53.0
-   },
-   "rep": {
-    "name": "Brandon Herrera",
-    "votes": 83153,
-    "pct": 43.6
-   },
-   "marginPts": 9.4,
-   "marginVotes": 18023,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-23-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:34.796515+00",
-   "others": [
-    {
-     "name": "Ben Mendoza",
-     "party": "IND",
-     "votes": 6392,
-     "pct": 3.4
-    }
-   ]
-  },
-  {
-   "id": "TX-28",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "49%",
-   "dem": {
-    "name": "Henry Cuellar",
-    "votes": 56782,
-    "pct": 67.0
-   },
-   "rep": {
-    "name": "Tano Tijerina",
-    "votes": 23947,
-    "pct": 28.2
-   },
-   "marginPts": 38.7,
-   "marginVotes": 32835,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-28-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 02:53:48.027663+00",
-   "others": [
-    {
-     "name": "Marlon Duran",
-     "party": "GRE",
-     "votes": 4039,
-     "pct": 4.8
-    }
-   ]
-  },
-  {
-   "id": "TX-32",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "82%",
-   "dem": {
-    "name": "Dan Barrios",
-    "votes": 111143,
-    "pct": 50.5
-   },
-   "rep": {
-    "name": "Jace Yarbrough",
-    "votes": 108734,
-    "pct": 49.5
-   },
-   "marginPts": 1.1,
-   "marginVotes": 2409,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-32-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 03:02:27.676494+00"
-  },
-  {
-   "id": "TX-34",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "86%",
-   "dem": {
-    "name": "Vicente Gonzalez",
-    "votes": 96070,
-    "pct": 56.3
-   },
-   "rep": {
-    "name": "Eric Flores",
-    "votes": 66847,
-    "pct": 39.2
-   },
-   "marginPts": 17.1,
-   "marginVotes": 29223,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-34-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:11.291126+00",
-   "others": [
-    {
-     "name": "Eddie Espinoza",
-     "party": "GRE",
-     "votes": 3933,
-     "pct": 2.3
+      "id": "VA-02",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "83%",
+      "dem": {
+        "name": "Elaine Luria",
+        "votes": 139792,
+        "pct": 51.8
+      },
+      "rep": {
+        "name": "Jen Kiggans",
+        "votes": 124358,
+        "pct": 46.1
+      },
+      "marginPts": 5.7,
+      "marginVotes": 15434,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/virginia-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:16.449842+00",
+      "others": [
+        {
+          "name": "J. Matt Baker",
+          "party": "IND",
+          "votes": 3822,
+          "pct": 1.4
+        },
+        {
+          "name": "Geral Staten",
+          "party": "IND",
+          "votes": 1980,
+          "pct": 0.7
+        }
+      ]
     },
     {
-     "name": "Chris Royal",
-     "party": "LIB",
-     "votes": 3747,
-     "pct": 2.2
-    }
-   ]
-  },
-  {
-   "id": "TX-35",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "70%",
-   "dem": {
-    "name": "Johnny Garcia",
-    "votes": 109859,
-    "pct": 59.0
-   },
-   "rep": {
-    "name": "Carlos De La Cruz",
-    "votes": 76467,
-    "pct": 41.0
-   },
-   "marginPts": 17.9,
-   "marginVotes": 33392,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-35-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:18:22.979805+00"
-  },
-  {
-   "id": "TX-SEN",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "68%",
-   "dem": {
-    "name": "James Talarico",
-    "votes": 3758291,
-    "pct": 55.3
-   },
-   "rep": {
-    "name": "Ken Paxton",
-    "votes": 2928178,
-    "pct": 43.1
-   },
-   "marginPts": 12.2,
-   "marginVotes": 830113,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:05.483599+00",
-   "others": [
-    {
-     "name": "Ted Brown",
-     "party": "LIB",
-     "votes": 111292,
-     "pct": 1.6
-    }
-   ]
-  },
-  {
-   "id": "IA-02",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "38%",
-   "dem": {
-    "name": "Lindsay James",
-    "votes": 78107,
-    "pct": 55.9
-   },
-   "rep": {
-    "name": "Joe Mitchell",
-    "votes": 55803,
-    "pct": 40.0
-   },
-   "marginPts": 16.0,
-   "marginVotes": 22304,
-   "calledBy": "The Hill",
-   "source": "https://thehill.com/homenews/campaign/6181406-lindsay-james-iowa-2nd-congressional-district/",
-   "asOf": "2026-11-03T23:51:50-05:00",
-   "ddhqUpdated": "2026-11-04 03:14:40.095686+00",
-   "others": [
-    {
-     "name": "Rick Stewart",
-     "party": "LIB",
-     "votes": 3859,
-     "pct": 2.8
+      "id": "VA-05",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "91%",
+      "dem": {
+        "name": "Tom Perriello",
+        "votes": 162101,
+        "pct": 49.2
+      },
+      "rep": {
+        "name": "John McGuire",
+        "votes": 162292,
+        "pct": 49.2
+      },
+      "marginPts": -0.1,
+      "marginVotes": 191,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/virginia-us-house-5-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:17.129627+00",
+      "others": [
+        {
+          "name": "Cooke Harvey",
+          "party": "IND",
+          "votes": 5263,
+          "pct": 1.6
+        }
+      ]
     },
     {
-     "name": "Dave Bushaw",
-     "party": "NPA",
-     "votes": 1911,
-     "pct": 1.4
-    }
-   ]
-  },
-  {
-   "id": "IA-03",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "64%",
-   "dem": {
-    "name": "Sarah Trone Garriott",
-    "votes": 136458,
-    "pct": 59.1
-   },
-   "rep": {
-    "name": "Zach Nunn",
-    "votes": 94379,
-    "pct": 40.9
-   },
-   "marginPts": 18.2,
-   "marginVotes": 42079,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-3-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:14:49.784357+00"
-  },
-  {
-   "id": "IA-SEN",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "78%",
-   "dem": {
-    "name": "Josh Turek",
-    "votes": null,
-    "pct": 51.2
-   },
-   "rep": {
-    "name": "Ashley Hinson",
-    "votes": null,
-    "pct": 45.61
-   },
-   "marginPts": 5.6,
-   "marginVotes": null,
-   "calledBy": "DDHQ",
-   "source": "https://townhall.com/news/amy-curtis/2026/11/03/senate-ia-n2685755",
-   "asOf": "2026-11-03T23:59:43-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:35.703217+00",
-   "others": [
-    {
-     "name": "Thomas Laehn",
-     "party": "LIB",
-     "votes": 14147,
-     "pct": 2.7
-    }
-   ]
-  },
-  {
-   "id": "MI-04",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "4%",
-   "dem": {
-    "name": "Sean McCann",
-    "votes": 4079,
-    "pct": 27.7
-   },
-   "rep": {
-    "name": "Bill Huizenga",
-    "votes": 9328,
-    "pct": 63.2
-   },
-   "marginPts": -35.6,
-   "marginVotes": 5249,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-4-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:43.034134+00",
-   "others": [
-    {
-     "name": "Shafina Barnett",
-     "party": "GRE",
-     "votes": 1341,
-     "pct": 9.1
-    }
-   ]
-  },
-  {
-   "id": "MI-08",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "8%",
-   "dem": {
-    "name": "Kristen McDonald Rivet",
-    "votes": 14522,
-    "pct": 48.2
-   },
-   "rep": {
-    "name": "Thomas Smith",
-    "votes": 14897,
-    "pct": 49.5
-   },
-   "marginPts": -1.2,
-   "marginVotes": 375,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-8-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:16:02.454071+00",
-   "others": [
-    {
-     "name": "Kathy Goodwin",
-     "party": "WC",
-     "votes": 385,
-     "pct": 1.3
+      "id": "VA-07",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "97%",
+      "dem": {
+        "name": "Eugene Vindman",
+        "votes": 190743,
+        "pct": 59.8
+      },
+      "rep": {
+        "name": "Doug Ollivant",
+        "votes": 120857,
+        "pct": 37.9
+      },
+      "marginPts": 21.9,
+      "marginVotes": 69886,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/virginia-us-house-7-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 02:50:15.914142+00",
+      "others": [
+        {
+          "name": "Alaha Ahrar",
+          "party": "IND",
+          "votes": 3018,
+          "pct": 0.9
+        },
+        {
+          "name": "Taner Lopez",
+          "party": "LIB",
+          "votes": 2628,
+          "pct": 0.8
+        },
+        {
+          "name": "Randall Terry",
+          "party": "IND",
+          "votes": 1197,
+          "pct": 0.4
+        }
+      ]
     },
     {
-     "name": "Mia Pettus",
-     "party": "LIB",
-     "votes": 237,
-     "pct": 0.8
+      "id": "NC-SEN",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "90%",
+      "dem": {
+        "name": "Roy Cooper",
+        "votes": 2297448,
+        "pct": 58.2
+      },
+      "rep": {
+        "name": "Michael Whatley",
+        "votes": 1559793,
+        "pct": 39.5
+      },
+      "marginPts": 18.7,
+      "marginVotes": 737655,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-us-senate-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:34.70362+00",
+      "others": [
+        {
+          "name": "Shannon Bray",
+          "party": "LIB",
+          "votes": 52982,
+          "pct": 1.3
+        },
+        {
+          "name": "Michael Dublin",
+          "party": "GRE",
+          "votes": 33876,
+          "pct": 0.9
+        }
+      ]
     },
     {
-     "name": "Jim Casha",
-     "party": "GRE",
-     "votes": 83,
-     "pct": 0.3
-    }
-   ]
-  },
-  {
-   "id": "MN-01",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "44%",
-   "dem": {
-    "name": "Jake Johnson",
-    "votes": 67296,
-    "pct": 47.9
-   },
-   "rep": {
-    "name": "Brad Finstad",
-    "votes": 73118,
-    "pct": 52.0
-   },
-   "marginPts": -4.1,
-   "marginVotes": 5822,
-   "calledBy": null,
-   "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-03T23:30:31-05:00"
-  },
-  {
-   "id": "MN-SEN",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "3%",
-   "dem": {
-    "name": "Peggy Flanagan",
-    "votes": 29817,
-    "pct": 41.1
-   },
-   "rep": {
-    "name": "Michele Tafoya",
-    "votes": 40703,
-    "pct": 56.1
-   },
-   "marginPts": -15.0,
-   "marginVotes": 10886,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:19.591926+00",
-   "others": [
-    {
-     "name": "Marisa Simonetti",
-     "party": "UNA",
-     "votes": 1147,
-     "pct": 1.6
+      "id": "OH-SEN",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "73%",
+      "dem": {
+        "name": "Sherrod Brown",
+        "votes": 1777343,
+        "pct": 48.5
+      },
+      "rep": {
+        "name": "Jon Husted",
+        "votes": 1714683,
+        "pct": 46.8
+      },
+      "marginPts": 1.7,
+      "marginVotes": 62660,
+      "calledBy": "AP",
+      "source": "https://www.washingtonpost.com/elections/results/2026/11/03/ohio-senate-brown-husted-live-updates/",
+      "asOf": "2026-11-03T23:30:00-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:33.452118+00",
+      "others": [
+        {
+          "name": "William Redpath",
+          "party": "LIB",
+          "votes": 102303,
+          "pct": 2.8
+        },
+        {
+          "name": "Greg Levy",
+          "party": "OTH",
+          "votes": 72052,
+          "pct": 2.0
+        }
+      ]
     },
     {
-     "name": "Rebecca Whiting",
-     "party": "LIB",
-     "votes": 917,
-     "pct": 1.3
-    }
-   ]
-  },
-  {
-   "id": "NE-01",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "41%",
-   "dem": {
-    "name": "Chris Backemeyer",
-    "votes": 53717,
-    "pct": 55.4
-   },
-   "rep": {
-    "name": "Mike Flood",
-    "votes": 40644,
-    "pct": 41.9
-   },
-   "marginPts": 13.5,
-   "marginVotes": 13073,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:58.993887+00",
-   "others": [
-    {
-     "name": "Dan Hartong",
-     "party": "AF",
-     "votes": 1308,
-     "pct": 1.4
+      "id": "OH-07",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "57%",
+      "dem": {
+        "name": "Brian Poindexter",
+        "votes": 103252,
+        "pct": 54.3
+      },
+      "rep": {
+        "name": "Max Miller",
+        "votes": 86879,
+        "pct": 45.7
+      },
+      "marginPts": 8.6,
+      "marginVotes": 16373,
+      "calledBy": "DDHQ",
+      "source": "https://ua.news/en/world/poindekster-peremagaie-millera-v-ogaio-za-prognozom-decision-desk-hq-the-hill",
+      "asOf": "2026-11-03T23:51:50-05:00",
+      "ddhqUpdated": "2026-11-04 03:15:04.076089+00"
     },
     {
-     "name": "Nik Sandman",
-     "party": "LIB",
-     "votes": 1289,
-     "pct": 1.3
-    }
-   ]
-  },
-  {
-   "id": "NE-02",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "71%",
-   "dem": {
-    "name": "Denise Powell",
-    "votes": 97194,
-    "pct": 59.0
-   },
-   "rep": {
-    "name": "Brinker Harding",
-    "votes": 64076,
-    "pct": 38.9
-   },
-   "marginPts": 20.1,
-   "marginVotes": 33118,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:59.00912+00",
-   "others": [
-    {
-     "name": "Eric Foreman",
-     "party": "LIB",
-     "votes": 3541,
-     "pct": 2.1
-    }
-   ]
-  },
-  {
-   "id": "NE-SEN",
-   "status": "Counting",
-   "leader": "I",
-   "reporting": "43%",
-   "dem": {
-    "name": "Dan Osborn",
-    "votes": 164571,
-    "pct": 53.0
-   },
-   "rep": {
-    "name": "Pete Ricketts",
-    "votes": 129680,
-    "pct": 41.8
-   },
-   "marginPts": 11.2,
-   "marginVotes": 34891,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:16:38.496423+00",
-   "others": [
-    {
-     "name": "Robin Richards",
-     "party": "NWP",
-     "votes": 7581,
-     "pct": 2.4
+      "id": "PA-07",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "73%",
+      "dem": {
+        "name": "Bob Brooks",
+        "votes": 131513,
+        "pct": 56.9
+      },
+      "rep": {
+        "name": "Ryan Mackenzie",
+        "votes": 99442,
+        "pct": 43.1
+      },
+      "marginPts": 13.9,
+      "marginVotes": 32071,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-7-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:24.94485+00"
     },
     {
-     "name": "Mike Marvin",
-     "party": "LMN",
-     "votes": 5778,
-     "pct": 1.9
+      "id": "NC-01",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "100%",
+      "dem": {
+        "name": "Don Davis",
+        "votes": 151087,
+        "pct": 49.6
+      },
+      "rep": {
+        "name": "Laurie Buckhout",
+        "votes": 143514,
+        "pct": 47.2
+      },
+      "marginPts": 2.4,
+      "marginVotes": 7573,
+      "calledBy": null,
+      "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+      "asOf": "2026-11-03T23:44:50-05:00"
     },
     {
-     "name": "Chuck Conboy",
-     "party": "AF",
-     "votes": 3013,
-     "pct": 1.0
-    }
-   ]
-  },
-  {
-   "id": "NM-02",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "39%",
-   "dem": {
-    "name": "Gabe Vasquez",
-    "votes": 50482,
-    "pct": 58.6
-   },
-   "rep": {
-    "name": "Greg Cunningham",
-    "votes": 35680,
-    "pct": 41.4
-   },
-   "marginPts": 17.2,
-   "marginVotes": 14802,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-mexico-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:27.915267+00"
-  },
-  {
-   "id": "NY-03",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "54%",
-   "dem": {
-    "name": "Tom Suozzi",
-    "votes": 89755,
-    "pct": 59.1
-   },
-   "rep": {
-    "name": "Mike LiPetri",
-    "votes": 62046,
-    "pct": 40.9
-   },
-   "marginPts": 18.3,
-   "marginVotes": 27709,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-3-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:14:26.086237+00"
-  },
-  {
-   "id": "NY-17",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "48%",
-   "dem": {
-    "name": "Cait Conley",
-    "votes": 69725,
-    "pct": 50.0
-   },
-   "rep": {
-    "name": "Mike Lawler",
-    "votes": 69635,
-    "pct": 50.0
-   },
-   "marginPts": 0.1,
-   "marginVotes": 90,
-   "calledBy": "Spectrum News",
-   "source": "https://spectrumlocalnews.com/nys/central-ny/news/2026/11/03/lawler--conley-in-ny-17-",
-   "asOf": "2026-11-03T23:51:50-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:21.421916+00"
-  },
-  {
-   "id": "NY-19",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "39%",
-   "dem": {
-    "name": "Josh Riley",
-    "votes": 85306,
-    "pct": 70.4
-   },
-   "rep": {
-    "name": "Peter Oberacker",
-    "votes": 35923,
-    "pct": 29.6
-   },
-   "marginPts": 40.7,
-   "marginVotes": 49383,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-19-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:17:59.986131+00"
-  },
-  {
-   "id": "NY-21",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "49%",
-   "dem": {
-    "name": "Blake Gendebien",
-    "votes": 74403,
-    "pct": 51.7
-   },
-   "rep": {
-    "name": "Anthony Constantino",
-    "votes": 69554,
-    "pct": 48.3
-   },
-   "marginPts": 3.4,
-   "marginVotes": 4849,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-21-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:12.571376+00"
-  },
-  {
-   "id": "TX-09",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "71%",
-   "dem": {
-    "name": "Leticia Gutierrez",
-    "votes": 75362,
-    "pct": 57.8
-   },
-   "rep": {
-    "name": "Alex Mealer",
-    "votes": 55067,
-    "pct": 42.2
-   },
-   "marginPts": 15.6,
-   "marginVotes": 20295,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-9-general-election",
-   "asOf": "2026-11-03T21:52:47-05:00",
-   "ddhqUpdated": "2026-11-04 02:33:56.596474+00"
-  },
-  {
-   "id": "WI-01",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "73%",
-   "dem": {
-    "name": "Mitchell Berman",
-    "votes": 110408,
-    "pct": 50.2
-   },
-   "rep": {
-    "name": "Bryan Steil",
-    "votes": 109347,
-    "pct": 49.8
-   },
-   "marginPts": 0.5,
-   "marginVotes": 1061,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:12:07.19109+00"
-  },
-  {
-   "id": "WI-03",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "62%",
-   "dem": {
-    "name": "Rebecca Cooke",
-    "votes": 112054,
-    "pct": 53.4
-   },
-   "rep": {
-    "name": "Derrick Van Orden",
-    "votes": 95031,
-    "pct": 45.3
-   },
-   "marginPts": 8.1,
-   "marginVotes": 17023,
-   "calledBy": "WKOW",
-   "source": "https://www.wkow.com/news/election/democrat-rebecca-cooke-unseats-incumbent-derrick-van-orden-in-3rd-congressional-district/article_49aa3c98-9814-4a00-9c9a-0d1b1a2aa553.html",
-   "asOf": "2026-11-03T23:51:50-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:48.995564+00",
-   "others": [
-    {
-     "name": "Alexander Kent",
-     "party": "IND",
-     "votes": 1662,
-     "pct": 0.8
+      "id": "OH-09",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "45%",
+      "dem": {
+        "name": "Marcy Kaptur",
+        "votes": 58735,
+        "pct": 40.4
+      },
+      "rep": {
+        "name": "Derek Merrin",
+        "votes": 86534,
+        "pct": 59.6
+      },
+      "marginPts": -19.1,
+      "marginVotes": 27799,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-9-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 03:02:38.787663+00"
     },
     {
-     "name": "Rustin Provance",
-     "party": "IND",
-     "votes": 1015,
-     "pct": 0.5
-    }
-   ]
-  },
-  {
-   "id": "CO-05",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "71%",
-   "dem": {
-    "name": "Jessica Killin",
-    "votes": 115707,
-    "pct": 51.9
-   },
-   "rep": {
-    "name": "Jeff Crank",
-    "votes": 100578,
-    "pct": 45.1
-   },
-   "marginPts": 6.8,
-   "marginVotes": 15129,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/colorado-us-house-5-general-election",
-   "asOf": "2026-11-03T21:52:47-05:00",
-   "ddhqUpdated": "2026-11-04 02:34:51.694986+00",
-   "others": [
-    {
-     "name": "Mark Elworth",
-     "party": "LIB",
-     "votes": 3486,
-     "pct": 1.6
+      "id": "NJ-07",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "94%",
+      "dem": {
+        "name": "Rebecca Bennett",
+        "votes": 174989,
+        "pct": 57.9
+      },
+      "rep": {
+        "name": "Thomas Kean Jr.",
+        "votes": 122665,
+        "pct": 40.6
+      },
+      "marginPts": 17.3,
+      "marginVotes": 52324,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-jersey-us-house-7-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:37.744932+00",
+      "others": [
+        {
+          "name": "Seamus O'Toole",
+          "party": "UNA",
+          "votes": 4580,
+          "pct": 1.5
+        }
+      ]
     },
     {
-     "name": "Christopher Mitchell",
-     "party": "ACP",
-     "votes": 3214,
-     "pct": 1.4
-    }
-   ]
-  },
-  {
-   "id": "IA-01",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "15%",
-   "dem": {
-    "name": "Christina Bohannan",
-    "votes": 23260,
-    "pct": 42.6
-   },
-   "rep": {
-    "name": "Mariannette Miller-Meeks",
-    "votes": 28810,
-    "pct": 52.8
-   },
-   "marginPts": -10.2,
-   "marginVotes": 5550,
-   "calledBy": "The Hill",
-   "source": "https://thehill.com/homenews/campaign/6189867-bohannan-unseats-miller-meeks/",
-   "asOf": "2026-11-03T23:51:50-05:00",
-   "ddhqUpdated": "2026-11-04 03:18:48.419035+00",
-   "others": [
-    {
-     "name": "Michael Bridgford",
-     "party": "NPA",
-     "votes": 2529,
-     "pct": 4.6
-    }
-   ]
-  },
-  {
-   "id": "NY-01",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "61%",
-   "dem": {
-    "name": "Chris Gallant",
-    "votes": 101091,
-    "pct": 51.7
-   },
-   "rep": {
-    "name": "Nick LaLota",
-    "votes": 94329,
-    "pct": 48.3
-   },
-   "marginPts": 3.5,
-   "marginVotes": 6762,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:14:25.986799+00"
-  },
-  {
-   "id": "NY-04",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "39%",
-   "dem": {
-    "name": "Laura Gillen",
-    "votes": 70055,
-    "pct": 58.8
-   },
-   "rep": {
-    "name": "Jeanine Driscoll",
-    "votes": 48882,
-    "pct": 41.0
-   },
-   "marginPts": 17.8,
-   "marginVotes": 21173,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-4-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:12:44.12925+00",
-   "others": [
-    {
-     "name": "Blay Tarnoff",
-     "party": "LIB",
-     "votes": 207,
-     "pct": 0.2
-    }
-   ]
-  },
-  {
-   "id": "AZ-02",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "53%",
-   "dem": {
-    "name": "Jonathan Nez",
-    "votes": 91969,
-    "pct": 49.5
-   },
-   "rep": {
-    "name": "Eli Crane",
-    "votes": 91015,
-    "pct": 49.0
-   },
-   "marginPts": 0.5,
-   "marginVotes": 954,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:05.313569+00",
-   "others": [
-    {
-     "name": "Curtis Goodwin",
-     "party": "LIB",
-     "votes": 2819,
-     "pct": 1.5
-    }
-   ]
-  },
-  {
-   "id": "UT-01",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "0%",
-   "dem": {
-    "name": "Ben McAdams",
-    "votes": 0,
-    "pct": 0.0
-   },
-   "rep": {
-    "name": "Riley Owen",
-    "votes": 0,
-    "pct": 0.0
-   },
-   "marginPts": 0.0,
-   "marginVotes": 0,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/utah-us-house-1-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
-   "ddhqUpdated": "2026-11-04 03:00:00.861114+00"
-  },
-  {
-   "id": "AZ-01",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "76%",
-   "dem": {
-    "name": "Amish Shah",
-    "votes": 136277,
-    "pct": 54.9
-   },
-   "rep": {
-    "name": "Jay Feely",
-    "votes": 107247,
-    "pct": 43.2
-   },
-   "marginPts": 11.7,
-   "marginVotes": 29030,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:11:03.278419+00",
-   "others": [
-    {
-     "name": "Monica Alponte",
-     "party": "LIB",
-     "votes": 4603,
-     "pct": 1.9
-    }
-   ]
-  },
-  {
-   "id": "AZ-06",
-   "status": "Called",
-   "leader": "D",
-   "reporting": "70%",
-   "dem": {
-    "name": "JoAnna Mendoza",
-    "votes": 136511,
-    "pct": 58.3
-   },
-   "rep": {
-    "name": "Juan Ciscomani",
-    "votes": 93192,
-    "pct": 39.8
-   },
-   "marginPts": 18.5,
-   "marginVotes": 43319,
-   "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-6-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:05.701649+00",
-   "others": [
-    {
-     "name": "Jereme Peters",
-     "party": "LIB",
-     "votes": 2537,
-     "pct": 1.1
+      "id": "OH-13",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "69%",
+      "dem": {
+        "name": "Emilia Sykes",
+        "votes": 139975,
+        "pct": 58.9
+      },
+      "rep": {
+        "name": "Carey Coleman",
+        "votes": 93981,
+        "pct": 39.6
+      },
+      "marginPts": 19.4,
+      "marginVotes": 45994,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-13-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:10:35.786842+00",
+      "others": [
+        {
+          "name": "Sandeep Dixit",
+          "party": "IND",
+          "votes": 3526,
+          "pct": 1.5
+        }
+      ]
     },
     {
-     "name": "Gary Swing",
-     "party": "GRE",
-     "votes": 1930,
-     "pct": 0.8
-    }
-   ]
-  },
-  {
-   "id": "MN-02",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "72%",
-   "dem": {
-    "name": "Matt Little",
-    "votes": 155141,
-    "pct": 59.5
-   },
-   "rep": {
-    "name": "Eric Pratt",
-    "votes": 105209,
-    "pct": 40.4
-   },
-   "marginPts": 19.1,
-   "marginVotes": 49932,
-   "calledBy": null,
-   "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-03T23:20:17-05:00"
-  },
-  {
-   "id": "MT-01",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "1%",
-   "dem": {
-    "name": "Sam Forstag",
-    "votes": 1321,
-    "pct": 58.2
-   },
-   "rep": {
-    "name": "Aaron Flint",
-    "votes": 852,
-    "pct": 37.6
-   },
-   "marginPts": 20.7,
-   "marginVotes": 469,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/montana-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:16:53.36477+00",
-   "others": [
+      "id": "AL-02",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "77%",
+      "dem": {
+        "name": "Shomari Figures",
+        "votes": 98300,
+        "pct": 54.4
+      },
+      "rep": {
+        "name": "Rhett Marques",
+        "votes": 82329,
+        "pct": 45.6
+      },
+      "marginPts": 8.8,
+      "marginVotes": 15971,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:17:52.254156+00"
+    },
     {
-     "name": "Nick Sheedy",
-     "party": "LIB",
-     "votes": 95,
-     "pct": 4.2
+      "id": "AR-02",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "52%",
+      "dem": {
+        "name": "Chris Jones",
+        "votes": 78551,
+        "pct": 56.7
+      },
+      "rep": {
+        "name": "French Hill",
+        "votes": 59895,
+        "pct": 43.3
+      },
+      "marginPts": 13.5,
+      "marginVotes": 18656,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arkansas-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:14:55.879591+00"
+    },
+    {
+      "id": "IN-01",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "85%",
+      "dem": {
+        "name": "Frank Mrvan",
+        "votes": 124690,
+        "pct": 63.2
+      },
+      "rep": {
+        "name": "Barb Regnitz",
+        "votes": 72473,
+        "pct": 36.8
+      },
+      "marginPts": 26.5,
+      "marginVotes": 52217,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/indiana-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:10:18.627937+00"
+    },
+    {
+      "id": "KS-02",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "65%",
+      "dem": {
+        "name": "Don Coover",
+        "votes": 83131,
+        "pct": 49.1
+      },
+      "rep": {
+        "name": "Derek Schmidt",
+        "votes": 79956,
+        "pct": 47.3
+      },
+      "marginPts": 1.9,
+      "marginVotes": 3175,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:26.550526+00",
+      "others": [
+        {
+          "name": "John Hauer",
+          "party": "LIB",
+          "votes": 6079,
+          "pct": 3.6
+        }
+      ]
+    },
+    {
+      "id": "KS-SEN",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "75%",
+      "dem": {
+        "name": "Adam Hamilton",
+        "votes": 466171,
+        "pct": 55.2
+      },
+      "rep": {
+        "name": "Roger Marshall",
+        "votes": 355824,
+        "pct": 42.1
+      },
+      "marginPts": 13.1,
+      "marginVotes": 110347,
+      "calledBy": "NBC News",
+      "source": "https://www.nbcnews.com/politics/2026-election/adam-hamilton-kansas-senate-democrat-winner-upset-roger-marshall-rcna603310",
+      "asOf": "2026-11-03T23:44:00-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:52.117767+00",
+      "others": [
+        {
+          "name": "David Graham",
+          "party": "LIB",
+          "votes": 23114,
+          "pct": 2.7
+        }
+      ]
+    },
+    {
+      "id": "ME-02",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "34%",
+      "dem": {
+        "name": "Matthew Dunlap",
+        "votes": 54899,
+        "pct": 46.7
+      },
+      "rep": {
+        "name": "Paul LePage",
+        "votes": 61348,
+        "pct": 52.2
+      },
+      "marginPts": -5.5,
+      "marginVotes": 6449,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:10.216123+00",
+      "others": [
+        {
+          "name": "Blank Votes",
+          "party": "NPA",
+          "votes": 1229,
+          "pct": 1.1
+        },
+        {
+          "name": " Write-In",
+          "party": "WRI",
+          "votes": 58,
+          "pct": 0.1
+        },
+        {
+          "name": "Gregory Ward",
+          "party": "WRI",
+          "votes": 26,
+          "pct": 0.0
+        }
+      ]
+    },
+    {
+      "id": "ME-SEN",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "27%",
+      "dem": {
+        "name": "Troy Jackson",
+        "votes": 94452,
+        "pct": 47.3
+      },
+      "rep": {
+        "name": "Susan Collins",
+        "votes": 103190,
+        "pct": 51.7
+      },
+      "marginPts": -4.4,
+      "marginVotes": 8738,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:29.398574+00",
+      "others": [
+        {
+          "name": "Blank Votes",
+          "party": "NPA",
+          "votes": 1689,
+          "pct": 0.8
+        },
+        {
+          "name": " Write-In",
+          "party": "WRI",
+          "votes": 239,
+          "pct": 0.1
+        },
+        {
+          "name": "Brent Andrews",
+          "party": "WRI",
+          "votes": 25,
+          "pct": 0.0
+        }
+      ]
+    },
+    {
+      "id": "MI-07",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "41%",
+      "dem": {
+        "name": "William Lawrence",
+        "votes": 73741,
+        "pct": 43.7
+      },
+      "rep": {
+        "name": "Tom Barrett",
+        "votes": 92995,
+        "pct": 55.1
+      },
+      "marginPts": -11.4,
+      "marginVotes": 19254,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-7-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:34.786107+00",
+      "others": [
+        {
+          "name": "Shane Dedrick",
+          "party": "GRE",
+          "votes": 2082,
+          "pct": 1.2
+        }
+      ]
+    },
+    {
+      "id": "MI-10",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "22%",
+      "dem": {
+        "name": "Christina Hines",
+        "votes": 39164,
+        "pct": 48.1
+      },
+      "rep": {
+        "name": "Mike Bouchard Jr.",
+        "votes": 39554,
+        "pct": 48.5
+      },
+      "marginPts": -0.5,
+      "marginVotes": 390,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-10-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:13:12.672714+00",
+      "others": [
+        {
+          "name": "Andrea Kirby",
+          "party": "WC",
+          "votes": 997,
+          "pct": 1.2
+        },
+        {
+          "name": "Kwabena Nkromo",
+          "party": "GRE",
+          "votes": 924,
+          "pct": 1.1
+        },
+        {
+          "name": "Mike Saliba",
+          "party": "LIB",
+          "votes": 841,
+          "pct": 1.0
+        }
+      ]
+    },
+    {
+      "id": "MI-SEN",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "27%",
+      "dem": {
+        "name": "Abdul El-Sayed",
+        "votes": 711769,
+        "pct": 53.5
+      },
+      "rep": {
+        "name": "Mike Rogers",
+        "votes": 596382,
+        "pct": 44.8
+      },
+      "marginPts": 8.7,
+      "marginVotes": 115387,
+      "calledBy": null,
+      "source": "https://x.com/DecisionDeskHQ/status/2117821439864713416",
+      "asOf": "2026-11-03T23:59:43-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:18.768446+00",
+      "others": [
+        {
+          "name": "Lydia Christensen",
+          "party": "LIB",
+          "votes": 11322,
+          "pct": 0.9
+        },
+        {
+          "name": "Tim Long",
+          "party": "UST",
+          "votes": 5066,
+          "pct": 0.4
+        },
+        {
+          "name": "Douglas Marsh",
+          "party": "GRE",
+          "votes": 2846,
+          "pct": 0.2
+        }
+      ]
+    },
+    {
+      "id": "MO-02",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "53%",
+      "dem": {
+        "name": "Fred Wellman",
+        "votes": 93712,
+        "pct": 57.1
+      },
+      "rep": {
+        "name": "Ann Wagner",
+        "votes": 66898,
+        "pct": 40.8
+      },
+      "marginPts": 16.3,
+      "marginVotes": 26814,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/missouri-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:16:09.522641+00",
+      "others": [
+        {
+          "name": "Brandon Daugherty",
+          "party": "LIB",
+          "votes": 3567,
+          "pct": 2.2
+        }
+      ]
+    },
+    {
+      "id": "MS-SEN",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "75%",
+      "dem": {
+        "name": "Scott Colom",
+        "votes": 321403,
+        "pct": 47.9
+      },
+      "rep": {
+        "name": "Cindy Hyde-Smith",
+        "votes": 336203,
+        "pct": 50.1
+      },
+      "marginPts": -2.2,
+      "marginVotes": 14800,
+      "calledBy": null,
+      "source": "https://x.com/DecisionDeskHQ/status/2117822664127746520",
+      "asOf": "2026-11-03T23:59:43-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:46.574842+00",
+      "others": [
+        {
+          "name": "Ty Pinkins",
+          "party": "IND",
+          "votes": 13164,
+          "pct": 2.1
+        }
+      ]
+    },
+    {
+      "id": "NC-03",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "99%",
+      "dem": {
+        "name": "Raymond Smith",
+        "votes": 115921,
+        "pct": 49.2
+      },
+      "rep": {
+        "name": "Greg Murphy",
+        "votes": 116650,
+        "pct": 49.5
+      },
+      "marginPts": -0.3,
+      "marginVotes": 729,
+      "calledBy": null,
+      "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+      "asOf": "2026-11-03T23:55:04-05:00"
+    },
+    {
+      "id": "NC-11",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "100%",
+      "dem": {
+        "name": "Jamie Ager",
+        "votes": 195637,
+        "pct": 57.1
+      },
+      "rep": {
+        "name": "Jennifer Capps Balkcom",
+        "votes": 141427,
+        "pct": 41.3
+      },
+      "marginPts": 15.8,
+      "marginVotes": 54210,
+      "calledBy": "DDHQ",
+      "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+      "asOf": "2026-11-03T23:01:48-05:00"
+    },
+    {
+      "id": "NC-13",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "99%",
+      "dem": {
+        "name": "Paul Barringer",
+        "votes": 159424,
+        "pct": 50.6
+      },
+      "rep": {
+        "name": "Brad Knott",
+        "votes": 151324,
+        "pct": 48.0
+      },
+      "marginPts": 2.6,
+      "marginVotes": 8100,
+      "calledBy": null,
+      "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+      "asOf": "2026-11-03T23:55:04-05:00"
+    },
+    {
+      "id": "NJ-09",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "65%",
+      "dem": {
+        "name": "Nellie Pou",
+        "votes": 85552,
+        "pct": 64.9
+      },
+      "rep": {
+        "name": "Rosie Pino",
+        "votes": 44653,
+        "pct": 33.9
+      },
+      "marginPts": 31.0,
+      "marginVotes": 40899,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-jersey-us-house-9-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:53.294658+00",
+      "others": [
+        {
+          "name": "Terrisa Bukovinac",
+          "party": "UNA",
+          "votes": 1694,
+          "pct": 1.3
+        }
+      ]
+    },
+    {
+      "id": "OH-01",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "74%",
+      "dem": {
+        "name": "Greg Landsman",
+        "votes": 147423,
+        "pct": 55.5
+      },
+      "rep": {
+        "name": "Eric Conroy",
+        "votes": 111479,
+        "pct": 41.9
+      },
+      "marginPts": 13.5,
+      "marginVotes": 35944,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-1-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 03:04:11.143983+00",
+      "others": [
+        {
+          "name": "Nathan Weise",
+          "party": "LIB",
+          "votes": 6895,
+          "pct": 2.6
+        }
+      ]
+    },
+    {
+      "id": "OH-10",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "77%",
+      "dem": {
+        "name": "Kristina Knickerbocker",
+        "votes": 126558,
+        "pct": 50.0
+      },
+      "rep": {
+        "name": "Mike Turner",
+        "votes": 119549,
+        "pct": 47.2
+      },
+      "marginPts": 2.8,
+      "marginVotes": 7009,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-10-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:14:20.315796+00",
+      "others": [
+        {
+          "name": "Thomas McMasters",
+          "party": "LIB",
+          "votes": 7094,
+          "pct": 2.8
+        }
+      ]
+    },
+    {
+      "id": "OH-15",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "83%",
+      "dem": {
+        "name": "Don Leonard",
+        "votes": 129416,
+        "pct": 51.9
+      },
+      "rep": {
+        "name": "Mike Carey",
+        "votes": 113051,
+        "pct": 45.3
+      },
+      "marginPts": 6.6,
+      "marginVotes": 16365,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-15-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:18.688683+00",
+      "others": [
+        {
+          "name": "Brennan Barrington",
+          "party": "LIB",
+          "votes": 6977,
+          "pct": 2.8
+        }
+      ]
+    },
+    {
+      "id": "PA-01",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "45%",
+      "dem": {
+        "name": "Bob Harvie",
+        "votes": 101147,
+        "pct": 57.4
+      },
+      "rep": {
+        "name": "Brian Fitzpatrick",
+        "votes": 74996,
+        "pct": 42.6
+      },
+      "marginPts": 14.8,
+      "marginVotes": 26151,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:07:59.672249+00"
+    },
+    {
+      "id": "PA-08",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "78%",
+      "dem": {
+        "name": "Paige Cognetti",
+        "votes": 136107,
+        "pct": 56.4
+      },
+      "rep": {
+        "name": "Rob Bresnahan",
+        "votes": 105035,
+        "pct": 43.6
+      },
+      "marginPts": 12.9,
+      "marginVotes": 31072,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-8-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:18:02.594881+00"
+    },
+    {
+      "id": "PA-10",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "59%",
+      "dem": {
+        "name": "Janelle Stelson",
+        "votes": 116097,
+        "pct": 58.4
+      },
+      "rep": {
+        "name": "Scott Perry",
+        "votes": 82638,
+        "pct": 41.6
+      },
+      "marginPts": 16.8,
+      "marginVotes": 33459,
+      "calledBy": "AP",
+      "source": "https://www.spotlightpa.org/news/2026/11/pennsylvania-election-results-tenth-congressional-district-scott-perry-janelle-stelson-elections/",
+      "asOf": "2026-11-03T23:51:50-05:00",
+      "ddhqUpdated": "2026-11-04 03:12:34.467634+00"
+    },
+    {
+      "id": "SC-01",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "88%",
+      "dem": {
+        "name": "Nancy Lacore",
+        "votes": 150121,
+        "pct": 50.6
+      },
+      "rep": {
+        "name": "Jenny Costa Honeycutt",
+        "votes": 141787,
+        "pct": 47.8
+      },
+      "marginPts": 2.8,
+      "marginVotes": 8334,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:19.380561+00",
+      "others": [
+        {
+          "name": "Bill Reeside",
+          "party": "LIB",
+          "votes": 4818,
+          "pct": 1.6
+        }
+      ]
+    },
+    {
+      "id": "TN-09",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "64%",
+      "dem": {
+        "name": "Justin Pearson",
+        "votes": 72284,
+        "pct": 54.5
+      },
+      "rep": {
+        "name": "Brent Taylor",
+        "votes": 58033,
+        "pct": 43.7
+      },
+      "marginPts": 10.7,
+      "marginVotes": 14251,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/tennessee-us-house-9-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:13:33.649452+00",
+      "others": [
+        {
+          "name": "Dennis Clark",
+          "party": "IND",
+          "votes": 1317,
+          "pct": 1.0
+        },
+        {
+          "name": "Michelle Head",
+          "party": "IND",
+          "votes": 1053,
+          "pct": 0.8
+        }
+      ]
+    },
+    {
+      "id": "TX-15",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "21%",
+      "dem": {
+        "name": "Bobby Pulido",
+        "votes": 17760,
+        "pct": 45.2
+      },
+      "rep": {
+        "name": "Monica De La Cruz",
+        "votes": 21488,
+        "pct": 54.8
+      },
+      "marginPts": -9.5,
+      "marginVotes": 3728,
+      "calledBy": "DDHQ",
+      "source": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-pulido-wins-texas-house-race-ddhq-projects",
+      "asOf": "2026-11-03T23:21:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:34.877483+00"
+    },
+    {
+      "id": "TX-23",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "73%",
+      "dem": {
+        "name": "Katy Padilla Stout",
+        "votes": 101176,
+        "pct": 53.0
+      },
+      "rep": {
+        "name": "Brandon Herrera",
+        "votes": 83153,
+        "pct": 43.6
+      },
+      "marginPts": 9.4,
+      "marginVotes": 18023,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-23-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:34.796515+00",
+      "others": [
+        {
+          "name": "Ben Mendoza",
+          "party": "IND",
+          "votes": 6392,
+          "pct": 3.4
+        }
+      ]
+    },
+    {
+      "id": "TX-28",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "49%",
+      "dem": {
+        "name": "Henry Cuellar",
+        "votes": 56782,
+        "pct": 67.0
+      },
+      "rep": {
+        "name": "Tano Tijerina",
+        "votes": 23947,
+        "pct": 28.2
+      },
+      "marginPts": 38.7,
+      "marginVotes": 32835,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-28-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 02:53:48.027663+00",
+      "others": [
+        {
+          "name": "Marlon Duran",
+          "party": "GRE",
+          "votes": 4039,
+          "pct": 4.8
+        }
+      ]
+    },
+    {
+      "id": "TX-32",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "82%",
+      "dem": {
+        "name": "Dan Barrios",
+        "votes": 111143,
+        "pct": 50.5
+      },
+      "rep": {
+        "name": "Jace Yarbrough",
+        "votes": 108734,
+        "pct": 49.5
+      },
+      "marginPts": 1.1,
+      "marginVotes": 2409,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-32-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 03:02:27.676494+00"
+    },
+    {
+      "id": "TX-34",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "86%",
+      "dem": {
+        "name": "Vicente Gonzalez",
+        "votes": 96070,
+        "pct": 56.3
+      },
+      "rep": {
+        "name": "Eric Flores",
+        "votes": 66847,
+        "pct": 39.2
+      },
+      "marginPts": 17.1,
+      "marginVotes": 29223,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-34-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:11.291126+00",
+      "others": [
+        {
+          "name": "Eddie Espinoza",
+          "party": "GRE",
+          "votes": 3933,
+          "pct": 2.3
+        },
+        {
+          "name": "Chris Royal",
+          "party": "LIB",
+          "votes": 3747,
+          "pct": 2.2
+        }
+      ]
+    },
+    {
+      "id": "TX-35",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "70%",
+      "dem": {
+        "name": "Johnny Garcia",
+        "votes": 109859,
+        "pct": 59.0
+      },
+      "rep": {
+        "name": "Carlos De La Cruz",
+        "votes": 76467,
+        "pct": 41.0
+      },
+      "marginPts": 17.9,
+      "marginVotes": 33392,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-35-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:18:22.979805+00"
+    },
+    {
+      "id": "TX-SEN",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "68%",
+      "dem": {
+        "name": "James Talarico",
+        "votes": 3758291,
+        "pct": 55.3
+      },
+      "rep": {
+        "name": "Ken Paxton",
+        "votes": 2928178,
+        "pct": 43.1
+      },
+      "marginPts": 12.2,
+      "marginVotes": 830113,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-senate-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:05.483599+00",
+      "others": [
+        {
+          "name": "Ted Brown",
+          "party": "LIB",
+          "votes": 111292,
+          "pct": 1.6
+        }
+      ]
+    },
+    {
+      "id": "IA-02",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "38%",
+      "dem": {
+        "name": "Lindsay James",
+        "votes": 78107,
+        "pct": 55.9
+      },
+      "rep": {
+        "name": "Joe Mitchell",
+        "votes": 55803,
+        "pct": 40.0
+      },
+      "marginPts": 16.0,
+      "marginVotes": 22304,
+      "calledBy": "The Hill",
+      "source": "https://thehill.com/homenews/campaign/6181406-lindsay-james-iowa-2nd-congressional-district/",
+      "asOf": "2026-11-03T23:51:50-05:00",
+      "ddhqUpdated": "2026-11-04 03:14:40.095686+00",
+      "others": [
+        {
+          "name": "Rick Stewart",
+          "party": "LIB",
+          "votes": 3859,
+          "pct": 2.8
+        },
+        {
+          "name": "Dave Bushaw",
+          "party": "NPA",
+          "votes": 1911,
+          "pct": 1.4
+        }
+      ]
+    },
+    {
+      "id": "IA-03",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "64%",
+      "dem": {
+        "name": "Sarah Trone Garriott",
+        "votes": 136458,
+        "pct": 59.1
+      },
+      "rep": {
+        "name": "Zach Nunn",
+        "votes": 94379,
+        "pct": 40.9
+      },
+      "marginPts": 18.2,
+      "marginVotes": 42079,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-3-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:14:49.784357+00"
+    },
+    {
+      "id": "IA-SEN",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "78%",
+      "dem": {
+        "name": "Josh Turek",
+        "votes": null,
+        "pct": 51.2
+      },
+      "rep": {
+        "name": "Ashley Hinson",
+        "votes": null,
+        "pct": 45.61
+      },
+      "marginPts": 5.6,
+      "marginVotes": null,
+      "calledBy": "DDHQ",
+      "source": "https://townhall.com/news/amy-curtis/2026/11/03/senate-ia-n2685755",
+      "asOf": "2026-11-03T23:59:43-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:35.703217+00",
+      "others": [
+        {
+          "name": "Thomas Laehn",
+          "party": "LIB",
+          "votes": 14147,
+          "pct": 2.7
+        }
+      ]
+    },
+    {
+      "id": "MI-04",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "4%",
+      "dem": {
+        "name": "Sean McCann",
+        "votes": 4079,
+        "pct": 27.7
+      },
+      "rep": {
+        "name": "Bill Huizenga",
+        "votes": 9328,
+        "pct": 63.2
+      },
+      "marginPts": -35.6,
+      "marginVotes": 5249,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-4-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:43.034134+00",
+      "others": [
+        {
+          "name": "Shafina Barnett",
+          "party": "GRE",
+          "votes": 1341,
+          "pct": 9.1
+        }
+      ]
+    },
+    {
+      "id": "MI-08",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "8%",
+      "dem": {
+        "name": "Kristen McDonald Rivet",
+        "votes": 14522,
+        "pct": 48.2
+      },
+      "rep": {
+        "name": "Thomas Smith",
+        "votes": 14897,
+        "pct": 49.5
+      },
+      "marginPts": -1.2,
+      "marginVotes": 375,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-8-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:16:02.454071+00",
+      "others": [
+        {
+          "name": "Kathy Goodwin",
+          "party": "WC",
+          "votes": 385,
+          "pct": 1.3
+        },
+        {
+          "name": "Mia Pettus",
+          "party": "LIB",
+          "votes": 237,
+          "pct": 0.8
+        },
+        {
+          "name": "Jim Casha",
+          "party": "GRE",
+          "votes": 83,
+          "pct": 0.3
+        }
+      ]
+    },
+    {
+      "id": "MN-01",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "57%",
+      "dem": {
+        "name": "Jake Johnson",
+        "votes": 94682,
+        "pct": 48.9
+      },
+      "rep": {
+        "name": "Brad Finstad",
+        "votes": 98703,
+        "pct": 51.0
+      },
+      "marginPts": -2.1,
+      "marginVotes": 4021,
+      "calledBy": null,
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+      "asOf": "2026-11-04T00:01:15-05:00"
+    },
+    {
+      "id": "MN-SEN",
+      "status": "Counting",
+      "leader": "R",
+      "reporting": "3%",
+      "dem": {
+        "name": "Peggy Flanagan",
+        "votes": 29817,
+        "pct": 41.1
+      },
+      "rep": {
+        "name": "Michele Tafoya",
+        "votes": 40703,
+        "pct": 56.1
+      },
+      "marginPts": -15.0,
+      "marginVotes": 10886,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-us-senate-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:19.591926+00",
+      "others": [
+        {
+          "name": "Marisa Simonetti",
+          "party": "UNA",
+          "votes": 1147,
+          "pct": 1.6
+        },
+        {
+          "name": "Rebecca Whiting",
+          "party": "LIB",
+          "votes": 917,
+          "pct": 1.3
+        }
+      ]
+    },
+    {
+      "id": "NE-01",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "41%",
+      "dem": {
+        "name": "Chris Backemeyer",
+        "votes": 53717,
+        "pct": 55.4
+      },
+      "rep": {
+        "name": "Mike Flood",
+        "votes": 40644,
+        "pct": 41.9
+      },
+      "marginPts": 13.5,
+      "marginVotes": 13073,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:58.993887+00",
+      "others": [
+        {
+          "name": "Dan Hartong",
+          "party": "AF",
+          "votes": 1308,
+          "pct": 1.4
+        },
+        {
+          "name": "Nik Sandman",
+          "party": "LIB",
+          "votes": 1289,
+          "pct": 1.3
+        }
+      ]
+    },
+    {
+      "id": "NE-02",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "71%",
+      "dem": {
+        "name": "Denise Powell",
+        "votes": 97194,
+        "pct": 59.0
+      },
+      "rep": {
+        "name": "Brinker Harding",
+        "votes": 64076,
+        "pct": 38.9
+      },
+      "marginPts": 20.1,
+      "marginVotes": 33118,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:59.00912+00",
+      "others": [
+        {
+          "name": "Eric Foreman",
+          "party": "LIB",
+          "votes": 3541,
+          "pct": 2.1
+        }
+      ]
+    },
+    {
+      "id": "NE-SEN",
+      "status": "Counting",
+      "leader": "I",
+      "reporting": "43%",
+      "dem": {
+        "name": "Dan Osborn",
+        "votes": 164571,
+        "pct": 53.0
+      },
+      "rep": {
+        "name": "Pete Ricketts",
+        "votes": 129680,
+        "pct": 41.8
+      },
+      "marginPts": 11.2,
+      "marginVotes": 34891,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:16:38.496423+00",
+      "others": [
+        {
+          "name": "Robin Richards",
+          "party": "NWP",
+          "votes": 7581,
+          "pct": 2.4
+        },
+        {
+          "name": "Mike Marvin",
+          "party": "LMN",
+          "votes": 5778,
+          "pct": 1.9
+        },
+        {
+          "name": "Chuck Conboy",
+          "party": "AF",
+          "votes": 3013,
+          "pct": 1.0
+        }
+      ]
+    },
+    {
+      "id": "NM-02",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "39%",
+      "dem": {
+        "name": "Gabe Vasquez",
+        "votes": 50482,
+        "pct": 58.6
+      },
+      "rep": {
+        "name": "Greg Cunningham",
+        "votes": 35680,
+        "pct": 41.4
+      },
+      "marginPts": 17.2,
+      "marginVotes": 14802,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-mexico-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:27.915267+00"
+    },
+    {
+      "id": "NY-03",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "54%",
+      "dem": {
+        "name": "Tom Suozzi",
+        "votes": 89755,
+        "pct": 59.1
+      },
+      "rep": {
+        "name": "Mike LiPetri",
+        "votes": 62046,
+        "pct": 40.9
+      },
+      "marginPts": 18.3,
+      "marginVotes": 27709,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-3-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:14:26.086237+00"
+    },
+    {
+      "id": "NY-17",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "48%",
+      "dem": {
+        "name": "Cait Conley",
+        "votes": 69725,
+        "pct": 50.0
+      },
+      "rep": {
+        "name": "Mike Lawler",
+        "votes": 69635,
+        "pct": 50.0
+      },
+      "marginPts": 0.1,
+      "marginVotes": 90,
+      "calledBy": "Spectrum News",
+      "source": "https://spectrumlocalnews.com/nys/central-ny/news/2026/11/03/lawler--conley-in-ny-17-",
+      "asOf": "2026-11-03T23:51:50-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:21.421916+00"
+    },
+    {
+      "id": "NY-19",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "39%",
+      "dem": {
+        "name": "Josh Riley",
+        "votes": 85306,
+        "pct": 70.4
+      },
+      "rep": {
+        "name": "Peter Oberacker",
+        "votes": 35923,
+        "pct": 29.6
+      },
+      "marginPts": 40.7,
+      "marginVotes": 49383,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-19-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:17:59.986131+00"
+    },
+    {
+      "id": "NY-21",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "49%",
+      "dem": {
+        "name": "Blake Gendebien",
+        "votes": 74403,
+        "pct": 51.7
+      },
+      "rep": {
+        "name": "Anthony Constantino",
+        "votes": 69554,
+        "pct": 48.3
+      },
+      "marginPts": 3.4,
+      "marginVotes": 4849,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-21-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:12.571376+00"
+    },
+    {
+      "id": "TX-09",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "71%",
+      "dem": {
+        "name": "Leticia Gutierrez",
+        "votes": 75362,
+        "pct": 57.8
+      },
+      "rep": {
+        "name": "Alex Mealer",
+        "votes": 55067,
+        "pct": 42.2
+      },
+      "marginPts": 15.6,
+      "marginVotes": 20295,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-9-general-election",
+      "asOf": "2026-11-03T21:52:47-05:00",
+      "ddhqUpdated": "2026-11-04 02:33:56.596474+00"
+    },
+    {
+      "id": "WI-01",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "73%",
+      "dem": {
+        "name": "Mitchell Berman",
+        "votes": 110408,
+        "pct": 50.2
+      },
+      "rep": {
+        "name": "Bryan Steil",
+        "votes": 109347,
+        "pct": 49.8
+      },
+      "marginPts": 0.5,
+      "marginVotes": 1061,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:12:07.19109+00"
+    },
+    {
+      "id": "WI-03",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "62%",
+      "dem": {
+        "name": "Rebecca Cooke",
+        "votes": 112054,
+        "pct": 53.4
+      },
+      "rep": {
+        "name": "Derrick Van Orden",
+        "votes": 95031,
+        "pct": 45.3
+      },
+      "marginPts": 8.1,
+      "marginVotes": 17023,
+      "calledBy": "WKOW",
+      "source": "https://www.wkow.com/news/election/democrat-rebecca-cooke-unseats-incumbent-derrick-van-orden-in-3rd-congressional-district/article_49aa3c98-9814-4a00-9c9a-0d1b1a2aa553.html",
+      "asOf": "2026-11-03T23:51:50-05:00",
+      "ddhqUpdated": "2026-11-04 03:20:48.995564+00",
+      "others": [
+        {
+          "name": "Alexander Kent",
+          "party": "IND",
+          "votes": 1662,
+          "pct": 0.8
+        },
+        {
+          "name": "Rustin Provance",
+          "party": "IND",
+          "votes": 1015,
+          "pct": 0.5
+        }
+      ]
+    },
+    {
+      "id": "CO-05",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "71%",
+      "dem": {
+        "name": "Jessica Killin",
+        "votes": 115707,
+        "pct": 51.9
+      },
+      "rep": {
+        "name": "Jeff Crank",
+        "votes": 100578,
+        "pct": 45.1
+      },
+      "marginPts": 6.8,
+      "marginVotes": 15129,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/colorado-us-house-5-general-election",
+      "asOf": "2026-11-03T21:52:47-05:00",
+      "ddhqUpdated": "2026-11-04 02:34:51.694986+00",
+      "others": [
+        {
+          "name": "Mark Elworth",
+          "party": "LIB",
+          "votes": 3486,
+          "pct": 1.6
+        },
+        {
+          "name": "Christopher Mitchell",
+          "party": "ACP",
+          "votes": 3214,
+          "pct": 1.4
+        }
+      ]
+    },
+    {
+      "id": "IA-01",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "15%",
+      "dem": {
+        "name": "Christina Bohannan",
+        "votes": 23260,
+        "pct": 42.6
+      },
+      "rep": {
+        "name": "Mariannette Miller-Meeks",
+        "votes": 28810,
+        "pct": 52.8
+      },
+      "marginPts": -10.2,
+      "marginVotes": 5550,
+      "calledBy": "The Hill",
+      "source": "https://thehill.com/homenews/campaign/6189867-bohannan-unseats-miller-meeks/",
+      "asOf": "2026-11-03T23:51:50-05:00",
+      "ddhqUpdated": "2026-11-04 03:18:48.419035+00",
+      "others": [
+        {
+          "name": "Michael Bridgford",
+          "party": "NPA",
+          "votes": 2529,
+          "pct": 4.6
+        }
+      ]
+    },
+    {
+      "id": "NY-01",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "61%",
+      "dem": {
+        "name": "Chris Gallant",
+        "votes": 101091,
+        "pct": 51.7
+      },
+      "rep": {
+        "name": "Nick LaLota",
+        "votes": 94329,
+        "pct": 48.3
+      },
+      "marginPts": 3.5,
+      "marginVotes": 6762,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:14:25.986799+00"
+    },
+    {
+      "id": "NY-04",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "39%",
+      "dem": {
+        "name": "Laura Gillen",
+        "votes": 70055,
+        "pct": 58.8
+      },
+      "rep": {
+        "name": "Jeanine Driscoll",
+        "votes": 48882,
+        "pct": 41.0
+      },
+      "marginPts": 17.8,
+      "marginVotes": 21173,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-4-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:12:44.12925+00",
+      "others": [
+        {
+          "name": "Blay Tarnoff",
+          "party": "LIB",
+          "votes": 207,
+          "pct": 0.2
+        }
+      ]
+    },
+    {
+      "id": "AZ-02",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "53%",
+      "dem": {
+        "name": "Jonathan Nez",
+        "votes": 91969,
+        "pct": 49.5
+      },
+      "rep": {
+        "name": "Eli Crane",
+        "votes": 91015,
+        "pct": 49.0
+      },
+      "marginPts": 0.5,
+      "marginVotes": 954,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-2-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:05.313569+00",
+      "others": [
+        {
+          "name": "Curtis Goodwin",
+          "party": "LIB",
+          "votes": 2819,
+          "pct": 1.5
+        }
+      ]
+    },
+    {
+      "id": "UT-01",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "0%",
+      "dem": {
+        "name": "Ben McAdams",
+        "votes": 0,
+        "pct": 0.0
+      },
+      "rep": {
+        "name": "Riley Owen",
+        "votes": 0,
+        "pct": 0.0
+      },
+      "marginPts": 0.0,
+      "marginVotes": 0,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/utah-us-house-1-general-election",
+      "asOf": "2026-11-03T22:19:51-05:00",
+      "ddhqUpdated": "2026-11-04 03:00:00.861114+00"
+    },
+    {
+      "id": "AZ-01",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "76%",
+      "dem": {
+        "name": "Amish Shah",
+        "votes": 136277,
+        "pct": 54.9
+      },
+      "rep": {
+        "name": "Jay Feely",
+        "votes": 107247,
+        "pct": 43.2
+      },
+      "marginPts": 11.7,
+      "marginVotes": 29030,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:11:03.278419+00",
+      "others": [
+        {
+          "name": "Monica Alponte",
+          "party": "LIB",
+          "votes": 4603,
+          "pct": 1.9
+        }
+      ]
+    },
+    {
+      "id": "AZ-06",
+      "status": "Called",
+      "leader": "D",
+      "reporting": "70%",
+      "dem": {
+        "name": "JoAnna Mendoza",
+        "votes": 136511,
+        "pct": 58.3
+      },
+      "rep": {
+        "name": "Juan Ciscomani",
+        "votes": 93192,
+        "pct": 39.8
+      },
+      "marginPts": 18.5,
+      "marginVotes": 43319,
+      "calledBy": "DDHQ",
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-us-house-6-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:19:05.701649+00",
+      "others": [
+        {
+          "name": "Jereme Peters",
+          "party": "LIB",
+          "votes": 2537,
+          "pct": 1.1
+        },
+        {
+          "name": "Gary Swing",
+          "party": "GRE",
+          "votes": 1930,
+          "pct": 0.8
+        }
+      ]
+    },
+    {
+      "id": "MN-02",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "78%",
+      "dem": {
+        "name": "Matt Little",
+        "votes": 170258,
+        "pct": 59.5
+      },
+      "rep": {
+        "name": "Eric Pratt",
+        "votes": 115612,
+        "pct": 40.4
+      },
+      "marginPts": 19.1,
+      "marginVotes": 54646,
+      "calledBy": null,
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+      "asOf": "2026-11-04T00:01:15-05:00"
+    },
+    {
+      "id": "MT-01",
+      "status": "Counting",
+      "leader": "D",
+      "reporting": "1%",
+      "dem": {
+        "name": "Sam Forstag",
+        "votes": 1321,
+        "pct": 58.2
+      },
+      "rep": {
+        "name": "Aaron Flint",
+        "votes": 852,
+        "pct": 37.6
+      },
+      "marginPts": 20.7,
+      "marginVotes": 469,
+      "calledBy": null,
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/montana-us-house-1-general-election",
+      "asOf": "2026-11-03T22:23:48-05:00",
+      "ddhqUpdated": "2026-11-04 03:16:53.36477+00",
+      "others": [
+        {
+          "name": "Nick Sheedy",
+          "party": "LIB",
+          "votes": 95,
+          "pct": 4.2
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }
