@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:23:48-05:00",
+ "updated": "2026-11-03T22:48:00-05:00",
  "sample": false,
  "races": [
   {
@@ -128,7 +128,7 @@
   },
   {
    "id": "OH-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "73%",
    "dem": {
@@ -143,9 +143,9 @@
    },
    "marginPts": 4.6,
    "marginVotes": 168854,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://clashreport.com/world/articles/democrat-amy-acton-wins-ohio-governor-s-race-over-vivek-ramaswamy-ddhq-projects-a0yffvoyllp",
+   "asOf": "2026-11-03T22:48:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:18.688683+00",
    "others": [
     {
