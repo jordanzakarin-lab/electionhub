@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:18:57-05:00",
+ "updated": "2026-11-03T20:25:06-05:00",
  "sample": false,
  "races": [
   {
@@ -731,6 +731,29 @@
    "calledBy": "AP",
    "source": "https://panow.com/2026/11/03/democrat-jb-pritzker-wins-reelection-for-governor-in-illinois/",
    "asOf": "2026-11-03T20:18:57-05:00"
+  },
+  {
+   "id": "OH-LG",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "David Pepper",
+    "votes": null,
+    "pct": 64.4
+   },
+   "rep": {
+    "name": "Rob McColley",
+    "votes": null,
+    "pct": 33.4
+   },
+   "marginPts": 31.0,
+   "marginVotes": null,
+   "calledBy": null,
+   "source": "https://www.daytondailynews.com/local/amy-acton-out-to-early-lead-in-ohio-governor-race/article_3cdadbe8-ac98-5e4f-9671-688de9ae5c00.html",
+   "asOf": "2026-11-03T20:00:00-05:00",
+   "others": [],
+   "note": "Joint ticket: governor ticket's result (Acton–Pepper vs. Ramaswamy–McColley), partial early-vote count (~1.2M votes) as of 8 p.m. per Dayton Daily News."
   }
  ]
 }
