@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:05:00-05:00",
+ "updated": "2026-11-04T01:02:43-05:00",
  "sample": false,
  "races": [
   {
@@ -1275,10 +1275,9 @@
    "marginPts": 14.8,
    "marginVotes": 26151,
    "calledBy": "AP",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-1-general-election",
+   "source": "https://www.inquirer.com/politics/election/fitzpatrick-harvie-race-winner-results-pennsylvania-1st-district-20261104.html",
    "asOf": "2026-11-04T00:58:04-05:00",
-   "ddhqUpdated": "2026-11-04 03:07:59.672249+00",
-   "note": "call entered by Jordan from AP (12:37 AM)"
+   "ddhqUpdated": "2026-11-04 03:07:59.672249+00"
   },
   {
    "id": "PA-08",
@@ -2473,10 +2472,9 @@
    "marginPts": -1.4,
    "marginVotes": 3605,
    "calledBy": "AP",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-us-house-1-general-election",
+   "source": "https://thehill.com/homenews/campaign/6188792-jim-kingston-wins-georgia-district/",
    "asOf": "2026-11-04T00:58:04-05:00",
-   "ddhqUpdated": "2026-11-04 04:25:27.075835+00",
-   "note": "call entered by Jordan from AP (12:14 AM)"
+   "ddhqUpdated": "2026-11-04 04:25:27.075835+00"
   },
   {
    "id": "ID-02",
