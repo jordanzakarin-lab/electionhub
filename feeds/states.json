@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:49:32-05:00",
+ "updated": "2026-11-04T04:22:01-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -112,31 +112,31 @@
   },
   {
    "status": "Counting",
-   "leader": "R",
+   "leader": "D",
    "reporting": "100%",
    "dem": {
     "name": "Sam Davis III",
-    "votes": 10777,
-    "pct": 48.5
+    "votes": 12038,
+    "pct": 50.5
    },
    "rep": {
     "name": "Bill Ward",
-    "votes": 11421,
-    "pct": 51.5
+    "votes": 11783,
+    "pct": 49.5
    },
    "other": 0,
-   "marginPts": -3.0,
-   "marginVotes": 644,
+   "marginPts": 1.0,
+   "marginVotes": 255,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:44:50-05:00",
+   "asOf": "2026-11-04T04:22:01-05:00",
    "feed": true,
-   "totalVotes": 22198,
+   "totalVotes": 23821,
    "state": "NC",
    "chamber": "House",
    "district": "HD-5",
    "held": "R",
-   "wouldFlip": false
+   "wouldFlip": true
   },
   {
    "status": "Counting",
@@ -3252,22 +3252,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Melissa Zehner",
-    "votes": 34122,
-    "pct": 46.0
+    "votes": 35409,
+    "pct": 46.7
    },
    "rep": {
     "name": "Jerry Tillett",
-    "votes": 40066,
-    "pct": 54.0
+    "votes": 40386,
+    "pct": 53.3
    },
    "other": 0,
-   "marginPts": -8.0,
-   "marginVotes": 5944,
+   "marginPts": -6.6,
+   "marginVotes": 4977,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:44:50-05:00",
+   "asOf": "2026-11-04T04:22:01-05:00",
    "feed": true,
-   "totalVotes": 74188,
+   "totalVotes": 75795,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-1",
