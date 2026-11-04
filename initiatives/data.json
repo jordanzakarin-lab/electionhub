@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:45:00-05:00",
+ "updated": "2026-11-04T01:52:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -9,18 +9,24 @@
    "measure": "California Billionaire Tax Act",
    "ballotNo": "Prop 40",
    "description": "5% one-time wealth tax on ~200 billionaires; revenue for Medi-Cal, K-14 education, food aid.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 2841073,
+    "pct": 43.6
+   },
+   "no": {
+    "votes": 3673933,
+    "pct": 56.4
+   },
+   "marginPts": -12.8,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Partial early returns per SF Standard (published 8:49 PM PT); % reporting not stated. Not called.",
+   "source": "https://sfstandard.com/2026/11/03/billionaire-tax-trailing-early-returns/",
+   "asOf": "Nov 3, 11:49 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -89,18 +95,24 @@
    "measure": "Audits and Spending-Limit Rules for New Taxes",
    "ballotNo": "Prop 41",
    "description": "Requires audits of new state special taxes and bars exempting them from the spending limit. Written to cancel Prop 40 if it gets more yes votes.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 3033591,
+    "pct": 47.4
+   },
+   "no": {
+    "votes": 3370158,
+    "pct": 52.6
+   },
+   "marginPts": -5.2,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Partial early returns per SF Standard (published 8:49 PM PT); % reporting not stated. Not called.",
+   "source": "https://sfstandard.com/2026/11/03/billionaire-tax-trailing-early-returns/",
+   "asOf": "Nov 3, 11:49 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -109,18 +121,24 @@
    "measure": "Ban State Wealth Taxes",
    "ballotNo": "Prop 42",
    "description": "Constitutional ban on state wealth and personal-property taxes and some retroactive taxes. Written to cancel Prop 40.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 3518254,
+    "pct": 54.4
+   },
+   "no": {
+    "votes": 2946838,
+    "pct": 45.6
+   },
+   "marginPts": 8.8,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Partial early returns per SF Standard (published 8:49 PM PT); % reporting not stated. Not called.",
+   "source": "https://sfstandard.com/2026/11/03/billionaire-tax-trailing-early-returns/",
+   "asOf": "Nov 3, 11:49 PM ET"
   },
   {
    "category": "Tax Wealthy / Initiative Process",
@@ -992,7 +1010,7 @@
    "level": "Local",
    "measure": "Front Range Passenger Rail District",
    "ballotNo": "Measure 7A",
-   "description": "0.333% sales tax (~$295M a year) for the Fort Collins\u2013Pueblo Colorado Connector. District voters only.",
+   "description": "0.333% sales tax (~$295M a year) for the Fort Collins–Pueblo Colorado Connector. District voters only.",
    "status": "No results yet",
    "outcome": null,
    "threshold": "Majority",
