@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:51:50-05:00",
+ "updated": "2026-11-03T23:59:43-05:00",
  "sample": false,
  "races": [
   {
@@ -207,7 +207,7 @@
     "pct": 49.7
    },
    "rep": {
-    "name": "Mar\u00eda Elvira Salazar",
+    "name": "María Elvira Salazar",
     "votes": 123838,
     "pct": 50.3
    },
@@ -1051,22 +1051,22 @@
    "id": "MI-SEN",
    "status": "Counting",
    "leader": "D",
-   "reporting": "24%",
+   "reporting": "27%",
    "dem": {
     "name": "Abdul El-Sayed",
-    "votes": 648144,
-    "pct": 54.0
+    "votes": 711769,
+    "pct": 53.5
    },
    "rep": {
     "name": "Mike Rogers",
-    "votes": 530181,
-    "pct": 44.2
+    "votes": 596382,
+    "pct": 44.8
    },
-   "marginPts": 9.8,
-   "marginVotes": 117963,
+   "marginPts": 8.7,
+   "marginVotes": 115387,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "source": "https://x.com/DecisionDeskHQ/status/2117821439864713416",
+   "asOf": "2026-11-03T23:59:43-05:00",
    "ddhqUpdated": "2026-11-04 03:20:18.768446+00",
    "others": [
     {
@@ -1123,22 +1123,22 @@
    "id": "MS-SEN",
    "status": "Counting",
    "leader": "R",
-   "reporting": "71%",
+   "reporting": "75%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 294859,
-    "pct": 47.5
+    "votes": 321403,
+    "pct": 47.9
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 312152,
-    "pct": 50.3
+    "votes": 336203,
+    "pct": 50.1
    },
-   "marginPts": -2.8,
-   "marginVotes": 17293,
+   "marginPts": -2.2,
+   "marginVotes": 14800,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/mississippi-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "source": "https://x.com/DecisionDeskHQ/status/2117822664127746520",
+   "asOf": "2026-11-03T23:59:43-05:00",
    "ddhqUpdated": "2026-11-04 03:19:46.574842+00",
    "others": [
     {
@@ -1716,24 +1716,24 @@
   },
   {
    "id": "IA-SEN",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "36%",
+   "reporting": "78%",
    "dem": {
     "name": "Josh Turek",
-    "votes": 281837,
-    "pct": 54.2
+    "votes": null,
+    "pct": 51.2
    },
    "rep": {
     "name": "Ashley Hinson",
-    "votes": 223848,
-    "pct": 43.1
+    "votes": null,
+    "pct": 45.61
    },
-   "marginPts": 11.2,
-   "marginVotes": 57989,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "marginPts": 5.6,
+   "marginVotes": null,
+   "calledBy": "DDHQ",
+   "source": "https://townhall.com/news/amy-curtis/2026/11/03/senate-ia-n2685755",
+   "asOf": "2026-11-03T23:59:43-05:00",
    "ddhqUpdated": "2026-11-04 03:20:35.703217+00",
    "others": [
     {
