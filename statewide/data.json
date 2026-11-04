@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:25:00-05:00",
+ "updated": "2026-11-04T01:29:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1494,22 +1494,22 @@
    "id": "KS-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "93%",
-   "marginPts": 0.86,
-   "marginVotes": 9207,
-   "calledBy": null,
-   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
-   "asOf": "2026-11-04T00:27:00-05:00",
+   "reporting": "94%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 544715,
-    "pct": 50.43
+    "votes": 545252,
+    "pct": 50.37
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 535508,
-    "pct": 49.57
-   }
+    "votes": 537183,
+    "pct": 49.63
+   },
+   "marginPts": 0.74,
+   "marginVotes": 8069,
+   "calledBy": null,
+   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
+   "asOf": "2026-11-04T01:25:00-05:00"
   },
   {
    "id": "KS-SOS",
@@ -2291,30 +2291,30 @@
    "id": "NE-GOV",
    "status": "Counting",
    "leader": "R",
-   "reporting": "63%",
+   "reporting": "70%",
    "dem": {
     "name": "Lynne Walz",
-    "votes": 234127,
-    "pct": 44.92
+    "votes": 253975,
+    "pct": 43.94
    },
    "rep": {
     "name": "Jim Pillen",
-    "votes": 252045,
-    "pct": 48.36
+    "votes": 284343,
+    "pct": 49.19
    },
+   "marginPts": -5.25,
+   "marginVotes": 30368,
+   "calledBy": null,
+   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
+   "asOf": "2026-11-04T01:21:00-05:00",
    "others": [
     {
      "name": "Brett Lindstrom",
      "party": "AFP",
-     "votes": 22211,
-     "pct": 4.26
+     "votes": 25103,
+     "pct": 4.34
     }
-   ],
-   "marginPts": -3.44,
-   "marginVotes": 17918,
-   "calledBy": null,
-   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
-   "asOf": "2026-11-04T00:54:00-05:00"
+   ]
   },
   {
    "id": "NE-SOS",
@@ -2702,51 +2702,43 @@
    "id": "KS-LG",
    "status": "Counting",
    "leader": "D",
-   "reporting": "93%",
-   "marginPts": 0.86,
-   "marginVotes": 9207,
-   "calledBy": null,
-   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
-   "asOf": "2026-11-04T00:27:00-05:00",
+   "reporting": "94%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 544715,
-    "pct": 50.43
+    "votes": 545252,
+    "pct": 50.37
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 535508,
-    "pct": 49.57
-   }
+    "votes": 537183,
+    "pct": 49.63
+   },
+   "marginPts": 0.74,
+   "marginVotes": 8069,
+   "calledBy": null,
+   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
+   "asOf": "2026-11-04T01:25:00-05:00"
   },
   {
    "id": "NE-LG",
    "status": "Counting",
    "leader": "R",
-   "reporting": "63%",
+   "reporting": "70%",
    "dem": {
     "name": "Ben Steffen",
-    "votes": 234127,
-    "pct": 44.92
+    "votes": 253975,
+    "pct": 43.94
    },
    "rep": {
     "name": "Joe Kelly",
-    "votes": 252045,
-    "pct": 48.36
+    "votes": 284343,
+    "pct": 49.19
    },
-   "others": [
-    {
-     "name": "Michael Picard",
-     "party": "AFP",
-     "votes": 22211,
-     "pct": 4.26
-    }
-   ],
-   "marginPts": -3.44,
-   "marginVotes": 17918,
+   "marginPts": -5.25,
+   "marginVotes": 30368,
    "calledBy": null,
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
-   "asOf": "2026-11-04T00:54:00-05:00"
+   "asOf": "2026-11-04T01:21:00-05:00"
   },
   {
    "status": "Called",
@@ -3141,34 +3133,34 @@
    "id": "AK-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "11% of precincts",
+   "reporting": "21%",
    "dem": {
     "name": "Jonathan Kreiss-Tomkins",
-    "votes": null,
-    "pct": 55
+    "votes": 35837,
+    "pct": 55.42
    },
    "rep": {
     "name": "Bernadette Wilson",
-    "votes": null,
-    "pct": 28
+    "votes": 17840,
+    "pct": 27.59
    },
-   "marginPts": 27,
-   "marginVotes": null,
+   "marginPts": 27.83,
+   "marginVotes": 17997,
    "calledBy": null,
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-03/democrat-jonathan-kreiss-tomkins-leads-in-alaska-governors-race",
-   "asOf": "2026-11-04T00:51:00-05:00",
+   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/alaska",
+   "asOf": "2026-11-04T01:25:00-05:00",
    "others": [
     {
      "name": "Dave Bronson",
      "party": "R",
-     "votes": null,
-     "pct": 11
+     "votes": 6968,
+     "pct": 10.78
     },
     {
      "name": "Treg Taylor",
      "party": "R",
-     "votes": null,
-     "pct": 6
+     "votes": 4019,
+     "pct": 6.22
     }
    ]
   },
@@ -3176,22 +3168,22 @@
    "id": "AK-LG",
    "status": "Counting",
    "leader": "D",
-   "reporting": "11% of precincts",
+   "reporting": "21%",
    "dem": {
     "name": "Zachary Johnson",
-    "votes": null,
-    "pct": 55
+    "votes": 35837,
+    "pct": 55.42
    },
    "rep": {
     "name": "Mike Shower",
-    "votes": null,
-    "pct": 28
+    "votes": 17840,
+    "pct": 27.59
    },
-   "marginPts": 27,
-   "marginVotes": null,
+   "marginPts": 27.83,
+   "marginVotes": 17997,
    "calledBy": null,
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-03/democrat-jonathan-kreiss-tomkins-leads-in-alaska-governors-race",
-   "asOf": "2026-11-04T00:51:00-05:00"
+   "source": "https://www.foxnews.com/elections/2026/midterm-results/state/alaska",
+   "asOf": "2026-11-04T01:25:00-05:00"
   },
   {
    "id": "ID-SOS",
