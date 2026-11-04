@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T09:18:06-05:00",
+ "updated": "2026-11-04T16:13:59-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -296,22 +296,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Peggy Flanagan",
-    "votes": 1520295,
+    "votes": 1520865,
     "pct": 53.7
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 1232677,
+    "votes": 1233460,
     "pct": 43.6
    },
-   "other": 77399,
+   "other": 77444,
    "marginPts": 10.1,
-   "marginVotes": 287618,
+   "marginVotes": 287405,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
-   "asOf": "2026-11-04T03:49:32-05:00",
+   "asOf": "2026-11-04T16:13:59-05:00",
    "feed": true,
-   "totalVotes": 2830371,
+   "totalVotes": 2831769,
    "id": "MN-SEN"
   },
   {
@@ -320,7 +320,7 @@
    "reporting": "100%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 163057,
+    "votes": 163056,
     "pct": 50.0
    },
    "rep": {
@@ -330,12 +330,12 @@
    },
    "other": 391,
    "marginPts": 0.1,
-   "marginVotes": 324,
+   "marginVotes": 323,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T03:00:47-05:00",
+   "asOf": "2026-11-04T16:13:59-05:00",
    "feed": true,
-   "totalVotes": 326181,
+   "totalVotes": 326180,
    "id": "MN-01"
   },
   {
@@ -344,22 +344,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Matt Little",
-    "votes": 213653,
-    "pct": 57.2
+    "votes": 214255,
+    "pct": 57.1
    },
    "rep": {
     "name": "Eric Pratt",
-    "votes": 159829,
+    "votes": 160636,
     "pct": 42.8
    },
    "other": 335,
-   "marginPts": 14.4,
-   "marginVotes": 53824,
+   "marginPts": 14.3,
+   "marginVotes": 53619,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T02:09:51-05:00",
+   "asOf": "2026-11-04T16:13:59-05:00",
    "feed": true,
-   "totalVotes": 373817,
+   "totalVotes": 375226,
    "id": "MN-02"
   }
  ]
