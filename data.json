@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:09:18-05:00",
+ "updated": "2026-11-04T01:25:30-05:00",
  "sample": false,
  "races": [
   {
@@ -754,23 +754,22 @@
    "id": "AL-02",
    "status": "Counting",
    "leader": "D",
-   "reporting": "77%",
+   "reporting": "91%",
    "dem": {
     "name": "Shomari Figures",
-    "votes": 98300,
-    "pct": 54.4
+    "votes": null,
+    "pct": 53.8
    },
    "rep": {
     "name": "Rhett Marques",
-    "votes": 82329,
-    "pct": 45.6
+    "votes": null,
+    "pct": 46.2
    },
-   "marginPts": 8.8,
-   "marginVotes": 15971,
+   "marginPts": 7.6,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alabama-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:17:52.254156+00"
+   "source": "https://yellowhammernews.com/shomari-figures-defeats-rhett-marques-in-alabamas-2nd-congressional-district-keeping-the-seat-in-democratic-hands-after-another-redrawing-of-the-map/",
+   "asOf": "2026-11-04T01:21:00-05:00"
   },
   {
    "id": "AR-02",
@@ -818,33 +817,24 @@
   },
   {
    "id": "KS-02",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "65%",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "",
    "dem": {
     "name": "Don Coover",
-    "votes": 83131,
-    "pct": 49.1
+    "votes": null,
+    "pct": 44.9
    },
    "rep": {
     "name": "Derek Schmidt",
-    "votes": 79956,
-    "pct": 47.3
+    "votes": null,
+    "pct": 51.4
    },
-   "marginPts": 1.9,
-   "marginVotes": 3175,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:19:26.550526+00",
-   "others": [
-    {
-     "name": "John Hauer",
-     "party": "LIB",
-     "votes": 6079,
-     "pct": 3.6
-    }
-   ]
+   "marginPts": -6.5,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.wibw.com/2026/11/04/republican-incumbent-derek-schmidt-takes-kansas-2nd-congressional-district-race/",
+   "asOf": "2026-11-04T01:25:00-05:00"
   },
   {
    "id": "KS-SEN",
@@ -1180,22 +1170,22 @@
    "id": "OH-10",
    "status": "Counting",
    "leader": "D",
-   "reporting": "88% of precincts",
+   "reporting": "100% of precincts",
    "dem": {
     "name": "Kristina Knickerbocker",
     "votes": null,
-    "pct": 49.34
+    "pct": 49.3
    },
    "rep": {
     "name": "Mike Turner",
     "votes": null,
-    "pct": 47.71
+    "pct": 47.7
    },
    "marginPts": 1.6,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.daytondailynews.com/local/congressional-vote-knickerbocker-leads-turner-landsman-projected-to-win/article_a92bfa17-40e2-5964-9979-40f92b6d437f.html",
-   "asOf": "2026-11-04T01:05:00-05:00"
+   "source": "https://www.yahoo.com/news/politics/articles/political-newcomer-edges-long-time-053008414.html",
+   "asOf": "2026-11-04T01:24:00-05:00"
   },
   {
    "id": "OH-15",
@@ -1376,29 +1366,28 @@
    "id": "TX-23",
    "status": "Counting",
    "leader": "D",
-   "reporting": "73%",
+   "reporting": "82%",
    "dem": {
     "name": "Katy Padilla Stout",
-    "votes": 101176,
-    "pct": 53.0
+    "votes": 110870,
+    "pct": 51.92
    },
    "rep": {
     "name": "Brandon Herrera",
-    "votes": 83153,
-    "pct": 43.6
+    "votes": 94770,
+    "pct": 44.38
    },
-   "marginPts": 9.4,
-   "marginVotes": 18023,
+   "marginPts": 7.5,
+   "marginVotes": 16100,
    "calledBy": null,
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-23-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:34.796515+00",
+   "asOf": "2026-11-04T01:20:30-05:00",
    "others": [
     {
      "name": "Ben Mendoza",
      "party": "IND",
-     "votes": 6392,
-     "pct": 3.4
+     "votes": 7881,
+     "pct": 3.69
     }
    ]
   },
