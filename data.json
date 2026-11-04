@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:09:25-05:00",
+ "updated": "2026-11-03T21:15:11-05:00",
  "sample": false,
  "races": [
   {
@@ -1393,7 +1393,7 @@
   },
   {
    "id": "PA-08",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "29%",
    "dem": {
@@ -1408,9 +1408,9 @@
    },
    "marginPts": 40.7,
    "marginVotes": 36906,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-8-general-election",
-   "asOf": "2026-11-03T20:59:20-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://x.com/DecisionDeskHQ/status/2117799413943033981",
+   "asOf": "2026-11-03T21:15:11-05:00",
    "ddhqUpdated": "2026-11-04 01:51:43.06839+00"
   },
   {
