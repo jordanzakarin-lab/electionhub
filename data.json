@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:08:00-05:00",
+ "updated": "2026-11-04T11:24:00-05:00",
  "sample": false,
  "races": [
   {
@@ -986,8 +986,9 @@
    "marginPts": 3.2,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.yahoo.com/news/politics/articles/william-lawrence-declares-victory-over-081232128.html",
-   "asOf": "2026-11-04T07:21:39-05:00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-7-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
+   "totalVotes": 395885
   },
   {
    "id": "MI-10",
@@ -1865,7 +1866,7 @@
    "id": "NE-01",
    "status": "Counting",
    "leader": "R",
-   "reporting": "77%",
+   "reporting": "91%",
    "dem": {
     "name": "Chris Backemeyer",
     "votes": null,
@@ -1877,11 +1878,10 @@
     "pct": 50.1
    },
    "marginPts": -3.7,
-   "marginVotes": 3100,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.wowt.com/2026/11/04/election-night-2026-nebraska-dist-1-race-too-close-call/",
-   "asOf": "2026-11-04T08:44:00-05:00",
-   "ddhqUpdated": "2026-11-04 06:50:18.924648+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/nebraska-us-house-district-1-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
    "others": [
     {
      "name": "Nik Sandman",
@@ -1896,7 +1896,8 @@
      "pct": 1.7
     }
    ],
-   "note": "Per WOWT 5:09 AM CT; not called"
+   "note": "Per WOWT 5:09 AM CT; not called",
+   "totalVotes": 245351
   },
   {
    "id": "NE-02",
@@ -2284,30 +2285,31 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "D",
-   "reporting": "",
+   "reporting": "80%",
    "dem": {
     "name": "Jonathan Nez",
     "votes": null,
-    "pct": 49.13
+    "pct": 49.2
    },
    "rep": {
     "name": "Eli Crane",
     "votes": null,
     "pct": 49.1
    },
-   "marginPts": 0.03,
+   "marginPts": 0.1,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
-   "asOf": "2026-11-04T07:00:00-05:00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-2-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 3551,
+     "votes": null,
      "pct": 1.6
     }
-   ]
+   ],
+   "totalVotes": 277378
   },
   {
    "id": "UT-01",
@@ -2349,30 +2351,31 @@
    "id": "AZ-01",
    "status": "Counting",
    "leader": "D",
-   "reporting": "",
+   "reporting": "85%",
    "dem": {
     "name": "Amish Shah",
     "votes": null,
-    "pct": 52.5
+    "pct": 52.6
    },
    "rep": {
     "name": "Jay Feely",
     "votes": null,
-    "pct": 45.5
+    "pct": 45.4
    },
-   "marginPts": 7.0,
+   "marginPts": 7.2,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
-   "asOf": "2026-11-04T07:00:00-05:00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-1-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
    "others": [
     {
      "name": "Monica Alponte",
      "party": "LIB",
-     "votes": 4840,
+     "votes": null,
      "pct": 1.9
     }
-   ]
+   ],
+   "totalVotes": 311154
   },
   {
    "id": "AZ-06",
@@ -2464,43 +2467,45 @@
    "id": "AZ-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "",
+   "reporting": "84%",
    "dem": {
     "name": "Elizabeth Lee",
     "votes": null,
-    "pct": 48.8
+    "pct": 48.9
    },
    "rep": {
     "name": "Mark Lamb",
     "votes": null,
-    "pct": 51.0
+    "pct": 51.1
    },
    "marginPts": -2.2,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
-   "asOf": "2026-11-04T07:00:00-05:00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-5-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
+   "totalVotes": 268466
   },
   {
    "id": "AZ-08",
    "status": "Counting",
    "leader": "R",
-   "reporting": "",
+   "reporting": "85%",
    "dem": {
     "name": "Bernadette Greene-Placentia",
     "votes": null,
-    "pct": 48.8
+    "pct": 48.9
    },
    "rep": {
     "name": "Abraham Hamadeh",
     "votes": null,
-    "pct": 51.0
+    "pct": 51.1
    },
    "marginPts": -2.2,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
-   "asOf": "2026-11-04T07:00:00-05:00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-8-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
+   "totalVotes": 248563
   },
   {
    "id": "CA-23",
@@ -3059,45 +3064,45 @@
    "id": "TX-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "93%",
+   "reporting": "98%",
    "dem": {
     "name": "Shaun Finnie",
-    "votes": 121542,
-    "pct": 48.5
+    "votes": null,
+    "pct": 49.0
    },
    "rep": {
     "name": "Steve Toth",
-    "votes": 129217,
-    "pct": 51.5
+    "votes": null,
+    "pct": 51.0
    },
-   "marginPts": -3.1,
-   "marginVotes": 7675,
+   "marginPts": -2.0,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-2-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 07:02:19.552103+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-2-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
+   "totalVotes": 283915
   },
   {
    "id": "TX-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "97%",
+   "reporting": "95%",
    "dem": {
     "name": "Chelsey Hockett",
-    "votes": 116166,
-    "pct": 48.1
+    "votes": null,
+    "pct": 48.5
    },
    "rep": {
     "name": "Lance Gooden",
-    "votes": 125174,
-    "pct": 51.9
+    "votes": null,
+    "pct": 51.5
    },
-   "marginPts": -3.7,
-   "marginVotes": 9008,
+   "marginPts": -3.0,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-5-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:54:01.747328+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-5-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
+   "totalVotes": 253133
   },
   {
    "id": "TX-06",
@@ -3106,20 +3111,20 @@
    "reporting": "98%",
    "dem": {
     "name": "Danny Minton",
-    "votes": 126242,
-    "pct": 47.7
+    "votes": null,
+    "pct": 47.8
    },
    "rep": {
     "name": "Jake Ellzey",
-    "votes": 138549,
-    "pct": 52.3
+    "votes": null,
+    "pct": 52.2
    },
-   "marginPts": -4.6,
-   "marginVotes": 12307,
+   "marginPts": -4.4,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-6-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:54:01.747328+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-6-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
+   "totalVotes": 268408
   },
   {
    "id": "TX-10",
@@ -3150,72 +3155,72 @@
    "reporting": "96%",
    "dem": {
     "name": "Marquette Greene-Scott",
-    "votes": 128055,
-    "pct": 48.0
+    "votes": null,
+    "pct": 48.2
    },
    "rep": {
     "name": "Trever Nehls",
-    "votes": 138923,
-    "pct": 52.0
+    "votes": null,
+    "pct": 51.8
    },
-   "marginPts": -4.1,
-   "marginVotes": 10868,
+   "marginPts": -3.6,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-22-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 07:02:19.57666+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-22-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
+   "totalVotes": 289752
   },
   {
    "id": "TX-27",
    "status": "Counting",
    "leader": "R",
-   "reporting": "98%",
+   "reporting": "99%",
    "dem": {
     "name": "Tanya Lloyd",
-    "votes": 137899,
-    "pct": 49.0
+    "votes": null,
+    "pct": 48.8
    },
    "rep": {
     "name": "Michael Cloud",
-    "votes": 143225,
-    "pct": 51.0
+    "votes": null,
+    "pct": 51.2
    },
-   "marginPts": -1.9,
-   "marginVotes": 5326,
+   "marginPts": -2.4,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-27-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:53:59.560445+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-27-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
+   "totalVotes": 282394
   },
   {
    "id": "TX-38",
    "status": "Counting",
    "leader": "R",
-   "reporting": "93%",
+   "reporting": "99%",
    "dem": {
     "name": "Melissa McDonough",
-    "votes": 116539,
-    "pct": 48.1
+    "votes": null,
+    "pct": 47.3
    },
    "rep": {
     "name": "Jon Bonck",
-    "votes": 123506,
-    "pct": 51.0
+    "votes": null,
+    "pct": 51.5
    },
-   "marginPts": -2.9,
-   "marginVotes": 6967,
+   "marginPts": -4.2,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-38-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 07:02:19.576009+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-38-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
    "others": [
     {
      "name": "Alex McMenemy",
      "party": "GRE",
-     "votes": 2228,
+     "votes": null,
      "pct": 0.9
     }
-   ]
+   ],
+   "totalVotes": 305101
   },
   {
    "id": "WA-05",
@@ -3407,22 +3412,22 @@
    "id": "AK-SEN",
    "status": "Counting",
    "leader": "D",
-   "reporting": "",
+   "reporting": "74%",
    "dem": {
     "name": "Mary Peltola",
-    "votes": 102701,
-    "pct": 48.02
+    "votes": null,
+    "pct": 48.2
    },
    "rep": {
     "name": "Dan Sullivan",
-    "votes": 102075,
-    "pct": 47.73
+    "votes": null,
+    "pct": 47.9
    },
    "marginPts": 0.3,
-   "marginVotes": 626,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.elections.alaska.gov/enr/26GENR/results/ElectionSummaryReportRPT.pdf",
-   "asOf": "2026-11-04T06:19:06-05:00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/alaska-senate-results",
+   "asOf": "2026-11-04T11:17:00-05:00",
    "others": [
     {
      "name": "Gerald Heikes",
@@ -3431,7 +3436,8 @@
      "pct": null
     }
    ],
-   "note": "Peltola retakes lead by 626 (official summary 2:19am AKST; AP reported same count ~9am ET). Not called; RCV tabulation likely."
+   "note": "Not called (NBC: too early to call). RCV tabulation likely.",
+   "totalVotes": 213180
   },
   {
    "id": "CA-01",
