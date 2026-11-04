@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:01:00-05:00",
+  "updated": "2026-11-04T02:06:01-05:00",
   "sample": false,
   "races": [
     {
@@ -1670,25 +1670,25 @@
       "asOf": "2026-11-04T00:15:00-05:00"
     },
     {
+      "id": "MN-01",
       "status": "Counting",
       "leader": "R",
-      "reporting": "97%",
+      "reporting": "98%",
       "dem": {
         "name": "Jake Johnson",
-        "votes": 155523,
-        "pct": 49.5
+        "votes": 158772,
+        "pct": 49.8
       },
       "rep": {
         "name": "Brad Finstad",
-        "votes": 157997,
-        "pct": 50.3
+        "votes": 159854,
+        "pct": 50.1
       },
-      "marginPts": -0.8,
-      "marginVotes": 2474,
+      "marginPts": -0.3,
+      "marginVotes": 1082,
       "calledBy": null,
       "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-      "asOf": "2026-11-04T01:35:12-05:00",
-      "id": "MN-01"
+      "asOf": "2026-11-04T01:41:20-05:00"
     },
     {
       "id": "MN-SEN",
