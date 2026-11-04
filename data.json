@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:06:43-05:00",
+ "updated": "2026-11-04T02:21:43-05:00",
  "sample": false,
  "races": [
   {
@@ -1808,20 +1808,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 158775,
-    "pct": 49.8
+    "votes": 158920,
+    "pct": 49.7
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": 159859,
-    "pct": 50.2
+    "votes": 160251,
+    "pct": 50.1
    },
-   "marginPts": -0.3,
-   "marginVotes": 1084,
+   "marginPts": -0.4,
+   "marginVotes": 1331,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-us-house-1-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:58:42.818378+00"
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+   "asOf": "2026-11-04T02:09:51-05:00"
   },
   {
    "id": "MN-SEN",
