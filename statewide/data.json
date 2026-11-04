@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:33:03-05:00",
+ "updated": "2026-11-03T21:52:28-05:00",
  "sample": false,
  "races": [
   {
@@ -2513,7 +2513,7 @@
    "leader": "D",
    "reporting": "11%",
    "dem": {
-    "name": "Ra\u00fal Torrez",
+    "name": "Raúl Torrez",
     "votes": 54335,
     "pct": 68.3
    },
@@ -2786,6 +2786,48 @@
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-treasurer-general-election",
    "asOf": "2026-11-03T21:33:03-05:00",
    "ddhqUpdated": "2026-11-04 02:30:20.923817+00"
+  },
+  {
+   "id": "CO-SOS",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Amanda Gonzalez",
+    "votes": null,
+    "pct": 75.45
+   },
+   "rep": {
+    "name": "James Wiley",
+    "votes": null,
+    "pct": 22.38
+   },
+   "marginPts": 53.07,
+   "marginVotes": null,
+   "calledBy": null,
+   "source": "https://www.coloradopolitics.com/2026/11/03/colorado-treasurer-state-secretary-election-results/",
+   "asOf": "2026-11-03T21:35:00-05:00"
+  },
+  {
+   "id": "CO-TREAS",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Jeff Bridges",
+    "votes": null,
+    "pct": 74.18
+   },
+   "rep": {
+    "name": "Kevin Grantham",
+    "votes": null,
+    "pct": 23.93
+   },
+   "marginPts": 50.25,
+   "marginVotes": null,
+   "calledBy": null,
+   "source": "https://www.coloradopolitics.com/2026/11/03/colorado-treasurer-state-secretary-election-results/",
+   "asOf": "2026-11-03T21:35:00-05:00"
   }
  ]
 }
