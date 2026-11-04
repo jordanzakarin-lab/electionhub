@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T01:37:17-05:00",
+  "updated": "2026-11-04T02:01:00-05:00",
   "sample": false,
   "races": [
     {
@@ -1178,22 +1178,22 @@
       "id": "OH-10",
       "status": "Counting",
       "leader": "D",
-      "reporting": "100% of precincts",
+      "reporting": ">95%",
       "dem": {
         "name": "Kristina Knickerbocker",
-        "votes": null,
-        "pct": 49.3
+        "votes": 149024,
+        "pct": 49.34
       },
       "rep": {
         "name": "Mike Turner",
-        "votes": null,
-        "pct": 47.7
+        "votes": 144086,
+        "pct": 47.71
       },
-      "marginPts": 1.6,
-      "marginVotes": null,
+      "marginPts": 1.63,
+      "marginVotes": 4938,
       "calledBy": null,
-      "source": "https://www.yahoo.com/news/politics/articles/political-newcomer-edges-long-time-053008414.html",
-      "asOf": "2026-11-04T01:24:00-05:00"
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/ohio-us-house-10-general-election",
+      "asOf": "2026-11-04T02:01:00-05:00"
     },
     {
       "id": "OH-15",
@@ -1631,22 +1631,22 @@
       "id": "MI-04",
       "status": "Counting",
       "leader": "R",
-      "reporting": "55%",
+      "reporting": "72%",
       "dem": {
         "name": "Sean McCann",
-        "votes": 99776,
-        "pct": 47.5
+        "votes": 123618,
+        "pct": 47.48
       },
       "rep": {
         "name": "Bill Huizenga",
-        "votes": 107091,
-        "pct": 51.0
+        "votes": 132978,
+        "pct": 51.08
       },
-      "marginPts": -3.5,
-      "marginVotes": 7315,
+      "marginPts": -3.6,
+      "marginVotes": 9360,
       "calledBy": null,
-      "source": "https://us-election-tracker.com/live-results/house",
-      "asOf": "2026-11-04T01:08:00-05:00"
+      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-4-general-election",
+      "asOf": "2026-11-04T02:01:00-05:00"
     },
     {
       "id": "MI-08",
@@ -1779,8 +1779,8 @@
     },
     {
       "id": "NE-SEN",
-      "status": "Counting",
-      "leader": "I",
+      "status": "Called",
+      "leader": "R",
       "reporting": "43%",
       "dem": {
         "name": "Dan Osborn",
@@ -1794,8 +1794,8 @@
       },
       "marginPts": 11.2,
       "marginVotes": 34891,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
+      "calledBy": "DDHQ",
+      "source": "https://www.bloomberg.com/news/articles/2026-11-04/republican-ricketts-wins-nebraska-senate-race-ddhq-projects",
       "asOf": "2026-11-03T22:23:48-05:00",
       "ddhqUpdated": "2026-11-04 03:16:38.496423+00",
       "others": [
