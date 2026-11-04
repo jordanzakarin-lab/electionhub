@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:08:45-05:00",
+ "updated": "2026-11-03T23:21:48-05:00",
  "sample": false,
  "races": [
   {
@@ -418,7 +418,7 @@
   },
   {
    "id": "VA-01",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "97%",
    "dem": {
@@ -433,9 +433,9 @@
    },
    "marginPts": 1.2,
    "marginVotes": 4782,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/virginia-us-house-1-general-election",
-   "asOf": "2026-11-03T22:19:51-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://townhall.com/news/josephchalfant/2026/11/03/democrat-shannon-taylor-flips-virginias-first-district-defeating-20-year-incumbent-rob-wittman-n2685873",
+   "asOf": "2026-11-03T23:21:48-05:00",
    "ddhqUpdated": "2026-11-04 02:57:15.675906+00"
   },
   {
@@ -669,19 +669,19 @@
    "reporting": "100%",
    "dem": {
     "name": "Don Davis",
-    "votes": 148204,
+    "votes": 148327,
     "pct": 49.5
    },
    "rep": {
     "name": "Laurie Buckhout",
-    "votes": 141873,
+    "votes": 141951,
     "pct": 47.3
    },
    "marginPts": 2.2,
-   "marginVotes": 6331,
+   "marginVotes": 6376,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00"
+   "asOf": "2026-11-03T23:16:09-05:00"
   },
   {
    "id": "OH-09",
@@ -1152,32 +1152,23 @@
   {
    "id": "NC-03",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "91%",
+   "leader": "R",
+   "reporting": "98%",
    "dem": {
-    "name": "Raymond Smith Jr.",
-    "votes": 111012,
-    "pct": 49.5
+    "name": "Raymond Smith",
+    "votes": 115558,
+    "pct": 49.3
    },
    "rep": {
     "name": "Greg Murphy",
-    "votes": 109812,
-    "pct": 49.0
+    "votes": 115765,
+    "pct": 49.4
    },
-   "marginPts": 0.5,
-   "marginVotes": 1200,
+   "marginPts": -0.1,
+   "marginVotes": 207,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-us-house-3-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:20:34.70362+00",
-   "others": [
-    {
-     "name": "Daniel Cavender",
-     "party": "LIB",
-     "votes": 3205,
-     "pct": 1.4
-    }
-   ]
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-03T23:16:09-05:00"
   },
   {
    "id": "NC-11",
@@ -1207,19 +1198,19 @@
    "reporting": "94%",
    "dem": {
     "name": "Paul Barringer",
-    "votes": 156941,
-    "pct": 50.8
+    "votes": 157304,
+    "pct": 50.7
    },
    "rep": {
     "name": "Brad Knott",
-    "votes": 147914,
-    "pct": 47.8
+    "votes": 148567,
+    "pct": 47.9
    },
-   "marginPts": 3.0,
-   "marginVotes": 9027,
+   "marginPts": 2.8,
+   "marginVotes": 8737,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00"
+   "asOf": "2026-11-03T23:14:03-05:00"
   },
   {
    "id": "NJ-09",
@@ -1475,8 +1466,8 @@
   },
   {
    "id": "TX-15",
-   "status": "Counting",
-   "leader": "R",
+   "status": "Called",
+   "leader": "D",
    "reporting": "21%",
    "dem": {
     "name": "Bobby Pulido",
@@ -1490,9 +1481,9 @@
    },
    "marginPts": -9.5,
    "marginVotes": 3728,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-15-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-pulido-wins-texas-house-race-ddhq-projects",
+   "asOf": "2026-11-03T23:21:48-05:00",
    "ddhqUpdated": "2026-11-04 03:20:34.877483+00"
   },
   {
@@ -1829,22 +1820,22 @@
    "id": "MN-01",
    "status": "Counting",
    "leader": "R",
-   "reporting": "30%",
+   "reporting": "37%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 34950,
-    "pct": 45.5
+    "votes": 54924,
+    "pct": 47.8
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": 41729,
-    "pct": 54.4
+    "votes": 59827,
+    "pct": 52.1
    },
-   "marginPts": -8.9,
-   "marginVotes": 6779,
+   "marginPts": -4.3,
+   "marginVotes": 4903,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-03T23:01:48-05:00"
+   "asOf": "2026-11-03T23:20:17-05:00"
   },
   {
    "id": "MN-SEN",
@@ -2420,22 +2411,22 @@
    "id": "MN-02",
    "status": "Counting",
    "leader": "D",
-   "reporting": "70%",
+   "reporting": "72%",
    "dem": {
     "name": "Matt Little",
-    "votes": 153045,
-    "pct": 60.0
+    "votes": 155141,
+    "pct": 59.5
    },
    "rep": {
     "name": "Eric Pratt",
-    "votes": 101756,
-    "pct": 39.9
+    "votes": 105209,
+    "pct": 40.4
    },
-   "marginPts": 20.1,
-   "marginVotes": 51289,
+   "marginPts": 19.1,
+   "marginVotes": 49932,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-03T23:01:48-05:00"
+   "asOf": "2026-11-03T23:20:17-05:00"
   },
   {
    "id": "MT-01",
