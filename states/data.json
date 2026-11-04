@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:18:00-05:00",
+ "updated": "2026-11-04T11:20:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -94,11 +94,11 @@
    }
   },
   "CT-H": {
-   "D": 22,
-   "R": 5,
+   "D": 34,
+   "R": 6,
    "I": 0,
-   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET",
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet; Ballotpedia winner marks",
+   "asOf": "Nov 4, 11:20 AM ET",
    "control": "D",
    "calledBy": "CT Mirror (Democratic projection)",
    "controlSource": "https://ctmirror.org/2026/11/04/ct-election-general-assembly-legislature/"
@@ -422,11 +422,11 @@
    "asOf": "Nov 4, 10:52 AM ET"
   },
   "NH-H": {
-   "D": 24,
+   "D": 30,
    "R": 2,
    "I": 0,
-   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet",
-   "asOf": "Nov 3, 8:16 PM ET",
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet; Ballotpedia winner marks",
+   "asOf": "Nov 4, 11:20 AM ET",
    "control": "D",
    "calledBy": "DLCC (declared; confirmed by editor)",
    "controlSource": "https://www.dlcc.org/news/press/breaking-dlcc-flips-nh-house-senate/"
@@ -466,18 +466,18 @@
    "asOf": "Nov 3, 11:16 PM ET"
   },
   "NY-H": {
-   "D": 10,
-   "R": 0,
+   "D": 57,
+   "R": 4,
    "I": 0,
-   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
-   "asOf": "Nov 3, 9:16 PM ET"
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Ballotpedia winner marks",
+   "asOf": "Nov 4, 11:20 AM ET"
   },
   "NY-S": {
-   "D": 3,
-   "R": 0,
+   "D": 30,
+   "R": 9,
    "I": 0,
-   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet",
-   "asOf": "Nov 3, 9:16 PM ET",
+   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no AP calls yet; Ballotpedia winner marks",
+   "asOf": "Nov 4, 11:20 AM ET",
    "control": "D",
    "calledBy": "WXXI News",
    "controlSource": "https://www.wxxinews.org/local-news/2026-11-03/locals-win-re-election-to-state-senate-as-democrats-widen-majority"
@@ -650,11 +650,11 @@
    "asOf": "Nov 3, 8:16 PM ET"
   },
   "WI-H": {
-   "D": 50,
-   "R": 5,
+   "D": 60,
+   "R": 12,
    "I": 0,
-   "source": "FOX6 (12:11 AM CT): Democrats took 50th Assembly seat, securing majority; R won count = uncontested only; several races uncalled",
-   "asOf": "Nov 4, 3:16 AM ET",
+   "source": "FOX6 (12:11 AM CT): Democrats took 50th Assembly seat, securing majority; R won count = uncontested only; several races uncalled; Ballotpedia winner marks",
+   "asOf": "Nov 4, 11:20 AM ET",
    "control": "D",
    "flipsD": 8,
    "flipsR": 0,
@@ -24652,6 +24652,6170 @@
    "flip": true,
    "note": "Carla Cunningham (listed unaffiliated) held the seat; only a Democrat on the general ballot",
    "sweep": "Nov 4 uncontested flips"
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "1",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Matthew Ritter; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Matthew Ritter"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "3",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Minnie Gonzalez; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Minnie Gonzalez"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "4",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Julio Concepcion; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Julio Concepcion"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "5",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kyle Anderson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kyle Anderson"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "9",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jason Rojas; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jason Rojas"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "15",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Bobby Gibson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Bobby Gibson"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "16",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Melissa E. Osborne; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Melissa E. Osborne"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "19",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Olaleye Onikuyide; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Olaleye Onikuyide"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "20",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kate Farrar",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kate Farrar"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "27",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Gary Turco",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Gary Turco"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "29",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kerry Szeps Wood",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kerry Szeps Wood"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "32",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Christie Carpino; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Christie Carpino"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "33",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Brandon Chafee; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Brandon Chafee"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "42",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Savet Constantine",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Savet Constantine"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "54",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Gregory Haddad",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Gregory Haddad"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "57",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jaime Foster",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jaime Foster"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "68",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Joe Polletta; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Joe Polletta"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "69",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jason Buchsbaum; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jason Buchsbaum"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "72",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Larry Butler",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Larry Butler"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "82",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael Quinn; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Michael Quinn"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "84",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Hilda Santiago; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Hilda Santiago"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "86",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Vincent Candelora; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Vincent Candelora"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "89",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Lezlye Zupkus; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Lezlye Zupkus"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "91",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Laurie Sweet",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Laurie Sweet"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "92",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Eli Sabin; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Eli Sabin"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "93",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Toni Walker; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Toni Walker"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "94",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Steven Winter",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Steven Winter"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "95",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Juan Candelaria; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Juan Candelaria"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "96",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Roland J. Lemar; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Roland J. Lemar"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "116",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Treneé McGee; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Treneé McGee"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "126",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Fred Gee Jr.; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Fred Gee Jr."
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "127",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Marcus Brown; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Marcus Brown"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "128",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Christopher Rosario",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Christopher Rosario"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "129",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Steven Stafstrom; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Steven Stafstrom"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "130",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Antonio Felipe; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Antonio Felipe"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "141",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Tracy Marra",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Tracy Marra"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "145",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Corey Paris",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Corey Paris"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "146",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Eilish Collins Main",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Eilish Collins Main"
+   }
+  },
+  {
+   "state": "CT",
+   "chamber": "House",
+   "district": "147",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Matt Blumenthal; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Matt Blumenthal"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "7",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jason Shoaf; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jason Shoaf"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "8",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Gallop Franklin; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Gallop Franklin"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "11",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sam Garrison; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Sam Garrison"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "13",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Audrey Gibson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Audrey Gibson"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "14",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kimberly Daniels; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kimberly Daniels"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "16",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kiyan Michael; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Kiyan Michael"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "21",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jacquelyn Randall; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jacquelyn Randall"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "24",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ryan Chamberlin; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Ryan Chamberlin"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "41",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Bruce Antone; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Bruce Antone"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "44",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jennifer Harris; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jennifer Harris"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "54",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Randy Maggard; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Randy Maggard"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "62",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kyandra Darling; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kyandra Darling"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "63",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jacqueline Coffie-Leeks; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jacqueline Coffie-Leeks"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "79",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mike Giallombardo; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Mike Giallombardo"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "95",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Christine Hunschofsky; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Christine Hunschofsky"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "96",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Dan Daley; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Dan Daley"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "97",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Lisa Dunkley; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Lisa Dunkley"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "98",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mitch Rosenwald; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Mitch Rosenwald"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "99",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Daryl Campbell; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Daryl Campbell"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "104",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Felicia Simone Robinson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Felicia Simone Robinson"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "105",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Marie Woodson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Marie Woodson"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "107",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Wallace Aristide; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Wallace Aristide"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "109",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: James Bush III; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "James Bush III"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "110",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Tom Fabricio; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Tom Fabricio"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "111",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Borrero; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "David Borrero"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "112",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Alex Rizo; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Alex Rizo"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "114",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Demi Busatta Cabrera; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Demi Busatta Cabrera"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "Senate",
+   "district": "4",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Clay Yarborough; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Clay Yarborough"
+   }
+  },
+  {
+   "state": "FL",
+   "chamber": "Senate",
+   "district": "16",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Florida_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Fentrice Driskell; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Fentrice Driskell"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "3",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Robert Driesen; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Robert Driesen"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "6",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Megan Jones; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Megan Jones"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "9",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Henry Stone; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Henry Stone"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "10",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: John Wills; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "John Wills"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "13",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Travis Sitzmann; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Travis Sitzmann"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "14",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jacob Bossman; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jacob Bossman"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "17",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Devon Wood; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Devon Wood"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "27",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kenan Judge; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kenan Judge"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "29",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Brian Meyer; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Brian Meyer"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "30",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Megan Srinivas; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Megan Srinivas"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "32",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mike Jones; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Mike Jones"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "34",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Rob Johnson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Rob Johnson"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "35",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sean Bagniewski; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Sean Bagniewski"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "37",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jason Sandholdt; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jason Sandholdt"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "44",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Larry McBurney; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Larry McBurney"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "49",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Beth Wessel-Kroeschell; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Beth Wessel-Kroeschell"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "50",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ross Wilburn; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Ross Wilburn"
+   }
+  },
+  {
+   "state": "IA",
+   "chamber": "House",
+   "district": "62",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Iowa_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jerome Amos Jr.; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jerome Amos Jr."
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "1",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Aaron Ortiz; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Aaron Ortiz"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "3",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Eva-Dina Delgado; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Eva-Dina Delgado"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "4",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Lilian Jiménez; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Lilian Jiménez"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "5",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kimberly du Buclet; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kimberly du Buclet"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "6",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sonya Harper; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Sonya Harper"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "7",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Emanuel Welch; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Emanuel Welch"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "8",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Shantel Franklin; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Shantel Franklin"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "9",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Yolonda Morris; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Yolonda Morris"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "10",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jawaharial Williams; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jawaharial Williams"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "11",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ann M. Williams; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Ann M. Williams"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "14",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kelly Cassidy; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kelly Cassidy"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "15",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael Kelly; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Michael Kelly"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "16",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kevin Olickal; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kevin Olickal"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "20",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Brad Stephens; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Brad Stephens"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "22",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Angelica Guerrero-Cuellar; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Angelica Guerrero-Cuellar"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "23",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Edgar Gonzalez Jr.; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Edgar Gonzalez Jr."
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "24",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Theresa Mah; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Theresa Mah"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "26",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kambium Buckner; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kambium Buckner"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "27",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Justin Slaughter; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Justin Slaughter"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "28",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Robert Rita; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Robert Rita"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "30",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: William Davis; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "William Davis"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "31",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael Crawford; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Michael Crawford"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "32",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Lisa Davis; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Lisa Davis"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "33",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Marcus Evans; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Marcus Evans"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "34",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Cleopatra Cowley; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Cleopatra Cowley"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "37",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Patrick Sheehan; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Patrick Sheehan"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "38",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Debbie Meyers-Martin; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Debbie Meyers-Martin"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "40",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Miguel Alvelo-Rivera; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Miguel Alvelo-Rivera"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "43",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Anna Moeller; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Anna Moeller"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "50",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Barbara Hernandez; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Barbara Hernandez"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "58",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Bob Morgan; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Bob Morgan"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "59",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Daniel Didech; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Daniel Didech"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "60",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Rita Mayfield; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Rita Mayfield"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "62",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Laura Dias; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Laura Dias"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "63",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Steven Reick; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Steven Reick"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "67",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Maurice West II; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Maurice West II"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "72",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Gregg Johnson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Gregg Johnson"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "79",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jackie Haas; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jackie Haas"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "82",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Nicole La Ha; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Nicole La Ha"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "86",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Lawrence Walsh, Jr.; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Lawrence Walsh, Jr."
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "87",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Bill Hauter; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Bill Hauter"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "88",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Regan Deering; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Regan Deering"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "89",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Tony McCombie; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Tony McCombie"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "90",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: John M. Cabello; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "John M. Cabello"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "91",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sharon Chung; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Sharon Chung"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "92",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jehan Gordon-Booth; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jehan Gordon-Booth"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "93",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Travis Weaver; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Travis Weaver"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "94",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Joshua Higgins; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Joshua Higgins"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "95",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mike Coffey; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Mike Coffey"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "96",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sue Scherer; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Sue Scherer"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "99",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kyle Moore; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Kyle Moore"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "100",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: C.D. Davidsmeyer; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "C.D. Davidsmeyer"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "102",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Adam Niemerg; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Adam Niemerg"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "103",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Carol Ammons; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Carol Ammons"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "105",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Tim Ruestman; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Tim Ruestman"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "106",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jason Bunting; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jason Bunting"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "107",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Brad Halbrook; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Brad Halbrook"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "108",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Wayne Arthur Rosenthal; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Wayne Arthur Rosenthal"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "109",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Charles E. Meier; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Charles E. Meier"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "110",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Blaine Wilhour; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Blaine Wilhour"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "113",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jay C. Hoffman; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jay C. Hoffman"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "115",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Friess; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "David Friess"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "116",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Dave Severin; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Dave Severin"
+   }
+  },
+  {
+   "state": "IL",
+   "chamber": "House",
+   "district": "117",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Patrick Windhorst; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Patrick Windhorst"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "1",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Carolyn Jackson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Carolyn Jackson"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "2",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Earl Harris, Jr.; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Earl Harris, Jr."
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "3",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ragen Hatcher; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Ragen Hatcher"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "6",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Maureen Bauer; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Maureen Bauer"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "12",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mike Andrade; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Mike Andrade"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "14",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Vernon Smith; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Vernon Smith"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "18",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Abbott; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "David Abbott"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "22",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Craig Snow; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Craig Snow"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "53",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ethan Lawson; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Ethan Lawson"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "House",
+   "district": "61",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Matt Pierce; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Matt Pierce"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "Senate",
+   "district": "39",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jeff Ellington; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jeff Ellington"
+   }
+  },
+  {
+   "state": "IN",
+   "chamber": "Senate",
+   "district": "46",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Indiana_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Allissa Impink; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Allissa Impink"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "First Essex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Pavel Payano; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Pavel Payano"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "First Essex and Middlesex",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Bruce Tarr; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Bruce Tarr"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "First Plymouth and Norfolk",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Patrick O'Connor; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Patrick O'Connor"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "First Suffolk",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Nick Collins; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Nick Collins"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "First Worcester",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Robyn Kennedy; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Robyn Kennedy"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Second Essex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Joan Lovely; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Joan Lovely"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Second Middlesex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Erika Uyterhoeven; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Erika Uyterhoeven"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Second Plymouth and Norfolk",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael Brady; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Michael Brady"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Second Suffolk",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Liz Miranda; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Liz Miranda"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Second Worcester",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael Moore; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Michael Moore"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Third Bristol and Plymouth",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kelly Dooner; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Kelly Dooner"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Third Essex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Brendan Crighton; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Brendan Crighton"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Third Middlesex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mike Barrett; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Mike Barrett"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Third Suffolk",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Lydia Edwards; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Lydia Edwards"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Fourth Middlesex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Cindy Friedman; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Cindy Friedman"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Fifth Middlesex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kate Lipper-Garabedian; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kate Lipper-Garabedian"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Berkshire, Hampden, Franklin and Hampshire",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Paul Mark; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Paul Mark"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Bristol and Norfolk",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Paul Feeney; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Paul Feeney"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Cape and Islands",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Julian Andre Cyr; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Julian Andre Cyr"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Hampden, Hampshire and Worcester",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jacob Oliveira; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jacob Oliveira"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Hampden",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Adam Gomez; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Adam Gomez"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Hampden and Hampshire",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: John Velis; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "John Velis"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Hampshire, Franklin and Worcester",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jo Comerford; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jo Comerford"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Middlesex and Norfolk",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Karen Spilka; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Karen Spilka"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Middlesex and Suffolk",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sal DiDomenico; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Sal DiDomenico"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Norfolk, Plymouth and Bristol",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: William Driscoll Jr.; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "William Driscoll Jr."
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Norfolk, Worcester and Middlesex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Becca Rausch; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Becca Rausch"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Norfolk and Middlesex",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Cynthia Stone Creem; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Cynthia Stone Creem"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Norfolk and Suffolk",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Persis Yu; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Persis Yu"
+   }
+  },
+  {
+   "state": "MA",
+   "chamber": "Senate",
+   "district": "Worcester and Hampden",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Massachusetts_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ryan Fattman; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Ryan Fattman"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "4",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Timothy Guerrette; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Timothy Guerrette"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "8",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Tracy Quint; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Tracy Quint"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "14",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Gary Friedmann; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Gary Friedmann"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "22",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Laura Supica; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Laura Supica"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "32",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Shawn Lancaster; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Shawn Lancaster"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "66",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael D. Perkins; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Michael D. Perkins"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "71",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: John Ducharme; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "John Ducharme"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "87",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Boyer; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "David Boyer"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "91",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jeffrey Timberlake; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jeffrey Timberlake"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "97",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Dale Crafts; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Dale Crafts"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "103",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Karin Orenstein; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Karin Orenstein"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "105",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Anne Graham; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Anne Graham"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "111",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Amy Kuhn; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Amy Kuhn"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "113",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Grayson Lookner; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Grayson Lookner"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "114",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: April Fournier; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "April Fournier"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "115",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Andrew Zarro; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Andrew Zarro"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "116",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Samuel Zager; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Samuel Zager"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "117",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Matthew Moonen; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Matthew Moonen"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "118",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Yusuf Yusuf; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Yusuf Yusuf"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "120",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jason Shedlock; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jason Shedlock"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "122",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Matthew Beck; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Matthew Beck"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "123",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michelle Boyer; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Michelle Boyer"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "125",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kelly Noonan Murphy; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kelly Noonan Murphy"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "127",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Morgan Rielly; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Morgan Rielly"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "129",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Marshall Archer; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Marshall Archer"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "132",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ryan Fecteau; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Ryan Fecteau"
+   }
+  },
+  {
+   "state": "ME",
+   "chamber": "House",
+   "district": "147",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Maine_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Holly Sargent; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Holly Sargent"
+   }
+  },
+  {
+   "state": "MN",
+   "chamber": "Senate",
+   "district": "43",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Minnesota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mike Freiberg; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Mike Freiberg"
+   }
+  },
+  {
+   "state": "MO",
+   "chamber": "Senate",
+   "district": "4",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Missouri_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Gina Mitten; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Gina Mitten"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "1",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Brad Bekkedahl; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Brad Bekkedahl"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "5",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jay Fisher; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jay Fisher"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "9",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jayme Davis; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jayme Davis"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "15",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kristin Kenner; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Kristin Kenner"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "21",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mary Schneider; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Mary Schneider"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "23",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Todd Beard; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Todd Beard"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "27",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kristin Roers; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Kristin Roers"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "37",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Dean Rummel; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Dean Rummel"
+   }
+  },
+  {
+   "state": "ND",
+   "chamber": "Senate",
+   "district": "39",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/North_Dakota_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Greg Kessel; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Greg Kessel"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Cheshire 2",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Dru Fox; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Dru Fox"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Cheshire 8",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Christine Parshall; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Christine Parshall"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Coos 3",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mike Ouellet; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Mike Ouellet"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Grafton 2",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jared Sullivan; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jared Sullivan"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Grafton 13",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Laurel Stavis; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Laurel Stavis"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Grafton 14",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kathryn Brennan; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kathryn Brennan"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Grafton 15",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Zoe Hill; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Zoe Hill"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Grafton 16",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Fracht; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "David Fracht"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Grafton 17",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Thomas Cormen; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Thomas Cormen"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Grafton 12",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mary Hakken-Phillips; Russell Muirhead; Ellen Rockmore; Terry Spahr",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "seats": [
+    "D",
+    "D",
+    "D",
+    "D"
+   ],
+   "dem": {
+    "name": "Mary Hakken-Phillips"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "House",
+   "district": "Hillsborough 23",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mary Ngwanda Georges; Jean Jeudy",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "seats": [
+    "D",
+    "D"
+   ],
+   "dem": {
+    "name": "Mary Ngwanda Georges"
+   }
+  },
+  {
+   "state": "NH",
+   "chamber": "Senate",
+   "district": "10",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_Hampshire_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Donovan Fenton; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Donovan Fenton"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "10",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: James Sanders Jr.",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "James Sanders Jr."
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "11",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Toby Ann Stavisky",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Toby Ann Stavisky"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "13",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jessica González-Rojas",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jessica González-Rojas"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "14",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Leroy Comrie; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Leroy Comrie"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "15",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Joseph Addabbo",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Joseph Addabbo"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "16",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: John Liu",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "John Liu"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "18",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Julia Salazar",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Julia Salazar"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "19",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Roxanne Persaud; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Roxanne Persaud"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "20",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Zellnor Myrie",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Zellnor Myrie"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "21",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kevin Parker",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kevin Parker"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "22",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sam Sutton",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Sam Sutton"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "23",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jessica Scarcella-Spanton",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jessica Scarcella-Spanton"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "24",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Andrew Lanza",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Andrew Lanza"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "25",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jabari Brisport",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jabari Brisport"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "26",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Andrew Gounardes",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Andrew Gounardes"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "27",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Grace Lee",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Grace Lee"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "28",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Liz Krueger",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Liz Krueger"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "29",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jose M. Serrano",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jose M. Serrano"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "30",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Cordell Cleare",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Cordell Cleare"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "31",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Robert Jackson",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Robert Jackson"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "32",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Luis Sepúlveda; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Luis Sepúlveda"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "33",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: J. Gustavo Rivera",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "J. Gustavo Rivera"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "34",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Nathalia Fernandez",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Nathalia Fernandez"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "1",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Thomas Schiavoni",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Thomas Schiavoni"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "2",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jodi Giglio",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Jodi Giglio"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "24",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Weprin",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "David Weprin"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "25",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Nily Rozic; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Nily Rozic"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "26",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Edward Braunstein",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Edward Braunstein"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "27",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sam Berger",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Sam Berger"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "28",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Andrew Hevesi",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Andrew Hevesi"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "29",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Alicia Hyndman",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Alicia Hyndman"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "30",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Patrick Martinez",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Patrick Martinez"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "31",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Khaleel Anderson",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Khaleel Anderson"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "32",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Nathaniel Hezekiah III",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Nathaniel Hezekiah III"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "33",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Clyde Vanel",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Clyde Vanel"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "34",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Brian Romero",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Brian Romero"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "35",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Larinda Hooks",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Larinda Hooks"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "36",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Diana Moreno",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Diana Moreno"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "37",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Samantha Kattan",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Samantha Kattan"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "38",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Orkin",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "David Orkin"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "39",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Catalina Cruz",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Catalina Cruz"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "40",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ron Kim",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Ron Kim"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "41",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kalman Yeger; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kalman Yeger"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "42",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Rodneyse Bichotte Hermelyn",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Rodneyse Bichotte Hermelyn"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "43",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Brian A. Cunningham",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Brian A. Cunningham"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "44",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Robert C. Carroll",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Robert C. Carroll"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "48",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Simcha Eichenstein",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Simcha Eichenstein"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "50",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Emily Gallagher; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Emily Gallagher"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "53",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Maritza Davila; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Maritza Davila"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "54",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Christian Celeste Tate",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Christian Celeste Tate"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "55",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Latrice Walker",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Latrice Walker"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "56",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Eon Tyrell Huntley",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Eon Tyrell Huntley"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "58",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Monique Chandler-Waterman",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Monique Chandler-Waterman"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "62",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael Reilly",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Michael Reilly"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "64",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael Tannousis",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Michael Tannousis"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "65",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Illapa Sairitupac",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Illapa Sairitupac"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "66",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Siffert; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "David Siffert"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "67",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Linda Rosenthal",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Linda Rosenthal"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "68",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Diana Ayala",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Diana Ayala"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "69",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Eli Northrup",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Eli Northrup"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "70",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jordan Wright; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jordan Wright"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "71",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Alfred Taylor",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Alfred Taylor"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "72",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Manny De Los Santos",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Manny De Los Santos"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "73",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Vanessa Aronson",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Vanessa Aronson"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "74",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Keith Powers",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Keith Powers"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "75",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Tony Simone",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Tony Simone"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "76",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Rebecca Seawright",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Rebecca Seawright"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "77",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Landon Dais; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Landon Dais"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "78",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: George Alvarez",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "George Alvarez"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "79",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Chantel Jackson",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Chantel Jackson"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "80",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: John Zaccaro Jr.",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "John Zaccaro Jr."
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "81",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jeffrey Dinowitz; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jeffrey Dinowitz"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "82",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Michael Benedetto",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Michael Benedetto"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "83",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Carl Heastie",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Carl Heastie"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "84",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Amanda Septimo",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Amanda Septimo"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "85",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Emerita Torres",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Emerita Torres"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "86",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Yudelka Tapia",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Yudelka Tapia"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "87",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Karines Reyes",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Karines Reyes"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "88",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Amy Paulin",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Amy Paulin"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "89",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: J. Gary Pretlow; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "J. Gary Pretlow"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "91",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Steven Otis",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Steven Otis"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "98",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Karl Brabenec",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Karl Brabenec"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Assembly",
+   "district": "100",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Paula Kay",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Paula Kay"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "12",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Aber Kawas",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Aber Kawas"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "49",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Mark Walczyk",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Mark Walczyk"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "50",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Christopher Ryan",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Christopher Ryan"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "51",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Christopher Tague",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Christopher Tague"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "52",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Lea Webb",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Lea Webb"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "53",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Joseph Griffo",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Joseph Griffo"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "54",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Pamela Helming",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Pamela Helming"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "55",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Samra Brouk",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Samra Brouk"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "56",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jeremy Cooney",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jeremy Cooney"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "57",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: George Borrello",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "George Borrello"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "58",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Thomas O'Mara",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Thomas O'Mara"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "59",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kristen Gonzalez",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kristen Gonzalez"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "60",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Patrick Gallivan",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Patrick Gallivan"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "61",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jonathan Rivera",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jonathan Rivera"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "62",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Robert Ortt",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Robert Ortt"
+   }
+  },
+  {
+   "state": "NY",
+   "chamber": "Senate",
+   "district": "63",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: April Baskin",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "April Baskin"
+   }
+  },
+  {
+   "state": "PA",
+   "chamber": "Senate",
+   "district": "2",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Pennsylvania_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Christine Tartaglione; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Christine Tartaglione"
+   }
+  },
+  {
+   "state": "PA",
+   "chamber": "Senate",
+   "district": "8",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Pennsylvania_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Anthony Williams; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Anthony Williams"
+   }
+  },
+  {
+   "state": "PA",
+   "chamber": "Senate",
+   "district": "42",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Pennsylvania_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Wayne Fontana; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Wayne Fontana"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "91",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Jodi Emerson",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Jodi Emerson"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "1",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Joel Kitchens",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Joel Kitchens"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "2",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Shae Sortwell",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Shae Sortwell"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "3",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ron Tusler",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Ron Tusler"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "4",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: David Steffen",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "David Steffen"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "5",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Joy Goeben",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Joy Goeben"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "6",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Elijah Behnke",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Elijah Behnke"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "7",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Karen Kirsch",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Karen Kirsch"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "8",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Ismael Luna",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Ismael Luna"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "9",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Priscilla Prado",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Priscilla Prado"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "10",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Darrin Madison Jr.",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Darrin Madison Jr."
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "11",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Sequanna Taylor",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Sequanna Taylor"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "12",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Russell Goodwin; uncontested",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Russell Goodwin"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "13",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Amy Zimmerman",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Amy Zimmerman"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "14",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Angelito Tenorio",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Angelito Tenorio"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "15",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Adam Neylon",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "rep": {
+    "name": "Adam Neylon"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "16",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Kalan Haywood",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Kalan Haywood"
+   }
+  },
+  {
+   "state": "WI",
+   "chamber": "Assembly",
+   "district": "17",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "unknown",
+   "calledBy": "Ballotpedia",
+   "source": "https://ballotpedia.org/Wisconsin_State_Assembly_elections,_2026",
+   "asOf": "Nov 4, 11:20 AM ET",
+   "flip": false,
+   "note": "Winner marked on Ballotpedia: Supreme Moore Omokunde",
+   "sweep": "Nov 4 Ballotpedia winners",
+   "dem": {
+    "name": "Supreme Moore Omokunde"
+   }
   }
  ]
 }
