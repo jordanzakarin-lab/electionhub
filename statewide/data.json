@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:25:06-05:00",
+ "updated": "2026-11-03T20:47:00-05:00",
  "sample": false,
  "races": [
   {
@@ -564,25 +564,24 @@
   {
    "id": "FL-LG",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "63%",
+   "leader": "R",
+   "reporting": "93.4%",
    "dem": {
     "name": "Gwen Graham",
-    "votes": 2783715,
-    "pct": 52.5
+    "votes": 3832323,
+    "pct": 49.2
    },
    "rep": {
     "name": "Bryan Avila",
-    "votes": 2457252,
-    "pct": 46.4
+    "votes": 3865904,
+    "pct": 49.6
    },
-   "marginPts": 6.2,
-   "marginVotes": 326463,
+   "marginPts": -0.4,
+   "marginVotes": 33581,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-governor-general-election",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "others": [],
-   "note": "Joint ticket: governor ticket's result (Jolly–Graham vs. Donalds–Avila), from states/governors.json."
+   "source": "https://nbcmiami.com/elections/florida-midterm-elections-2026-live-updates/3878278",
+   "asOf": "2026-11-03T20:35:44-05:00",
+   "note": "Joint ticket: governor ticket result (FL-GOV)"
   },
   {
    "id": "PA-LG",
@@ -739,21 +738,20 @@
    "reporting": "",
    "dem": {
     "name": "David Pepper",
-    "votes": null,
-    "pct": 64.4
+    "votes": 684920,
+    "pct": 66.58
    },
    "rep": {
     "name": "Rob McColley",
-    "votes": null,
-    "pct": 33.4
+    "votes": 321919,
+    "pct": 31.29
    },
-   "marginPts": 31.0,
-   "marginVotes": null,
+   "marginPts": 35.29,
+   "marginVotes": 363001,
    "calledBy": null,
-   "source": "https://www.daytondailynews.com/local/amy-acton-out-to-early-lead-in-ohio-governor-race/article_3cdadbe8-ac98-5e4f-9671-688de9ae5c00.html",
-   "asOf": "2026-11-03T20:00:00-05:00",
-   "others": [],
-   "note": "Joint ticket: governor ticket's result (Acton–Pepper vs. Ramaswamy–McColley), partial early-vote count (~1.2M votes) as of 8 p.m. per Dayton Daily News."
+   "source": "https://en.libnanews.com/midterms-first-partial-results-in-ohio",
+   "asOf": "2026-11-03T19:52:03-05:00",
+   "note": "Joint ticket: governor ticket result (OH-GOV)"
   }
  ]
 }
