@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:45:00-05:00",
+ "updated": "2026-11-03T22:22:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -7,20 +7,14 @@
    "location": "California",
    "level": "State",
    "measure": "California Billionaire Tax Act",
-   "ballotNo": "",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "ballotNo": "Prop 40",
+   "description": "5% one-time wealth tax on ~200 billionaires; revenue for Medi-Cal, K-14 education, food aid.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -32,21 +26,15 @@
    "category": "Tax Wealthy",
    "location": "Washington",
    "level": "State",
-   "measure": "I-645 — Repeal Millionaires Tax (SB 6346)",
+   "measure": "Millionaires Tax (SB 6346) repeal",
    "ballotNo": "I-645",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Would repeal the 9.9% income tax on $1M+ households and ban state income taxes generally.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -58,73 +46,35 @@
    "category": "Tax Wealthy",
    "location": "Colorado",
    "level": "State",
-   "measure": "Amendment 87 — Graduated Income Tax",
+   "measure": "Graduated Income Tax",
    "ballotNo": "Amendment 87",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Higher income tax rates on income over $500K and a small cut for lower brackets. Competes with Prop 136; if both pass, the one with more yes votes wins.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Competes with Prop 136; higher yes vote wins if both pass. Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Tax Wealthy",
    "location": "Colorado",
    "level": "State",
-   "measure": "Prop 136 — Cap Income Tax at 4.4%",
+   "measure": "Cap Income Tax at 4.4%",
    "ballotNo": "Prop 136",
-   "description": "",
+   "description": "Caps the income tax at 4.4% to block Amendment 87. If both pass, the one with more yes votes wins.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Competes with Amendment 87; higher yes vote wins if both pass. Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
-  },
-  {
-   "category": "Tax Wealthy",
-   "location": "California",
-   "level": "State",
-   "measure": "CA Prop 41 — Audits and Spending-Limit Rules for New Taxes",
-   "ballotNo": "Prop 41",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -136,21 +86,35 @@
    "category": "Tax Wealthy",
    "location": "California",
    "level": "State",
-   "measure": "CA Prop 42 — Ban State Wealth Taxes",
-   "ballotNo": "Prop 42",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "measure": "Audits and Spending-Limit Rules for New Taxes",
+   "ballotNo": "Prop 41",
+   "description": "Requires audits of new state special taxes and bars exempting them from the spending limit. Written to cancel Prop 40 if it gets more yes votes.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
+  },
+  {
+   "category": "Tax Wealthy",
+   "location": "California",
+   "level": "State",
+   "measure": "Ban State Wealth Taxes",
+   "ballotNo": "Prop 42",
+   "description": "Constitutional ban on state wealth and personal-property taxes and some retroactive taxes. Written to cancel Prop 40.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -162,21 +126,15 @@
    "category": "Tax Wealthy / Initiative Process",
    "location": "California",
    "level": "State",
-   "measure": "CA Prop 43 — Two-Thirds Vote for Citizen Local Special Taxes",
+   "measure": "Two-Thirds Vote for Citizen Local Special Taxes",
    "ballotNo": "Prop 43",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Citizen-initiated local special taxes would need two-thirds, starting 2027. Not retroactive, so LA's mansion tax survives. Replaced the Local Taxpayer Protection Act.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -190,25 +148,19 @@
    "level": "State",
    "measure": "Income Tax Cap to 3.5%",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Lowers the constitutional cap on the income tax rate from 7% to 3.5%.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Tax Wealthy",
@@ -216,175 +168,133 @@
    "level": "State",
    "measure": "Local Property-Tax Levy Limits",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Legislature must cap how much local governments can raise property-tax levies.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Tax Wealthy",
    "location": "Iowa",
    "level": "State",
-   "measure": "Amendment 1 — Two-Thirds Vote to Raise Income Taxes",
+   "measure": "Two-Thirds Vote to Raise Income Taxes",
    "ballotNo": "Amendment 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Requires a two-thirds legislative vote to raise income tax rates or create a new income-based tax.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Tax Wealthy",
    "location": "Florida",
    "level": "State",
-   "measure": "Amendment 3 — Homestead Exemption Increase",
+   "measure": "Homestead Exemption Increase",
    "ballotNo": "Amendment 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Raises the homestead exemption to $150K in 2027 and $250K in 2028, cuts the non-homestead cap to 5% and limits local use of property-tax revenue.",
    "threshold": "60%",
    "thresholdPct": 60,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Tax Wealthy",
    "location": "Missouri",
    "level": "State",
-   "measure": "Amendment 7 — Show-Me Prosperity Fund",
+   "measure": "Show-Me Prosperity Fund",
    "ballotNo": "Amendment 7",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Constitutional endowment meant to eventually replace state taxes.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Tax Wealthy",
    "location": "Massachusetts",
    "level": "State",
-   "measure": "Question 5 — Tax Revenue Limit and Rebates",
+   "measure": "Tax Revenue Limit and Rebates",
    "ballotNo": "Question 5",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Changes the Chapter 62F revenue cap formula to reduce collections and refund surpluses to taxpayers.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Tax Wealthy",
    "location": "Cook County, IL",
    "level": "Local",
-   "measure": "Millionaire Income Surcharge (advisory)",
-   "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "measure": "Millionaire Income Surcharge",
+   "ballotNo": "Advisory",
+   "description": "Advisory: should Illinois add a 3% surcharge on income over $1M, half for property-tax relief and half for schools?",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Tax Wealthy",
    "location": "Los Angeles, CA",
    "level": "Local",
-   "measure": "Measure TE — Mansion Tax Exemption for Fire Victims",
+   "measure": "Mansion Tax Exemption for Fire Victims",
    "ballotNo": "Measure TE",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "One-time Measure ULA exemption for Palisades-fire homes sold within five years.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -396,21 +306,15 @@
    "category": "Economic Justice",
    "location": "San Francisco, CA",
    "level": "Local",
-   "measure": "SF Proposition B — Public Bank",
+   "measure": "Public Bank",
    "ballotNo": "Prop B",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Charter amendment authorizing a municipal public bank.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -422,21 +326,15 @@
    "category": "Economic Justice",
    "location": "Berkeley, CA",
    "level": "Local",
-   "measure": "Measure Z — Parcel Tax for Public Bank",
+   "measure": "Parcel Tax for Public Bank",
    "ballotNo": "Measure Z",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Six-year parcel tax to capitalize a public bank.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -448,21 +346,15 @@
    "category": "Economic Justice",
    "location": "Berkeley, CA",
    "level": "Local",
-   "measure": "Measure Y — Parcel tax for arts funding",
+   "measure": "Parcel Tax for Arts Funding",
    "ballotNo": "Measure Y",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "12-year parcel tax funding grants to arts organizations.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -474,99 +366,75 @@
    "category": "Economic Justice",
    "location": "Vermont",
    "level": "State",
-   "measure": "Proposal 3 — Right to Collective Bargaining",
+   "measure": "Right to Collective Bargaining",
    "ballotNo": "Proposal 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Constitutional right to bargain collectively, which also blocks right-to-work laws.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Economic Justice",
    "location": "Maryland",
    "level": "State",
-   "measure": "Question 1 — Arbitration Reform for State Employees",
+   "measure": "Arbitration Reform for State Employees",
    "ballotNo": "Question 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "The governor's budget must fund state-worker union contracts, including terms set by arbitration.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Economic Justice",
    "location": "Massachusetts",
    "level": "State",
-   "measure": "Question 2 — Public Defender Union Rights (CPCS)",
+   "measure": "Public Defender Union Rights (CPCS)",
    "ballotNo": "Question 2",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Lets Committee for Public Counsel Services employees unionize like other state workers.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Economic Justice",
    "location": "Los Angeles County, CA",
    "level": "Local",
-   "measure": "Measure A — Binding Arbitration for Public-Safety Workers",
+   "measure": "Binding Arbitration for Public-Safety Workers",
    "ballotNo": "Measure A",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Binding arbitration for about 17,000 public-safety workers and a strike ban for some county workers.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -578,177 +446,135 @@
    "category": "Economic Justice",
    "location": "Nebraska",
    "level": "State",
-   "measure": "Measure 440 — Legalize Online Sports Betting",
+   "measure": "Legalize Online Sports Betting",
    "ballotNo": "Measure 440",
-   "description": "",
+   "description": "Allows online sports betting through the state's six licensed racetracks.",
+   "threshold": "Majority + 35% of ballots cast",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority + 35%",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Also needs yes votes equal to at least 35% of ballots cast. Polls closed; no counts found yet.",
+   "note": "Also needs yes votes equal to 35% of ballots cast",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Economic Justice",
    "location": "Nebraska",
    "level": "State",
-   "measure": "Measure 441 — Regulate Online Sports Betting",
+   "measure": "Regulate Online Sports Betting",
    "ballotNo": "Measure 441",
-   "description": "",
+   "description": "Sets rules and taxes for online sports betting.",
+   "threshold": "Majority + 35% of ballots cast",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority + 35%",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Also needs yes votes equal to at least 35% of ballots cast. Polls closed; no counts found yet.",
+   "note": "Also needs yes votes equal to 35% of ballots cast",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Economic Justice",
    "location": "South Dakota",
    "level": "State",
-   "measure": "Amendment K — Unclaimed Property Trust Fund",
+   "measure": "Unclaimed Property Trust Fund",
    "ballotNo": "Amendment K",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Puts unclaimed property money in a constitutional trust fund.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Economic Justice",
    "location": "Arkansas",
    "level": "State",
-   "measure": "Issue 3 — Economic Development Districts",
+   "measure": "Economic Development Districts",
    "ballotNo": "Issue 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Lets the legislature create districts and programs that make public loans and grants and issue bonds outside debt limits.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Economic Justice",
    "location": "Rhode Island",
    "level": "State",
-   "measure": "Question 3 — Economic Development Bond",
+   "measure": "Economic Development Bond",
    "ballotNo": "Question 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "$100M bond for economic development.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Economic Justice",
    "location": "Rhode Island",
    "level": "State",
-   "measure": "Question 4 — Cultural Economy Bond",
+   "measure": "Cultural Economy Bond",
    "ballotNo": "Question 4",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "$50M bond for arts and cultural facilities and a State History Center.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Education",
    "location": "California",
    "level": "State",
-   "measure": "Renew State Income Tax Increase for Education Funding",
-   "ballotNo": "",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "measure": "Renew State Income Tax Increase for Education",
+   "ballotNo": "Prop 3",
+   "description": "Makes top marginal rates permanent; revenue to K-12 and community colleges.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -760,99 +586,75 @@
    "category": "Education",
    "location": "Colorado",
    "level": "State",
-   "measure": "Prop NN — State Public K-12 Education Funding",
+   "measure": "State Public K-12 Education Funding",
    "ballotNo": "Prop NN",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Lets the state keep revenue above the TABOR cap for K-12 schools (up to $4.6B; ~$500M a year expected).",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
-  },
-  {
-   "category": "Education",
-   "location": "Rhode Island",
-   "level": "State",
-   "measure": "Question 1 — Higher Education Bond",
-   "ballotNo": "Question 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Education",
    "location": "North Dakota",
    "level": "State",
-   "measure": "Measure 2 — North Dakota Free School Meals Initiative",
+   "measure": "Free School Meals Initiative",
    "ballotNo": "Measure 2",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Constitutional requirement: free breakfast and lunch for all K-12 students, fully reimbursed by the state.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
+  },
+  {
+   "category": "Education",
+   "location": "Rhode Island",
+   "level": "State",
+   "measure": "Higher Education Bond",
+   "ballotNo": "Question 1",
+   "description": "$275M bond for public colleges and universities.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
   },
   {
    "category": "Healthcare",
    "location": "California",
    "level": "State",
-   "measure": "CA Prop 44 — Spending Requirements for Federally Qualified Health Centers",
+   "measure": "Spending Requirements for FQHCs",
    "ballotNo": "Prop 44",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Health centers must spend 90% of revenue on their mission.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -864,125 +666,95 @@
    "category": "Healthcare",
    "location": "Missouri",
    "level": "State",
-   "measure": "Amendment 3 — Repeal Abortion Rights + Ban Gender-Affirming Care",
+   "measure": "Repeal Abortion Rights + Ban Gender-Affirming Care",
    "ballotNo": "Amendment 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Repeals the 2024 abortion rights amendment and bans most abortions, with limited exceptions; bans gender transition care for minors.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
-   "category": "Healthcare",
+   "category": "Healthcare / Civil Rights & Repro",
    "location": "Colorado",
    "level": "State",
-   "measure": "Prop 135 — Ban Gender-Affirming Care for Minors",
+   "measure": "Ban Gender-Affirming Care for Minors",
    "ballotNo": "Prop 135",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Bans gender-affirming surgery for minors and bars public money, including Medicaid, from paying for gender-affirming procedures.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Healthcare",
    "location": "South Dakota",
    "level": "State",
-   "measure": "Amendment I — End Medicaid Expansion If Federal Share Drops",
+   "measure": "End Medicaid Expansion If Federal Share Drops",
    "ballotNo": "Amendment I",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Ends Medicaid expansion if the federal share falls below 90%.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Housing",
    "location": "Boulder, CO",
    "level": "Local",
-   "measure": "Issue 2J: Residential vacancy tax",
+   "measure": "Residential Vacancy Tax",
    "ballotNo": "Issue 2J",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Tax on homes empty more than 183 days a year: ~$4,000, indexed, capped at $7,000.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Housing",
    "location": "Redwood City, CA",
    "level": "Local",
-   "measure": "Measure E — Fair and Affordable Housing Ordinance",
+   "measure": "Fair and Affordable Housing Ordinance",
    "ballotNo": "Measure E",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Caps rent increases at 5% or 60% of inflation, whichever is less, and rolls rents back to October 2025 levels.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -994,47 +766,35 @@
    "category": "Housing",
    "location": "Massachusetts",
    "level": "State",
-   "measure": "Question 7 — Minimum Lot Size for Single-Family Homes",
+   "measure": "Minimum Lot Size for Single-Family Homes",
    "ballotNo": "Question 7",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Allows single-family homes by right on lots of at least 5,000 sq ft with public water and sewer and 50 ft of frontage. Boston is excluded.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Housing",
    "location": "California",
    "level": "State",
-   "measure": "CA Prop 1 — Veterans and Affordable Housing Bond",
+   "measure": "Veterans and Affordable Housing Bond",
    "ballotNo": "Prop 1",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "$11.25B bond for veterans and affordable housing.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1046,47 +806,35 @@
    "category": "Housing",
    "location": "Rhode Island",
    "level": "State",
-   "measure": "Question 2 — Housing and Homeownership Bond",
+   "measure": "Housing and Homeownership Bond",
    "ballotNo": "Question 2",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "$120M for affordable housing, with up to $10M for public housing.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Housing",
    "location": "Berkeley, CA",
    "level": "Local",
-   "measure": "Measure X — Rent Stabilization Amendments",
+   "measure": "Rent Stabilization Amendments",
    "ballotNo": "Measure X",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Amends the rent stabilization and just-cause eviction law, including a 10% annual cap on rent increases.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1098,21 +846,15 @@
    "category": "Housing",
    "location": "Santa Monica, CA",
    "level": "Local",
-   "measure": "Measure GG — Just-Cause Eviction in Charter",
+   "measure": "Just-Cause Eviction in Charter",
    "ballotNo": "Measure GG",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Puts just-cause eviction protections in the city charter.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1124,21 +866,15 @@
    "category": "Housing",
    "location": "Santa Monica, CA",
    "level": "Local",
-   "measure": "Measure RR — No Evictions for Small Rent Debts",
+   "measure": "No Evictions for Small Rent Debts",
    "ballotNo": "Measure RR",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Bans eviction for unpaid rent below one month of HUD fair-market rent.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1150,21 +886,15 @@
    "category": "Housing",
    "location": "Santa Monica, CA",
    "level": "Local",
-   "measure": "Measure VV — Eviction Protections for Single-Family Homes",
+   "measure": "Eviction Protections for Single-Family Homes",
    "ballotNo": "Measure VV",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Extends eviction protections to single-family homes and condos.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1178,45 +908,33 @@
    "level": "Local",
    "measure": "Tenant Right to Repair",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Tenants can make repairs and deduct up to $500 or half a month's rent. The city is appealing in court, so votes may not count.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "City appealing in court; votes may not count. Polls closed; no counts found yet.",
+   "note": "City appealing; votes may not count",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Public Transit",
    "location": "San Francisco, CA",
    "level": "Local",
-   "measure": "Prop H — SF Muni Parcel Tax (Stronger Muni for All)",
+   "measure": "SF Muni Parcel Tax",
    "ballotNo": "Prop H",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "15-year parcel tax, about $177M a year, for the Muni budget shortfall.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1227,22 +945,16 @@
   {
    "category": "Public Transit",
    "location": "Bay Area, CA",
-   "level": "Regional",
-   "measure": "Measure RTM — Connect Bay Area",
+   "level": "Local",
+   "measure": "Connect Bay Area",
    "ballotNo": "Measure RTM",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "14-year sales tax: 1% in SF, 0.5% in Alameda, Contra Costa, San Mateo and Santa Clara; ~$1B a year for transit.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1253,48 +965,16 @@
   {
    "category": "Public Transit",
    "location": "Colorado",
-   "level": "Regional",
-   "measure": "Measure 7A: Front Range Passenger Rail District",
+   "level": "Local",
+   "measure": "Front Range Passenger Rail District",
    "ballotNo": "Measure 7A",
-   "description": "",
+   "description": "0.333% sales tax (~$295M a year) for the Fort Collins\u2013Pueblo Colorado Connector. District voters only.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
-  },
-  {
-   "category": "Public Transit",
-   "location": "Seattle, WA",
-   "level": "Local",
-   "measure": "Seattle Transit Measure",
-   "ballotNo": "",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1303,154 +983,58 @@
    "asOf": ""
   },
   {
-   "category": "Environment",
-   "location": "Massachusetts",
-   "level": "State",
-   "measure": "Question 6 — Water and Nature Protection Fund",
-   "ballotNo": "Question 6",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
-  },
-  {
-   "category": "Environment",
-   "location": "Ann Arbor, MI",
+   "category": "Public Transit",
+   "location": "Seattle, WA",
    "level": "Local",
-   "measure": "Proposal E — Ann Arbor for Public Power",
-   "ballotNo": "Proposal E",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "measure": "Seattle Transit Measure",
+   "ballotNo": "",
+   "description": "Replaces the expiring 0.15% sales tax with 0.3% (~$138M a year) for more Metro bus service.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
-  },
-  {
-   "category": "Environment",
-   "location": "Arkansas",
-   "level": "State",
-   "measure": "Issue 4 — Water Infrastructure Bonds",
-   "ballotNo": "Issue 4",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
-  },
-  {
-   "category": "Environment",
-   "location": "Rhode Island",
-   "level": "State",
-   "measure": "Question 5 — Green Economy Bond",
-   "ballotNo": "Question 5",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
    "location": "Janesville, WI",
    "level": "Local",
-   "measure": "Janesville Major Development Voter Approval",
+   "measure": "Major Development Voter Approval",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Voter approval for $450M+ projects on the GM/JATCO site.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
    "location": "Boulder City, NV",
    "level": "Local",
-   "measure": "Boulder City Data Center Land Use (Question 1)",
+   "measure": "Data Center Land Use",
    "ballotNo": "Question 1",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Allow data centers on city land in Eldorado Valley.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1462,21 +1046,15 @@
    "category": "Data Centers & AI",
    "location": "Alhambra, CA",
    "level": "Local",
-   "measure": "Measure DB — Data Center Ban",
+   "measure": "Data Center Ban",
    "ballotNo": "Measure DB",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Bans data centers in all zones.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1488,21 +1066,15 @@
    "category": "Data Centers & AI",
    "location": "Monterey Park, CA",
    "level": "Local",
-   "measure": "Measure HOM — Data Center Ban and Housing",
+   "measure": "Data Center Ban and Housing",
    "ballotNo": "Measure HOM",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Keeps the city's data-center ban and allows limited housing on underused commercial and industrial land.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -1514,27 +1086,21 @@
    "category": "Data Centers & AI",
    "location": "Bloomington, IL",
    "level": "Local",
-   "measure": "Large Data Center Moratorium (advisory)",
-   "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "measure": "Large Data Center Moratorium",
+   "ballotNo": "Advisory",
+   "description": "Advisory: should the city adopt a moratorium on large-scale data centers?",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1542,25 +1108,19 @@
    "level": "Local",
    "measure": "EdgeConneX Data Center Agreement Referendum",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Referendum on the term sheet guiding negotiations with EdgeConneX over two data centers.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1568,25 +1128,19 @@
    "level": "Local",
    "measure": "Ban Data Centers Over 25 MW",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits data centers with demand or peak load over 25 MW.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1594,25 +1148,19 @@
    "level": "Local",
    "measure": "Ban Data Centers Over 25 MW",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits data centers with demand or peak load over 25 MW.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1620,25 +1168,19 @@
    "level": "Local",
    "measure": "Data Center Ban",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits data center construction.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1646,25 +1188,19 @@
    "level": "Local",
    "measure": "Voter Approval for Large Developments",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Voter approval for projects of 50+ acres, over 20 MW peak demand, or using over 500,000 gallons of water a day.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1672,25 +1208,19 @@
    "level": "Local",
    "measure": "Data Center Ban",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits data centers within city limits.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1698,51 +1228,39 @@
    "level": "Local",
    "measure": "Township Zoning Initiative",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Establishes zoning regulations for unincorporated areas.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
    "location": "Monroeville, OH",
    "level": "Local",
-   "measure": "Data Center Advisory Question (advisory)",
-   "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "measure": "Data Center Advisory Question",
+   "ballotNo": "Advisory",
+   "description": "Asks whether officials should allow data center development in the village.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1750,25 +1268,19 @@
    "level": "Local",
    "measure": "Ban Data Centers Over 25 MW",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits data centers exceeding 25 MW.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1776,25 +1288,19 @@
    "level": "Local",
    "measure": "Large Data Center Ban",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits large-scale data centers.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1802,25 +1308,19 @@
    "level": "Local",
    "measure": "Financial Guarantees for Hyperscale Developers",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Hyperscale developers seeking special tax incentives must provide financial guarantees.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1828,25 +1328,19 @@
    "level": "Local",
    "measure": "Charter Ban on Data Centers",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Charter amendment prohibiting data center construction.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1854,25 +1348,19 @@
    "level": "Local",
    "measure": "Township Zoning Initiative",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Establishes zoning regulations for unincorporated areas.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1880,25 +1368,19 @@
    "level": "Local",
    "measure": "Ban Data Centers Over 25 MW",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits data centers with demand or peak load over 25 MW.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1906,25 +1388,19 @@
    "level": "Local",
    "measure": "Large Data Center Ban",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits large-scale data centers.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1932,25 +1408,19 @@
    "level": "Local",
    "measure": "Charter Ban on Data Centers",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Charter amendment prohibiting data center construction.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1958,25 +1428,19 @@
    "level": "Local",
    "measure": "Data Center Ban",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Prohibits data centers within city limits.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -1984,25 +1448,19 @@
    "level": "Local",
    "measure": "Rezoning Referendum: 1957 State Route 730",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Whether to uphold rezoning 65.29 acres from rural residential to light industrial.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -2010,25 +1468,19 @@
    "level": "Local",
    "measure": "Rezoning Referendum: McGuinn Road and State Route 730",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Whether to uphold rezoning these properties from rural residential to light industrial.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Data Centers & AI",
@@ -2036,97 +1488,53 @@
    "level": "Local",
    "measure": "Rezoning Referendum: U.S. Route 68 South",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Whether to uphold rezoning about 170 acres from rural residential to light industrial.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Virginia",
    "level": "State",
-   "measure": "Question 3 — Voting Rights Restoration Upon Release",
+   "measure": "Voting Rights Restoration Upon Release",
    "ballotNo": "Question 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Restores voting rights on release from incarceration; makes voting a fundamental right.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Massachusetts",
    "level": "State",
-   "measure": "Question 4 — Same-Day Voter Registration",
+   "measure": "Same-Day Voter Registration",
    "ballotNo": "Question 4",
-   "description": "",
+   "description": "Register or update at the polls on Election Day.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
-  },
-  {
-   "category": "Voting & Democracy",
-   "location": "California",
-   "level": "State",
-   "measure": "CA Prop 4 — Public Campaign Financing Authorization",
-   "ballotNo": "Prop 4",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2138,21 +1546,35 @@
    "category": "Voting & Democracy",
    "location": "California",
    "level": "State",
-   "measure": "CA Prop 5 — Eliminate Successor Elections in State Officer Recalls",
-   "ballotNo": "Prop 5",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "measure": "Public Campaign Financing Authorization",
+   "ballotNo": "Prop 4",
+   "description": "Repeals the ban on public financing.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
+  },
+  {
+   "category": "Voting & Democracy",
+   "location": "California",
+   "level": "State",
+   "measure": "Eliminate Successor Elections in Recalls",
+   "ballotNo": "Prop 5",
+   "description": "No replacement vote on the same recall ballot.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2164,47 +1586,15 @@
    "category": "Voting & Democracy",
    "location": "Arizona",
    "level": "State",
-   "measure": "Prop 144: Voter ID and Citizens Only",
+   "measure": "Voter ID and Citizens Only",
    "ballotNo": "Prop 144",
-   "description": "",
+   "description": "Constitutional language limiting voting to citizens.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
-  },
-  {
-   "category": "Voting & Democracy",
-   "location": "Montana",
-   "level": "State",
-   "measure": "I-194 — Exclude Political Spending from Artificial Persons’ Charter Powers",
-   "ballotNo": "I-194",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2216,21 +1606,35 @@
    "category": "Voting & Democracy",
    "location": "Montana",
    "level": "State",
-   "measure": "CI-132, Require Nonpartisan Judicial Elections",
-   "ballotNo": "CI-132",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "measure": "Exclude Political Spending from Artificial Persons",
+   "ballotNo": "I-194",
+   "description": "Bars corporations and similar entities from political contributions.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
+  },
+  {
+   "category": "Voting & Democracy",
+   "location": "Montana",
+   "level": "State",
+   "measure": "Require Nonpartisan Judicial Elections",
+   "ballotNo": "CI-132",
+   "description": "Keeps judicial elections nonpartisan.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2242,21 +1646,15 @@
    "category": "Voting & Democracy / Initiative Process",
    "location": "Montana",
    "level": "State",
-   "measure": "CI-133 — Initiative Process Protection",
+   "measure": "Initiative Process Protection",
    "ballotNo": "CI-133",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Fair, timely processes for citizen initiatives.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2268,25 +1666,19 @@
    "category": "Voting & Democracy",
    "location": "Nevada",
    "level": "State",
-   "measure": "Question 7 — Voter ID Requirement",
+   "measure": "Voter ID Requirement",
    "ballotNo": "Question 7",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Photo ID in person; ID digits on mail ballots. Second vote.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Second, final vote.",
+   "note": "",
    "source": "",
    "asOf": ""
   },
@@ -2294,47 +1686,35 @@
    "category": "Voting & Democracy",
    "location": "Ohio",
    "level": "State",
-   "measure": "Issue 3 — Require Voter Photo ID",
+   "measure": "Require Voter Photo ID",
    "ballotNo": "Issue 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Constitutional photo ID requirement.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "Called",
+   "outcome": "Passed",
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "AP",
+   "note": "",
+   "source": "https://www.13abc.com/2026/11/04/ohio-issue-3-passes-enshrining-photo-id-requirement-ohio-constitution/",
+   "asOf": "Nov 3, 10:22 PM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
    "location": "Utah",
    "level": "State",
-   "measure": "Amendment B — 60% Supermajority for Tax-Related Initiatives",
+   "measure": "60% Supermajority for Tax-Related Initiatives",
    "ballotNo": "Amendment B",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Tax initiatives would need 60% to pass.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2346,47 +1726,35 @@
    "category": "Voting & Democracy / Initiative Process",
    "location": "South Dakota",
    "level": "State",
-   "measure": "Amendment L — 60% Supermajority for All Constitutional Amendments",
+   "measure": "60% Supermajority for Constitutional Amendments",
    "ballotNo": "Amendment L",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Future amendments would need 60%.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy / Initiative Process",
    "location": "Idaho",
    "level": "State",
-   "measure": "HJR 4 — Block Citizens from Initiating Drug Policy Measures",
+   "measure": "Block Citizen Drug Policy Initiatives",
    "ballotNo": "HJR 4",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Gives the legislature sole power over drug policy.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2398,105 +1766,81 @@
    "category": "Voting & Democracy",
    "location": "Michigan",
    "level": "State",
-   "measure": "Proposal 1 — Constitutional Convention Question (Con-Con)",
+   "measure": "Constitutional Convention Question",
    "ballotNo": "Proposal 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Every-16-years question on rewriting the constitution.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Michigan",
    "level": "State",
-   "measure": "Prop 2: Utility and Government Contractor Campaign Finance Regulations Initiative",
-   "ballotNo": "Prop 2",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "measure": "Utility and Contractor Campaign Finance Limits",
+   "ballotNo": "Proposal 2",
+   "description": "Bars utilities and big contractors from contributions.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy / Initiative Process",
    "location": "Missouri",
    "level": "State",
-   "measure": "Amendment 6 — Respect Missouri Voters",
+   "measure": "Respect Missouri Voters",
    "ballotNo": "Amendment 6",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Makes initiative and referendum a fundamental right; changing voter-approved laws would need 80% of both chambers.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Nebraska",
    "level": "State",
-   "measure": "Amendment 1 — Change State Legislative Term Limits from 2 to 3 Consecutive Terms",
+   "measure": "Legislative Term Limits to 3 Terms",
    "ballotNo": "Amendment 1",
-   "description": "",
+   "description": "Extends term limits from 8 to 12 years.",
+   "threshold": "Majority + 35% of ballots cast",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority + 35%",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Also needs yes votes equal to at least 35% of ballots cast. Polls closed; no counts found yet.",
+   "note": "Also needs yes votes equal to 35% of ballots cast",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
@@ -2504,71 +1848,53 @@
    "level": "State",
    "measure": "Citizenship Voting Requirement",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Adds citizenship as an explicit voting requirement.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "South Dakota",
    "level": "State",
-   "measure": "Amendment J — Citizenship Voting Requirement",
+   "measure": "Citizenship Voting Requirement",
    "ballotNo": "Amendment J",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Only US citizens may vote.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy / Initiative Process",
    "location": "San Francisco, CA",
    "level": "Local",
-   "measure": "SF Proposition D — Initiative-process reform",
+   "measure": "Initiative-Process Reform",
    "ballotNo": "Prop D",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Raises petition threshold from 2% to 8%.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2580,21 +1906,15 @@
    "category": "Voting & Democracy",
    "location": "Irvine, CA",
    "level": "Local",
-   "measure": "Measure D — Ranked-Choice Voting",
+   "measure": "Ranked-Choice Voting",
    "ballotNo": "Measure D",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Instant runoff for mayor and council.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2606,99 +1926,75 @@
    "category": "Voting & Democracy",
    "location": "New Mexico",
    "level": "State",
-   "measure": "Amendment 1 — Eliminate Governor's Pocket Veto",
+   "measure": "Eliminate Governor's Pocket Veto",
    "ballotNo": "Amendment 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Requires governor to provide substantive written explanation for vetoes; eliminates pocket veto. Unanimous bipartisan support.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Missouri",
    "level": "State",
-   "measure": "Prop A — Referendum on 2025 Congressional Map",
+   "measure": "Referendum on 2025 Congressional Map",
    "ballotNo": "Prop A",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Yes approves the GOP map that splits Cleaver's KC-based MO-05; No keeps the 2022 map.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Maryland",
    "level": "State",
-   "measure": "Question 3 — Congressional Districts",
+   "measure": "Congressional Districts",
    "ballotNo": "Question 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Says the constitution sets no criteria for congressional maps and gives the Supreme Court of Maryland direct review.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Alaska",
    "level": "State",
-   "measure": "Measure 2 — Repeal Top-Four Primary and Ranked-Choice Voting",
+   "measure": "Repeal Top-Four Primary and Ranked-Choice Voting",
    "ballotNo": "Measure 2",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Returns Alaska to closed party primaries.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2710,21 +2006,15 @@
    "category": "Voting & Democracy",
    "location": "Alaska",
    "level": "State",
-   "measure": "Measure 3 — Citizens-Only Voting",
+   "measure": "Citizens-Only Voting",
    "ballotNo": "Measure 3",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Rewords state law so that only U.S. citizens may vote.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2736,151 +2026,115 @@
    "category": "Voting & Democracy",
    "location": "Massachusetts",
    "level": "State",
-   "measure": "Question 3 — Top-Two All-Party Primaries",
+   "measure": "Top-Two All-Party Primaries",
    "ballotNo": "Question 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Replaces party primaries with one primary; the top two finishers advance.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Massachusetts",
    "level": "State",
-   "measure": "Question 1 — Public Records for Governor and Legislature",
+   "measure": "Public Records for Governor and Legislature",
    "ballotNo": "Question 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Puts the governor and Legislature under the public records law.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Colorado",
    "level": "State",
-   "measure": "Amendment 84 — End Mail-Ballot Signature Verification",
+   "measure": "End Mail-Ballot Signature Verification",
    "ballotNo": "Amendment 84",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Replaces signature checks with the last four digits of an SSN or driver's license.",
    "threshold": "55%",
    "thresholdPct": 55,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy / Initiative Process",
    "location": "North Dakota",
    "level": "State",
-   "measure": "Measure 1 — 60% Vote for Constitutional Amendments",
+   "measure": "60% Vote for Constitutional Amendments",
    "ballotNo": "Measure 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Future constitutional amendments would need 60% approval.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Oklahoma",
    "level": "State",
-   "measure": "SQ 845 — Judicial Nominating Commission Overhaul",
+   "measure": "Judicial Nominating Commission Overhaul",
    "ballotNo": "SQ 845",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Governor and Bar each appoint six members; removes the party cap on the governor's appointees.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "California",
    "level": "State",
-   "measure": "CA Prop 39 — Voter ID and Citizenship Verification",
+   "measure": "Voter ID and Citizenship Verification",
    "ballotNo": "Prop 39",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Photo ID to vote in person, an ID number on mail ballots and citizenship checks at registration.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2894,45 +2148,33 @@
    "level": "State",
    "measure": "Photo ID for Mail Voting",
    "ballotNo": "",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Extends the constitutional photo ID requirement to mail ballots.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "West Virginia",
    "level": "State",
-   "measure": "Amendment 1 — Citizenship Voting Requirement",
+   "measure": "Citizenship Voting Requirement",
    "ballotNo": "Amendment 1",
-   "description": "",
-   "status": "Called",
-   "outcome": "Passed",
+   "description": "Adds explicit citizens-only voting language.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "Called",
+   "outcome": "Passed",
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "WV MetroNews",
@@ -2944,47 +2186,35 @@
    "category": "Voting & Democracy",
    "location": "Arkansas",
    "level": "State",
-   "measure": "Issue 1 — Citizens-Only Voting",
+   "measure": "Citizens-Only Voting",
    "ballotNo": "Issue 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Adds explicit citizens-only voting language.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Honolulu, HI",
    "level": "Local",
-   "measure": "Question 5 — Ranked-Choice Voting",
+   "measure": "Ranked-Choice Voting",
    "ballotNo": "Question 5",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Ranked-choice voting as early as 2032, if the Legislature also approves.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -2996,181 +2226,139 @@
    "category": "Voting & Democracy",
    "location": "Columbus, OH",
    "level": "Local",
-   "measure": "Issue 8 — District-Only Council Elections",
+   "measure": "District-Only Council Elections",
    "ballotNo": "Issue 8",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Grassroots plan to elect the whole council by district.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Issue 9 overrides if both pass. Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Columbus, OH",
    "level": "Local",
-   "measure": "Issue 9 — Council's Mixed District Plan",
+   "measure": "Council's Mixed District Plan",
    "ballotNo": "Issue 9",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Council's plan for 13 seats with 4 at-large; overrides Issue 8 if both pass.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Overrides Issue 8 if both pass. Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Missouri",
    "level": "State",
-   "measure": "Amendment 8 — Elected Sheriffs",
+   "measure": "Elected Sheriffs",
    "ballotNo": "Amendment 8",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Requires elected county sheriffs; only the attorney general could start removal proceedings.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Voting & Democracy",
    "location": "Maryland",
    "level": "State",
-   "measure": "Question 2 — Judicial Disabilities Commission Vacancies",
+   "measure": "Judicial Disabilities Commission Vacancies",
    "ballotNo": "Question 2",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Allows temporary appointments to the Commission on Judicial Disabilities.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Virginia",
    "level": "State",
-   "measure": "Question 1: Right to Reproductive Freedom Amendment",
+   "measure": "Right to Reproductive Freedom Amendment",
    "ballotNo": "Question 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Enshrines abortion, contraception and IVF rights.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Virginia",
    "level": "State",
-   "measure": "Question 2: Remove Same-Sex Marriage Ban",
+   "measure": "Remove Same-Sex Marriage Ban",
    "ballotNo": "Question 2",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Replaces the 2006 ban with marriage equality language.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Nevada",
    "level": "State",
-   "measure": "Question 6: Abortion Rights (2nd & final vote)",
+   "measure": "Abortion Rights (second vote)",
    "ballotNo": "Question 6",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Abortion rights through viability. Second and final vote.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Second, final vote.",
+   "note": "",
    "source": "",
    "asOf": ""
   },
@@ -3178,21 +2366,15 @@
    "category": "Civil Rights & Repro",
    "location": "Idaho",
    "level": "State",
-   "measure": "Prop 1: Reproductive Freedom and Privacy Act",
+   "measure": "Reproductive Freedom and Privacy Act",
    "ballotNo": "Prop 1",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Legal abortion through viability.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -3204,125 +2386,75 @@
    "category": "Civil Rights & Repro",
    "location": "Massachusetts",
    "level": "State",
-   "measure": "Question 8: Eliminate Recreational Marijuana Sales and Allow Limited Possession Initiative",
+   "measure": "Eliminate Recreational Marijuana Sales",
    "ballotNo": "Question 8",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Repeals legal sales; allows limited possession.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Wisconsin",
    "level": "State",
-   "measure": "Question 3: Prohibit Government Discrimination or Preferential Treatment",
+   "measure": "Prohibit Government Preferential Treatment",
    "ballotNo": "Question 3",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Bans race- or sex-based preferences, targeting DEI.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Wisconsin",
    "level": "State",
-   "measure": "Question 1: Prohibit Partial Veto to Increase Tax or Fee",
+   "measure": "Prohibit Partial Veto to Raise Taxes",
    "ballotNo": "Question 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Blocks partial vetoes that create or raise taxes.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Wisconsin",
    "level": "State",
-   "measure": "Question 2: Prohibit Closure of Places of Worship During Emergencies",
+   "measure": "No Closing Places of Worship in Emergencies",
    "ballotNo": "Question 2",
-   "description": "",
+   "description": "Bars emergency closures of houses of worship.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
-  },
-  {
-   "category": "Civil Rights & Repro",
-   "location": "Washington",
-   "level": "State",
-   "measure": "IL26-638 — Trans Student Sports Ban",
-   "ballotNo": "IL26-638",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
-   "threshold": "Majority",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -3334,21 +2466,35 @@
    "category": "Civil Rights & Repro",
    "location": "Washington",
    "level": "State",
-   "measure": "IL26-001 — Parental Rights in Public Schools",
-   "ballotNo": "IL26-001",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "measure": "Trans Student Sports Ban",
+   "ballotNo": "I-638",
+   "description": "Bars students defined as biologically male from girls' teams.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
+  },
+  {
+   "category": "Civil Rights & Repro",
+   "location": "Washington",
+   "level": "State",
+   "measure": "Parental Rights in Public Schools",
+   "ballotNo": "I-001",
+   "description": "Re-enacts I-2081, reversing 2025 amendments.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -3360,255 +2506,195 @@
    "category": "Civil Rights & Repro",
    "location": "Arizona",
    "level": "State",
-   "measure": "Prop 318 — Protect Girls' Sports Act",
+   "measure": "Protect Girls' Sports Act",
    "ballotNo": "Prop 318",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Sex-based school sports teams plus restroom and locker-room limits.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Akron, OH",
    "level": "Local",
-   "measure": "Issue 13 — Reform City Police Oversight Board",
+   "measure": "Reform City Police Oversight Board",
    "ballotNo": "Issue 13",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Resident input on board membership; subpoena power for the police auditor.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Colorado",
    "level": "State",
-   "measure": "Prop 134 — Trans Student Sports Ban",
+   "measure": "Trans Student Sports Ban",
    "ballotNo": "Prop 134",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Requires student athletes to play on teams that match their sex, defined as biological reproductive systems.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Nebraska",
    "level": "State",
-   "measure": "Measure 442 — Sex-Separated Sports Amendment",
+   "measure": "Sex-Separated Sports Amendment",
    "ballotNo": "Measure 442",
-   "description": "",
+   "description": "Adds sex-separated K-12 and college sports to the constitution. Upheld by the Nebraska Supreme Court Oct 16.",
+   "threshold": "Majority + 35% of ballots cast",
+   "thresholdPct": 50,
    "status": "No results yet",
    "outcome": null,
-   "threshold": "Majority + 35%",
-   "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Also needs yes votes equal to at least 35% of ballots cast. Polls closed; no counts found yet.",
+   "note": "Also needs yes votes equal to 35% of ballots cast",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Arizona",
    "level": "State",
-   "measure": "Prop 142 — Ban Race- and Ethnicity-Based Preferences",
+   "measure": "Ban Race- and Ethnicity-Based Preferences",
    "ballotNo": "Prop 142",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Constitutional ban on race- and ethnicity-based preferences and DEI programs in government and schools.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Vermont",
    "level": "State",
-   "measure": "Proposal 4 — Equal Protection",
+   "measure": "Equal Protection",
    "ballotNo": "Proposal 4",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Adds a guarantee of equal protection under the law.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Colorado",
    "level": "State",
-   "measure": "Amendment 81 — Require Police Cooperation With ICE",
+   "measure": "Require Police Cooperation With ICE",
    "ballotNo": "Amendment 81",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Requires police to cooperate with ICE and notify federal immigration authorities in some cases.",
    "threshold": "55%",
    "thresholdPct": 55,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Massachusetts",
    "level": "State",
-   "measure": "Question 9 — Referendum on 2024 Gun Law",
+   "measure": "Referendum on 2024 Gun Law",
    "ballotNo": "Question 9",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Veto referendum: yes keeps the 2024 firearms law, no repeals it.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Houston, TX",
    "level": "Local",
-   "measure": "Prop A — Marijuana Lowest Priority and No-Knock Ban",
+   "measure": "Marijuana Lowest Priority and No-Knock Ban",
    "ballotNo": "Prop A",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Makes misdemeanor marijuana possession HPD's lowest enforcement priority and bans no-knock warrants.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Honolulu, HI",
    "level": "Local",
-   "measure": "Question 6 — Limit Police Help With Immigration Enforcement",
+   "measure": "Limit Police Help With Immigration Enforcement",
    "ballotNo": "Question 6",
-   "description": "",
-   "status": "Polls not closed",
-   "outcome": null,
+   "description": "Limits HPD assistance to federal immigration enforcement.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
@@ -3620,53 +2706,121 @@
    "category": "Civil Rights & Repro",
    "location": "Philadelphia, PA",
    "level": "Local",
-   "measure": "Charter Change 1 — Small and Local Business Contracting Preferences",
+   "measure": "Small and Local Business Contracting Preferences",
    "ballotNo": "Charter Change 1",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Lets the city give contracting preferences and set-asides to small and local businesses.",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "asOf": ""
   },
   {
    "category": "Civil Rights & Repro",
    "location": "Arkansas",
    "level": "State",
-   "measure": "Issue 2 — Right to Bear Arms",
+   "measure": "Right to Bear Arms",
    "ballotNo": "Issue 2",
-   "description": "",
-   "status": "No results yet",
-   "outcome": null,
+   "description": "Constitutional right to keep and bear arms that 'shall not be infringed.'",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {
-    "votes": null,
-    "pct": null
-   },
-   "no": {
-    "votes": null,
-    "pct": null
-   },
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "",
    "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "asOf": ""
+  },
+  {
+   "category": "Environment",
+   "location": "Massachusetts",
+   "level": "State",
+   "measure": "Water and Nature Protection Fund",
+   "ballotNo": "Question 6",
+   "description": "Dedicates sporting-goods sales tax revenue to land and water conservation.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
+  },
+  {
+   "category": "Environment",
+   "location": "Ann Arbor, MI",
+   "level": "Local",
+   "measure": "Ann Arbor for Public Power",
+   "ballotNo": "Proposal E",
+   "description": "Charter amendment creating an elected municipal utility board, the first step toward replacing DTE. A grid takeover would need a second vote.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
+  },
+  {
+   "category": "Environment",
+   "location": "Arkansas",
+   "level": "State",
+   "measure": "Water Infrastructure Bonds",
+   "ballotNo": "Issue 4",
+   "description": "Up to $500M in bonds for water, waste disposal and pollution control projects.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
+  },
+  {
+   "category": "Environment",
+   "location": "Rhode Island",
+   "level": "State",
+   "measure": "Green Economy Bond",
+   "ballotNo": "Question 5",
+   "description": "$55M bond for environmental and climate projects.",
+   "threshold": "Majority",
+   "thresholdPct": 50,
+   "status": "No results yet",
+   "outcome": null,
+   "yes": {},
+   "no": {},
+   "marginPts": null,
+   "reporting": "",
+   "calledBy": "",
+   "note": "",
+   "source": "",
+   "asOf": ""
   }
  ]
 }
