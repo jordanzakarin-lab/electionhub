@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T05:37:00-05:00",
+  "updated": "2026-11-04T07:10:20-05:00",
   "sample": false,
   "races": [
     {
@@ -180,7 +180,7 @@
     },
     {
       "id": "SC-AG",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
       "reporting": "98%",
       "dem": {
@@ -195,8 +195,8 @@
       },
       "marginPts": -4.7,
       "marginVotes": 95549,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-carolina-attorney-general-general-election",
+      "calledBy": "AP",
+      "source": "https://www.yahoo.com/news/politics/articles/republican-david-stumbo-wins-election-085355853.html",
       "asOf": "2026-11-04T02:06:43-05:00",
       "ddhqUpdated": "2026-11-04 06:39:05.884408+00"
     },
