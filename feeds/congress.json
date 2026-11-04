@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:22:03-05:00",
+ "updated": "2026-11-04T02:32:15-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -293,25 +293,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "98%",
+   "reporting": "100%",
    "dem": {
     "name": "Peggy Flanagan",
-    "votes": 1512127,
-    "pct": 53.8
+    "votes": 1515320,
+    "pct": 53.7
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 1222381,
+    "votes": 1228017,
     "pct": 43.5
    },
-   "other": 76980,
-   "marginPts": 10.3,
-   "marginVotes": 289746,
+   "other": 77170,
+   "marginPts": 10.2,
+   "marginVotes": 287303,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
-   "asOf": "2026-11-04T02:22:03-05:00",
+   "asOf": "2026-11-04T02:32:15-05:00",
    "feed": true,
-   "totalVotes": 2811488,
+   "totalVotes": 2820507,
    "id": "MN-SEN"
   },
   {
