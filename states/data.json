@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:07:00-05:00",
+ "updated": "2026-11-04T11:18:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -389,7 +389,7 @@
    "leadD": 38,
    "leadR": 45,
    "leadI": 1,
-   "flipsD": 6,
+   "flipsD": 8,
    "flipsR": 0,
    "control": "D",
    "calledBy": "WFMY News 2",
@@ -24567,6 +24567,91 @@
    "flip": false,
    "note": "Winner(s) per MultiState results page: Evie Brennan (R). No vote totals obtained (official results sites blocked).",
    "sweep": "Nov 4 seat sweep"
+  },
+  {
+   "state": "FL",
+   "chamber": "House",
+   "district": "47",
+   "status": "Called",
+   "leader": "D",
+   "dem": {
+    "name": "Anthony Nieves"
+   },
+   "reporting": "uncontested",
+   "calledBy": "Uncontested (Ballotpedia candidate list)",
+   "source": "https://ballotpedia.org/Florida_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:18 AM ET",
+   "flip": true,
+   "note": "Paula Stark (R) held the seat; no Republican on the general ballot; Ballotpedia lists the general as canceled and Nieves elected",
+   "sweep": "Nov 4 uncontested flips"
+  },
+  {
+   "state": "NM",
+   "chamber": "House",
+   "district": "4",
+   "status": "Called",
+   "leader": "R",
+   "rep": {
+    "name": "Heather Ellison"
+   },
+   "reporting": "uncontested",
+   "calledBy": "Uncontested (Ballotpedia candidate list)",
+   "source": "https://ballotpedia.org/New_Mexico_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:18 AM ET",
+   "flip": true,
+   "note": "Joseph Hernandez (D) held the seat; only a Republican on the general ballot",
+   "sweep": "Nov 4 uncontested flips"
+  },
+  {
+   "state": "VT",
+   "chamber": "Senate",
+   "district": "Orleans",
+   "status": "Called",
+   "leader": "D",
+   "dem": {
+    "name": "John Morley III"
+   },
+   "reporting": "uncontested",
+   "calledBy": "Uncontested (Ballotpedia candidate list)",
+   "source": "https://ballotpedia.org/Vermont_State_Senate_elections,_2026",
+   "asOf": "Nov 4, 11:18 AM ET",
+   "flip": true,
+   "note": "Sam Douglass (R) held the seat; only a Democrat on the general ballot",
+   "sweep": "Nov 4 uncontested flips"
+  },
+  {
+   "state": "NC",
+   "chamber": "House",
+   "district": "99",
+   "status": "Called",
+   "leader": "D",
+   "dem": {
+    "name": "Veleria Levy"
+   },
+   "reporting": "uncontested",
+   "calledBy": "Uncontested (Ballotpedia candidate list)",
+   "source": "https://ballotpedia.org/North_Carolina_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:18 AM ET",
+   "flip": true,
+   "note": "Nasif Majeed (listed unaffiliated) held the seat; only a Democrat on the general ballot",
+   "sweep": "Nov 4 uncontested flips"
+  },
+  {
+   "state": "NC",
+   "chamber": "House",
+   "district": "106",
+   "status": "Called",
+   "leader": "D",
+   "dem": {
+    "name": "Rodney Sadler"
+   },
+   "reporting": "uncontested",
+   "calledBy": "Uncontested (Ballotpedia candidate list)",
+   "source": "https://ballotpedia.org/North_Carolina_House_of_Representatives_elections,_2026",
+   "asOf": "Nov 4, 11:18 AM ET",
+   "flip": true,
+   "note": "Carla Cunningham (listed unaffiliated) held the seat; only a Democrat on the general ballot",
+   "sweep": "Nov 4 uncontested flips"
   }
  ]
 }
