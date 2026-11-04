@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:23:00-05:00",
+ "updated": "2026-11-04T07:20:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -1801,8 +1801,8 @@
    "measure": "Exclude Political Spending from Artificial Persons",
    "ballotNo": "I-194",
    "description": "Bars corporations and similar entities from political contributions.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -1815,10 +1815,10 @@
    },
    "marginPts": 30.52,
    "reporting": "partial (not stated)",
-   "calledBy": "",
+   "calledBy": "AP",
    "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/montana-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "source": "https://nbcmontana.com/news/local/ap-projects-montana-voters-approve-ballot-initiatives",
+   "asOf": "Nov 4, 7:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1827,8 +1827,8 @@
    "measure": "Require Nonpartisan Judicial Elections",
    "ballotNo": "CI-132",
    "description": "Keeps judicial elections nonpartisan.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -1841,10 +1841,10 @@
    },
    "marginPts": 37.6,
    "reporting": "partial (not stated)",
-   "calledBy": "",
+   "calledBy": "AP",
    "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/montana-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "source": "https://nbcmontana.com/news/local/ap-projects-montana-voters-approve-ballot-initiatives",
+   "asOf": "Nov 4, 7:20 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -1853,8 +1853,8 @@
    "measure": "Initiative Process Protection",
    "ballotNo": "CI-133",
    "description": "Fair, timely processes for citizen initiatives.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -1867,10 +1867,10 @@
    },
    "marginPts": 30.04,
    "reporting": "partial (not stated)",
-   "calledBy": "",
+   "calledBy": "AP",
    "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/montana-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "source": "https://nbcmontana.com/news/local/ap-projects-montana-voters-approve-ballot-initiatives",
+   "asOf": "Nov 4, 7:20 AM ET"
   },
   {
    "category": "Voting & Democracy",
