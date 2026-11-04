@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:29:34-05:00",
+ "updated": "2026-11-04T12:15:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -643,21 +643,20 @@
    "note": "Declared victory; Spotlight PA: \"Democrats flip PA Senate, giving Shapiro a powerful trifecta\" (House Dems claim 102 seats)"
   },
   "PA-S": {
-   "D": 13,
+   "D": 16,
    "R": 9,
    "I": 0,
-   "source": "Uncontested seats (one candidate on ballot, per Ballotpedia candidate lists); no race calls yet; Nov 4 seat sweep: uncontested seats + calls from MultiState",
-   "asOf": "Nov 4, 10:52 AM ET",
+   "source": "https://www.spotlightpa.org/news/2026/11/pennsylvania-house-election-results-legislature-control-elections/",
+   "asOf": "Nov 4, 11:46 AM ET",
    "control": "D",
-   "calledBy": "Spotlight PA",
+   "calledBy": "AP (per Spotlight PA)",
    "controlSource": "https://www.spotlightpa.org/news/2026/11/pennsylvania-house-election-results-legislature-control-elections/",
-   "note": "Declared victory; Spotlight PA: \"Democrats flip PA Senate, giving Shapiro a powerful trifecta\"",
-   "flipClaim": {
-    "D": "4",
-    "by": "Senate Democrats via Spotlight PA",
-    "source": "https://www.spotlightpa.org/news/2026/11/pennsylvania-house-election-results-legislature-control-elections/",
-    "note": "and appeared on track to lose 1; Inquirer had the chamber 24–24, uncalled"
-   }
+   "note": "Spotlight PA: AP had called all Senate races as of 10 a.m. Wed; Democrats flipped 4 GOP seats, lost 1; 26-24 D majority",
+   "leadD": 0,
+   "leadR": 0,
+   "leadI": 0,
+   "flipsD": 4,
+   "flipsR": 1
   },
   "RI-H": {
    "D": 65,
