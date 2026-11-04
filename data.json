@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:34:00-05:00",
+ "updated": "2026-11-04T08:23:00-05:00",
  "sample": false,
  "races": [
   {
@@ -993,7 +993,7 @@
   },
   {
    "id": "MI-10",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "64%",
    "dem": {
@@ -1008,9 +1008,9 @@
    },
    "marginPts": 3.4,
    "marginVotes": 8161,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-house-10-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "calledBy": "Michigan Advance (Bouchard conceded)",
+   "source": "https://www.yahoo.com/news/politics/articles/michigan-10th-congressional-district-hines-092351898.html",
+   "asOf": "2026-11-04T08:23:00-05:00",
    "ddhqUpdated": "2026-11-04 06:44:48.451851+00",
    "others": [
     {
@@ -1031,7 +1031,9 @@
      "votes": 841,
      "pct": 0.3
     }
-   ]
+   ],
+   "flip": true,
+   "note": "Declared victory; Hines declared victory and Bouchard congratulated her"
   },
   {
    "id": "MI-SEN",
@@ -1179,7 +1181,7 @@
   },
   {
    "id": "NC-13",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "100%",
    "dem": {
@@ -1194,9 +1196,11 @@
    },
    "marginPts": 2.4,
    "marginVotes": 7652,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:07:22-05:00"
+   "calledBy": "WFAE",
+   "source": "https://www.wfae.org/2026-11-04/in-nc-democrats-flip-several-u-s-house-seats-once-considered-safely-republican",
+   "asOf": "2026-11-04T08:23:00-05:00",
+   "flip": true,
+   "note": "Declared victory; WFAE reports Barringer defeated Knott (complete unofficial results)"
   },
   {
    "id": "NJ-09",
@@ -1804,24 +1808,26 @@
   },
   {
    "id": "MN-01",
-   "status": "Counting",
-   "leader": "R",
+   "status": "Called",
+   "leader": "D",
    "reporting": "99%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 158929,
-    "pct": 49.7
+    "votes": null,
+    "pct": null
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": 160266,
-    "pct": 50.1
+    "votes": null,
+    "pct": null
    },
-   "marginPts": -0.4,
-   "marginVotes": 1337,
-   "calledBy": null,
-   "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-04T02:40:25-05:00"
+   "marginPts": null,
+   "marginVotes": 320,
+   "calledBy": "KEYC",
+   "source": "https://www.keyc.com/2026/11/04/jake-johnson-is-sent-congress-after-tight-race/",
+   "asOf": "2026-11-04T08:23:00-05:00",
+   "flip": true,
+   "note": "Declared victory; KEYC reports Johnson won, leading by about 320 votes; earlier vote totals removed as superseded"
   },
   {
    "id": "MN-SEN",
@@ -2057,7 +2063,7 @@
   },
   {
    "id": "NY-21",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "94%",
    "dem": {
@@ -2072,10 +2078,12 @@
    },
    "marginPts": -1.8,
    "marginVotes": 4940,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-york-us-house-21-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 05:37:17.592206+00"
+   "calledBy": "WAMC",
+   "source": "https://www.wamc.org/news/2026-11-04/election-2026-new-york-anthony-constantino-wins-21st-congressional-district",
+   "asOf": "2026-11-04T08:23:00-05:00",
+   "ddhqUpdated": "2026-11-04 05:37:17.592206+00",
+   "flip": false,
+   "note": "Declared victory; Constantino declared victory, Gendebien wished him well"
   },
   {
    "id": "TX-09",
@@ -2621,7 +2629,7 @@
   },
   {
    "id": "NJ-02",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "92%",
    "dem": {
@@ -2636,9 +2644,9 @@
    },
    "marginPts": 3.2,
    "marginVotes": 7972,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-jersey-us-house-2-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "calledBy": "Inquirer (Van Drew conceded)",
+   "source": "https://www.inquirer.com/politics/new-jersey/van-drew-mullock-race-nj-2nd-district-winner-results-20261103.html",
+   "asOf": "2026-11-04T08:23:00-05:00",
    "ddhqUpdated": "2026-11-04 05:10:42.473979+00",
    "others": [
     {
@@ -2647,7 +2655,9 @@
      "votes": 2653,
      "pct": 1.1
     }
-   ]
+   ],
+   "flip": true,
+   "note": "Declared victory; Van Drew (R) conceded to Mullock on election night"
   },
   {
    "id": "NY-02",
@@ -2694,7 +2704,7 @@
   },
   {
    "id": "NC-06",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "100%",
    "dem": {
@@ -2709,9 +2719,11 @@
    },
    "marginPts": 2.2,
    "marginVotes": 6264,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:21:45-05:00"
+   "calledBy": "WFAE",
+   "source": "https://www.wfae.org/2026-11-04/in-nc-democrats-flip-several-u-s-house-seats-once-considered-safely-republican",
+   "asOf": "2026-11-04T08:23:00-05:00",
+   "flip": true,
+   "note": "Declared victory; WFAE reports Jefferson won by ~2.3 pts (complete unofficial results)"
   },
   {
    "status": "Counting",
@@ -2757,7 +2769,7 @@
   },
   {
    "id": "NC-09",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "100%",
    "dem": {
@@ -2772,9 +2784,11 @@
    },
    "marginPts": 2.2,
    "marginVotes": 6015,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:21:45-05:00"
+   "calledBy": "WFAE",
+   "source": "https://www.wfae.org/2026-11-04/in-nc-democrats-flip-several-u-s-house-seats-once-considered-safely-republican",
+   "asOf": "2026-11-04T08:23:00-05:00",
+   "flip": true,
+   "note": "Declared victory; WFAE reports Ojeda defeated Hudson (complete unofficial results)"
   },
   {
    "id": "NC-10",
@@ -2799,7 +2813,7 @@
   },
   {
    "id": "NC-14",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "100%",
    "dem": {
@@ -2814,15 +2828,17 @@
    },
    "marginPts": 2.2,
    "marginVotes": 6415,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:21:45-05:00"
+   "calledBy": "WFAE",
+   "source": "https://www.wfae.org/2026-11-04/in-nc-democrats-flip-several-u-s-house-seats-once-considered-safely-republican",
+   "asOf": "2026-11-04T08:23:00-05:00",
+   "flip": true,
+   "note": "Declared victory; WFAE reports Womack defeated Moore (complete unofficial results)"
   },
   {
    "id": "OK-05",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "98%",
+   "reporting": "100%",
    "dem": {
     "name": "Jena Nelson",
     "votes": 127608,
@@ -2835,9 +2851,9 @@
    },
    "marginPts": -1.3,
    "marginVotes": 3364,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/oklahoma-us-house-5-general-election",
-   "asOf": "2026-11-04T00:10:20-05:00",
+   "calledBy": "OU Daily",
+   "source": "https://www.oudaily.com/news/oklahoma-5th-congressional-district-election-results-bice-nelson-2026/article_b6a069fe-75b3-4072-ad4e-47cce24d1bb1.html",
+   "asOf": "2026-11-04T08:23:00-05:00",
    "ddhqUpdated": "2026-11-04 04:00:46.121516+00",
    "others": [
     {
@@ -2852,7 +2868,9 @@
      "votes": 2043,
      "pct": 0.8
     }
-   ]
+   ],
+   "flip": false,
+   "note": "Declared victory; OU Daily reports Bice won, 100% unofficial results"
   },
   {
    "id": "TN-04",

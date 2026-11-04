@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T07:34:00-05:00",
+  "updated": "2026-11-04T08:23:00-05:00",
   "sample": false,
   "races": [
     {
@@ -2472,7 +2472,7 @@
     },
     {
       "id": "NE-SOS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
       "reporting": "83%",
       "dem": {
@@ -2487,9 +2487,9 @@
       },
       "marginPts": -11.8,
       "marginVotes": 68785,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-secretary-of-state-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "Nebraska Examiner",
+      "source": "https://www.yahoo.com/news/politics/articles/nebraska-poised-approach-elections-petersen-071522657.html",
+      "asOf": "2026-11-04T08:23:00-05:00",
       "ddhqUpdated": "2026-11-04 07:02:18.391875+00",
       "others": [
         {
@@ -2504,7 +2504,8 @@
           "votes": 7353,
           "pct": 1.3
         }
-      ]
+      ],
+      "note": "Declared victory; Nebraska Examiner reports Petersen's apparent win"
     },
     {
       "id": "NE-TREAS",
@@ -2715,24 +2716,24 @@
     },
     {
       "id": "SD-TREAS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
-      "reporting": "67%",
+      "reporting": ">95%",
       "dem": {
         "name": "Margaret Kuipers",
-        "votes": 91433,
-        "pct": 36.6
+        "votes": 108713,
+        "pct": 37.36
       },
       "rep": {
         "name": "Melissa Hull",
-        "votes": 158099,
-        "pct": 63.4
+        "votes": 182251,
+        "pct": 62.64
       },
-      "marginPts": -26.7,
-      "marginVotes": 66666,
-      "calledBy": null,
+      "marginPts": -25.28,
+      "marginVotes": 73538,
+      "calledBy": "DDHQ",
       "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-dakota-treasurer-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "asOf": "2026-11-04T08:23:00-05:00",
       "ddhqUpdated": "2026-11-04 07:00:13.809351+00"
     },
     {

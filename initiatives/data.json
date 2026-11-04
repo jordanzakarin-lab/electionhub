@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:34:00-05:00",
+ "updated": "2026-11-04T08:23:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -67,18 +67,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 50.57
+    "pct": 50.49
    },
    "no": {
     "votes": null,
-    "pct": 49.43
+    "pct": 49.51
    },
-   "marginPts": 1.14,
-   "reporting": "partial (not stated)",
+   "marginPts": 0.98,
+   "reporting": "80%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/colorado-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -93,18 +93,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 47.05
+    "pct": 47.35
    },
    "no": {
     "votes": null,
-    "pct": 52.95
+    "pct": 52.65
    },
-   "marginPts": -5.9,
-   "reporting": "partial (not stated)",
+   "marginPts": -5.3,
+   "reporting": "79%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/colorado-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -281,24 +281,24 @@
    "measure": "Show-Me Prosperity Fund",
    "ballotNo": "Amendment 7",
    "description": "Constitutional endowment meant to eventually replace state taxes.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 39.19
+    "pct": 39
    },
    "no": {
     "votes": null,
-    "pct": 60.81
+    "pct": 61
    },
-   "marginPts": -21.62,
+   "marginPts": -22,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/missouri-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "KCUR",
+   "note": "Reported failed, per KCUR; no AP call found.",
+   "source": "https://www.kcur.org/2026-11-04/missouri-voters-reject-amendment-7-declining-the-establishment-of-a-sovereign-wealth-fund",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -433,18 +433,24 @@
    "measure": "Right to Collective Bargaining",
    "ballotNo": "Proposal 3",
    "description": "Constitutional right to bargain collectively, which also blocks right-to-work laws.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 74.05
+   },
+   "no": {
+    "votes": null,
+    "pct": 25.95
+   },
+   "marginPts": 48.1,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "WCAX",
+   "note": "Reported passed, per WCAX; no AP call found.",
+   "source": "https://www.wcax.com/2026/11/04/vermont-voters-approve-prop-3/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -525,18 +531,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 45.41
+    "pct": 45.43
    },
    "no": {
     "votes": null,
-    "pct": 54.59
+    "pct": 54.57
    },
-   "marginPts": -9.18,
-   "reporting": "partial (not stated)",
+   "marginPts": -9.14,
+   "reporting": "83%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available. Also needs yes votes = 35% of ballots cast.",
-   "source": "https://www.multistate.us/elections/results/nebraska-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/nebraska",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -551,18 +557,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 45.88
+    "pct": 45.98
    },
    "no": {
     "votes": null,
-    "pct": 54.12
+    "pct": 54.02
    },
-   "marginPts": -8.24,
-   "reporting": "partial (not stated)",
+   "marginPts": -8.04,
+   "reporting": "83%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available. Also needs yes votes = 35% of ballots cast.",
-   "source": "https://www.multistate.us/elections/results/nebraska-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/nebraska",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -571,24 +577,24 @@
    "measure": "Unclaimed Property Trust Fund",
    "ballotNo": "Amendment K",
    "description": "Puts unclaimed property money in a constitutional trust fund.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 60.48
+    "pct": 61
    },
    "no": {
     "votes": null,
-    "pct": 39.52
+    "pct": 39
    },
-   "marginPts": 20.96,
+   "marginPts": 22,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/south-dakota-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "SD News Watch",
+   "note": "Reported passed, per SD News Watch; no AP call found.",
+   "source": "https://www.sdnewswatch.org/south-dakota-general-election-2026-down-ballot/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -703,18 +709,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 55.36
+    "pct": 55.41
    },
    "no": {
     "votes": null,
-    "pct": 44.64
+    "pct": 44.59
    },
-   "marginPts": 10.72,
-   "reporting": "partial (not stated)",
+   "marginPts": 10.82,
+   "reporting": "80%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/colorado-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Education",
@@ -829,18 +835,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 51.45
+    "pct": 51.88
    },
    "no": {
     "votes": null,
-    "pct": 48.55
+    "pct": 48.12
    },
-   "marginPts": 2.9,
-   "reporting": "partial (not stated)",
+   "marginPts": 3.76,
+   "reporting": "80%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/colorado-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Healthcare",
@@ -849,24 +855,24 @@
    "measure": "End Medicaid Expansion If Federal Share Drops",
    "ballotNo": "Amendment I",
    "description": "Ends Medicaid expansion if the federal share falls below 90%.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 44.0
+    "pct": 44
    },
    "no": {
     "votes": null,
-    "pct": 56.0
+    "pct": 56
    },
-   "marginPts": -12.0,
+   "marginPts": -12,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/south-dakota-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "AP",
+   "note": "Called by AP per rapidcitypost.com.",
+   "source": "https://rapidcitypost.com/southdakotasearchlight-government-96b945a8ac",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Housing",
@@ -1775,8 +1781,8 @@
    "measure": "Voter ID and Citizens Only",
    "ballotNo": "Prop 144",
    "description": "Constitutional language limiting voting to citizens.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -1789,10 +1795,10 @@
    },
    "marginPts": -13.62,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/arizona-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "Arizona Mirror",
+   "note": "Reported failed, per Arizona Mirror; no AP call found.",
+   "source": "https://azmirror.com/2026/11/03/voters-reject-prop-144-gop-bid-to-reshape-elections-and-endanger-voting-by-mail/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1919,18 +1925,24 @@
    "measure": "60% Supermajority for Tax-Related Initiatives",
    "ballotNo": "Amendment B",
    "description": "Tax initiatives would need 60% to pass.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 37
+   },
+   "no": {
+    "votes": null,
+    "pct": 63
+   },
+   "marginPts": -26,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "calledBy": "AP",
+   "note": "Called by AP per www.kuer.org.",
+   "source": "https://www.kuer.org/politics-government/2026-11-03/election-2026-utah-results-amendment-b-fails-amendment-a",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -1939,24 +1951,24 @@
    "measure": "60% Supermajority for Constitutional Amendments",
    "ballotNo": "Amendment L",
    "description": "Future amendments would need 60%.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 41.88
+    "pct": 42
    },
    "no": {
     "votes": null,
-    "pct": 58.12
+    "pct": 58
    },
-   "marginPts": -16.24,
+   "marginPts": -16,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/south-dakota-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "AP",
+   "note": "Called by AP per rapidcitypost.com.",
+   "source": "https://rapidcitypost.com/southdakotasearchlight-government-96b945a8ac",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2031,8 +2043,8 @@
    "measure": "Respect Missouri Voters",
    "ballotNo": "Amendment 6",
    "description": "Makes initiative and referendum a fundamental right; changing voter-approved laws would need 80% of both chambers.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -2045,10 +2057,10 @@
    },
    "marginPts": 20.08,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/missouri-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "Missouri Independent",
+   "note": "Reported passed, per Missouri Independent; no AP call found.",
+   "source": "https://missouriindependent.com/2026/11/03/missouri-voters-approve-amendment-6-curbing-lawmakers-power-to-overturn-citizen-laws/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2081,18 +2093,18 @@
    "measure": "Citizenship Voting Requirement",
    "ballotNo": "",
    "description": "Adds citizenship as an explicit voting requirement.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Kansas Reflector",
+   "note": "Reported passed, per Kansas Reflector; no AP call found.",
+   "source": "https://kansasreflector.com/2026/11/03/kansas-considers-wording-change-on-citizen-voting-something-already-included-in-state-constitution/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2101,24 +2113,24 @@
    "measure": "Citizenship Voting Requirement",
    "ballotNo": "Amendment J",
    "description": "Only US citizens may vote.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 61.09
+    "pct": 62
    },
    "no": {
     "votes": null,
-    "pct": 38.91
+    "pct": 38
    },
-   "marginPts": 22.18,
+   "marginPts": 24,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/south-dakota-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "AP",
+   "note": "Called by AP per www.yahoo.com.",
+   "source": "https://www.yahoo.com/news/politics/articles/south-dakotans-approve-state-constitutional-061257112.html",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2167,18 +2179,24 @@
    "measure": "Eliminate Governor's Pocket Veto",
    "ballotNo": "Amendment 1",
    "description": "Requires governor to provide substantive written explanation for vetoes; eliminates pocket veto. Unanimous bipartisan support.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 75
+   },
+   "no": {
+    "votes": null,
+    "pct": 25
+   },
+   "marginPts": 50,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "calledBy": "KRWG",
+   "note": "Reported passed, per KRWG; no AP call found.",
+   "source": "https://www.krwg.org/krwg-news/2026-11-04/new-mexico-will-pay-its-lawmakers",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2327,18 +2345,18 @@
    "thresholdPct": 55,
    "yes": {
     "votes": null,
-    "pct": 36.24
+    "pct": 36.65
    },
    "no": {
     "votes": null,
-    "pct": 63.76
+    "pct": 63.35
    },
-   "marginPts": -27.52,
-   "reporting": "partial (not stated)",
+   "marginPts": -26.7,
+   "reporting": "80%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/colorado-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -2505,18 +2523,24 @@
    "measure": "District-Only Council Elections",
    "ballotNo": "Issue 8",
    "description": "Grassroots plan to elect the whole council by district.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 82
+   },
+   "no": {
+    "votes": null,
+    "pct": 18
+   },
+   "marginPts": 64,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "WOSU",
+   "note": "Reported passed, per WOSU; no AP call found.",
+   "source": "https://www.wosu.org/politics-government/2026-11-03/columbus-voters-pass-issues-8-and-9-adding-four-new-council-members-among-other-changes",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2525,18 +2549,24 @@
    "measure": "Council's Mixed District Plan",
    "ballotNo": "Issue 9",
    "description": "Council's plan for 13 seats with 4 at-large; overrides Issue 8 if both pass.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 57
+   },
+   "no": {
+    "votes": null,
+    "pct": 43
+   },
+   "marginPts": 14,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "WOSU",
+   "note": "Reported passed, per WOSU; no AP call found.",
+   "source": "https://www.wosu.org/politics-government/2026-11-03/columbus-voters-pass-issues-8-and-9-adding-four-new-council-members-among-other-changes",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2545,8 +2575,8 @@
    "measure": "Elected Sheriffs",
    "ballotNo": "Amendment 8",
    "description": "Requires elected county sheriffs; only the attorney general could start removal proceedings.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -2559,10 +2589,10 @@
    },
    "marginPts": 1.98,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/missouri-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "KOMU",
+   "note": "Reported passed, per KOMU; no AP call found. Yes just under 51% per KOMU.",
+   "source": "https://www.komu.com/news/elections/amendment-8-passes-reserving-county-sheriff-removal-authority-for-attorney-general/article_c924afa5-1365-4971-8438-e9119f5813f4.html",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2576,19 +2606,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 66.55
+    "votes": 1159894,
+    "pct": 66.7
    },
    "no": {
-    "votes": null,
-    "pct": 33.45
+    "votes": 577911,
+    "pct": 33.3
    },
-   "marginPts": 33.1,
-   "reporting": "partial (not stated)",
+   "marginPts": 33.4,
+   "reporting": "77%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/maryland-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Per Baltimore Banner, 1:08 AM; not called.",
+   "source": "https://www.thebanner.com/politics-power/maryland-governor-statewide-election-results-2026-AROADO6SWFGALKVBBYUJBTFTVQ/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2649,18 +2679,18 @@
    "measure": "Abortion Rights (second vote)",
    "ballotNo": "Question 6",
    "description": "Abortion rights through viability. Second and final vote.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "calledBy": "8 News Now",
+   "note": "Reported passed, per 8 News Now; no AP call found.",
+   "source": "https://www.yahoo.com/news/politics/articles/nevada-voters-add-abortion-rights-082115510.html",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2871,18 +2901,24 @@
    "measure": "Reform City Police Oversight Board",
    "ballotNo": "Issue 13",
    "description": "Resident input on board membership; subpoena power for the police auditor.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 58
+   },
+   "no": {
+    "votes": null,
+    "pct": 42
+   },
+   "marginPts": 16,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Signal Akron",
+   "note": "Reported passed, per Signal Akron; no AP call found.",
+   "source": "https://signalakron.org/issue-13-police-oversight-charter-amendement-akron-ohio-election-results-november-2026/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2897,18 +2933,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 52.01
+    "pct": 52.37
    },
    "no": {
     "votes": null,
-    "pct": 47.99
+    "pct": 47.63
    },
-   "marginPts": 4.02,
-   "reporting": "partial (not stated)",
+   "marginPts": 4.74,
+   "reporting": "80%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/colorado-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2923,18 +2959,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 64.92
+    "pct": 67.08
    },
    "no": {
     "votes": null,
-    "pct": 35.08
+    "pct": 32.92
    },
-   "marginPts": 29.84,
-   "reporting": "partial (not stated)",
+   "marginPts": 34.16,
+   "reporting": "82%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available. Also needs yes votes = 35% of ballots cast.",
-   "source": "https://www.multistate.us/elections/results/nebraska-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/nebraska",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2969,18 +3005,24 @@
    "measure": "Equal Protection",
    "ballotNo": "Proposal 4",
    "description": "Adds a guarantee of equal protection under the law.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 79
+   },
+   "no": {
+    "votes": null,
+    "pct": 21
+   },
+   "marginPts": 58,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "WCAX / Manchester Journal",
+   "note": "Reported passed, per WCAX / Manchester Journal; no AP call found.",
+   "source": "https://www.manchesterjournal.com/statenews/vermonters-vote-to-approve-2-constitutional-amendments/5054586",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2995,18 +3037,18 @@
    "thresholdPct": 55,
    "yes": {
     "votes": null,
-    "pct": 44.62
+    "pct": 44.98
    },
    "no": {
     "votes": null,
-    "pct": 55.38
+    "pct": 55.02
    },
-   "marginPts": -10.76,
-   "reporting": "partial (not stated)",
+   "marginPts": -10.04,
+   "reporting": "80%",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/colorado-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "note": "Shares derived from DDHQ margin; not called.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3015,8 +3057,8 @@
    "measure": "Referendum on 2024 Gun Law",
    "ballotNo": "Question 9",
    "description": "Veto referendum: yes keeps the 2024 firearms law, no repeals it.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -3029,10 +3071,10 @@
    },
    "marginPts": 44.42,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "WBUR",
+   "note": "Reported passed, per WBUR; no AP call found. Over 66% voted to keep the 2024 law.",
+   "source": "https://www.wbur.org/news/2026/11/04/massachusetts-ballot-question-results",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3041,18 +3083,24 @@
    "measure": "Marijuana Lowest Priority and No-Knock Ban",
    "ballotNo": "Prop A",
    "description": "Makes misdemeanor marijuana possession HPD's lowest enforcement priority and bans no-knock warrants.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 72
+   },
+   "no": {
+    "votes": null,
+    "pct": 28
+   },
+   "marginPts": 44,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "KPRC",
+   "note": "Reported passed, per KPRC; no AP call found.",
+   "source": "https://www.click2houston.com/decision-2026/2026/11/04/houston-voters-approve-proposition-a-changing-marijuana-enforcement-and-no-knock-warrant-policies/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3081,18 +3129,18 @@
    "measure": "Small and Local Business Contracting Preferences",
    "ballotNo": "Charter Change 1",
    "description": "Lets the city give contracting preferences and set-asides to small and local businesses.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Philadelphia Citizen",
+   "note": "Reported passed, per Philadelphia Citizen; no AP call found.",
+   "source": "https://thephiladelphiacitizen.org/ballot-question-results-2026/",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -3127,8 +3175,8 @@
    "measure": "Water and Nature Protection Fund",
    "ballotNo": "Question 6",
    "description": "Dedicates sporting-goods sales tax revenue to land and water conservation.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -3141,10 +3189,10 @@
    },
    "marginPts": 26.5,
    "reporting": "partial (not stated)",
-   "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
-   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "calledBy": "WBUR",
+   "note": "Reported passed, per WBUR; no AP call found.",
+   "source": "https://www.wbur.org/news/2026/11/04/massachusetts-ballot-question-results",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Environment",
@@ -3153,18 +3201,24 @@
    "measure": "Ann Arbor for Public Power",
    "ballotNo": "Proposal E",
    "description": "Charter amendment creating an elected municipal utility board, the first step toward replacing DTE. A grid takeover would need a second vote.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 48
+   },
+   "no": {
+    "votes": null,
+    "pct": 52
+   },
+   "marginPts": -4,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "Michigan Public",
+   "note": "Reported failed, per Michigan Public; no AP call found.",
+   "source": "https://www.michiganpublic.org/politics-government/2026-11-04/ann-arbor-rejects-public-utility-proposal",
+   "asOf": "Nov 4, 8:23 AM ET"
   },
   {
    "category": "Environment",
