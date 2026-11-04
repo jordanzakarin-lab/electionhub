@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:40:25-05:00",
+ "updated": "2026-11-04T02:50:36-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -6080,22 +6080,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Vanessa Davenport",
-    "votes": 6657,
+    "votes": 6658,
     "pct": 32.1
    },
    "rep": {
     "name": "Shane Mekeland",
-    "votes": 14081,
+    "votes": 14084,
     "pct": 67.9
    },
    "other": 14,
    "marginPts": -35.8,
-   "marginVotes": 7424,
+   "marginVotes": 7426,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T02:32:15-05:00",
+   "asOf": "2026-11-04T02:50:36-05:00",
    "feed": true,
-   "totalVotes": 20752,
+   "totalVotes": 20756,
    "state": "MN",
    "chamber": "House",
    "district": "HD-27A",
@@ -7241,25 +7241,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "94%",
+   "reporting": "100%",
    "dem": {
     "name": "Joe Brothers",
-    "votes": 11095,
-    "pct": 44.9
+    "votes": 11610,
+    "pct": 44.7
    },
    "rep": {
     "name": "Jim Nash",
-    "votes": 13619,
-    "pct": 55.1
+    "votes": 14342,
+    "pct": 55.2
    },
    "other": 21,
-   "marginPts": -10.2,
-   "marginVotes": 2524,
+   "marginPts": -10.5,
+   "marginVotes": 2732,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T01:41:20-05:00",
+   "asOf": "2026-11-04T02:50:36-05:00",
    "feed": true,
-   "totalVotes": 24735,
+   "totalVotes": 25973,
    "state": "MN",
    "chamber": "House",
    "district": "HD-48A",
@@ -8376,7 +8376,7 @@
    "reporting": "100%",
    "dem": {
     "name": "Grant Hauschild",
-    "votes": 24874,
+    "votes": 24873,
     "pct": 54.3
    },
    "rep": {
@@ -8386,12 +8386,12 @@
    },
    "other": 69,
    "marginPts": 8.7,
-   "marginVotes": 4008,
+   "marginVotes": 4007,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T02:32:15-05:00",
+   "asOf": "2026-11-04T02:50:36-05:00",
    "feed": true,
-   "totalVotes": 45809,
+   "totalVotes": 45808,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-3",
@@ -9048,22 +9048,22 @@
    "reporting": "97%",
    "dem": {
     "name": "Brandon Van Dover",
-    "votes": 12000,
+    "votes": 12001,
     "pct": 30.5
    },
    "rep": {
     "name": "Andrew Mathews",
-    "votes": 27314,
+    "votes": 27317,
     "pct": 69.4
    },
    "other": 20,
    "marginPts": -38.9,
-   "marginVotes": 15314,
+   "marginVotes": 15316,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T02:32:15-05:00",
+   "asOf": "2026-11-04T02:50:36-05:00",
    "feed": true,
-   "totalVotes": 39334,
+   "totalVotes": 39338,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-27",
@@ -9629,25 +9629,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "96%",
+   "reporting": "100%",
    "dem": {
     "name": "Dan Kessler",
-    "votes": 23641,
-    "pct": 49.2
+    "votes": 24140,
+    "pct": 49.0
    },
    "rep": {
     "name": "Julia Coleman",
-    "votes": 24376,
-    "pct": 50.7
+    "votes": 25122,
+    "pct": 51.0
    },
-   "other": 35,
-   "marginPts": -1.5,
-   "marginVotes": 735,
+   "other": 36,
+   "marginPts": -2.0,
+   "marginVotes": 982,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T01:41:20-05:00",
+   "asOf": "2026-11-04T02:50:36-05:00",
    "feed": true,
-   "totalVotes": 48052,
+   "totalVotes": 49298,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-48",
