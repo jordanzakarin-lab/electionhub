@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:09:57-05:00",
+ "updated": "2026-11-03T23:14:03-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -281,25 +281,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "71%",
+   "reporting": "81%",
    "dem": {
     "name": "Allison A. Dahle",
-    "votes": 27022,
-    "pct": 82.3
+    "votes": 27812,
+    "pct": 81.9
    },
    "rep": {
     "name": "Matthew Kordon",
-    "votes": 5813,
-    "pct": 17.7
+    "votes": 6150,
+    "pct": 18.1
    },
    "other": 0,
-   "marginPts": 64.6,
-   "marginVotes": 21209,
+   "marginPts": 63.8,
+   "marginVotes": 21662,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 32835,
+   "totalVotes": 33962,
    "state": "NC",
    "chamber": "House",
    "district": "HD-11",
@@ -557,25 +557,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "67%",
+   "reporting": "100%",
    "dem": {
     "name": "Ya Liu",
-    "votes": 26469,
-    "pct": 72.3
+    "votes": 29171,
+    "pct": 71.3
    },
    "rep": {
     "name": "Bryson Johnson",
-    "votes": 10162,
-    "pct": 27.7
+    "votes": 11722,
+    "pct": 28.7
    },
    "other": 0,
-   "marginPts": 44.6,
-   "marginVotes": 16307,
+   "marginPts": 42.6,
+   "marginVotes": 17449,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 36631,
+   "totalVotes": 40893,
    "state": "NC",
    "chamber": "House",
    "district": "HD-21",
@@ -881,25 +881,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "60%",
+   "reporting": "80%",
    "dem": {
     "name": "Monika Johnson-Hostler",
-    "votes": 25509,
-    "pct": 80.7
+    "votes": 27228,
+    "pct": 79.0
    },
    "rep": {
     "name": "Matthew Orr",
-    "votes": 6108,
-    "pct": 19.3
+    "votes": 7221,
+    "pct": 21.0
    },
    "other": 0,
-   "marginPts": 61.4,
-   "marginVotes": 19401,
+   "marginPts": 58.0,
+   "marginVotes": 20007,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 31617,
+   "totalVotes": 34449,
    "state": "NC",
    "chamber": "House",
    "district": "HD-33",
@@ -909,25 +909,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "77%",
+   "reporting": "88%",
    "dem": {
     "name": "Tim Longest",
-    "votes": 27294,
-    "pct": 82.1
+    "votes": 28530,
+    "pct": 81.7
    },
    "rep": {
     "name": "Ed George",
-    "votes": 5954,
-    "pct": 17.9
+    "votes": 6396,
+    "pct": 18.3
    },
    "other": 0,
-   "marginPts": 64.2,
-   "marginVotes": 21340,
+   "marginPts": 63.4,
+   "marginVotes": 22134,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 33248,
+   "totalVotes": 34926,
    "state": "NC",
    "chamber": "House",
    "district": "HD-34",
@@ -965,25 +965,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "93%",
+   "reporting": "100%",
    "dem": {
     "name": "Julie von Haefen",
-    "votes": 25958,
-    "pct": 63.4
+    "votes": 26677,
+    "pct": 63.0
    },
    "rep": {
     "name": "Mary Insprucker",
-    "votes": 15010,
-    "pct": 36.6
+    "votes": 15686,
+    "pct": 37.0
    },
    "other": 0,
-   "marginPts": 26.8,
-   "marginVotes": 10948,
+   "marginPts": 26.0,
+   "marginVotes": 10991,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 40968,
+   "totalVotes": 42363,
    "state": "NC",
    "chamber": "House",
    "district": "HD-36",
@@ -993,25 +993,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "93%",
+   "reporting": "100%",
    "dem": {
     "name": "Winn Decker",
-    "votes": 26329,
-    "pct": 55.2
+    "votes": 26678,
+    "pct": 54.7
    },
    "rep": {
     "name": "Erin Pare",
-    "votes": 21379,
-    "pct": 44.8
+    "votes": 22074,
+    "pct": 45.3
    },
    "other": 0,
-   "marginPts": 10.4,
-   "marginVotes": 4950,
+   "marginPts": 9.4,
+   "marginVotes": 4604,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 47708,
+   "totalVotes": 48752,
    "state": "NC",
    "chamber": "House",
    "district": "HD-37",
@@ -1073,25 +1073,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "86%",
+   "reporting": "100%",
    "dem": {
     "name": "Phil Rubin",
-    "votes": 29636,
-    "pct": 81.6
+    "votes": 31473,
+    "pct": 80.8
    },
    "rep": {
     "name": "Lucas Everett Jones",
-    "votes": 6680,
-    "pct": 18.4
+    "votes": 7478,
+    "pct": 19.2
    },
    "other": 0,
-   "marginPts": 63.2,
-   "marginVotes": 22956,
+   "marginPts": 61.6,
+   "marginVotes": 23995,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 36316,
+   "totalVotes": 38951,
    "state": "NC",
    "chamber": "House",
    "district": "HD-40",
@@ -1101,25 +1101,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "69%",
+   "reporting": "100%",
    "dem": {
     "name": "Maria Cervania",
-    "votes": 24718,
-    "pct": 77.1
+    "votes": 27656,
+    "pct": 76.2
    },
    "rep": {
     "name": "Bruce Forster",
-    "votes": 7354,
-    "pct": 22.9
+    "votes": 8619,
+    "pct": 23.8
    },
    "other": 0,
-   "marginPts": 54.2,
-   "marginVotes": 17364,
+   "marginPts": 52.4,
+   "marginVotes": 19037,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 32072,
+   "totalVotes": 36275,
    "state": "NC",
    "chamber": "House",
    "district": "HD-41",
@@ -1313,25 +1313,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "44%",
+   "reporting": "56%",
    "dem": {
     "name": "Cynthia Ball",
-    "votes": 21215,
-    "pct": 81.5
+    "votes": 21928,
+    "pct": 80.9
    },
    "rep": {
     "name": "Daran Thomas",
-    "votes": 4805,
-    "pct": 18.5
+    "votes": 5182,
+    "pct": 19.1
    },
    "other": 0,
-   "marginPts": 63.0,
-   "marginVotes": 16410,
+   "marginPts": 61.8,
+   "marginVotes": 16746,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 26020,
+   "totalVotes": 27110,
    "state": "NC",
    "chamber": "House",
    "district": "HD-49",
@@ -3581,25 +3581,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "83%",
+   "reporting": "94%",
    "dem": {
     "name": "Lisa Grafstein",
-    "votes": 61101,
-    "pct": 61.3
+    "votes": 63241,
+    "pct": 60.8
    },
    "rep": {
     "name": "Robert van Brederode",
-    "votes": 38631,
-    "pct": 38.7
+    "votes": 40768,
+    "pct": 39.2
    },
    "other": 0,
-   "marginPts": 22.6,
-   "marginVotes": 22470,
+   "marginPts": 21.6,
+   "marginVotes": 22473,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 99732,
+   "totalVotes": 104009,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-13",
@@ -3609,25 +3609,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "61%",
+   "reporting": "64%",
    "dem": {
     "name": "Dan Blue",
-    "votes": 60486,
+    "votes": 61259,
     "pct": 82.5
    },
    "rep": {
     "name": "Angela B. McCarty",
-    "votes": 12812,
+    "votes": 12977,
     "pct": 17.5
    },
    "other": 0,
    "marginPts": 65.0,
-   "marginVotes": 47674,
+   "marginVotes": 48282,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 73298,
+   "totalVotes": 74236,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-14",
@@ -3637,25 +3637,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "72%",
+   "reporting": "77%",
    "dem": {
     "name": "Jay J. Chaudhuri",
-    "votes": 55063,
-    "pct": 75.4
+    "votes": 55905,
+    "pct": 75.3
    },
    "rep": {
     "name": "David Bankert",
-    "votes": 17967,
-    "pct": 24.6
+    "votes": 18358,
+    "pct": 24.7
    },
    "other": 0,
-   "marginPts": 50.8,
-   "marginVotes": 37096,
+   "marginPts": 50.6,
+   "marginVotes": 37547,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 73030,
+   "totalVotes": 74263,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-15",
@@ -3665,25 +3665,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "69%",
+   "reporting": "84%",
    "dem": {
     "name": "Gale Adcock",
-    "votes": 59852,
-    "pct": 75.9
+    "votes": 62752,
+    "pct": 75.1
    },
    "rep": {
     "name": "Philip Hensley",
-    "votes": 17641,
-    "pct": 22.4
+    "votes": 19260,
+    "pct": 23.0
    },
-   "other": 1385,
-   "marginPts": 53.5,
-   "marginVotes": 42211,
+   "other": 1551,
+   "marginPts": 52.1,
+   "marginVotes": 43492,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 78878,
+   "totalVotes": 83563,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-16",
@@ -3693,25 +3693,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "72%",
+   "reporting": "100%",
    "dem": {
     "name": "Mrs. Sydney Batch",
-    "votes": 56240,
-    "pct": 73.6
+    "votes": 61644,
+    "pct": 72.7
    },
    "rep": {
     "name": "Shirley Johnson",
-    "votes": 18633,
-    "pct": 24.4
+    "votes": 21392,
+    "pct": 25.2
    },
-   "other": 1507,
-   "marginPts": 49.2,
-   "marginVotes": 37607,
+   "other": 1763,
+   "marginPts": 47.5,
+   "marginVotes": 40252,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 76380,
+   "totalVotes": 84799,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-17",
@@ -3721,25 +3721,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "78%",
+   "reporting": "82%",
    "dem": {
     "name": "Haseeb Fatmi",
-    "votes": 50668,
-    "pct": 55.8
+    "votes": 51268,
+    "pct": 55.6
    },
    "rep": {
     "name": "Chris Stock",
-    "votes": 37960,
-    "pct": 41.8
+    "votes": 38685,
+    "pct": 42.0
    },
-   "other": 2138,
-   "marginPts": 14.0,
-   "marginVotes": 12708,
+   "other": 2210,
+   "marginPts": 13.6,
+   "marginVotes": 12583,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:14:03-05:00",
    "feed": true,
-   "totalVotes": 90766,
+   "totalVotes": 92163,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-18",
