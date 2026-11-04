@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:50:00-05:00",
+ "updated": "2026-11-03T20:14:05-05:00",
  "sample": false,
  "races": [
   {
@@ -96,6 +96,28 @@
      "pct": 1.7
     }
    ]
+  },
+  {
+   "id": "PA-GOV",
+   "status": "Called",
+   "leader": "D",
+   "reporting": null,
+   "dem": {
+    "name": "Josh Shapiro",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Stacy Garrity",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.fox29.com/news/josh-shapiro-wins-second-term-pennsylvania-governor-ap",
+   "asOf": "2026-11-03T20:14:05-05:00",
+   "note": "Call entered by Jordan from AP (via FOX 29; also NBC News)"
   }
  ]
 }
