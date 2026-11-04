@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:35:00-05:00",
+ "updated": "2026-11-04T00:50:00-05:00",
  "sample": false,
  "races": [
   {
@@ -68,7 +68,7 @@
   },
   {
    "id": "NH-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "57%",
    "dem": {
@@ -83,9 +83,9 @@
    },
    "marginPts": -1.5,
    "marginVotes": 5295,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "Fox News Decision Desk",
+   "source": "https://www.foxnews.com/politics/republican-governor-defies-dem-enthusiasm-tough-political-climate-win-reelection-key-swing-state",
+   "asOf": "2026-11-04T00:50:00-05:00",
    "ddhqUpdated": "2026-11-04 03:19:12.646492+00",
    "others": [
     {
