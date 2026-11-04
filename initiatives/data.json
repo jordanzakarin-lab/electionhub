@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T08:44:00-05:00",
+ "updated": "2026-11-04T09:38:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -378,19 +378,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
+    "votes": 85175,
     "pct": 49.8
    },
    "no": {
-    "votes": null,
+    "votes": 85805,
     "pct": 50.2
    },
    "marginPts": -0.4,
-   "reporting": "election-night count",
+   "reporting": "170,980 ballots counted (election-night)",
    "calledBy": "",
-   "note": "Trailing by 630 votes per Mission Local; not called.",
-   "source": "https://missionlocal.org/2026/11/san-francisco-public-bank-prop-b-2026-results/",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "note": "Trailing by 630 votes per SF Standard / Mission Local; not called.",
+   "source": "https://sfstandard.com/2026/11/03/san-francisco-election-results-november-2026/",
+   "asOf": "Nov 4, 9:38 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -2193,18 +2193,24 @@
    "measure": "Initiative-Process Reform",
    "ballotNo": "Prop D",
    "description": "Raises petition threshold from 2% to 8%.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "yes": {
+    "votes": 101064,
+    "pct": 57.8
+   },
+   "no": {
+    "votes": 73937,
+    "pct": 42.2
+   },
+   "marginPts": 15.6,
+   "reporting": "175,001 ballots counted (election-night)",
+   "calledBy": "SF Standard",
+   "note": "Projected passing by The San Francisco Standard; preliminary, certification Dec. 3.",
+   "source": "https://sfstandard.com/2026/11/03/san-francisco-election-results-november-2026/",
+   "asOf": "Nov 4, 9:38 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2344,9 +2350,9 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Early results show it approved by a wide margin (Alaska Public); no numbers yet; not called.",
+   "note": "Early results show it passing by a wide margin per Alaska Public Media/KTOO; no vote shares published; not called.",
    "source": "https://alaskapublic.org/news/politics/elections/2026-11-03/early-results-show-alaskans-rejecting-ranked-choice-voting-repeal",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "asOf": "Nov 4, 9:38 AM ET"
   },
   {
    "category": "Voting & Democracy",
