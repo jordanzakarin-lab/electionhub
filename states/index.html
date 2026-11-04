@@ -66,6 +66,8 @@ details.ch>summary:hover{background:var(--panel)}
 .nm{min-width:0}
 .nm b{font-family:var(--display);font-weight:700;font-size:18px;line-height:1.15;display:block}
 .nm span{font-size:12px;color:var(--muted)}
+.nm .flips{display:block;margin-top:2px;font-family:var(--mono);font-size:12px}
+.nm .flips i{font-style:normal;font-weight:600} .nm .flips em{font-style:normal}
 .barcol{min-width:0;display:flex;flex-direction:column;gap:5px}
 .bar{position:relative;height:22px;display:flex;background:var(--none);overflow:visible}
 .bar i{display:block;height:100%}
@@ -268,21 +270,22 @@ th.hb,td.hb{width:1%}
 
   function compute(c){
     const won={D:0,R:0,I:0}, lead={D:0,R:0,I:0};
-    let called=0, counting=0, flipsD=0, flipsR=0;
+    let called=0, counting=0, flipsD=0, flipsR=0, rCalled=0;
     for (const row of c.districts){
       if (!row.up) continue;
       for (const r of (RACES.get(c.st+'|'+c.ch+'|'+dkey(row.d))||[])){
         const ps = racePartySeats(r);
-        if (r.status==='Called'){ ps.forEach(p=>won[p]=(won[p]||0)+1); called+=Math.max(ps.length,1); if(r.flip){ r.leader==='D'?flipsD++:flipsR++; } }
+        if (r.status==='Called'){ ps.forEach(p=>won[p]=(won[p]||0)+1); called+=Math.max(ps.length,1); rCalled+=Math.max(ps.length,1); if(r.flip){ r.leader==='D'?flipsD++:flipsR++; } }
         else if (r.status==='Counting'){ if (pctIn(r.reporting)>=60) ps.forEach(p=>lead[p]=(lead[p]||0)+1); counting++; }
       }
     }
     // A chamber tally from the results agent (AP/state seat counts) beats what individual races add up to
     const t = (DATA.chambers||{})[c.id];
-    let src='';
+    let src='', flipsFull=false;
     if (t && (t.D!=null||t.R!=null)){
       won.D=t.D||0; won.R=t.R||0; won.I=t.I||0; called=won.D+won.R+won.I; src=t.source||'';
       if (t.flipsD!=null) flipsD=t.flipsD; if (t.flipsR!=null) flipsR=t.flipsR;
+      if (t.flipsD!=null || t.flipsR!=null) flipsFull=true;
       // Chamber leads from the results agent (uncalled districts with 60%+ counted) replace race-derived leads
       if (t.leadD!=null || t.leadR!=null || t.leadI!=null){ lead.D=t.leadD||0; lead.R=t.leadR||0; lead.I=t.leadI||0; }
     }
@@ -303,7 +306,7 @@ th.hb,td.hb{width:1%}
     const changes = decided && was!==decided;
     const margin = Math.abs(c.cur.D-c.cur.R);
     const bg = c.election && (c.control==='Coalition'||c.control==='Tied'||margin<=Math.max(4,Math.round(c.total*0.08))||c.districts.some(r=>r.comp));
-    return {won,lead,leadD,leadR,called,counting,projD,projR,projI,uncalled,decided,changes,bg,src,flipsD,flipsR,asOf:t&&t.asOf};
+    return {won,lead,leadD,leadR,called,counting,projD,projR,projI,uncalled,decided,changes,bg,src,flipsD,flipsR,rCalled,flipsFull,asOf:t&&t.asOf};
   }
 
   const pct = (n,t) => (100*n/t).toFixed(3)+'%';
@@ -328,13 +331,26 @@ th.hb,td.hb{width:1%}
   const SPECIAL_NOTE = {'MS-S':'One special election Nov. 3 to fill a vacancy'};
   const ctlLabel = v => v==='D'?'D control':v==='R'?'R control':v==='Coalition'?'Coalition':v==='Tied'?'Tied':v;
 
+  // Seat flips for one chamber, shown under its name. Counts come from the chamber tally when it carries flips,
+  // otherwise from the district races listed here, which can be fewer than the seats the tally has called.
+  function flipLine(x){
+    const parts = [x.flipsD?`<i class="d">${x.flipsD} to D</i>`:'', x.flipsR?`<i class="r">${x.flipsR} to R</i>`:''].filter(Boolean);
+    const partial = !x.flipsFull && x.called > x.rCalled;
+    const scope = partial ? ` <em>in the ${x.rCalled.toLocaleString('en-US')} called seat${x.rCalled===1?'':'s'} listed</em>` : '';
+    const txt = parts.length ? `Seats flipped: ${parts.join(' · ')}${scope}`
+      : !x.called ? 'Seats flipped: none called yet'
+      : partial && !x.rCalled ? 'Seats flipped: not yet tallied'
+      : `No seats flipped${scope}`;
+    return `<span class="flips">${txt}</span>`;
+  }
+
   function chamberHTML(c,x){
     const sub = c.election ? `${c.up.toLocaleString('en-US')} of ${c.total} seats up${c.note?' · '+esc(c.note):''}` : `${c.total} seats · no regular election in 2026${SPECIAL_NOTE[c.id]?' · 1 special election':''}`;
     const lp = (n) => n ? ` <small>+${n} leading</small>` : '';
     const nums = c.election ? `<div class="nums"><span class="d"><b>D ${x.projD}</b>${lp(x.leadD)}</span><span>${x.uncalled} not called · ${c.majority} for majority</span><span class="r"><b>R ${x.projR}</b>${lp(x.leadR)}</span></div>` : `<div class="nums"><span class="d"><b>D ${c.cur.D}</b></span><span>${c.majority} for majority</span><span class="r"><b>R ${c.cur.R}</b></span></div>`;
     const bar = c.election ? barHTML(c,x) : barHTML({...c,hold:{D:c.cur.D,R:c.cur.R,I:c.cur.I,V:c.cur.V}}, {won:{D:0,R:0,I:0},projD:c.cur.D,projR:c.cur.R,projI:0,uncalled:0});
     return `<details class="ch" id="${c.id}" data-id="${c.id}">
-      <summary><div class="nm"><b>${esc(SN(c.state))} ${esc(c.name)}</b><span>${sub}</span></div>
+      <summary><div class="nm"><b>${esc(SN(c.state))} ${esc(c.name)}</b><span>${sub}</span>${c.election?flipLine(x):''}</div>
         <div class="barcol">${bar}${nums}</div>${statusHTML(c,x)}</summary>
       <div class="inner" data-inner></div></details>`;
   }
