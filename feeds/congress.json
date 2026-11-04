@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:09:27-05:00",
+ "updated": "2026-11-04T00:13:33-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -8,22 +8,22 @@
    "reporting": "99%",
    "dem": {
     "name": "Roy Cooper",
-    "votes": 2452378,
+    "votes": 2453913,
     "pct": 58.7
    },
    "rep": {
     "name": "Michael Whatley",
-    "votes": 1636620,
+    "votes": 1637481,
     "pct": 39.1
    },
-   "other": 91714,
+   "other": 91821,
    "marginPts": 19.6,
-   "marginVotes": 815758,
+   "marginVotes": 816432,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:07:22-05:00",
+   "asOf": "2026-11-04T00:13:33-05:00",
    "feed": true,
-   "totalVotes": 4180712,
+   "totalVotes": 4183215,
    "id": "NC-SEN"
   },
   {
@@ -56,46 +56,46 @@
    "reporting": "100%",
    "dem": {
     "name": "Don Davis",
-    "votes": 151087,
+    "votes": 151133,
     "pct": 49.6
    },
    "rep": {
     "name": "Laurie Buckhout",
-    "votes": 143514,
-    "pct": 47.2
+    "votes": 143539,
+    "pct": 47.1
    },
-   "other": 9761,
-   "marginPts": 2.4,
-   "marginVotes": 7573,
+   "other": 9765,
+   "marginPts": 2.5,
+   "marginVotes": 7594,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:44:50-05:00",
+   "asOf": "2026-11-04T00:13:33-05:00",
    "feed": true,
-   "totalVotes": 304362,
+   "totalVotes": 304437,
    "id": "NC-01"
   },
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "Raymond Smith",
-    "votes": 115921,
-    "pct": 49.2
+    "votes": 117350,
+    "pct": 49.3
    },
    "rep": {
     "name": "Greg Murphy",
-    "votes": 116650,
-    "pct": 49.5
+    "votes": 117583,
+    "pct": 49.4
    },
-   "other": 2918,
-   "marginPts": -0.3,
-   "marginVotes": 729,
+   "other": 2971,
+   "marginPts": -0.1,
+   "marginVotes": 233,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:55:04-05:00",
+   "asOf": "2026-11-04T00:13:33-05:00",
    "feed": true,
-   "totalVotes": 235489,
+   "totalVotes": 237904,
    "id": "NC-03"
   },
   {

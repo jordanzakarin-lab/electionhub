@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:09:27-05:00",
+ "updated": "2026-11-04T00:13:33-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -369,17 +369,17 @@
    "dem": {},
    "rep": {
     "name": "Wyatt Gable",
-    "votes": 10344,
+    "votes": 10557,
     "pct": 100.0
    },
    "other": 0,
    "marginPts": -100.0,
-   "marginVotes": 10344,
+   "marginVotes": 10557,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-04T00:13:33-05:00",
    "feed": true,
-   "totalVotes": 10344,
+   "totalVotes": 10557,
    "state": "NC",
    "chamber": "House",
    "district": "HD-14",
@@ -389,25 +389,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "91%",
+   "reporting": "100%",
    "dem": {
     "name": "Christopher Schulte",
-    "votes": 9325,
-    "pct": 42.0
+    "votes": 10328,
+    "pct": 43.1
    },
    "rep": {
     "name": "Phillip Shepard",
-    "votes": 12883,
-    "pct": 58.0
+    "votes": 13610,
+    "pct": 56.9
    },
    "other": 0,
-   "marginPts": -16.0,
-   "marginVotes": 3558,
+   "marginPts": -13.8,
+   "marginVotes": 3282,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-04T00:13:33-05:00",
    "feed": true,
-   "totalVotes": 22208,
+   "totalVotes": 23938,
    "state": "NC",
    "chamber": "House",
    "district": "HD-15",
@@ -420,22 +420,22 @@
    "reporting": "88%",
    "dem": {
     "name": "Jim Harris",
-    "votes": 12468,
-    "pct": 37.5
+    "votes": 12616,
+    "pct": 37.7
    },
    "rep": {
     "name": "Carson Smith",
-    "votes": 20775,
-    "pct": 62.5
+    "votes": 20855,
+    "pct": 62.3
    },
    "other": 0,
-   "marginPts": -25.0,
-   "marginVotes": 8307,
+   "marginPts": -24.6,
+   "marginVotes": 8239,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:07:22-05:00",
+   "asOf": "2026-11-04T00:13:33-05:00",
    "feed": true,
-   "totalVotes": 33243,
+   "totalVotes": 33471,
    "state": "NC",
    "chamber": "House",
    "district": "HD-16",
@@ -3389,25 +3389,25 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "96%",
+   "reporting": "100%",
    "dem": {
     "name": "Andi Morrow",
-    "votes": 18372,
-    "pct": 38.7
+    "votes": 19841,
+    "pct": 39.7
    },
    "rep": {
     "name": "Michael Anthony Lazzara",
-    "votes": 29134,
-    "pct": 61.3
+    "votes": 30152,
+    "pct": 60.3
    },
    "other": 0,
-   "marginPts": -22.6,
-   "marginVotes": 10762,
+   "marginPts": -20.6,
+   "marginVotes": 10311,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-04T00:13:33-05:00",
    "feed": true,
-   "totalVotes": 47506,
+   "totalVotes": 49993,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-6",
