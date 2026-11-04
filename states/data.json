@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:58:00-05:00",
+ "updated": "2026-11-04T01:08:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -229,20 +229,20 @@
    "D": 15,
    "R": 0,
    "I": 0,
-   "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 12:13 AM): leads where 60%+ precincts reporting",
-   "asOf": "Nov 4, 12:16 AM ET",
-   "leadD": 52,
-   "leadR": 45,
+   "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 1:00 AM): leads where 60%+ precincts reporting",
+   "asOf": "Nov 4, 1:01 AM ET",
+   "leadD": 61,
+   "leadR": 53,
    "leadI": 0
   },
   "MN-S": {
    "D": 4,
    "R": 0,
    "I": 0,
-   "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 12:13 AM): leads where 60%+ precincts reporting",
-   "asOf": "Nov 4, 12:16 AM ET",
-   "leadD": 28,
-   "leadR": 23,
+   "source": "Uncontested seats (Ballotpedia candidate lists) + official results feed (electionhub feeds/states.json, 1:00 AM): leads where 60%+ precincts reporting",
+   "asOf": "Nov 4, 1:01 AM ET",
+   "leadD": 35,
+   "leadR": 27,
    "leadI": 0
   },
   "MO-H": {
@@ -442,7 +442,7 @@
    "D": 17,
    "R": 0,
    "I": 0,
-   "source": "Uncontested seats (Ballotpedia candidate lists) + 1 concession (Villalobos R conceded to Guerrero Sáenz D, Texas Tribune), counted as called",
+   "source": "Uncontested seats (Ballotpedia candidate lists) + 1 concession (Villalobos R conceded to Guerrero S\u00e1enz D, Texas Tribune), counted as called",
    "asOf": "Nov 3, 11:28 PM ET",
    "flipsD": 1,
    "flipsR": 0
@@ -841,7 +841,7 @@
    "state": "AZ",
    "chamber": "House",
    "district": "LD-23",
-   "incumbent": "Michele Peña (R)",
+   "incumbent": "Michele Pe\u00f1a (R)",
    "challenger": "Emilia Cortez (D)",
    "others": [
     "Rep. Mariana Sandoval (D)"
@@ -854,7 +854,7 @@
     "pct": null
    },
    "rep": {
-    "name": "Michele Peña / Gary Garcia Snyder",
+    "name": "Michele Pe\u00f1a / Gary Garcia Snyder",
     "votes": "10,794 / 9,761",
     "pct": null
    },
@@ -3379,7 +3379,7 @@
    "state": "NC",
    "chamber": "House",
    "district": "HD-37",
-   "incumbent": "Rep. Erin Paré (R)",
+   "incumbent": "Rep. Erin Par\u00e9 (R)",
    "challenger": "Winn Decker (D)",
    "others": [],
    "status": "Called",
