@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:30:11-05:00",
+ "updated": "2026-11-03T20:35:44-05:00",
  "sample": false,
  "races": [
   {
@@ -109,7 +109,7 @@
   },
   {
    "id": "FL-22",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "",
    "dem": {
@@ -124,82 +124,72 @@
    },
    "marginPts": 8.24,
    "marginVotes": 21326,
-   "calledBy": null,
-   "source": "https://floridaelectionwatch.gov/FederalOffices",
-   "asOf": "2026-11-03T20:24:54-05:00"
+   "calledBy": "NBC",
+   "source": "https://nbcmiami.com/elections/florida-midterm-elections-2026-live-updates/3878278",
+   "asOf": "2026-11-03T20:35:44-05:00"
   },
   {
    "id": "FL-25",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "",
+   "reporting": "96.2%",
    "dem": {
     "name": "Jared Moskowitz",
-    "votes": 128331,
-    "pct": 52.08
+    "votes": 139969,
+    "pct": 51.5
    },
    "rep": {
     "name": "Scott Singer",
-    "votes": 112997,
-    "pct": 45.86
+    "votes": 126385,
+    "pct": 46.5
    },
-   "marginPts": 6.22,
-   "marginVotes": 15334,
-   "calledBy": null,
-   "source": "https://floridaelectionwatch.gov/FederalOffices",
-   "asOf": "2026-11-03T20:24:54-05:00"
+   "marginPts": 5.0,
+   "marginVotes": 13584,
+   "calledBy": "NBC",
+   "source": "https://nbcmiami.com/elections/florida-midterm-elections-2026-live-updates/3878278",
+   "asOf": "2026-11-03T20:35:44-05:00"
   },
   {
    "id": "FL-27",
    "status": "Counting",
-   "leader": "D",
-   "reporting": "78%",
+   "leader": "R",
+   "reporting": "92.8%",
    "dem": {
     "name": "Eliott Rodriguez",
-    "votes": 91533,
-    "pct": 51.8
+    "votes": 118964,
+    "pct": 50.0
    },
    "rep": {
-    "name": "Mar\u00eda Elvira Salazar",
-    "votes": 85285,
-    "pct": 48.2
+    "name": "María Elvira Salazar",
+    "votes": 119114,
+    "pct": 50.0
    },
-   "marginPts": 3.5,
-   "marginVotes": 6248,
+   "marginPts": -0.06,
+   "marginVotes": 150,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-27-general-election",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "ddhqUpdated": "2026-11-04 00:14:39.023892+00"
+   "source": "https://nbcmiami.com/elections/florida-midterm-elections-2026-live-updates/3878278",
+   "asOf": "2026-11-03T20:35:44-05:00"
   },
   {
    "id": "FL-SEN",
-   "status": "Counting",
-   "leader": "D",
-   "reporting": "63%",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "93.6%",
    "dem": {
     "name": "Angie Nixon",
-    "votes": 2733754,
-    "pct": 51.5
+    "votes": 3776310,
+    "pct": 48.4
    },
    "rep": {
     "name": "Ashley Moody",
-    "votes": 2514780,
-    "pct": 47.4
+    "votes": 3939520,
+    "pct": 50.5
    },
-   "marginPts": 4.1,
-   "marginVotes": 218974,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "ddhqUpdated": "2026-11-04 00:27:05.733767+00",
-   "others": [
-    {
-     "name": "Neil Gillespie",
-     "party": "NPA",
-     "votes": 55269,
-     "pct": 1.0
-    }
-   ]
+   "marginPts": -2.1,
+   "marginVotes": 163210,
+   "calledBy": "DDHQ",
+   "source": "https://nbcmiami.com/elections/florida-midterm-elections-2026-live-updates/3878278",
+   "asOf": "2026-11-03T20:35:44-05:00"
   },
   {
    "id": "GA-SEN",
@@ -321,9 +311,9 @@
    },
    "marginPts": 25.9,
    "marginVotes": 13173,
-   "calledBy": "NBC News",
-   "source": "https://www.nbcnews.com/politics/2026-election/chris-pappas-democrat-wins-new-hampshire-senate-race-john-sununu-rcna603326",
-   "asOf": "2026-11-03T20:30:11-05:00",
+   "calledBy": "AP",
+   "source": "https://www.wcax.com/2026/11/04/pappas-defeats-sununu-keeps-nh-senate-seat-democratic/",
+   "asOf": "2026-11-03T20:35:44-05:00",
    "ddhqUpdated": "2026-11-04 00:27:31.102349+00",
    "others": [
     {
@@ -520,6 +510,27 @@
    "calledBy": "AP",
    "source": "https://www.fox13now.com/politics/america-votes/democrat-roy-cooper-wins-north-carolina-senate-race",
    "asOf": "2026-11-03T20:30:11-05:00"
+  },
+  {
+   "id": "OH-SEN",
+   "status": "Counting",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Sherrod Brown",
+    "votes": 668599,
+    "pct": 64.88
+   },
+   "rep": {
+    "name": "Jon Husted",
+    "votes": 329865,
+    "pct": 32.01
+   },
+   "marginPts": 32.87,
+   "marginVotes": 338734,
+   "calledBy": null,
+   "source": "https://en.libnanews.com/midterms-first-partial-results-in-ohio",
+   "asOf": "2026-11-03T19:52:19-05:00"
   }
  ]
 }
