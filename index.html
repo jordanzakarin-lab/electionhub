@@ -181,6 +181,23 @@ td .i{color:var(--ind)}
     <input id="q" type="search" placeholder="State, district or candidate" aria-label="Search by state, district or candidate">
   </div>
 
+  <section class="control" aria-label="Senate control">
+    <h2>Race for the Senate</h2>
+    <div id="senateBar"></div>
+    <div class="nums" id="senateNums"></div>
+  </section>
+
+  <div class="legend" aria-label="Senate bar key">
+    <span><i style="background:var(--dem-soft)"></i>D seats not up or rated Solid</span>
+    <span><i style="background:var(--dem)"></i>D won</span>
+    <span><i style="background:repeating-linear-gradient(135deg,var(--dem) 0 3px,var(--dem-soft) 3px 6px)"></i>D leading, 60%+ counted</span>
+    <span><i style="background:var(--none);border:1px solid var(--rule)"></i>Not yet called</span>
+    <span><i style="background:repeating-linear-gradient(135deg,var(--rep) 0 3px,var(--rep-soft) 3px 6px)"></i>R leading, 60%+ counted</span>
+    <span><i style="background:var(--rep)"></i>R won</span>
+    <span><i style="background:var(--rep-soft)"></i>R seats not up or rated Solid</span>
+    <span><i style="background:var(--ink);width:2px"></i>50 seats: Republicans keep control with the VP's tiebreaker; Democrats need 51</span>
+  </div>
+
   <section id="senate" aria-label="U.S. Senate"></section>
 
   <h2 class="chamber-h">U.S. House</h2>
@@ -208,6 +225,7 @@ td .i{color:var(--ind)}
   <div id="groups"><div class="empty">Loading races…</div></div>
 
   <footer>
+    <span>The Senate bar starts from the 85 seats not on the ballot this year or rated Solid by Cook: 43 Democratic (including independents Angus King and Bernie Sanders, who caucus with Democrats) and 42 Republican. The 15 key races are added as they are called. Republicans keep control at 50 seats because Vice President Vance breaks ties; Democrats need 51. Dan Osborn (Nebraska) is an independent and is counted as Other if he wins.</span>
     <span>The House bar starts from the seats Cook rates Solid for each party, which are assumed, not counted; the House races here are added as they are called. Hatched segments are uncalled races where a party leads with at least 60% of the expected vote counted. They show where the count is heading and never count toward control.</span>
     <span>Last margin: the winning party's lead over the runner-up in the seat's most recent general election (2024 for House seats; the year is shown for Senate seats). "District redrawn" means the seat's lines changed for 2026, so its last margin is from the old district.</span>
     <span id="srcs"></span>
@@ -268,6 +286,30 @@ td .i{color:var(--ind)}
     const call = pD>=h.majority ? ' · Democrats reach 218' : pR>=h.majority ? ' · Republicans reach 218' : '';
     $('#houseNums').innerHTML = `<span class="d"><b>D ${pD}</b>${lp(c.lD)}</span><span>${open} battlegrounds not called · ${h.majority} for majority${call}</span><span class="r"><b>R ${pR}</b>${lp(c.lR)}</span>`;
     return c;
+  }
+
+  function senateBar(){
+    const h=BASE.senateControl; if (!h) return;
+    const t=h.total;
+    const c = {wD:0,wR:0,wI:0,lD:0,lR:0,lI:0};
+    (BASE.senate||[]).forEach(b=>{
+      const x=stateOf(b);
+      // Osborn (NE) runs as an independent in the Democratic slot; a D-side win there counts as Other, not D
+      const fix = p => p==='D' && b.demParty && b.demParty!=='D' ? 'I' : p;
+      const w=fix(x.won), l=fix(x.lead);
+      if(w==='D')c.wD++; else if(w==='R')c.wR++; else if(w)c.wI++;
+      if(l==='D')c.lD++; else if(l==='R')c.lR++; else if(l)c.lI++;
+    });
+    const pD=h.safeD+c.wD, pR=h.safeR+c.wR, open=t-pD-pR-c.wI-c.lD-c.lR-c.lI;
+    const w = n => (100*n/t).toFixed(3)+'%';
+    const seg=(cls,n,label)=> n>0?`<i class="${cls}" style="width:${w(n)}" title="${label}: ${n}"></i>`:'';
+    $('#senateBar').innerHTML = `<div class="bar" role="img" aria-label="Democrats ${pD}, Republicans ${pR}, ${open} key races not called; Democrats need 51 for control, Republicans 50">
+      ${seg('dh',h.safeD,'D not up or rated Solid')}${seg('dw',c.wD,'D won')}${seg('dl',c.lD,'D leading, 60%+ counted')}${seg('iw',c.wI,'Other won')}${seg('iw',c.lI,'Other leading, 60%+ counted')}<span class="gap"></span>${seg('rl',c.lR,'R leading, 60%+ counted')}${seg('rw',c.wR,'R won')}${seg('rh',h.safeR,'R not up or rated Solid')}
+      <span class="maj" style="left:calc(50% - 1px)" aria-hidden="true"></span></div>`;
+    const lp = n => n ? ` <small>+${n} leading</small>` : '';
+    const call = pD>=h.majority ? ' · Democrats win control' : pR>=h.majority-1 ? ' · Republicans keep control' : '';
+    const oth = c.wI ? ` · ${c.wI} other` : '';
+    $('#senateNums').innerHTML = `<span class="d"><b>D ${pD}</b>${lp(c.lD)}</span><span>${open} key races not called${oth} · D needs 51, R needs 50${call}</span><span class="r"><b>R ${pR}</b>${lp(c.lR)}</span>`;
   }
 
   function tally(xs,c){
@@ -363,7 +405,7 @@ td .i{color:var(--ind)}
   }
 
   function render(){
-    renderSenate();
+    renderSenate(); senateBar();
     const xs = BASE.races.map(b=>stateOf(b));
     const c = houseBar(xs); tally(xs,c);
     const head = `<thead><tr><th>District</th><th class="hb">Held by</th><th>Result</th><th>Democrat</th><th>Republican</th><th class="num">Margin</th><th class="num">Reporting</th><th class="num">Last margin</th></tr></thead>`;

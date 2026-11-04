@@ -10,6 +10,13 @@
   "safeR": 165,
   "note": "Seats Cook rates Solid for each party, minus the Solid seats listed on this page"
  },
+ "senateControl": {
+  "total": 100,
+  "majority": 51,
+  "safeD": 43,
+  "safeR": 42,
+  "note": "Starting seats: 34 Democratic-caucus seats not up in 2026 (32 D plus independents King and Sanders) plus 9 Democratic seats up and rated Solid; 31 Republican seats not up plus 11 Republican seats up and rated Solid. The 15 key races on this page are the other 15. Republicans control a 50-50 Senate with Vice President Vance's tiebreaking vote."
+ },
  "races": [
   {
    "id": "AZ-01",
