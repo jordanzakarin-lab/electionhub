@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:51:00-05:00",
+ "updated": "2026-11-04T12:15:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -683,24 +683,24 @@
    "measure": "Renew State Income Tax Increase for Education",
    "ballotNo": "Prop 3",
    "description": "Makes top marginal rates permanent; revenue to K-12 and community colleges.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 4437201,
-    "pct": 58.66
+    "votes": 3816251,
+    "pct": 58.98
    },
    "no": {
-    "votes": 3126561,
-    "pct": 41.34
+    "votes": 2654195,
+    "pct": 41.02
    },
-   "marginPts": 17.32,
-   "reporting": "59% of expected vote",
-   "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
-   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
-   "asOf": "Nov 4, 11:51 AM ET"
+   "marginPts": 17.96,
+   "reporting": "50% of expected vote",
+   "calledBy": "MultiState",
+   "note": "MultiState Elections records it as passed (58.68% yes); vote counts shown are from NBC News Decision Desk earlier (50% expected vote).",
+   "source": "https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 4, 11:55 AM ET"
   },
   {
    "category": "Education",
@@ -953,24 +953,24 @@
    "measure": "Veterans and Affordable Housing Bond",
    "ballotNo": "Prop 1",
    "description": "$11.25B bond for veterans and affordable housing.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 4458873,
-    "pct": 59.37
+    "votes": 3818920,
+    "pct": 59.46
    },
    "no": {
-    "votes": 3051662,
-    "pct": 40.63
+    "votes": 2603877,
+    "pct": 40.54
    },
-   "marginPts": 18.74,
-   "reporting": "58% of expected vote",
-   "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
-   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
-   "asOf": "Nov 4, 11:51 AM ET"
+   "marginPts": 18.92,
+   "reporting": "50% of expected vote",
+   "calledBy": "MultiState",
+   "note": "MultiState Elections records it as passed (59.39% yes); vote counts shown are from NBC News Decision Desk earlier (50% expected vote).",
+   "source": "https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 4, 11:55 AM ET"
   },
   {
    "category": "Housing",
@@ -2330,7 +2330,7 @@
    "marginPts": -2,
    "reporting": "78%",
    "calledBy": "",
-   "note": "No leads with 51% per Alaska Public/KTOO; yes is the remainder; not called.",
+   "note": "No leads with 51% per Alaska Public/KTOO; yes is the remainder; not called. MultiState shows 48.15% yes (pending) at 11:55 AM; counts not stated, so earlier figures kept.",
    "source": "https://www.ktoo.org/2026/11/04/early-results-show-alaskans-narrowly-rejecting-repeal-of-ranked-choice-voting/",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -2345,14 +2345,20 @@
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": null,
+    "pct": 69.64
+   },
+   "no": {
+    "votes": null,
+    "pct": 30.36
+   },
+   "marginPts": 39.28,
    "reporting": "",
    "calledBy": "",
-   "note": "Early results show it passing by a wide margin per Alaska Public Media/KTOO; no vote shares published; not called.",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-03/early-results-show-alaskans-rejecting-ranked-choice-voting-repeal",
-   "asOf": "Nov 4, 9:38 AM ET"
+   "note": "Yes 69.64% per MultiState (pending); No % derived; vote counts and % reporting not available; not called.",
+   "source": "https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 4, 11:55 AM ET"
   },
   {
    "category": "Voting & Democracy",
