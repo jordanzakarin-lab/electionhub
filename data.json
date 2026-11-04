@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T08:44:00-05:00",
+ "updated": "2026-11-04T10:30:00-05:00",
  "sample": false,
  "races": [
   {
@@ -553,19 +553,19 @@
    "reporting": "100%",
    "dem": {
     "name": "Roy Cooper",
-    "votes": 2462440,
+    "votes": 2467963,
     "pct": 58.7
    },
    "rep": {
     "name": "Michael Whatley",
-    "votes": 1640368,
+    "votes": 1643088,
     "pct": 39.1
    },
    "marginPts": 19.6,
-   "marginVotes": 822072,
+   "marginVotes": 824875,
    "calledBy": "DDHQ",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:58:28-05:00"
+   "asOf": "2026-11-04T09:18:06-05:00"
   },
   {
    "id": "OH-SEN",
@@ -651,23 +651,22 @@
    "id": "NC-01",
    "status": "Called",
    "leader": "D",
-   "reporting": "93%",
+   "reporting": "100%",
    "dem": {
     "name": "Don Davis",
-    "votes": 151133,
-    "pct": 49.6
+    "votes": 156564,
+    "pct": 50.1
    },
    "rep": {
     "name": "Laurie Buckhout",
-    "votes": 143539,
-    "pct": 47.1
+    "votes": 146259,
+    "pct": 46.8
    },
-   "marginPts": 2.5,
-   "marginVotes": 7594,
+   "marginPts": 3.3,
+   "marginVotes": 10305,
    "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-us-house-1-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:29:35.245799+00",
+   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "asOf": "2026-11-04T09:18:06-05:00",
    "others": [
     {
      "name": "Tom Bailey",
@@ -1111,31 +1110,31 @@
    "id": "MS-SEN",
    "status": "Counting",
    "leader": "D",
-   "reporting": "98%",
+   "reporting": "96%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 462779,
+    "votes": 462821,
     "pct": 48.9
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 462751,
+    "votes": 462778,
     "pct": 48.9
    },
    "marginPts": 0.0,
-   "marginVotes": 28,
+   "marginVotes": 43,
    "calledBy": null,
-   "source": "https://msindy.org/p/colom-pulls-ahead-of-hyde-smith-by",
-   "asOf": "2026-11-04T07:21:39-05:00",
-   "ddhqUpdated": "2026-11-04 07:01:59.553311+00",
+   "source": "https://www.wdam.com/2026/11/04/43-votes-separate-hyde-smith-colom-after-election-day/",
+   "asOf": "2026-11-04T07:00:00-05:00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 19934,
+     "votes": 19935,
      "pct": 2.1
     }
-   ]
+   ],
+   "note": "As of 6am CT: 95.6% counted, ~44,000 votes left. Not called."
   },
   {
    "id": "NC-03",
@@ -1810,46 +1809,44 @@
    "id": "MN-01",
    "status": "Called",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": null,
-    "pct": null
+    "votes": 163057,
+    "pct": 50.0
    },
    "rep": {
     "name": "Brad Finstad",
-    "votes": null,
-    "pct": null
+    "votes": 162733,
+    "pct": 49.9
    },
-   "marginPts": null,
-   "marginVotes": 320,
+   "marginPts": 0.1,
+   "marginVotes": 324,
    "calledBy": "KEYC",
-   "source": "https://www.keyc.com/2026/11/04/jake-johnson-is-sent-congress-after-tight-race/",
-   "asOf": "2026-11-04T08:23:00-05:00",
-   "flip": true,
-   "note": "Declared victory; KEYC reports Johnson won, leading by about 320 votes; earlier vote totals removed as superseded"
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+   "asOf": "2026-11-04T03:00:47-05:00",
+   "flip": true
   },
   {
    "id": "MN-SEN",
    "status": "Called",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "Peggy Flanagan",
-    "votes": 1506870,
-    "pct": 53.9
+    "votes": 1520295,
+    "pct": 53.7
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 1215744,
-    "pct": 43.5
+    "votes": 1232677,
+    "pct": 43.6
    },
-   "marginPts": 10.4,
-   "marginVotes": 291126,
+   "marginPts": 10.1,
+   "marginVotes": 287618,
    "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-us-senate-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:59:37.876502+00",
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
+   "asOf": "2026-11-04T03:49:32-05:00",
    "others": [
     {
      "name": "Marisa Simonetti",
@@ -2420,23 +2417,22 @@
    "id": "MN-02",
    "status": "Called",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "100%",
    "dem": {
     "name": "Matt Little",
-    "votes": 212604,
+    "votes": 213653,
     "pct": 57.2
    },
    "rep": {
     "name": "Eric Pratt",
-    "votes": 159129,
+    "votes": 159829,
     "pct": 42.8
    },
    "marginPts": 14.4,
-   "marginVotes": 53475,
+   "marginVotes": 53824,
    "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-us-house-2-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:58:42.818378+00"
+   "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+   "asOf": "2026-11-04T02:09:51-05:00"
   },
   {
    "id": "MT-01",
@@ -3416,38 +3412,32 @@
   {
    "id": "AK-SEN",
    "status": "Counting",
-   "leader": "R",
-   "reporting": "84%",
+   "leader": "D",
+   "reporting": "",
    "dem": {
     "name": "Mary Peltola",
-    "votes": null,
-    "pct": 47.5
+    "votes": 102701,
+    "pct": 48.02
    },
    "rep": {
     "name": "Dan Sullivan",
-    "votes": null,
-    "pct": 48.3
+    "votes": 102075,
+    "pct": 47.73
    },
-   "marginPts": -0.8,
-   "marginVotes": 1677,
+   "marginPts": 0.3,
+   "marginVotes": 626,
    "calledBy": null,
-   "source": "https://www.yahoo.com/news/politics/articles/democratic-candidate-mary-peltola-leads-055234918.html",
-   "asOf": "2026-11-04T07:21:39-05:00",
-   "ddhqUpdated": "2026-11-04 06:34:47.415043+00",
+   "source": "https://www.elections.alaska.gov/enr/26GENR/results/ElectionSummaryReportRPT.pdf",
+   "asOf": "2026-11-04T06:19:06-05:00",
    "others": [
     {
      "name": "Gerald Heikes",
      "party": "GOP",
      "votes": null,
      "pct": null
-    },
-    {
-     "name": "Daniel J. Sullivan Jr.",
-     "party": "IND",
-     "votes": null,
-     "pct": null
     }
-   ]
+   ],
+   "note": "Peltola retakes lead by 626 (official summary 2:19am AKST; AP reported same count ~9am ET). Not called; RCV tabulation likely."
   },
   {
    "id": "CA-01",
