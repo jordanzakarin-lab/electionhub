@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:40:44-05:00",
+ "updated": "2026-11-03T23:44:50-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -8,22 +8,22 @@
    "reporting": "98%",
    "dem": {
     "name": "Roy Cooper",
-    "votes": 2431014,
+    "votes": 2436477,
     "pct": 58.6
    },
    "rep": {
     "name": "Michael Whatley",
-    "votes": 1624701,
+    "votes": 1626904,
     "pct": 39.2
    },
-   "other": 90761,
+   "other": 90954,
    "marginPts": 19.4,
-   "marginVotes": 806313,
+   "marginVotes": 809573,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:32:36-05:00",
+   "asOf": "2026-11-03T23:44:50-05:00",
    "feed": true,
-   "totalVotes": 4146476,
+   "totalVotes": 4154335,
    "id": "NC-SEN"
   },
   {
@@ -56,22 +56,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Don Davis",
-    "votes": 148510,
-    "pct": 49.5
+    "votes": 151087,
+    "pct": 49.6
    },
    "rep": {
     "name": "Laurie Buckhout",
-    "votes": 142019,
-    "pct": 47.3
+    "votes": 143514,
+    "pct": 47.2
    },
-   "other": 9634,
-   "marginPts": 2.2,
-   "marginVotes": 6491,
+   "other": 9761,
+   "marginPts": 2.4,
+   "marginVotes": 7573,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:24:24-05:00",
+   "asOf": "2026-11-03T23:44:50-05:00",
    "feed": true,
-   "totalVotes": 300163,
+   "totalVotes": 304362,
    "id": "NC-01"
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:40:44-05:00",
+ "updated": "2026-11-03T23:44:50-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -116,22 +116,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Sam Davis III",
-    "votes": 8169,
-    "pct": 45.4
+    "votes": 10777,
+    "pct": 48.5
    },
    "rep": {
     "name": "Bill Ward",
-    "votes": 9839,
-    "pct": 54.6
+    "votes": 11421,
+    "pct": 51.5
    },
    "other": 0,
-   "marginPts": -9.2,
-   "marginVotes": 1670,
+   "marginPts": -3.0,
+   "marginVotes": 644,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:24:24-05:00",
+   "asOf": "2026-11-03T23:44:50-05:00",
    "feed": true,
-   "totalVotes": 18008,
+   "totalVotes": 22198,
    "state": "NC",
    "chamber": "House",
    "district": "HD-5",
@@ -1501,25 +1501,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "90%",
+   "reporting": "100%",
    "dem": {
     "name": "Allen Buansi",
-    "votes": 34575,
-    "pct": 93.2
+    "votes": 35365,
+    "pct": 93.1
    },
    "rep": {
     "name": "Matthew P. Clements",
-    "votes": 2537,
-    "pct": 6.8
+    "votes": 2616,
+    "pct": 6.9
    },
    "other": 0,
-   "marginPts": 86.4,
-   "marginVotes": 32038,
+   "marginPts": 86.2,
+   "marginVotes": 32749,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:44:50-05:00",
    "feed": true,
-   "totalVotes": 37112,
+   "totalVotes": 37981,
    "state": "NC",
    "chamber": "House",
    "district": "HD-56",
@@ -2481,21 +2481,21 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "78%",
+   "reporting": "100%",
    "dem": {
     "name": "Terry Brown",
-    "votes": 27272,
+    "votes": 29574,
     "pct": 100.0
    },
    "rep": {},
    "other": 0,
    "marginPts": 100.0,
-   "marginVotes": 27272,
+   "marginVotes": 29574,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:44:50-05:00",
    "feed": true,
-   "totalVotes": 27272,
+   "totalVotes": 29574,
    "state": "NC",
    "chamber": "House",
    "district": "HD-92",
@@ -3252,22 +3252,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Melissa Zehner",
-    "votes": 31547,
-    "pct": 45.1
+    "votes": 34122,
+    "pct": 46.0
    },
    "rep": {
     "name": "Jerry Tillett",
-    "votes": 38460,
-    "pct": 54.9
+    "votes": 40066,
+    "pct": 54.0
    },
    "other": 0,
-   "marginPts": -9.8,
-   "marginVotes": 6913,
+   "marginPts": -8.0,
+   "marginVotes": 5944,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:24:24-05:00",
+   "asOf": "2026-11-03T23:44:50-05:00",
    "feed": true,
-   "totalVotes": 70007,
+   "totalVotes": 74188,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-1",
@@ -3857,25 +3857,25 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "97%",
+   "reporting": "100%",
    "dem": {
     "name": "Jonah Garson",
-    "votes": 68537,
-    "pct": 72.4
+    "votes": 69311,
+    "pct": 72.6
    },
    "rep": {
     "name": "Laura Pichardo",
-    "votes": 26081,
-    "pct": 27.6
+    "votes": 26191,
+    "pct": 27.4
    },
    "other": 0,
-   "marginPts": 44.8,
-   "marginVotes": 42456,
+   "marginPts": 45.2,
+   "marginVotes": 43120,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:01:48-05:00",
+   "asOf": "2026-11-03T23:44:50-05:00",
    "feed": true,
-   "totalVotes": 94618,
+   "totalVotes": 95502,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-23",
@@ -4293,21 +4293,21 @@
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "92%",
+   "reporting": "97%",
    "dem": {
     "name": "DeAndrea Salvador",
-    "votes": 66855,
+    "votes": 69154,
     "pct": 100.0
    },
    "rep": {},
    "other": 0,
    "marginPts": 100.0,
-   "marginVotes": 66855,
+   "marginVotes": 69154,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:16:09-05:00",
+   "asOf": "2026-11-03T23:44:50-05:00",
    "feed": true,
-   "totalVotes": 66855,
+   "totalVotes": 69154,
    "state": "NC",
    "chamber": "Senate",
    "district": "SD-39",
