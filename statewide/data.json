@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:29:00-05:00",
+  "updated": "2026-11-04T00:31:00-05:00",
   "sample": false,
   "races": [
     {
@@ -1502,22 +1502,22 @@
       "id": "KS-GOV",
       "status": "Counting",
       "leader": "D",
-      "reporting": "89%",
+      "reporting": "93%",
+      "marginPts": 0.86,
+      "marginVotes": 9207,
+      "calledBy": null,
+      "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
+      "asOf": "2026-11-04T00:27:00-05:00",
       "dem": {
         "name": "Cindy Holscher",
-        "votes": 531439,
-        "pct": 51.32
+        "votes": 544715,
+        "pct": 50.43
       },
       "rep": {
         "name": "Ty Masterson",
-        "votes": 504006,
-        "pct": 48.68
-      },
-      "marginPts": 2.64,
-      "marginVotes": 27433,
-      "calledBy": null,
-      "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
-      "asOf": "2026-11-03T23:26:00-05:00"
+        "votes": 535508,
+        "pct": 49.57
+      }
     },
     {
       "id": "KS-SOS",
@@ -2311,29 +2311,29 @@
     {
       "id": "NE-GOV",
       "status": "Counting",
-      "leader": "D",
-      "reporting": "46%",
+      "leader": "R",
+      "reporting": "60%",
+      "marginPts": -3.39,
+      "marginVotes": 16761,
+      "calledBy": null,
+      "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
+      "asOf": "2026-11-04T00:27:00-05:00",
       "dem": {
         "name": "Lynne Walz",
-        "votes": 170305,
-        "pct": 51.63
+        "votes": 222741,
+        "pct": 44.97
       },
       "rep": {
         "name": "Jim Pillen",
-        "votes": 139615,
-        "pct": 42.33
+        "votes": 239502,
+        "pct": 48.36
       },
-      "marginPts": 9.3,
-      "marginVotes": 30690,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-governor-general-election",
-      "asOf": "2026-11-03T22:39:00-05:00",
       "others": [
         {
           "name": "Brett Lindstrom",
-          "party": "AF",
-          "votes": 12901,
-          "pct": 3.91
+          "party": "AFP",
+          "votes": 21152,
+          "pct": 4.27
         }
       ]
     },
@@ -2725,43 +2725,51 @@
       "id": "KS-LG",
       "status": "Counting",
       "leader": "D",
-      "reporting": "89%",
+      "reporting": "93%",
+      "marginPts": 0.86,
+      "marginVotes": 9207,
+      "calledBy": null,
+      "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
+      "asOf": "2026-11-04T00:27:00-05:00",
       "dem": {
         "name": "KC Ohaebosim",
-        "votes": 531439,
-        "pct": 51.32
+        "votes": 544715,
+        "pct": 50.43
       },
       "rep": {
         "name": "Jeff Klemp",
-        "votes": 504006,
-        "pct": 48.68
-      },
-      "marginPts": 2.64,
-      "marginVotes": 27433,
-      "calledBy": null,
-      "source": "https://www.foxnews.com/elections/2026/midterm-results/state/kansas",
-      "asOf": "2026-11-03T23:26:00-05:00"
+        "votes": 535508,
+        "pct": 49.57
+      }
     },
     {
       "id": "NE-LG",
       "status": "Counting",
-      "leader": "D",
-      "reporting": "46%",
+      "leader": "R",
+      "reporting": "60%",
+      "marginPts": -3.39,
+      "marginVotes": 16761,
+      "calledBy": null,
+      "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
+      "asOf": "2026-11-04T00:27:00-05:00",
       "dem": {
         "name": "Ben Steffen",
-        "votes": 170305,
-        "pct": 51.63
+        "votes": 222741,
+        "pct": 44.97
       },
       "rep": {
         "name": "Joe Kelly",
-        "votes": 139615,
-        "pct": 42.33
+        "votes": 239502,
+        "pct": 48.36
       },
-      "marginPts": 9.3,
-      "marginVotes": 30690,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-governor-general-election",
-      "asOf": "2026-11-03T22:39:00-05:00"
+      "others": [
+        {
+          "name": "Michael Picard",
+          "party": "AFP",
+          "votes": 21152,
+          "pct": 4.27
+        }
+      ]
     },
     {
       "status": "Called",
