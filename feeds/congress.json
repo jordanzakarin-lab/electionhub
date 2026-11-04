@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-03T23:50:58-05:00",
+ "updated": "2026-11-03T23:55:04-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "98%",
+   "reporting": "99%",
    "dem": {
     "name": "Roy Cooper",
-    "votes": 2436477,
-    "pct": 58.6
+    "votes": 2449210,
+    "pct": 58.7
    },
    "rep": {
     "name": "Michael Whatley",
-    "votes": 1626904,
-    "pct": 39.2
+    "votes": 1633858,
+    "pct": 39.1
    },
-   "other": 90954,
-   "marginPts": 19.4,
-   "marginVotes": 809573,
+   "other": 91535,
+   "marginPts": 19.6,
+   "marginVotes": 815352,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:44:50-05:00",
+   "asOf": "2026-11-03T23:55:04-05:00",
    "feed": true,
-   "totalVotes": 4154335,
+   "totalVotes": 4174603,
    "id": "NC-SEN"
   },
   {
@@ -77,49 +77,49 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "98%",
+   "reporting": "99%",
    "dem": {
     "name": "Raymond Smith",
-    "votes": 115558,
-    "pct": 49.3
+    "votes": 115921,
+    "pct": 49.2
    },
    "rep": {
     "name": "Greg Murphy",
-    "votes": 115765,
-    "pct": 49.4
+    "votes": 116650,
+    "pct": 49.5
    },
-   "other": 2897,
-   "marginPts": -0.1,
-   "marginVotes": 207,
+   "other": 2918,
+   "marginPts": -0.3,
+   "marginVotes": 729,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:16:09-05:00",
+   "asOf": "2026-11-03T23:55:04-05:00",
    "feed": true,
-   "totalVotes": 234220,
+   "totalVotes": 235489,
    "id": "NC-03"
   },
   {
    "status": "Counting",
    "leader": "D",
-   "reporting": "96%",
+   "reporting": "99%",
    "dem": {
     "name": "Paul Barringer",
-    "votes": 157664,
-    "pct": 50.7
+    "votes": 159424,
+    "pct": 50.6
    },
    "rep": {
     "name": "Brad Knott",
-    "votes": 149035,
-    "pct": 47.9
+    "votes": 151324,
+    "pct": 48.0
    },
-   "other": 4367,
-   "marginPts": 2.8,
-   "marginVotes": 8629,
+   "other": 4455,
+   "marginPts": 2.6,
+   "marginVotes": 8100,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-03T23:32:36-05:00",
+   "asOf": "2026-11-03T23:55:04-05:00",
    "feed": true,
-   "totalVotes": 311066,
+   "totalVotes": 315203,
    "id": "NC-13"
   },
   {
