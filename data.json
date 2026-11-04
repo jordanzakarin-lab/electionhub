@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:57:36-05:00",
+ "updated": "2026-11-04T00:58:04-05:00",
  "sample": false,
  "races": [
   {
@@ -1313,7 +1313,7 @@
   },
   {
    "id": "PA-01",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "45%",
    "dem": {
@@ -1328,10 +1328,11 @@
    },
    "marginPts": 14.8,
    "marginVotes": 26151,
-   "calledBy": null,
+   "calledBy": "AP",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/pennsylvania-us-house-1-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
-   "ddhqUpdated": "2026-11-04 03:07:59.672249+00"
+   "asOf": "2026-11-04T00:58:04-05:00",
+   "ddhqUpdated": "2026-11-04 03:07:59.672249+00",
+   "note": "call entered by Jordan from AP (12:37 AM)"
   },
   {
    "id": "PA-08",
@@ -2535,7 +2536,7 @@
   },
   {
    "id": "GA-01",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "94%",
    "dem": {
@@ -2550,10 +2551,11 @@
    },
    "marginPts": -1.4,
    "marginVotes": 3605,
-   "calledBy": null,
+   "calledBy": "AP",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-us-house-1-general-election",
-   "asOf": "2026-11-04T00:10:20-05:00",
-   "ddhqUpdated": "2026-11-04 04:25:27.075835+00"
+   "asOf": "2026-11-04T00:58:04-05:00",
+   "ddhqUpdated": "2026-11-04 04:25:27.075835+00",
+   "note": "call entered by Jordan from AP (12:14 AM)"
   },
   {
    "id": "ID-02",
