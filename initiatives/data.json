@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:51:00-05:00",
+ "updated": "2026-11-04T17:40:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -24,7 +24,7 @@
    "marginPts": -11.16,
    "reporting": "59.5% of expected vote",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
    "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
    "asOf": "Nov 4, 11:51 AM ET"
   },
@@ -50,7 +50,7 @@
    "marginPts": -16.82,
    "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Election-night returns per Source One; not formally called.",
+   "note": "Election-night returns per Source One; not formally called.; not refreshed this run",
    "source": "https://www.yoursourceone.com/columbia_basin/breaking-washington-voters-reject-millionaire-income-tax-repeal-initiative-ip26-645/article_e94c3e5d-73b1-4ebf-9c48-34762ed344ae.html",
    "asOf": "Nov 4, 7:21 AM ET"
   },
@@ -76,7 +76,7 @@
    "marginPts": 0.98,
    "reporting": "80%",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.",
+   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
    "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
    "asOf": "Nov 4, 8:23 AM ET"
   },
@@ -102,7 +102,7 @@
    "marginPts": -5.3,
    "reporting": "79%",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.",
+   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
    "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
    "asOf": "Nov 4, 8:23 AM ET"
   },
@@ -128,7 +128,7 @@
    "marginPts": -4.92,
    "reporting": "58.5% of expected vote",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
    "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
    "asOf": "Nov 4, 11:51 AM ET"
   },
@@ -154,7 +154,7 @@
    "marginPts": 8.6,
    "reporting": "59.1% of expected vote",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
    "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
    "asOf": "Nov 4, 11:51 AM ET"
   },
@@ -180,7 +180,7 @@
    "marginPts": -9.82,
    "reporting": "58% of expected vote",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
    "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
    "asOf": "Nov 4, 11:51 AM ET"
   },
@@ -342,7 +342,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 8:27 PM ET"
   },
@@ -362,7 +362,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -388,7 +388,7 @@
    "marginPts": -0.4,
    "reporting": "170,980 ballots counted (election-night)",
    "calledBy": "",
-   "note": "Trailing by 630 votes per SF Standard / Mission Local; not called.",
+   "note": "Trailing by 630 votes per SF Standard / Mission Local; not called.; not refreshed this run",
    "source": "https://sfstandard.com/2026/11/03/san-francisco-election-results-november-2026/",
    "asOf": "Nov 4, 9:38 AM ET"
   },
@@ -408,7 +408,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -428,7 +428,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -520,7 +520,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -546,7 +546,7 @@
    "marginPts": -9.82,
    "reporting": "97.88% of precincts",
    "calledBy": "",
-   "note": "Unofficial count, 97.88% of precincts (5:50 AM CT), per gaming.net; not called.",
+   "note": "Unofficial count, 97.88% of precincts (5:50 AM CT), per gaming.net; not called.; not refreshed this run",
    "source": "https://www.gaming.net/nebraska-online-sports-wagering-measures-trail-in-unofficial-count/",
    "asOf": "Nov 4, 11:51 AM ET"
   },
@@ -572,7 +572,7 @@
    "marginPts": -8.98,
    "reporting": "97.88% of precincts",
    "calledBy": "",
-   "note": "Unofficial count, 97.88% of precincts (5:50 AM CT), per gaming.net; not called.",
+   "note": "Unofficial count, 97.88% of precincts (5:50 AM CT), per gaming.net; not called.; not refreshed this run",
    "source": "https://www.gaming.net/nebraska-online-sports-wagering-measures-trail-in-unofficial-count/",
    "asOf": "Nov 4, 11:51 AM ET"
   },
@@ -724,7 +724,7 @@
    "marginPts": 10.82,
    "reporting": "80%",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.",
+   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
    "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
    "asOf": "Nov 4, 8:23 AM ET"
   },
@@ -850,7 +850,7 @@
    "marginPts": 3.76,
    "reporting": "80%",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.",
+   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
    "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
    "asOf": "Nov 4, 8:23 AM ET"
   },
@@ -896,7 +896,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 9:12 PM ET"
   },
@@ -916,7 +916,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -933,18 +933,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 50
+    "pct": 55.89
    },
    "no": {
     "votes": null,
-    "pct": 50
+    "pct": 44.11
    },
-   "marginPts": 0,
-   "reporting": "80%",
+   "marginPts": 11.78,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "WBUR and MassterList describe it as tied (rounded 50/50); not called.",
-   "source": "https://www.wbur.org/news/2026/11/04/massachusetts-ballot-question-results",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "note": "Yes 55.89% per MultiState (pending); No % derived; vote counts and % reporting not stated; not called.",
+   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
+   "asOf": "Nov 4, 3:20 PM ET"
   },
   {
    "category": "Housing",
@@ -1012,7 +1012,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -1032,7 +1032,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -1052,7 +1052,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -1072,7 +1072,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -1092,7 +1092,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "City appealing; votes may not count Polls closed; no counts found yet.",
+   "note": "City appealing; votes may not count Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 9:12 PM ET"
   },
@@ -1170,7 +1170,7 @@
    "marginPts": 11.2,
    "reporting": "early",
    "calledBy": "",
-   "note": "Early SOS report per Denver Gazette; not called.",
+   "note": "Early SOS report per Denver Gazette; not called.; not refreshed this run",
    "source": "https://www.denvergazette.com/2026/11/03/colorado-front-range-passenger-rail-sales-use-tax-increase-denver-fort-collins-pueblo-train-service-issue-7a-election-results/",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1196,7 +1196,7 @@
    "marginPts": 44,
    "reporting": "early",
    "calledBy": "",
-   "note": "More than 72% yes in early results per MyNorthwest; not called.",
+   "note": "More than 72% yes in early results per MyNorthwest; not called.; not refreshed this run",
    "source": "https://mynorthwest.com/mynorthwest-politics/seattle-transit-measure/4294471",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1216,7 +1216,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 9:12 PM ET"
   },
@@ -1236,7 +1236,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 10:52 PM ET"
   },
@@ -1256,7 +1256,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -1276,7 +1276,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -1296,7 +1296,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 8:27 PM ET"
   },
@@ -1448,7 +1448,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 8:27 PM ET"
   },
@@ -1468,7 +1468,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 8:27 PM ET"
   },
@@ -1488,7 +1488,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 8:27 PM ET"
   },
@@ -1574,7 +1574,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 8:27 PM ET"
   },
@@ -1798,7 +1798,7 @@
    "marginPts": -3.92,
    "reporting": "57% of expected vote",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
    "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
    "asOf": "Nov 4, 11:51 AM ET"
   },
@@ -1824,7 +1824,7 @@
    "marginPts": 0.7,
    "reporting": "57% of expected vote",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.",
+   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
    "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
    "asOf": "Nov 4, 11:51 AM ET"
   },
@@ -2228,7 +2228,7 @@
    "marginPts": null,
    "reporting": "",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
+   "note": "Polls closed; no counts found yet.; not refreshed this run",
    "source": "",
    "asOf": "Nov 3, 11:07 PM ET"
   },
@@ -2330,7 +2330,7 @@
    "marginPts": -2,
    "reporting": "78%",
    "calledBy": "",
-   "note": "No leads with 51% per Alaska Public/KTOO; yes is the remainder; not called. MultiState shows 48.15% yes (pending) at 11:55 AM; counts not stated, so earlier figures kept.",
+   "note": "No leads with 51% per Alaska Public/KTOO; yes is the remainder; not called. MultiState shows 48.15% yes (pending) at 11:55 AM; counts not stated, so earlier figures kept.; not refreshed this run",
    "source": "https://www.ktoo.org/2026/11/04/early-results-show-alaskans-narrowly-rejecting-repeal-of-ranked-choice-voting/",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -2341,8 +2341,8 @@
    "measure": "Citizens-Only Voting",
    "ballotNo": "Measure 3",
    "description": "Rewords state law so that only U.S. citizens may vote.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -2355,10 +2355,10 @@
    },
    "marginPts": 39.28,
    "reporting": "",
-   "calledBy": "",
-   "note": "Yes 69.64% per MultiState (pending); No % derived; vote counts and % reporting not available; not called.",
+   "calledBy": "MultiState",
+   "note": "MultiState Elections lists Measure 3 as Passed (Yes 69.64%; No % derived); vote counts not available.",
    "source": "https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 4, 11:55 AM ET"
+   "asOf": "Nov 4, 3:20 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2426,7 +2426,7 @@
    "marginPts": -26.7,
    "reporting": "80%",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.",
+   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
    "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
    "asOf": "Nov 4, 8:23 AM ET"
   },
@@ -2694,7 +2694,7 @@
    "marginPts": 33.4,
    "reporting": "77%",
    "calledBy": "",
-   "note": "Per Baltimore Banner, 1:08 AM; not called.",
+   "note": "Per Baltimore Banner, 1:08 AM; not called.; not refreshed this run",
    "source": "https://www.thebanner.com/politics-power/maryland-governor-statewide-election-results-2026-AROADO6SWFGALKVBBYUJBTFTVQ/",
    "asOf": "Nov 4, 8:23 AM ET"
   },
@@ -2916,7 +2916,7 @@
    "marginPts": 13.52,
    "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.; not refreshed this run",
    "source": "https://www.multistate.us/elections/results/washington-2026",
    "asOf": "Nov 4, 2:20 AM ET"
   },
@@ -2942,7 +2942,7 @@
    "marginPts": -5.5,
    "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.; not refreshed this run",
    "source": "https://www.multistate.us/elections/results/washington-2026",
    "asOf": "Nov 4, 2:20 AM ET"
   },
@@ -2968,7 +2968,7 @@
    "marginPts": 13.18,
    "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.; not refreshed this run",
    "source": "https://www.multistate.us/elections/results/arizona-2026",
    "asOf": "Nov 4, 2:20 AM ET"
   },
@@ -3020,7 +3020,7 @@
    "marginPts": 4.74,
    "reporting": "80%",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.",
+   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
    "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
    "asOf": "Nov 4, 8:23 AM ET"
   },
@@ -3046,7 +3046,7 @@
    "marginPts": 34.16,
    "reporting": "82%",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.",
+   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
    "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/nebraska",
    "asOf": "Nov 4, 8:23 AM ET"
   },
@@ -3072,7 +3072,7 @@
    "marginPts": -24.28,
    "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.",
+   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.; not refreshed this run",
    "source": "https://www.multistate.us/elections/results/arizona-2026",
    "asOf": "Nov 4, 2:20 AM ET"
   },
@@ -3124,7 +3124,7 @@
    "marginPts": -10.04,
    "reporting": "80%",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.",
+   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
    "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
    "asOf": "Nov 4, 8:23 AM ET"
   },
