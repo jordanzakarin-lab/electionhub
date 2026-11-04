@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:31:00-05:00",
+ "updated": "2026-11-04T01:30:00-05:00",
  "sample": false,
  "races": [
   {
@@ -912,22 +912,22 @@
    "id": "MI-07",
    "status": "Counting",
    "leader": "R",
-   "reporting": "78%",
+   "reporting": "86%",
    "dem": {
     "name": "William Lawrence",
-    "votes": 151174,
-    "pct": 46.9
+    "votes": 172006,
+    "pct": 48.9
    },
    "rep": {
     "name": "Tom Barrett",
-    "votes": 166814,
-    "pct": 51.8
+    "votes": 174995,
+    "pct": 49.8
    },
-   "marginPts": -4.9,
-   "marginVotes": 15640,
+   "marginPts": -0.9,
+   "marginVotes": 2989,
    "calledBy": null,
-   "source": "https://us-election-tracker.com/live-results/house",
-   "asOf": "2026-11-04T01:08:00-05:00"
+   "source": "https://x.com/DecisionDeskHQ/status/2117863047423537165",
+   "asOf": "2026-11-04T01:30:00-05:00"
   },
   {
    "id": "MI-10",
@@ -968,7 +968,7 @@
    "marginPts": 8.7,
    "marginVotes": 115387,
    "calledBy": "DDHQ",
-   "source": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-el-sayed-wins-michigan-senate-race-ddhq-projects",
+   "source": "https://x.com/DecisionDeskHQ/status/2117863335920296120",
    "asOf": "2026-11-04T01:31:00-05:00",
    "ddhqUpdated": "2026-11-04 03:20:18.768446+00",
    "others": [
@@ -1306,8 +1306,8 @@
   },
   {
    "id": "TN-09",
-   "status": "Counting",
-   "leader": "D",
+   "status": "Called",
+   "leader": "R",
    "reporting": "64%",
    "dem": {
     "name": "Justin Pearson",
@@ -1321,9 +1321,9 @@
    },
    "marginPts": 10.7,
    "marginVotes": 14251,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/tennessee-us-house-9-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://x.com/DecisionDeskHQ/status/2117863881255039153",
+   "asOf": "2026-11-04T01:30:00-05:00",
    "ddhqUpdated": "2026-11-04 03:13:33.649452+00",
    "others": [
     {
