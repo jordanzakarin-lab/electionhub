@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:51:41-05:00",
+  "updated": "2026-11-04T03:29:00-05:00",
   "sample": false,
   "races": [
     {
@@ -92,7 +92,7 @@
     },
     {
       "id": "IN-AUD",
-      "status": "Counting",
+      "status": "Called",
       "leader": "D",
       "reporting": "96%",
       "dem": {
@@ -107,9 +107,9 @@
       },
       "marginPts": 1.0,
       "marginVotes": 20124,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/indiana-comptroller-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "WFYI",
+      "source": "https://www.wfyi.org/statewide/2026-11-04/bayh-wins-heated-indiana-secretary-of-state-race-and-other-statewide-results",
+      "asOf": "2026-11-04T03:29:00-05:00",
       "ddhqUpdated": "2026-11-04 06:05:56.544627+00",
       "others": [
         {
@@ -2686,7 +2686,7 @@
     },
     {
       "id": "SD-SOS",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
       "reporting": "68%",
       "dem": {
@@ -2701,9 +2701,9 @@
       },
       "marginPts": -24.0,
       "marginVotes": 60513,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/south-dakota-secretary-of-state-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "AP",
+      "source": "https://www.yahoo.com/news/politics/articles/republican-heather-baxter-wins-election-073342177.html",
+      "asOf": "2026-11-04T03:29:00-05:00",
       "ddhqUpdated": "2026-11-04 07:00:13.541455+00",
       "others": [
         {
@@ -3695,7 +3695,7 @@
     },
     {
       "id": "ID-AG",
-      "status": "Counting",
+      "status": "Called",
       "leader": "R",
       "reporting": "92%",
       "dem": {
@@ -3710,9 +3710,9 @@
       },
       "marginPts": -17.6,
       "marginVotes": 99336,
-      "calledBy": null,
-      "source": "https://votes.decisiondeskhq.com/races/2026-11-03/idaho-attorney-general-general-election",
-      "asOf": "2026-11-04T02:06:43-05:00",
+      "calledBy": "AP",
+      "source": "https://www.yahoo.com/news/us/articles/republican-raul-labrador-wins-reelection-080706998.html",
+      "asOf": "2026-11-04T03:29:00-05:00",
       "ddhqUpdated": "2026-11-04 07:01:24.785351+00"
     },
     {
