@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:29:00-05:00",
+ "updated": "2026-11-04T01:44:00-05:00",
  "sample": false,
  "races": [
   {
@@ -26,7 +26,7 @@
   },
   {
    "id": "GA-AG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "91%",
    "dem": {
@@ -41,14 +41,14 @@
    },
    "marginPts": 11.0,
    "marginVotes": 408752,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-attorney-general-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/politics/articles/columbus-votes-2026-live-election-000000548.html",
+   "asOf": "2026-11-04T01:44:00-05:00",
    "ddhqUpdated": "2026-11-04 03:19:44.255414+00"
   },
   {
    "id": "GA-LG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "90%",
    "dem": {
@@ -63,14 +63,14 @@
    },
    "marginPts": 11.9,
    "marginVotes": 439339,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-lt-governor-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/politics/articles/democrat-josh-mclaurin-wins-georgia-034744585.html",
+   "asOf": "2026-11-04T01:44:00-05:00",
    "ddhqUpdated": "2026-11-04 03:17:31.506024+00"
   },
   {
    "id": "GA-SOS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "91%",
    "dem": {
@@ -85,9 +85,9 @@
    },
    "marginPts": 11.4,
    "marginVotes": 424135,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-secretary-of-state-general-election",
-   "asOf": "2026-11-03T22:23:48-05:00",
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/politics/articles/democrat-penny-reynolds-wins-election-034031185.html",
+   "asOf": "2026-11-04T01:44:00-05:00",
    "ddhqUpdated": "2026-11-04 03:17:51.132211+00"
   },
   {
@@ -2291,28 +2291,28 @@
    "id": "NE-GOV",
    "status": "Counting",
    "leader": "R",
-   "reporting": "70%",
+   "reporting": "71%",
    "dem": {
     "name": "Lynne Walz",
-    "votes": 253975,
-    "pct": 43.94
+    "votes": 263247,
+    "pct": 43.76
    },
    "rep": {
     "name": "Jim Pillen",
-    "votes": 284343,
-    "pct": 49.19
+    "votes": 296738,
+    "pct": 49.33
    },
-   "marginPts": -5.25,
-   "marginVotes": 30368,
+   "marginPts": -5.57,
+   "marginVotes": 33491,
    "calledBy": null,
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
-   "asOf": "2026-11-04T01:21:00-05:00",
+   "asOf": "2026-11-04T01:44:00-05:00",
    "others": [
     {
      "name": "Brett Lindstrom",
      "party": "AFP",
-     "votes": 25103,
-     "pct": 4.34
+     "votes": 26232,
+     "pct": 4.36
     }
    ]
   },
@@ -2372,7 +2372,7 @@
    "leader": "D",
    "reporting": "36%",
    "dem": {
-    "name": "Raúl Torrez",
+    "name": "Ra\u00fal Torrez",
     "votes": 158830,
     "pct": 61.1
    },
@@ -2723,22 +2723,30 @@
    "id": "NE-LG",
    "status": "Counting",
    "leader": "R",
-   "reporting": "70%",
+   "reporting": "71%",
    "dem": {
     "name": "Ben Steffen",
-    "votes": 253975,
-    "pct": 43.94
+    "votes": 263247,
+    "pct": 43.76
    },
    "rep": {
     "name": "Joe Kelly",
-    "votes": 284343,
-    "pct": 49.19
+    "votes": 296738,
+    "pct": 49.33
    },
-   "marginPts": -5.25,
-   "marginVotes": 30368,
+   "marginPts": -5.57,
+   "marginVotes": 33491,
    "calledBy": null,
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
-   "asOf": "2026-11-04T01:21:00-05:00"
+   "asOf": "2026-11-04T01:44:00-05:00",
+   "others": [
+    {
+     "name": "Brett Lindstrom",
+     "party": "AFP",
+     "votes": 26232,
+     "pct": 4.36
+    }
+   ]
   },
   {
    "status": "Called",
@@ -3133,34 +3141,34 @@
    "id": "AK-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "21%",
+   "reporting": "54%",
    "dem": {
     "name": "Jonathan Kreiss-Tomkins",
-    "votes": 35837,
-    "pct": 55.42
+    "votes": 80889,
+    "pct": 49.88
    },
    "rep": {
     "name": "Bernadette Wilson",
-    "votes": 17840,
-    "pct": 27.59
+    "votes": 47011,
+    "pct": 28.99
    },
-   "marginPts": 27.83,
-   "marginVotes": 17997,
+   "marginPts": 20.89,
+   "marginVotes": 33878,
    "calledBy": null,
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/alaska",
-   "asOf": "2026-11-04T01:25:00-05:00",
+   "asOf": "2026-11-04T01:44:00-05:00",
    "others": [
     {
      "name": "Dave Bronson",
      "party": "R",
-     "votes": 6968,
-     "pct": 10.78
+     "votes": 22656,
+     "pct": 13.97
     },
     {
      "name": "Treg Taylor",
      "party": "R",
-     "votes": 4019,
-     "pct": 6.22
+     "votes": 11625,
+     "pct": 7.17
     }
    ]
   },
@@ -3168,22 +3176,22 @@
    "id": "AK-LG",
    "status": "Counting",
    "leader": "D",
-   "reporting": "21%",
+   "reporting": "54%",
    "dem": {
     "name": "Zachary Johnson",
-    "votes": 35837,
-    "pct": 55.42
+    "votes": 80889,
+    "pct": 49.88
    },
    "rep": {
     "name": "Mike Shower",
-    "votes": 17840,
-    "pct": 27.59
+    "votes": 47011,
+    "pct": 28.99
    },
-   "marginPts": 27.83,
-   "marginVotes": 17997,
+   "marginPts": 20.89,
+   "marginVotes": 33878,
    "calledBy": null,
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/alaska",
-   "asOf": "2026-11-04T01:25:00-05:00"
+   "asOf": "2026-11-04T01:44:00-05:00"
   },
   {
    "id": "ID-SOS",
