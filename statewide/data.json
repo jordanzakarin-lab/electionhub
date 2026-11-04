@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:14:25-05:00",
+ "updated": "2026-11-03T21:24:42-05:00",
  "sample": false,
  "races": [
   {
@@ -1953,6 +1953,69 @@
    "calledBy": "AP",
    "source": "https://www.observertoday.com/news/top-stories/2026/11/hochul-wins-re-election-as-state-governor-ap-declares",
    "asOf": "2026-11-03T21:14:25-05:00"
+  },
+  {
+   "id": "CO-GOV",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Phil Weiser",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Victor Marx",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.kktv.com/2026/11/04/phil-weiser-will-win-colorados-governor-race-ap-projects/",
+   "asOf": "2026-11-03T21:24:42-05:00"
+  },
+  {
+   "id": "CO-LG",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "",
+   "dem": {
+    "name": "Lesley Dahlkemper",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "George Markert",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.kktv.com/2026/11/04/phil-weiser-will-win-colorados-governor-race-ap-projects/",
+   "asOf": "2026-11-03T21:24:42-05:00"
+  },
+  {
+   "id": "WY-GOV",
+   "status": "Called",
+   "leader": "R",
+   "reporting": "",
+   "dem": {
+    "name": "Ken Casner",
+    "votes": null,
+    "pct": null
+   },
+   "rep": {
+    "name": "Eric Barlow",
+    "votes": null,
+    "pct": null
+   },
+   "marginPts": null,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://www.ktvq.com/news/politics/eric-barlow-elected-wyoming-governor-ap-projects",
+   "asOf": "2026-11-03T21:24:42-05:00"
   }
  ]
 }
