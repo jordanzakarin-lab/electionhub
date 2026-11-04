@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:28:37-05:00",
+ "updated": "2026-11-03T19:50:00-05:00",
  "sample": false,
  "races": [
   {
@@ -48,23 +48,24 @@
    "id": "GA-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "12%",
+   "reporting": "29%",
    "dem": {
     "name": "Keisha Lance Bottoms",
-    "votes": 371272,
-    "pct": 72.3
+    "votes": 852128,
+    "pct": 60.2
    },
    "rep": {
     "name": "Rick Jackson",
-    "votes": 142329,
-    "pct": 27.7
+    "votes": 563143,
+    "pct": 39.8
    },
-   "marginPts": 44.6,
-   "marginVotes": 228943,
+   "marginPts": 20.4,
+   "marginVotes": 288985,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-governor-general-election",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "ddhqUpdated": "2026-11-04 00:25:46.751778+00"
+   "source": "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+   "asOf": "2026-11-03T19:50:00-05:00",
+   "others": [],
+   "note": "Votes: Georgia Secretary of State (62 of 159 counties). % in: AP estimate as of 7:40 PM (a floor)."
   },
   {
    "id": "NH-GOV",

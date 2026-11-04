@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:28:37-05:00",
+ "updated": "2026-11-03T19:50:00-05:00",
  "sample": false,
  "races": [
   {
@@ -252,23 +252,24 @@
    "id": "GA-SEN",
    "status": "Called",
    "leader": "D",
-   "reporting": "12%",
+   "reporting": "29%",
    "dem": {
     "name": "Jon Ossoff",
-    "votes": 393954,
-    "pct": 76.6
+    "votes": 911149,
+    "pct": 64.4
    },
    "rep": {
     "name": "Mike Collins",
-    "votes": 120554,
-    "pct": 23.4
+    "votes": 503994,
+    "pct": 35.6
    },
-   "marginPts": 53.1,
-   "marginVotes": 273400,
+   "marginPts": 28.8,
+   "marginVotes": 407155,
    "calledBy": "DDHQ",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-us-senate-general-election",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "ddhqUpdated": "2026-11-04 00:25:26.219616+00"
+   "source": "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+   "asOf": "2026-11-03T19:50:00-05:00",
+   "others": [],
+   "note": "Votes: Georgia Secretary of State (62 of 159 counties). % in: AP estimate as of 7:40 PM (a floor)."
   },
   {
    "id": "IN-05",

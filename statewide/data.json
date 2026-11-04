@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:28:37-05:00",
+ "updated": "2026-11-03T19:50:00-05:00",
  "sample": false,
  "races": [
   {
@@ -28,67 +28,70 @@
    "id": "GA-AG",
    "status": "Counting",
    "leader": "D",
-   "reporting": "11%",
+   "reporting": "29%",
    "dem": {
     "name": "Tanya Miller",
-    "votes": 351435,
-    "pct": 77.5
+    "votes": 867530,
+    "pct": 61.3
    },
    "rep": {
     "name": "Brian Strickland",
-    "votes": 102351,
-    "pct": 22.6
+    "votes": 547184,
+    "pct": 38.7
    },
-   "marginPts": 54.9,
-   "marginVotes": 249084,
+   "marginPts": 22.6,
+   "marginVotes": 320346,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-attorney-general-general-election",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "ddhqUpdated": "2026-11-04 00:20:39.550657+00"
+   "source": "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+   "asOf": "2026-11-03T19:50:00-05:00",
+   "others": [],
+   "note": "Votes: Georgia Secretary of State (62 of 159 counties). % in: AP estimate as of 7:40 PM (a floor)."
   },
   {
    "id": "GA-LG",
    "status": "Counting",
    "leader": "D",
-   "reporting": "10%",
+   "reporting": "29%",
    "dem": {
     "name": "Josh McLaurin",
-    "votes": 327763,
-    "pct": 80.5
+    "votes": 870426,
+    "pct": 61.7
    },
    "rep": {
     "name": "Greg Dolezal",
-    "votes": 79190,
-    "pct": 19.5
+    "votes": 540005,
+    "pct": 38.3
    },
-   "marginPts": 61.1,
-   "marginVotes": 248573,
+   "marginPts": 23.4,
+   "marginVotes": 330421,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-lt-governor-general-election",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "ddhqUpdated": "2026-11-04 00:26:03.430255+00"
+   "source": "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+   "asOf": "2026-11-03T19:50:00-05:00",
+   "others": [],
+   "note": "Votes: Georgia Secretary of State (62 of 159 counties). % in: AP estimate as of 7:40 PM (a floor)."
   },
   {
    "id": "GA-SOS",
    "status": "Counting",
    "leader": "D",
-   "reporting": "10%",
+   "reporting": "29%",
    "dem": {
     "name": "Penny Brown Reynolds",
-    "votes": 327237,
-    "pct": 80.3
+    "votes": 868000,
+    "pct": 61.5
    },
    "rep": {
     "name": "Tim Fleming",
-    "votes": 80379,
-    "pct": 19.7
+    "votes": 544201,
+    "pct": 38.5
    },
-   "marginPts": 60.6,
-   "marginVotes": 246858,
+   "marginPts": 23.0,
+   "marginVotes": 323799,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/georgia-secretary-of-state-general-election",
-   "asOf": "2026-11-03T19:28:37-05:00",
-   "ddhqUpdated": "2026-11-04 00:26:55.984986+00"
+   "source": "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+   "asOf": "2026-11-03T19:50:00-05:00",
+   "others": [],
+   "note": "Votes: Georgia Secretary of State (62 of 159 counties). % in: AP estimate as of 7:40 PM (a floor)."
   },
   {
    "id": "IN-AUD",
