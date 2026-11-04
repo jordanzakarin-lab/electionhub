@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:33:00-05:00",
+ "updated": "2026-11-03T23:49:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -669,18 +669,22 @@
    "measure": "Repeal Abortion Rights + Ban Gender-Affirming Care",
    "ballotNo": "Amendment 3",
    "description": "Repeals the 2024 abortion rights amendment and bans most abortions, with limited exceptions; bans gender transition care for minors.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "pct": 45
+   },
+   "no": {
+    "pct": 55
+   },
+   "marginPts": 10,
+   "reporting": ">90%",
+   "calledBy": "AP",
+   "note": "AP called 10:18 PM ET; No nearly 55% (KCTV5). Exact vote counts not yet captured.",
+   "source": "https://www.kctv5.com/2026/11/04/missouri-voters-no-abortion-amendment/",
+   "asOf": "Nov 3, 11:49 PM ET"
   },
   {
    "category": "Healthcare / Civil Rights & Repro",
@@ -1775,18 +1779,18 @@
    "measure": "Constitutional Convention Question",
    "ballotNo": "Proposal 1",
    "description": "Every-16-years question on rewriting the constitution.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "AP",
+   "note": "AP call reported by FOX 2 Detroit; vote totals not yet entered.",
+   "source": "https://www.fox2detroit.com/video/fmc-ap0tb0h9h5r3u6q7",
+   "asOf": "Nov 3, 11:39 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1795,18 +1799,18 @@
    "measure": "Utility and Contractor Campaign Finance Limits",
    "ballotNo": "Proposal 2",
    "description": "Bars utilities and big contractors from contributions.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {},
    "no": {},
    "marginPts": null,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "AP",
+   "note": "AP call reported by FOX 2 Detroit; vote totals not yet entered.",
+   "source": "https://www.fox2detroit.com/video/fmc-ap0tb0h9h5r3u6q7",
+   "asOf": "Nov 3, 11:39 PM ET"
   },
   {
    "category": "Voting & Democracy / Initiative Process",
@@ -1955,18 +1959,22 @@
    "measure": "Referendum on 2025 Congressional Map",
    "ballotNo": "Prop A",
    "description": "Yes approves the GOP map that splits Cleaver's KC-based MO-05; No keeps the 2022 map.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "pct": 38
+   },
+   "no": {
+    "pct": 62
+   },
+   "marginPts": 24,
    "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "calledBy": "AP",
+   "note": "AP called 9:59 PM ET; map rejected 62%-38% (St. Louis Public Radio). Exact vote counts not yet captured.",
+   "source": "https://www.stlpr.org/government-politics-issues/2026-11-03/missouri-voters-reject-proposition-a-congressional-redistricting-map",
+   "asOf": "Nov 3, 11:49 PM ET"
   },
   {
    "category": "Voting & Democracy",
