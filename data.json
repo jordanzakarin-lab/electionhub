@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:36:00-05:00",
+ "updated": "2026-11-04T23:20:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3179,24 +3179,24 @@
   },
   {
    "id": "TX-27",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "98%",
+   "reporting": "99%",
    "dem": {
     "name": "Tanya Lloyd",
-    "votes": 140549,
-    "pct": 49.3
+    "votes": null,
+    "pct": 48.8
    },
    "rep": {
     "name": "Michael Cloud",
-    "votes": 144474,
-    "pct": 50.7
+    "votes": null,
+    "pct": 51.2
    },
-   "marginPts": -1.4,
-   "marginVotes": 3925,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-27-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "marginPts": -2.4,
+   "marginVotes": null,
+   "calledBy": "NBC News Decision Desk",
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-27-results",
+   "asOf": "2026-11-04T22:52:00-05:00",
    "ddhqUpdated": "2026-11-04 16:10:01.498977+00"
   },
   {
