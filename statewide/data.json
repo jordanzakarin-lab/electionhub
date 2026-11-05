@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:59:13-05:00",
+ "updated": "2026-11-04T19:20:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3043,20 +3043,20 @@
    "reporting": "84%",
    "dem": {
     "name": "Nick Mansour",
-    "votes": 1131830,
+    "votes": 1131884,
     "pct": 53.65
    },
    "rep": {
     "name": "Elijah Norton",
-    "votes": 977665,
+    "votes": 977728,
     "pct": 46.35
    },
    "marginPts": 7.3,
-   "marginVotes": 154165,
+   "marginVotes": 154156,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-04T17:36:00-05:00",
-   "totalVotes": 2109495
+   "asOf": "2026-11-04T19:20:00-05:00",
+   "totalVotes": 2109612
   },
   {
    "id": "WY-SOS",
