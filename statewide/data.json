@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:55:00-05:00",
+ "updated": "2026-11-05T09:10:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2081,32 +2081,34 @@
    "id": "IA-AG",
    "status": "Called",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "98.6%",
    "dem": {
     "name": "Nate Willems",
-    "votes": 678136,
-    "pct": 50.9
+    "votes": 681107,
+    "pct": 50.89
    },
    "rep": {
     "name": "Brenna Bird",
-    "votes": 655508,
-    "pct": 49.1
+    "votes": 657405,
+    "pct": 49.11
    },
-   "marginPts": 1.7,
-   "marginVotes": 22628,
+   "marginPts": 1.78,
+   "marginVotes": 23702,
    "calledBy": "Radio Iowa",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-attorney-general-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 08:13:10.730282+00"
+   "asOf": "2026-11-05T09:10:00-05:00",
+   "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
+   "totalVotes": 1338512,
+   "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
    "id": "IA-AUD",
    "status": "Called",
    "leader": "D",
-   "reporting": "100%",
+   "reporting": "98.6%",
    "dem": {
     "name": "Taylor Wettach",
-    "votes": 666632,
+    "votes": 666634,
     "pct": 50.24
    },
    "rep": {
@@ -2115,65 +2117,71 @@
     "pct": 49.76
    },
    "marginPts": 0.48,
-   "marginVotes": 6473,
+   "marginVotes": 6475,
    "calledBy": "Concession (Chris Cournoyer)",
    "source": "https://www.yahoo.com/news/politics/articles/republican-chris-cournoyer-concedes-iowa-192904717.html",
-   "asOf": "2026-11-04T17:59:13-05:00",
+   "asOf": "2026-11-05T09:10:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "note": "Cournoyer conceded ~noon CT Wed: \"I just spoke with Taylor Wettach, and I wish him well as he serves Iowa as Auditor.\" AP had not called."
+   "note": "Cournoyer conceded ~noon CT Wed: \"I just spoke with Taylor Wettach, and I wish him well as he serves Iowa as Auditor.\" AP had not called.",
+   "totalVotes": 1326793,
+   "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
    "id": "IA-GOV",
    "status": "Called",
    "leader": "D",
-   "reporting": "100%",
+   "reporting": "99%",
    "dem": {
     "name": "Rob Sand",
-    "votes": 754959,
-    "pct": 55.5
+    "votes": 757326,
+    "pct": 55.49
    },
    "rep": {
     "name": "Zach Lahn",
-    "votes": 605709,
-    "pct": 44.5
+    "votes": 607415,
+    "pct": 44.51
    },
-   "marginPts": 11.0,
-   "marginVotes": 149250,
+   "marginPts": 10.98,
+   "marginVotes": 149911,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 08:13:10.730282+00"
+   "asOf": "2026-11-05T09:10:00-05:00",
+   "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
+   "totalVotes": 1364741,
+   "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
    "id": "IA-SOS",
    "status": "Called",
    "leader": "R",
-   "reporting": "100%",
+   "reporting": "98.7%",
    "dem": {
     "name": "Ryan Peterman",
-    "votes": 623271,
-    "pct": 46.8
+    "votes": 625867,
+    "pct": 46.79
    },
    "rep": {
     "name": "Paul Pate",
-    "votes": 709675,
-    "pct": 53.2
+    "votes": 711768,
+    "pct": 53.21
    },
-   "marginPts": -6.5,
-   "marginVotes": 86404,
+   "marginPts": -6.42,
+   "marginVotes": 85901,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-secretary-of-state-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 08:13:10.730282+00"
+   "asOf": "2026-11-05T09:10:00-05:00",
+   "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
+   "totalVotes": 1337635,
+   "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
    "id": "IA-TREAS",
    "status": "Called",
    "leader": "R",
-   "reporting": "100%",
+   "reporting": "98.5%",
    "dem": {
     "name": "John Norwood",
-    "votes": 655763,
+    "votes": 655768,
     "pct": 49.65
    },
    "rep": {
@@ -2182,12 +2190,14 @@
     "pct": 50.35
    },
    "marginPts": -0.7,
-   "marginVotes": -9185,
+   "marginVotes": 9180,
    "calledBy": "Iowa Starting Line",
    "source": "https://iowastartingline.com/news/elections/iowa-2026-election-results/",
-   "asOf": "2026-11-04T12:32:00-05:00",
+   "asOf": "2026-11-05T09:10:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "note": "All 99 counties reporting (unofficial); two-party shares"
+   "note": "All 99 counties reporting (unofficial); two-party shares",
+   "totalVotes": 1320716,
+   "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
    "id": "MD-AG",
@@ -2399,23 +2409,24 @@
    "id": "NE-AG",
    "status": "Called",
    "leader": "R",
-   "reporting": "90%",
+   "reporting": "93.4%",
    "dem": {
     "name": "Jocelyn Brasher",
-    "votes": 313405,
-    "pct": 43.7
+    "votes": 314747,
+    "pct": 43.65
    },
    "rep": {
     "name": "Mike Hilgers",
-    "votes": 403371,
-    "pct": 56.3
+    "votes": 406338,
+    "pct": 56.35
    },
-   "marginPts": -12.6,
-   "marginVotes": -89966,
+   "marginPts": -12.7,
+   "marginVotes": 91591,
    "calledBy": "DDHQ",
    "source": "https://www.1011now.com/politics/election-results/",
-   "asOf": "2026-11-04T12:08:00-05:00",
-   "totalVotes": 716776
+   "asOf": "2026-11-05T09:10:00-05:00",
+   "totalVotes": 721085,
+   "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
    "id": "NE-AUD",
@@ -2451,95 +2462,100 @@
    "id": "NE-GOV",
    "status": "Called",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "94.2%",
    "dem": {
     "name": "Lynne Walz",
-    "votes": 311363,
-    "pct": 42.3
+    "votes": 312635,
+    "pct": 42.18
    },
    "rep": {
     "name": "Jim Pillen",
-    "votes": 373465,
-    "pct": 50.7
+    "votes": 376248,
+    "pct": 50.76
    },
-   "marginPts": -8.4,
-   "marginVotes": 62102,
+   "marginPts": -8.58,
+   "marginVotes": 63613,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-governor-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T09:10:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Brett Lindstrom",
      "party": "AF",
-     "votes": 32362,
+     "votes": 32593,
      "pct": 4.4
     },
     {
      "name": "Rick Beard",
      "party": "LMN",
-     "votes": 19532,
-     "pct": 2.6
+     "votes": 19682,
+     "pct": 2.66
     }
-   ]
+   ],
+   "totalVotes": 741158,
+   "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
    "id": "NE-SOS",
    "status": "Called",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "93.8%",
    "dem": {
     "name": "Sarah Slattery",
-    "votes": 292270,
-    "pct": 41.6
+    "votes": 293531,
+    "pct": 40.3
    },
    "rep": {
     "name": "Scott Petersen",
-    "votes": 390653,
-    "pct": 55.7
+    "votes": 393508,
+    "pct": 54.03
    },
-   "marginPts": -14.0,
-   "marginVotes": 98383,
+   "marginPts": -13.73,
+   "marginVotes": 99977,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-secretary-of-state-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T09:10:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Paul Rumbaugh",
      "party": "NWP",
-     "votes": 9659,
-     "pct": 1.4
+     "votes": 22487,
+     "pct": 3.09
     },
     {
      "name": "Bob Krist",
      "party": "AF",
-     "votes": 9123,
-     "pct": 1.3
+     "votes": 18750,
+     "pct": 2.57
     }
-   ]
+   ],
+   "totalVotes": 728276,
+   "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
    "id": "NE-TREAS",
    "status": "Called",
    "leader": "R",
-   "reporting": "90%",
+   "reporting": "93.4%",
    "dem": {
     "name": "Daniel Ebers",
-    "votes": 296251,
-    "pct": 41.4
+    "votes": 297512,
+    "pct": 41.37
    },
    "rep": {
     "name": "Joey Spellerberg",
-    "votes": 418609,
-    "pct": 58.6
+    "votes": 421633,
+    "pct": 58.63
    },
-   "marginPts": -17.2,
-   "marginVotes": -122358,
+   "marginPts": -17.26,
+   "marginVotes": 124121,
    "calledBy": "DDHQ",
    "source": "https://www.1011now.com/politics/election-results/",
-   "asOf": "2026-11-04T12:08:00-05:00",
-   "totalVotes": 714860
+   "asOf": "2026-11-05T09:10:00-05:00",
+   "totalVotes": 719145,
+   "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
    "id": "NM-AG",

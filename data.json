@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:40:00-05:00",
+ "updated": "2026-11-05T09:10:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1658,89 +1658,95 @@
    "id": "IA-02",
    "status": "Called",
    "leader": "D",
-   "reporting": "100%",
+   "reporting": "99%",
    "dem": {
     "name": "Lindsay James",
-    "votes": 171484,
-    "pct": 49.5
+    "votes": 171512,
+    "pct": 49.54
    },
    "rep": {
     "name": "Joe Mitchell",
     "votes": 157722,
-    "pct": 45.6
+    "pct": 45.56
    },
-   "marginPts": 4.0,
-   "marginVotes": 13762,
+   "marginPts": 3.98,
+   "marginVotes": 13790,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-2-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "asOf": "2026-11-05T09:10:00-05:00",
    "ddhqUpdated": "2026-11-04 07:01:36.592417+00",
    "others": [
     {
      "name": "Rick Stewart",
      "party": "LIB",
      "votes": 9500,
-     "pct": 2.7
+     "pct": 2.74
     },
     {
      "name": "Dave Bushaw",
      "party": "NPA",
      "votes": 7469,
-     "pct": 2.2
+     "pct": 2.16
     }
-   ]
+   ],
+   "totalVotes": 346203,
+   "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
    "id": "IA-03",
    "status": "Called",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "98.8%",
    "dem": {
     "name": "Sarah Trone Garriott",
-    "votes": 186226,
-    "pct": 53.5
+    "votes": 189217,
+    "pct": 53.65
    },
    "rep": {
     "name": "Zach Nunn",
-    "votes": 161509,
-    "pct": 46.5
+    "votes": 163441,
+    "pct": 46.35
    },
-   "marginPts": 7.1,
-   "marginVotes": 24717,
+   "marginPts": 7.3,
+   "marginVotes": 25776,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-3-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 08:13:10.730282+00"
+   "asOf": "2026-11-05T09:10:00-05:00",
+   "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
+   "totalVotes": 352658,
+   "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
    "id": "IA-SEN",
    "status": "Called",
    "leader": "D",
-   "reporting": "100%",
+   "reporting": "99%",
    "dem": {
     "name": "Josh Turek",
-    "votes": 683429,
-    "pct": 50.5
+    "votes": 686487,
+    "pct": 50.51
    },
    "rep": {
     "name": "Ashley Hinson",
-    "votes": 628799,
+    "votes": 630615,
     "pct": 46.4
    },
-   "marginPts": 4.0,
-   "marginVotes": 54630,
+   "marginPts": 4.11,
+   "marginVotes": 55872,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T09:10:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "others": [
     {
      "name": "Thomas Laehn",
      "party": "LIB",
-     "votes": 42013,
+     "votes": 42086,
      "pct": 3.1
     }
-   ]
+   ],
+   "totalVotes": 1359188,
+   "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
    "id": "MI-04",
@@ -1877,37 +1883,39 @@
    "id": "NE-01",
    "status": "Called",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "92.2%",
    "dem": {
     "name": "Chris Backemeyer",
-    "votes": 113806,
-    "pct": 46.4
+    "votes": 114664,
+    "pct": 46.17
    },
    "rep": {
     "name": "Mike Flood",
-    "votes": 122874,
-    "pct": 50.1
+    "votes": 124881,
+    "pct": 50.29
    },
-   "marginPts": -3.7,
-   "marginVotes": 9068,
+   "marginPts": -4.12,
+   "marginVotes": 10217,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-1-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T09:10:00-05:00",
    "ddhqUpdated": "2026-11-04 15:22:05.809312+00",
    "others": [
     {
      "name": "Nik Sandman",
      "party": "LIB",
-     "votes": 4436,
-     "pct": 1.8
+     "votes": 4500,
+     "pct": 1.81
     },
     {
      "name": "Dan Hartong",
      "party": "AF",
-     "votes": 4235,
-     "pct": 1.7
+     "votes": 4298,
+     "pct": 1.73
     }
-   ]
+   ],
+   "totalVotes": 248343,
+   "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
    "id": "NE-02",
@@ -1943,43 +1951,45 @@
    "id": "NE-SEN",
    "status": "Called",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "94.1%",
    "dem": {
     "name": "Dan Osborn",
-    "votes": 321218,
-    "pct": 43.7
+    "votes": 322627,
+    "pct": 43.62
    },
    "rep": {
     "name": "Pete Ricketts",
-    "votes": 370411,
-    "pct": 50.4
+    "votes": 373122,
+    "pct": 50.44
    },
-   "marginPts": -6.7,
-   "marginVotes": 49193,
+   "marginPts": -6.82,
+   "marginVotes": 50495,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T09:10:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Robin Richards",
      "party": "NWP",
-     "votes": 18937,
-     "pct": 2.6
+     "votes": 19065,
+     "pct": 2.58
     },
     {
      "name": "Mike Marvin",
      "party": "LMN",
-     "votes": 15848,
-     "pct": 2.2
+     "votes": 15974,
+     "pct": 2.16
     },
     {
      "name": "Chuck Conboy",
      "party": "AF",
-     "votes": 8846,
-     "pct": 1.2
+     "votes": 8914,
+     "pct": 1.21
     }
-   ]
+   ],
+   "totalVotes": 739702,
+   "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
    "id": "NM-02",
