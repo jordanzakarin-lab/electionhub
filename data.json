@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:10:00-05:00",
+ "updated": "2026-11-05T09:35:00-05:00",
  "sample": false,
  "races": [
   {
@@ -655,26 +655,28 @@
    "dem": {
     "name": "Don Davis",
     "votes": 156564,
-    "pct": 50.1
+    "pct": 50.07
    },
    "rep": {
     "name": "Laurie Buckhout",
     "votes": 146259,
-    "pct": 46.8
+    "pct": 46.77
    },
    "marginPts": 3.3,
    "marginVotes": 10305,
    "calledBy": "DDHQ",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T09:18:06-05:00",
+   "asOf": "2026-11-05T09:35:00-05:00",
    "others": [
     {
      "name": "Tom Bailey",
      "party": "LIB",
-     "votes": 9765,
-     "pct": 3.2
+     "votes": 9880,
+     "pct": 3.16
     }
-   ]
+   ],
+   "totalVotes": 312703,
+   "countSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt"
   },
   {
    "id": "OH-09",
