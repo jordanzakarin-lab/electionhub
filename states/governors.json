@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:05:57-05:00",
+ "updated": "2026-11-05T08:55:00-05:00",
  "sample": false,
  "races": [
   {
@@ -160,31 +160,33 @@
    "id": "ME-GOV",
    "status": "Called",
    "leader": "D",
-   "reporting": "92%",
+   "reporting": "91.1%",
    "dem": {
     "name": "Hannah Pingree",
-    "votes": 379331,
-    "pct": 54.7
+    "votes": 380201,
+    "pct": 54.78
    },
    "rep": {
     "name": "Bobby Charles",
-    "votes": 257688,
-    "pct": 37.2
+    "votes": 258084,
+    "pct": 37.19
    },
-   "marginPts": 17.5,
-   "marginVotes": 121643,
+   "marginPts": 17.59,
+   "marginVotes": 122117,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-governor-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T08:55:00-05:00",
    "ddhqUpdated": "2026-11-04 16:19:49.271668+00",
    "others": [
     {
      "name": "Rick Bennett",
      "party": "IND",
-     "votes": 56453,
-     "pct": 8.1
+     "votes": 55730,
+     "pct": 8.03
     }
-   ]
+   ],
+   "totalVotes": 694015,
+   "countSource": "https://www.wabi.tv/politics/election-results/"
   },
   {
    "id": "MI-GOV",
@@ -284,37 +286,39 @@
    "id": "AZ-GOV",
    "status": "Called",
    "leader": "D",
-   "reporting": "76%",
+   "reporting": "85.5%",
    "dem": {
     "name": "Katie Hobbs",
-    "votes": 1170284,
-    "pct": 55.8
+    "votes": 1235630,
+    "pct": 55.57
    },
    "rep": {
     "name": "Andy Biggs",
-    "votes": 890649,
-    "pct": 42.5
+    "votes": 949421,
+    "pct": 42.7
    },
-   "marginPts": 13.3,
-   "marginVotes": 279635,
+   "marginPts": 12.87,
+   "marginVotes": 286209,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-governor-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T08:55:00-05:00",
    "ddhqUpdated": "2026-11-04 11:13:42.541632+00",
    "others": [
     {
      "name": "Risa Lombardo",
      "party": "GRE",
-     "votes": 18308,
-     "pct": 0.9
+     "votes": 19875,
+     "pct": 0.89
     },
     {
      "name": "Teri Hourihan",
      "party": "NL",
-     "votes": 16935,
-     "pct": 0.8
+     "votes": 18465,
+     "pct": 0.83
     }
-   ]
+   ],
+   "totalVotes": 2223391,
+   "countSource": "https://www.azfamily.com/politics/election-results/"
   }
  ]
 }
