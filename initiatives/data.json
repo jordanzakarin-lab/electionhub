@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:55:00-05:00",
+ "updated": "2026-11-05T17:55:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -848,11 +848,11 @@
     "pct": 47.7
    },
    "marginPts": 4.6,
-   "reporting": "87.1% of expected vote",
+   "reporting": "90.3% of expected vote",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (2:51 PM ET Nov 5); not called.",
+   "note": "NBC News: \"Too early to call\" (5:50 PM ET Nov 5); not called.",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 2:51 PM ET"
+   "asOf": "Nov 5, 5:51 PM ET"
   },
   {
    "category": "Healthcare",
@@ -3018,11 +3018,11 @@
     "pct": 47.3
    },
    "marginPts": 5.4,
-   "reporting": "87% of expected vote",
+   "reporting": "90.2% of expected vote",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (2:51 PM ET Nov 5); not called.",
+   "note": "NBC News: \"Too early to call\" (5:50 PM ET Nov 5); not called.",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 2:51 PM ET"
+   "asOf": "Nov 5, 5:51 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
