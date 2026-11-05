@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:03:00-05:00",
+ "updated": "2026-11-05T14:32:00-05:00",
  "sample": false,
  "races": [
   {
@@ -892,22 +892,22 @@
    "id": "ME-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "95.4%",
+   "reporting": "95.8%",
    "dem": {
     "name": "Matthew Dunlap",
     "votes": null,
-    "pct": 49.0
+    "pct": 48.9
    },
    "rep": {
     "name": "Paul LePage",
     "votes": null,
     "pct": 50.0
    },
-   "marginPts": -1.0,
+   "marginPts": -1.1,
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/maine-us-house-district-2-results",
-   "asOf": "2026-11-05T14:03:00-05:00",
+   "asOf": "2026-11-05T14:32:00-05:00",
    "others": [
     {
      "name": "Gregory Ward",
@@ -916,7 +916,7 @@
      "pct": 0.05
     }
    ],
-   "totalVotes": 329852,
+   "totalVotes": 332186,
    "note": "NBC total excludes blank ballots; ranked-choice tabulation possible if no majority."
   },
   {
@@ -1946,41 +1946,41 @@
    "reporting": "94.1%",
    "dem": {
     "name": "Dan Osborn",
-    "votes": 322627,
-    "pct": 43.62
+    "votes": 322645,
+    "pct": 43.61
    },
    "rep": {
     "name": "Pete Ricketts",
-    "votes": 373122,
+    "votes": 373159,
     "pct": 50.44
    },
-   "marginPts": -6.82,
-   "marginVotes": 50495,
+   "marginPts": -6.83,
+   "marginVotes": 50514,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
-   "asOf": "2026-11-05T09:10:00-05:00",
+   "asOf": "2026-11-05T14:32:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Robin Richards",
      "party": "NWP",
-     "votes": 19065,
+     "votes": 19069,
      "pct": 2.58
     },
     {
      "name": "Mike Marvin",
      "party": "LMN",
-     "votes": 15974,
+     "votes": 15975,
      "pct": 2.16
     },
     {
      "name": "Chuck Conboy",
      "party": "AF",
-     "votes": 8914,
+     "votes": 8917,
      "pct": 1.21
     }
    ],
-   "totalVotes": 739702,
+   "totalVotes": 739765,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
