@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:20:00-05:00",
+ "updated": "2026-11-04T21:36:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2520,23 +2520,23 @@
    "id": "CA-23",
    "status": "Counting",
    "leader": "R",
-   "reporting": "78%",
+   "reporting": "57%",
    "dem": {
     "name": "Tessa Hodge",
-    "votes": 63681,
-    "pct": 48.7
+    "votes": null,
+    "pct": 48.6
    },
    "rep": {
     "name": "Jay Obernolte",
-    "votes": 67169,
-    "pct": 51.3
+    "votes": null,
+    "pct": 51.4
    },
-   "marginPts": -2.7,
-   "marginVotes": 3488,
+   "marginPts": -2.8,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-us-house-23-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 12:16:57.045941+00"
+   "source": "https://www.nbcnews.com/politics/2026-elections/california-us-house-district-23-results",
+   "asOf": "2026-11-04T21:20:00-05:00",
+   "totalVotes": 131735
   },
   {
    "id": "FL-26",
@@ -3233,23 +3233,23 @@
    "id": "WA-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "58%",
+   "reporting": "62%",
    "dem": {
     "name": "Carmela Conroy",
     "votes": null,
-    "pct": 49.3
+    "pct": 49.2
    },
    "rep": {
     "name": "Michael Baumgartner",
     "votes": null,
-    "pct": 50.3
+    "pct": 50.5
    },
-   "marginPts": -1.0,
+   "marginPts": -1.3,
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-5-results",
-   "asOf": "2026-11-04T18:52:00-05:00",
-   "totalVotes": 192309
+   "asOf": "2026-11-04T21:21:00-05:00",
+   "totalVotes": 206429
   },
   {
    "id": "WV-01",
