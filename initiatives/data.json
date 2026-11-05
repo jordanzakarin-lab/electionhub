@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:59:13-05:00",
+ "updated": "2026-11-04T20:51:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -92,19 +92,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 47.35
+    "votes": 1020369,
+    "pct": 47.49
    },
    "no": {
-    "votes": null,
-    "pct": 52.65
+    "votes": 1128269,
+    "pct": 52.51
    },
-   "marginPts": -5.3,
-   "reporting": "79%",
+   "marginPts": -5.02,
+   "reporting": "unofficial SOS count (Wed. afternoon)",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "note": "Unofficial Secretary of State count per Summit Daily (Wednesday afternoon); \"appears to have failed by a comfortable margin\"; not called.",
+   "source": "https://www.summitdaily.com/news/amendment-87-proposition-136-colorado-income-tax-measures-midterm-results/",
+   "asOf": "Nov 4, 8:51 PM ET"
   },
   {
    "category": "Tax Wealthy",
