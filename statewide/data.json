@@ -2916,20 +2916,20 @@
    "reporting": "99%",
    "dem": {
     "name": "Dave Muhlbauer",
-    "votes": 757326,
+    "votes": 757489,
     "pct": 55.49
    },
    "rep": {
     "name": "Derek Wulf",
-    "votes": 607415,
+    "votes": 607575,
     "pct": 44.51
    },
    "marginPts": 10.98,
-   "marginVotes": 149911,
+   "marginVotes": 149914,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-   "asOf": "2026-11-05T09:12:00-05:00",
-   "totalVotes": 1364741,
+   "asOf": "2026-11-05T11:48:00-05:00",
+   "totalVotes": 1365064,
    "note": "Joint ticket; counts follow IA-GOV."
   },
   {
