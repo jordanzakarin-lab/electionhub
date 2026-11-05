@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:48:00-05:00",
+ "updated": "2026-11-05T13:17:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3010,79 +3010,79 @@
    "id": "AZ-AG",
    "status": "Called",
    "leader": "D",
-   "reporting": "85.5%",
+   "reporting": "86.4%",
    "dem": {
     "name": "Kris Mayes",
-    "votes": 1217638,
-    "pct": 55.36
+    "votes": 1228760,
+    "pct": 55.34
    },
    "rep": {
     "name": "Warren Petersen",
-    "votes": 981686,
-    "pct": 44.64
+    "votes": 991502,
+    "pct": 44.66
    },
-   "marginPts": 10.72,
-   "marginVotes": 235952,
+   "marginPts": 10.68,
+   "marginVotes": 237258,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-attorney-general-general-election",
-   "asOf": "2026-11-05T08:55:00-05:00",
+   "asOf": "2026-11-05T13:17:00-05:00",
    "ddhqUpdated": "2026-11-04 09:35:09.38313+00",
-   "totalVotes": 2199324,
+   "totalVotes": 2220262,
    "countSource": "https://www.azfamily.com/politics/election-results/"
   },
   {
    "id": "AZ-SOS",
    "status": "Called",
    "leader": "D",
-   "reporting": "85.5%",
+   "reporting": "86.4%",
    "dem": {
     "name": "Adrian Fontes",
-    "votes": 1208480,
-    "pct": 54.8
+    "votes": 1219570,
+    "pct": 54.78
    },
    "rep": {
     "name": "Alexander Kolodin",
-    "votes": 965760,
-    "pct": 43.79
+    "votes": 975339,
+    "pct": 43.81
    },
-   "marginPts": 11.01,
-   "marginVotes": 242720,
+   "marginPts": 10.97,
+   "marginVotes": 244231,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-secretary-of-state-general-election",
-   "asOf": "2026-11-05T08:55:00-05:00",
+   "asOf": "2026-11-05T13:17:00-05:00",
    "ddhqUpdated": "2026-11-04 09:35:09.38313+00",
    "others": [
     {
      "name": "Duwayne Collier",
      "party": "GRE",
-     "votes": 31143,
-     "pct": 1.41
+     "votes": 31544,
+     "pct": 1.42
     }
    ],
-   "totalVotes": 2205383,
+   "totalVotes": 2226453,
    "countSource": "https://www.azfamily.com/politics/election-results/"
   },
   {
    "id": "AZ-TREAS",
    "status": "Counting",
    "leader": "D",
-   "reporting": "86%",
+   "reporting": "86.4%",
    "dem": {
     "name": "Nick Mansour",
-    "votes": 1170020,
-    "pct": 53.69
+    "votes": 1180695,
+    "pct": 53.67
    },
    "rep": {
     "name": "Elijah Norton",
-    "votes": 1009322,
-    "pct": 46.31
+    "votes": 1019311,
+    "pct": 46.33
    },
-   "marginPts": 7.38,
-   "marginVotes": 160698,
+   "marginPts": 7.34,
+   "marginVotes": 161384,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-04T21:20:00-05:00",
-   "totalVotes": 2179342
+   "asOf": "2026-11-05T13:17:00-05:00",
+   "totalVotes": 2200006
   },
   {
    "id": "WY-SOS",

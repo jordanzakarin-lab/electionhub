@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:05:00-05:00",
+ "updated": "2026-11-05T13:17:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2363,31 +2363,31 @@
    "id": "AZ-01",
    "status": "Counting",
    "leader": "D",
-   "reporting": "86%",
+   "reporting": "87.4%",
    "dem": {
     "name": "Amish Shah",
-    "votes": 167807,
-    "pct": 52.49
+    "votes": 169687,
+    "pct": 52.47
    },
    "rep": {
     "name": "Jay Feely",
-    "votes": 145313,
+    "votes": 146978,
     "pct": 45.45
    },
-   "marginPts": 7.04,
-   "marginVotes": 22494,
+   "marginPts": 7.02,
+   "marginVotes": 22709,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-04T21:20:00-05:00",
+   "asOf": "2026-11-05T13:17:00-05:00",
    "others": [
     {
      "name": "Monica Alponte",
      "party": "LIB",
-     "votes": 6578,
-     "pct": 2.1
+     "votes": 6725,
+     "pct": 2.08
     }
    ],
-   "totalVotes": 319698
+   "totalVotes": 323390
   },
   {
    "id": "AZ-06",
@@ -2480,45 +2480,45 @@
    "id": "AZ-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "86%",
+   "reporting": "87.4%",
    "dem": {
     "name": "Elizabeth Lee",
-    "votes": 134940,
-    "pct": 48.84
+    "votes": 136922,
+    "pct": 48.8
    },
    "rep": {
     "name": "Mark Lamb",
-    "votes": 141352,
-    "pct": 51.16
+    "votes": 143661,
+    "pct": 51.2
    },
-   "marginPts": -2.32,
-   "marginVotes": -6412,
+   "marginPts": -2.4,
+   "marginVotes": 6739,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-04T21:20:00-05:00",
-   "totalVotes": 276292
+   "asOf": "2026-11-05T13:17:00-05:00",
+   "totalVotes": 280583
   },
   {
    "id": "AZ-08",
    "status": "Counting",
    "leader": "R",
-   "reporting": "86%",
+   "reporting": "88.9%",
    "dem": {
     "name": "Bernadette Greene-Placentia",
-    "votes": 125405,
-    "pct": 48.61
+    "votes": 128705,
+    "pct": 48.53
    },
    "rep": {
     "name": "Abraham Hamadeh",
-    "votes": 132555,
-    "pct": 51.39
+    "votes": 136501,
+    "pct": 51.47
    },
-   "marginPts": -2.78,
-   "marginVotes": -7150,
+   "marginPts": -2.94,
+   "marginVotes": 7796,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-04T21:20:00-05:00",
-   "totalVotes": 257960
+   "asOf": "2026-11-05T13:17:00-05:00",
+   "totalVotes": 265206
   },
   {
    "id": "CA-23",
