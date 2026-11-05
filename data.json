@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:20:00-05:00",
+ "updated": "2026-11-05T08:40:00-05:00",
  "sample": false,
  "races": [
   {
@@ -828,61 +828,63 @@
    "id": "KS-02",
    "status": "Called",
    "leader": "R",
-   "reporting": "96%",
+   "reporting": "98.4%",
    "dem": {
     "name": "Don Coover",
-    "votes": 109091,
-    "pct": 44.9
+    "votes": 110244,
+    "pct": 44.99
    },
    "rep": {
     "name": "Derek Schmidt",
-    "votes": 125026,
-    "pct": 51.4
+    "votes": 125639,
+    "pct": 51.27
    },
-   "marginPts": -6.6,
-   "marginVotes": 15935,
+   "marginPts": -6.28,
+   "marginVotes": 15395,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "asOf": "2026-11-05T08:40:00-05:00",
    "ddhqUpdated": "2026-11-04 06:51:32.196953+00",
    "others": [
     {
      "name": "John Hauer",
      "party": "LIB",
-     "votes": 9096,
-     "pct": 3.7
+     "votes": 9165,
+     "pct": 3.74
     }
-   ]
+   ],
+   "totalVotes": 245048
   },
   {
    "id": "KS-SEN",
    "status": "Called",
    "leader": "D",
-   "reporting": "100%",
+   "reporting": "98.8%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 556414,
-    "pct": 50.9
+    "votes": 559853,
+    "pct": 50.99
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 503230,
-    "pct": 46.0
+    "votes": 504950,
+    "pct": 45.99
    },
-   "marginPts": 4.9,
-   "marginVotes": 53184,
+   "marginPts": 5.0,
+   "marginVotes": 54903,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T08:40:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "David Graham",
      "party": "LIB",
-     "votes": 33134,
-     "pct": 3.0
+     "votes": 33117,
+     "pct": 3.02
     }
-   ]
+   ],
+   "totalVotes": 1097920
   },
   {
    "id": "ME-02",

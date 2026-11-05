@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:20:00-05:00",
+ "updated": "2026-11-05T08:40:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1550,105 +1550,107 @@
    "id": "KS-AG",
    "status": "Counting",
    "leader": "D",
-   "reporting": "98%",
+   "reporting": "98.8%",
    "dem": {
     "name": "Chris Mann",
-    "votes": 548106,
-    "pct": 50.52
+    "votes": 551468,
+    "pct": 50.59
    },
    "rep": {
     "name": "Kris Kobach",
-    "votes": 536801,
-    "pct": 49.48
+    "votes": 538647,
+    "pct": 49.41
    },
-   "marginPts": 1.04,
-   "marginVotes": 11305,
+   "marginPts": 1.18,
+   "marginVotes": 12821,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-04T13:52:00-05:00",
-   "totalVotes": 1084907
+   "asOf": "2026-11-05T08:40:00-05:00",
+   "totalVotes": 1090115
   },
   {
    "id": "KS-GOV",
    "status": "Counting",
    "leader": "D",
-   "reporting": "98%",
+   "reporting": "98.8%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 546648,
-    "pct": 50.26
+    "votes": 549974,
+    "pct": 50.32
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 541070,
-    "pct": 49.74
+    "votes": 542929,
+    "pct": 49.68
    },
-   "marginPts": 0.52,
-   "marginVotes": 5578,
+   "marginPts": 0.64,
+   "marginVotes": 7045,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-04T13:52:00-05:00",
-   "totalVotes": 1087718
+   "asOf": "2026-11-05T08:40:00-05:00",
+   "totalVotes": 1092903
   },
   {
    "id": "KS-SOS",
    "status": "Counting",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "98.8%",
    "dem": {
     "name": "Jennifer Day",
-    "votes": 511419,
-    "pct": 47.2
+    "votes": 514512,
+    "pct": 47.45
    },
    "rep": {
     "name": "Pat Proctor",
-    "votes": 522175,
-    "pct": 48.2
+    "votes": 523937,
+    "pct": 48.32
    },
-   "marginPts": -1.0,
-   "marginVotes": 10756,
+   "marginPts": -0.87,
+   "marginVotes": 9425,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-secretary-of-state-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "source": "https://www.wibw.com/politics/election-results/",
+   "asOf": "2026-11-05T08:40:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "Scott Morgan",
      "party": "UKP",
-     "votes": 48687,
-     "pct": 4.5
+     "votes": 45942,
+     "pct": 4.24
     }
-   ]
+   ],
+   "totalVotes": 1084391
   },
   {
    "id": "KS-TREAS",
    "status": "Called",
    "leader": "R",
-   "reporting": "100%",
+   "reporting": "99%",
    "dem": {
     "name": "Juan Luengo",
-    "votes": 475695,
-    "pct": 44.2
+    "votes": 478668,
+    "pct": 44.27
    },
    "rep": {
     "name": "Steven C. Johnson",
-    "votes": 551643,
-    "pct": 51.3
+    "votes": 553683,
+    "pct": 51.2
    },
-   "marginPts": -7.1,
-   "marginVotes": 75948,
+   "marginPts": -6.93,
+   "marginVotes": 75015,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-treasurer-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "asOf": "2026-11-05T08:40:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "Eric Lund",
      "party": "LIB",
-     "votes": 48797,
-     "pct": 4.5
+     "votes": 49017,
+     "pct": 4.53
     }
-   ]
+   ],
+   "totalVotes": 1081368
   },
   {
    "id": "MA-TREAS",
@@ -2916,23 +2918,23 @@
    "id": "KS-LG",
    "status": "Counting",
    "leader": "D",
-   "reporting": "98%",
+   "reporting": "98.8%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 546648,
-    "pct": 50.26
+    "votes": 549974,
+    "pct": 50.32
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 541070,
-    "pct": 49.74
+    "votes": 542929,
+    "pct": 49.68
    },
-   "marginPts": 0.52,
-   "marginVotes": 5578,
+   "marginPts": 0.64,
+   "marginVotes": 7045,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-04T13:52:00-05:00",
-   "totalVotes": 1087718
+   "asOf": "2026-11-05T08:40:00-05:00",
+   "totalVotes": 1092903
   },
   {
    "id": "NE-LG",
