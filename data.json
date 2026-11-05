@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:03:00-05:00",
+ "updated": "2026-11-05T12:40:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2190,22 +2190,22 @@
    "id": "CO-05",
    "status": "Counting",
    "leader": "D",
-   "reporting": "80%",
+   "reporting": "87.6%",
    "dem": {
     "name": "Jessica Killin",
     "votes": null,
-    "pct": 50.9
+    "pct": 50.6
    },
    "rep": {
     "name": "Jeff Crank",
     "votes": null,
-    "pct": 45.8
+    "pct": 46.0
    },
-   "marginPts": 5.1,
+   "marginPts": 4.6,
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-5-results",
-   "asOf": "2026-11-04T19:00:00-05:00",
+   "asOf": "2026-11-05T12:40:00-05:00",
    "others": [
     {
      "name": "Mark Elworth",
@@ -2220,7 +2220,7 @@
      "pct": 1.5
     }
    ],
-   "totalVotes": 261415
+   "totalVotes": 278287
   },
   {
    "id": "IA-01",
@@ -3575,22 +3575,22 @@
    "id": "CO-03",
    "status": "Counting",
    "leader": "R",
-   "reporting": "84%",
+   "reporting": "96.1%",
    "dem": {
     "name": "Dwayne Romero",
     "votes": null,
-    "pct": 47.7
+    "pct": 47.5
    },
    "rep": {
     "name": "Jeff Hurd",
     "votes": null,
-    "pct": 49.1
+    "pct": 49.3
    },
-   "marginPts": -1.4,
+   "marginPts": -1.8,
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-3-results",
-   "asOf": "2026-11-04T19:00:00-05:00",
+   "asOf": "2026-11-05T12:40:00-05:00",
    "others": [
     {
      "name": "Cory Robertson",
@@ -3605,28 +3605,28 @@
      "pct": 1.6
     }
    ],
-   "totalVotes": 316796
+   "totalVotes": 327346
   },
   {
    "id": "CO-04",
    "status": "Counting",
    "leader": "D",
-   "reporting": "84%",
+   "reporting": "92.8%",
    "dem": {
     "name": "Eileen Laubacher",
     "votes": null,
-    "pct": 49.2
+    "pct": 48.7
    },
    "rep": {
     "name": "Lauren Boebert",
     "votes": null,
-    "pct": 47.7
+    "pct": 48.0
    },
-   "marginPts": 1.5,
+   "marginPts": 0.7,
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-4-results",
-   "asOf": "2026-11-04T19:00:00-05:00",
+   "asOf": "2026-11-05T12:40:00-05:00",
    "others": [
     {
      "name": "Douglas Mangeris",
@@ -3635,7 +3635,7 @@
      "pct": 3.1
     }
    ],
-   "totalVotes": 348371
+   "totalVotes": 361480
   },
   {
    "id": "NV-01",
