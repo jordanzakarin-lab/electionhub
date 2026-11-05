@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:51:00-05:00",
+ "updated": "2026-11-04T20:55:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -378,19 +378,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 85175,
-    "pct": 49.8
+    "votes": 95222,
+    "pct": 49.96
    },
    "no": {
-    "votes": 85805,
-    "pct": 50.2
+    "votes": 95366,
+    "pct": 50.04
    },
-   "marginPts": -0.4,
-   "reporting": "170,980 ballots counted (election-night)",
+   "marginPts": -0.1,
+   "reporting": "unofficial; SF Standard, updated 7 AM PT Nov 4",
    "calledBy": "",
-   "note": "Trailing by 630 votes per SF Standard / Mission Local; not called.; not refreshed this run",
+   "note": "No leads by 144 votes per SF Standard; not called.",
    "source": "https://sfstandard.com/2026/11/03/san-francisco-election-results-november-2026/",
-   "asOf": "Nov 4, 9:38 AM ET"
+   "asOf": "Nov 4, 10:00 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -1108,19 +1108,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 72.5
+    "votes": 141421,
+    "pct": 72.79
    },
    "no": {
-    "votes": null,
-    "pct": 27.5
+    "votes": 52855,
+    "pct": 27.21
    },
-   "marginPts": 45.0,
-   "reporting": "initial results",
+   "marginPts": 45.6,
+   "reporting": "unofficial; SF Standard, updated 7 AM PT Nov 4",
    "calledBy": "KQED",
-   "note": "Reported passed, per KQED; campaign and Mayor Lurie declared victory; no AP call found.",
-   "source": "https://www.kqed.org/news/12107133/death-spiral-averted-bay-area-transit-taxes-rtm-and-prop-h-declare-victory",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "note": "Reported passed, per KQED; campaign and Mayor Lurie declared victory; no AP call found; vote counts updated from SF Standard.",
+   "source": "https://sfstandard.com/2026/11/03/san-francisco-election-results-november-2026/",
+   "asOf": "Nov 4, 10:00 AM ET"
   },
   {
    "category": "Public Transit",
@@ -1134,19 +1134,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 61.6
+    "votes": 730576,
+    "pct": 61.87
    },
    "no": {
-    "votes": null,
-    "pct": 38.4
+    "votes": 450283,
+    "pct": 38.13
    },
-   "marginPts": 23.2,
-   "reporting": "initial results",
+   "marginPts": 23.7,
+   "reporting": "unofficial; SF Standard, updated 7 AM PT Nov 4",
    "calledBy": "KQED / KRON4",
-   "note": "Reported passed, per KQED and KRON4; campaign declared victory; no AP call found.",
-   "source": "https://www.kqed.org/news/12107133/death-spiral-averted-bay-area-transit-taxes-rtm-and-prop-h-declare-victory",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "note": "Reported passed, per KQED and KRON4; campaign declared victory; no AP call found; vote counts updated from SF Standard.",
+   "source": "https://sfstandard.com/2026/11/03/san-francisco-election-results-november-2026/",
+   "asOf": "Nov 4, 10:00 AM ET"
   },
   {
    "category": "Public Transit",
@@ -2198,19 +2198,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 101064,
-    "pct": 57.8
+    "votes": 112273,
+    "pct": 57.54
    },
    "no": {
-    "votes": 73937,
-    "pct": 42.2
+    "votes": 82834,
+    "pct": 42.46
    },
-   "marginPts": 15.6,
-   "reporting": "175,001 ballots counted (election-night)",
+   "marginPts": 15.1,
+   "reporting": "unofficial; SF Standard, updated 7 AM PT Nov 4",
    "calledBy": "SF Standard",
-   "note": "Projected passing by The San Francisco Standard; preliminary, certification Dec. 3.",
+   "note": "Projected passing by The San Francisco Standard; preliminary, certification Dec. 3; vote counts updated from SF Standard.",
    "source": "https://sfstandard.com/2026/11/03/san-francisco-election-results-november-2026/",
-   "asOf": "Nov 4, 9:38 AM ET"
+   "asOf": "Nov 4, 10:00 AM ET"
   },
   {
    "category": "Voting & Democracy",
