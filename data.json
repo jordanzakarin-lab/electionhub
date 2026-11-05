@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:40:00-05:00",
+ "updated": "2026-11-05T12:55:00-05:00",
  "sample": false,
  "races": [
   {
@@ -892,43 +892,32 @@
    "id": "ME-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "90%",
+   "reporting": "94.3%",
    "dem": {
     "name": "Matthew Dunlap",
-    "votes": 155250,
-    "pct": 48.9
+    "votes": null,
+    "pct": 49.4
    },
    "rep": {
     "name": "Paul LePage",
-    "votes": 158123,
-    "pct": 49.8
+    "votes": null,
+    "pct": 50.2
    },
-   "marginPts": -0.9,
-   "marginVotes": 2873,
+   "marginPts": -0.8,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-house-2-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 16:19:27.896479+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/maine-us-house-district-2-results",
+   "asOf": "2026-11-05T12:55:00-05:00",
    "others": [
-    {
-     "name": "Blank Votes",
-     "party": "NPA",
-     "votes": 3734,
-     "pct": 1.2
-    },
     {
      "name": "Gregory Ward",
      "party": "WRI",
-     "votes": 111,
-     "pct": 0.0
-    },
-    {
-     "name": " Write-In",
-     "party": "WRI",
-     "votes": 58,
-     "pct": 0.0
+     "votes": null,
+     "pct": 0.1
     }
-   ]
+   ],
+   "totalVotes": 324193,
+   "note": "NBC total excludes blank ballots; ranked-choice tabulation possible if no majority."
   },
   {
    "id": "ME-SEN",
@@ -2535,7 +2524,7 @@
    "id": "CA-23",
    "status": "Counting",
    "leader": "R",
-   "reporting": "57%",
+   "reporting": "57.6%",
    "dem": {
     "name": "Tessa Hodge",
     "votes": null,
@@ -2550,8 +2539,8 @@
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/california-us-house-district-23-results",
-   "asOf": "2026-11-04T21:20:00-05:00",
-   "totalVotes": 131735
+   "asOf": "2026-11-05T12:55:00-05:00",
+   "totalVotes": 131773
   },
   {
    "id": "FL-26",
