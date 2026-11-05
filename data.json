@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:17:00-05:00",
+ "updated": "2026-11-05T15:32:00-05:00",
  "sample": false,
  "races": [
   {
@@ -892,22 +892,22 @@
    "id": "ME-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "97.5%",
+   "reporting": "97.8%",
    "dem": {
     "name": "Matthew Dunlap",
     "votes": null,
-    "pct": 48.4
+    "pct": 48.3
    },
    "rep": {
     "name": "Paul LePage",
     "votes": null,
     "pct": 49.9
    },
-   "marginPts": -1.5,
+   "marginPts": -1.6,
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/maine-us-house-district-2-results",
-   "asOf": "2026-11-05T15:17:00-05:00",
+   "asOf": "2026-11-05T15:32:00-05:00",
    "others": [
     {
      "name": "Gregory Ward",
@@ -916,7 +916,7 @@
      "pct": 0.05
     }
    ],
-   "totalVotes": 340366,
+   "totalVotes": 341281,
    "note": "NBC total excludes blank ballots; ranked-choice tabulation possible if no majority."
   },
   {
