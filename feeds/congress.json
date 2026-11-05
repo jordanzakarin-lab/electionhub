@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:13:59-05:00",
+ "updated": "2026-11-04T21:11:39-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -301,17 +301,17 @@
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 1233460,
+    "votes": 1233464,
     "pct": 43.6
    },
-   "other": 77444,
+   "other": 77447,
    "marginPts": 10.1,
-   "marginVotes": 287405,
+   "marginVotes": 287401,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
-   "asOf": "2026-11-04T16:13:59-05:00",
+   "asOf": "2026-11-04T21:11:39-05:00",
    "feed": true,
-   "totalVotes": 2831769,
+   "totalVotes": 2831776,
    "id": "MN-SEN"
   },
   {
