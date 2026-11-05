@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:12:00-05:00",
+ "updated": "2026-11-05T11:48:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2084,21 +2084,21 @@
    "reporting": "98.6%",
    "dem": {
     "name": "Nate Willems",
-    "votes": 681107,
-    "pct": 50.89
+    "votes": 681244,
+    "pct": 50.88
    },
    "rep": {
     "name": "Brenna Bird",
-    "votes": 657405,
-    "pct": 49.11
+    "votes": 657588,
+    "pct": 49.12
    },
-   "marginPts": 1.78,
-   "marginVotes": 23702,
+   "marginPts": 1.76,
+   "marginVotes": 23656,
    "calledBy": "Radio Iowa",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-attorney-general-general-election",
-   "asOf": "2026-11-05T09:10:00-05:00",
+   "asOf": "2026-11-05T11:48:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1338512,
+   "totalVotes": 1338832,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2108,22 +2108,22 @@
    "reporting": "98.6%",
    "dem": {
     "name": "Taylor Wettach",
-    "votes": 666634,
+    "votes": 666762,
     "pct": 50.24
    },
    "rep": {
     "name": "Chris Cournoyer",
-    "votes": 660159,
+    "votes": 660344,
     "pct": 49.76
    },
    "marginPts": 0.48,
-   "marginVotes": 6475,
+   "marginVotes": 6418,
    "calledBy": "Concession (Chris Cournoyer)",
    "source": "https://www.yahoo.com/news/politics/articles/republican-chris-cournoyer-concedes-iowa-192904717.html",
-   "asOf": "2026-11-05T09:10:00-05:00",
+   "asOf": "2026-11-05T11:48:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "note": "Cournoyer conceded ~noon CT Wed: \"I just spoke with Taylor Wettach, and I wish him well as he serves Iowa as Auditor.\" AP had not called.",
-   "totalVotes": 1326793,
+   "totalVotes": 1327106,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2133,21 +2133,21 @@
    "reporting": "99%",
    "dem": {
     "name": "Rob Sand",
-    "votes": 757326,
+    "votes": 757489,
     "pct": 55.49
    },
    "rep": {
     "name": "Zach Lahn",
-    "votes": 607415,
+    "votes": 607575,
     "pct": 44.51
    },
    "marginPts": 10.98,
-   "marginVotes": 149911,
+   "marginVotes": 149914,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-   "asOf": "2026-11-05T09:10:00-05:00",
+   "asOf": "2026-11-05T11:48:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1364741,
+   "totalVotes": 1365064,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2157,21 +2157,21 @@
    "reporting": "98.7%",
    "dem": {
     "name": "Ryan Peterman",
-    "votes": 625867,
+    "votes": 625985,
     "pct": 46.79
    },
    "rep": {
     "name": "Paul Pate",
-    "votes": 711768,
+    "votes": 711966,
     "pct": 53.21
    },
    "marginPts": -6.42,
-   "marginVotes": 85901,
+   "marginVotes": 85981,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-secretary-of-state-general-election",
-   "asOf": "2026-11-05T09:10:00-05:00",
+   "asOf": "2026-11-05T11:48:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1337635,
+   "totalVotes": 1337951,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2181,22 +2181,22 @@
    "reporting": "98.5%",
    "dem": {
     "name": "John Norwood",
-    "votes": 655768,
+    "votes": 655904,
     "pct": 49.65
    },
    "rep": {
     "name": "Roby Smith",
-    "votes": 664948,
+    "votes": 665123,
     "pct": 50.35
    },
    "marginPts": -0.7,
-   "marginVotes": 9180,
+   "marginVotes": 9219,
    "calledBy": "Iowa Starting Line",
    "source": "https://iowastartingline.com/news/elections/iowa-2026-election-results/",
-   "asOf": "2026-11-05T09:10:00-05:00",
+   "asOf": "2026-11-05T11:48:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "note": "All 99 counties reporting (unofficial); two-party shares",
-   "totalVotes": 1320716,
+   "totalVotes": 1321027,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
