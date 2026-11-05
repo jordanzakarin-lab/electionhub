@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:48:00-05:00",
+ "updated": "2026-11-05T12:03:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1121,31 +1121,32 @@
    "id": "MS-SEN",
    "status": "Counting",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "95.8%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 465564,
-    "pct": 49.0
+    "votes": 466226,
+    "pct": 49.04
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 463579,
-    "pct": 48.8
+    "votes": 464502,
+    "pct": 48.86
    },
-   "marginPts": 0.2,
-   "marginVotes": 1985,
+   "marginPts": 0.18,
+   "marginVotes": 1724,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/mississippi-us-senate-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "source": "https://www.wlbt.com/politics/election-results/",
+   "asOf": "2026-11-05T12:03:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 19971,
+     "votes": 19978,
      "pct": 2.1
     }
-   ]
+   ],
+   "totalVotes": 950706
   },
   {
    "id": "NC-03",
