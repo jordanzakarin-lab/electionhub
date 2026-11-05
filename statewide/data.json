@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:10:00-05:00",
+ "updated": "2026-11-05T09:12:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2913,22 +2913,24 @@
    "id": "IA-LG",
    "status": "Called",
    "leader": "D",
-   "reporting": "31%",
+   "reporting": "99%",
    "dem": {
     "name": "Dave Muhlbauer",
-    "votes": 273635,
-    "pct": 60.91
+    "votes": 757326,
+    "pct": 55.49
    },
    "rep": {
     "name": "Derek Wulf",
-    "votes": 175620,
-    "pct": 39.09
+    "votes": 607415,
+    "pct": 44.51
    },
-   "marginPts": 21.82,
-   "marginVotes": 98015,
+   "marginPts": 10.98,
+   "marginVotes": 149911,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-   "asOf": "2026-11-03T22:11:00-05:00"
+   "asOf": "2026-11-05T09:12:00-05:00",
+   "totalVotes": 1364741,
+   "note": "Joint ticket; counts follow IA-GOV."
   },
   {
    "id": "KS-LG",
@@ -2956,22 +2958,22 @@
    "id": "NE-LG",
    "status": "Called",
    "leader": "R",
-   "reporting": "76%",
+   "reporting": "94.2%",
    "dem": {
     "name": "Ben Steffen",
-    "votes": 278221,
-    "pct": 43.41
+    "votes": 312635,
+    "pct": 42.18
    },
    "rep": {
     "name": "Joe Kelly",
-    "votes": 317941,
-    "pct": 49.61
+    "votes": 376248,
+    "pct": 50.76
    },
-   "marginPts": -6.2,
-   "marginVotes": 39720,
+   "marginPts": -8.58,
+   "marginVotes": 63613,
    "calledBy": "DDHQ",
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
-   "asOf": "2026-11-04T02:27:00-05:00",
+   "asOf": "2026-11-05T09:12:00-05:00",
    "others": [
     {
      "name": "Brett Lindstrom",
@@ -2979,7 +2981,9 @@
      "votes": 27993,
      "pct": 4.37
     }
-   ]
+   ],
+   "totalVotes": 741158,
+   "note": "Joint ticket; counts follow NE-GOV."
   },
   {
    "status": "Called",
