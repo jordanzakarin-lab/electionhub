@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:02:00-05:00",
+ "updated": "2026-11-05T17:32:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1113,29 +1113,29 @@
    "reporting": "95.7%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 466747,
+    "votes": 466775,
     "pct": 49.04
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 464925,
+    "votes": 464962,
     "pct": 48.85
    },
    "marginPts": 0.19,
-   "marginVotes": 1822,
+   "marginVotes": 1813,
    "calledBy": null,
    "source": "https://www.wlbt.com/politics/election-results/",
-   "asOf": "2026-11-05T16:48:00-05:00",
+   "asOf": "2026-11-05T17:32:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 20005,
+     "votes": 20007,
      "pct": 2.1
     }
    ],
-   "totalVotes": 951677
+   "totalVotes": 951744
   },
   {
    "id": "NC-03",
@@ -1946,19 +1946,19 @@
    "reporting": "94.1%",
    "dem": {
     "name": "Dan Osborn",
-    "votes": 322645,
+    "votes": 322646,
     "pct": 43.61
    },
    "rep": {
     "name": "Pete Ricketts",
-    "votes": 373159,
+    "votes": 373160,
     "pct": 50.44
    },
    "marginPts": -6.83,
    "marginVotes": 50514,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
-   "asOf": "2026-11-05T14:32:00-05:00",
+   "asOf": "2026-11-05T17:32:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
@@ -1980,7 +1980,7 @@
      "pct": 1.21
     }
    ],
-   "totalVotes": 739765,
+   "totalVotes": 739767,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
