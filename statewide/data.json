@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:17:00-05:00",
+ "updated": "2026-11-05T13:22:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3130,24 +3130,24 @@
   {
    "status": "Called",
    "leader": "D",
-   "reporting": "85.5%",
-   "marginPts": 12.87,
-   "marginVotes": 286209,
+   "reporting": "86.4%",
+   "marginPts": 12.83,
+   "marginVotes": 288057,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-governor-general-election",
-   "asOf": "2026-11-05T08:55:00-05:00",
+   "asOf": "2026-11-05T13:22:00-05:00",
    "id": "AZ-LG",
    "dem": {
     "name": "John Giles",
-    "votes": 1235630,
-    "pct": 55.57
+    "votes": 1246992,
+    "pct": 55.55
    },
    "rep": {
     "name": "Sine Kerr",
-    "votes": 949421,
-    "pct": 42.7
+    "votes": 958935,
+    "pct": 42.72
    },
-   "totalVotes": 2223391,
+   "totalVotes": 2244841,
    "note": "Joint ticket; counts follow AZ-GOV (Hobbs/Biggs)."
   },
   {
