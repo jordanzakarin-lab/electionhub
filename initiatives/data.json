@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:55:00-05:00",
+ "updated": "2026-11-04T23:55:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -841,18 +841,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 51.88
+    "pct": 52.1
    },
    "no": {
     "votes": null,
-    "pct": 48.12
+    "pct": 47.9
    },
-   "marginPts": 3.76,
-   "reporting": "80%",
+   "marginPts": 4.2,
+   "reporting": "85.6% of expected vote",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "note": "NBC News: \"Too early to call\" (10:52 PM ET); not called.",
+   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-ballot-measures",
+   "asOf": "Nov 4, 11:51 PM ET"
   },
   {
    "category": "Healthcare",
@@ -3011,18 +3011,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 52.37
+    "pct": 52.6
    },
    "no": {
     "votes": null,
-    "pct": 47.63
+    "pct": 47.4
    },
-   "marginPts": 4.74,
-   "reporting": "80%",
+   "marginPts": 5.2,
+   "reporting": "85.5% of expected vote",
    "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "note": "NBC News: \"Too early to call\" (10:52 PM ET); not called.",
+   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-ballot-measures",
+   "asOf": "Nov 4, 11:51 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
