@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:02:00-05:00",
+ "updated": "2026-11-05T17:17:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3066,23 +3066,23 @@
    "id": "AZ-TREAS",
    "status": "Counting",
    "leader": "D",
-   "reporting": "86.4%",
+   "reporting": "86.7%",
    "dem": {
     "name": "Nick Mansour",
-    "votes": 1180695,
-    "pct": 53.67
+    "votes": 1183031,
+    "pct": 53.58
    },
    "rep": {
     "name": "Elijah Norton",
-    "votes": 1019311,
-    "pct": 46.33
+    "votes": 1024883,
+    "pct": 46.42
    },
-   "marginPts": 7.34,
-   "marginVotes": 161384,
+   "marginPts": 7.16,
+   "marginVotes": 158148,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T13:17:00-05:00",
-   "totalVotes": 2200006
+   "asOf": "2026-11-05T17:17:00-05:00",
+   "totalVotes": 2207914
   },
   {
    "id": "WY-SOS",
