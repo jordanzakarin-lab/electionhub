@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:55:00-05:00",
+ "updated": "2026-11-05T14:55:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -15,18 +15,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 44.7
+    "pct": 45.0
    },
    "no": {
     "votes": null,
-    "pct": 55.3
+    "pct": 55.0
    },
-   "marginPts": -10.6,
-   "reporting": "61.4% of expected vote",
+   "marginPts": -10.0,
+   "reporting": "61.6% of expected vote",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:50 AM ET Nov 5); not called.",
+   "note": "NBC News: \"Too early to call\" (2:51 PM ET Nov 5); not called.",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:51 AM ET"
+   "asOf": "Nov 5, 2:51 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -119,18 +119,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 47.3
+    "pct": 47.1
    },
    "no": {
     "votes": null,
-    "pct": 52.7
+    "pct": 52.9
    },
-   "marginPts": -5.4,
-   "reporting": "60.6% of expected vote",
+   "marginPts": -5.8,
+   "reporting": "61% of expected vote",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:50 AM ET Nov 5); not called.",
+   "note": "NBC News: \"Too early to call\" (2:51 PM ET Nov 5); not called.",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:51 AM ET"
+   "asOf": "Nov 5, 2:51 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -145,18 +145,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 54.0
+    "pct": 53.8
    },
    "no": {
     "votes": null,
-    "pct": 46.0
+    "pct": 46.2
    },
-   "marginPts": 8.0,
-   "reporting": "61.1% of expected vote",
+   "marginPts": 7.6,
+   "reporting": "61.3% of expected vote",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:50 AM ET Nov 5); not called.",
+   "note": "NBC News: \"Too early to call\" (2:51 PM ET Nov 5); not called.",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:51 AM ET"
+   "asOf": "Nov 5, 2:51 PM ET"
   },
   {
    "category": "Tax Wealthy / Initiative Process",
@@ -848,11 +848,11 @@
     "pct": 47.7
    },
    "marginPts": 4.6,
-   "reporting": "86.3% of expected vote",
+   "reporting": "87.1% of expected vote",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:50 AM ET Nov 5); not called.",
+   "note": "NBC News: \"Too early to call\" (2:51 PM ET Nov 5); not called.",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:51 AM ET"
+   "asOf": "Nov 5, 2:51 PM ET"
   },
   {
    "category": "Healthcare",
@@ -3018,11 +3018,11 @@
     "pct": 47.3
    },
    "marginPts": 5.4,
-   "reporting": "86.2% of expected vote",
+   "reporting": "87% of expected vote",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:50 AM ET Nov 5); not called.",
+   "note": "NBC News: \"Too early to call\" (2:51 PM ET Nov 5); not called.",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:51 AM ET"
+   "asOf": "Nov 5, 2:51 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
