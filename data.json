@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:36:00-05:00",
+ "updated": "2026-11-04T19:08:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2175,37 +2175,37 @@
    "id": "CO-05",
    "status": "Counting",
    "leader": "D",
-   "reporting": "75%",
+   "reporting": "80%",
    "dem": {
     "name": "Jessica Killin",
-    "votes": 121772,
-    "pct": 51.6
+    "votes": null,
+    "pct": 50.9
    },
    "rep": {
     "name": "Jeff Crank",
-    "votes": 106966,
-    "pct": 45.3
+    "votes": null,
+    "pct": 45.8
    },
-   "marginPts": 6.3,
-   "marginVotes": 14806,
+   "marginPts": 5.1,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/colorado-us-house-5-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
-   "ddhqUpdated": "2026-11-04 06:05:52.144489+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-5-results",
+   "asOf": "2026-11-04T19:00:00-05:00",
    "others": [
     {
      "name": "Mark Elworth",
      "party": "LIB",
-     "votes": 3788,
-     "pct": 1.6
+     "votes": null,
+     "pct": 1.7
     },
     {
      "name": "Christopher Mitchell",
      "party": "ACP",
-     "votes": 3480,
+     "votes": null,
      "pct": 1.5
     }
-   ]
+   ],
+   "totalVotes": 261415
   },
   {
    "id": "IA-01",
@@ -3233,7 +3233,7 @@
    "id": "WA-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "57%",
+   "reporting": "58%",
    "dem": {
     "name": "Carmela Conroy",
     "votes": null,
@@ -3248,8 +3248,8 @@
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-5-results",
-   "asOf": "2026-11-04T10:59:00-05:00",
-   "totalVotes": 192113
+   "asOf": "2026-11-04T18:52:00-05:00",
+   "totalVotes": 192309
   },
   {
    "id": "WV-01",
@@ -3560,43 +3560,43 @@
    "id": "CO-03",
    "status": "Counting",
    "leader": "R",
-   "reporting": "83%",
+   "reporting": "84%",
    "dem": {
     "name": "Dwayne Romero",
-    "votes": 145702,
-    "pct": 48.2
+    "votes": null,
+    "pct": 47.7
    },
    "rep": {
     "name": "Jeff Hurd",
-    "votes": 146913,
-    "pct": 48.6
+    "votes": null,
+    "pct": 49.1
    },
-   "marginPts": -0.4,
-   "marginVotes": 1211,
+   "marginPts": -1.4,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/colorado-us-house-3-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
-   "ddhqUpdated": "2026-11-04 09:49:09.922256+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-3-results",
+   "asOf": "2026-11-04T19:00:00-05:00",
    "others": [
     {
      "name": "Cory Robertson",
      "party": "LIB",
-     "votes": 4758,
+     "votes": null,
      "pct": 1.6
     },
     {
      "name": "Clifton Brown",
      "party": "UNA",
-     "votes": 4735,
+     "votes": null,
      "pct": 1.6
     }
-   ]
+   ],
+   "totalVotes": 316796
   },
   {
    "id": "CO-04",
    "status": "Counting",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "84%",
    "dem": {
     "name": "Eileen Laubacher",
     "votes": null,
@@ -3610,17 +3610,17 @@
    "marginPts": 1.5,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.yahoo.com/news/politics/articles/live-colorado-house-results-lauren-153526851.html",
-   "asOf": "2026-11-04T10:35:00-05:00",
-   "ddhqUpdated": "2026-11-04 07:40:08.038342+00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-4-results",
+   "asOf": "2026-11-04T19:00:00-05:00",
    "others": [
     {
      "name": "Douglas Mangeris",
      "party": "LIB",
-     "votes": 10717,
+     "votes": null,
      "pct": 3.1
     }
-   ]
+   ],
+   "totalVotes": 348371
   },
   {
    "id": "NV-01",
