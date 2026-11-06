@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:32:00-05:00",
+ "updated": "2026-11-06T15:48:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1881,19 +1881,19 @@
    "reporting": "94.9%",
    "dem": {
     "name": "Chris Backemeyer",
-    "votes": 114765,
+    "votes": 114782,
     "pct": 46.15
    },
    "rep": {
     "name": "Mike Flood",
-    "votes": 125075,
-    "pct": 50.3
+    "votes": 125120,
+    "pct": 50.31
    },
-   "marginPts": -4.15,
-   "marginVotes": 10310,
+   "marginPts": -4.16,
+   "marginVotes": 10338,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-1-general-election",
-   "asOf": "2026-11-06T15:17:00-05:00",
+   "asOf": "2026-11-06T15:48:00-05:00",
    "ddhqUpdated": "2026-11-04 15:22:05.809312+00",
    "others": [
     {
@@ -1905,11 +1905,11 @@
     {
      "name": "Dan Hartong",
      "party": "AF",
-     "votes": 4307,
+     "votes": 4308,
      "pct": 1.73
     }
    ],
-   "totalVotes": 248658,
+   "totalVotes": 248721,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -1951,41 +1951,41 @@
    "reporting": "96.4%",
    "dem": {
     "name": "Dan Osborn",
-    "votes": 327652,
+    "votes": 327669,
     "pct": 43.8
    },
    "rep": {
     "name": "Pete Ricketts",
-    "votes": 375796,
+    "votes": 375832,
     "pct": 50.24
    },
    "marginPts": -6.44,
-   "marginVotes": 48144,
+   "marginVotes": 48163,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
-   "asOf": "2026-11-06T15:17:00-05:00",
+   "asOf": "2026-11-06T15:48:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Robin Richards",
      "party": "NWP",
-     "votes": 19391,
+     "votes": 19395,
      "pct": 2.59
     },
     {
      "name": "Mike Marvin",
      "party": "LMN",
-     "votes": 16133,
+     "votes": 16136,
      "pct": 2.16
     },
     {
      "name": "Chuck Conboy",
      "party": "AF",
-     "votes": 9024,
+     "votes": 9025,
      "pct": 1.21
     }
    ],
-   "totalVotes": 747996,
+   "totalVotes": 748057,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {

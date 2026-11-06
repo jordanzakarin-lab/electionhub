@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:32:00-05:00",
+ "updated": "2026-11-06T15:48:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2410,23 +2410,23 @@
    "id": "NE-AG",
    "status": "Called",
    "leader": "R",
-   "reporting": "95.7%",
+   "reporting": "95.8%",
    "dem": {
     "name": "Jocelyn Brasher",
-    "votes": 319963,
-    "pct": 43.88
+    "votes": 319979,
+    "pct": 43.87
    },
    "rep": {
     "name": "Mike Hilgers",
-    "votes": 409280,
-    "pct": 56.12
+    "votes": 409324,
+    "pct": 56.13
    },
-   "marginPts": -12.24,
-   "marginVotes": 89317,
+   "marginPts": -12.26,
+   "marginVotes": 89345,
    "calledBy": "DDHQ",
    "source": "https://www.1011now.com/politics/election-results/",
-   "asOf": "2026-11-06T15:17:00-05:00",
-   "totalVotes": 729243,
+   "asOf": "2026-11-06T15:48:00-05:00",
+   "totalVotes": 729303,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2463,38 +2463,38 @@
    "id": "NE-GOV",
    "status": "Called",
    "leader": "R",
-   "reporting": "96.5%",
+   "reporting": "96.6%",
    "dem": {
     "name": "Lynne Walz",
-    "votes": 317690,
+    "votes": 317705,
     "pct": 42.39
    },
    "rep": {
     "name": "Jim Pillen",
-    "votes": 378878,
+    "votes": 378918,
     "pct": 50.55
    },
    "marginPts": -8.16,
-   "marginVotes": 61188,
+   "marginVotes": 61213,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-governor-general-election",
-   "asOf": "2026-11-06T15:32:00-05:00",
+   "asOf": "2026-11-06T15:48:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Brett Lindstrom",
      "party": "AF",
-     "votes": 33031,
+     "votes": 33035,
      "pct": 4.41
     },
     {
      "name": "Rick Beard",
      "party": "LMN",
-     "votes": 19883,
+     "votes": 19885,
      "pct": 2.65
     }
    ],
-   "totalVotes": 749482,
+   "totalVotes": 749543,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2504,35 +2504,35 @@
    "reporting": "96.1%",
    "dem": {
     "name": "Sarah Slattery",
-    "votes": 298345,
+    "votes": 298358,
     "pct": 40.51
    },
    "rep": {
     "name": "Scott Petersen",
-    "votes": 396229,
+    "votes": 396271,
     "pct": 53.8
    },
    "marginPts": -13.29,
-   "marginVotes": 97884,
+   "marginVotes": 97913,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-secretary-of-state-general-election",
-   "asOf": "2026-11-06T15:17:00-05:00",
+   "asOf": "2026-11-06T15:48:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Paul Rumbaugh",
      "party": "NWP",
-     "votes": 22789,
+     "votes": 22794,
      "pct": 3.09
     },
     {
      "name": "Bob Krist",
      "party": "AF",
-     "votes": 19085,
+     "votes": 19087,
      "pct": 2.59
     }
    ],
-   "totalVotes": 736448,
+   "totalVotes": 736510,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2542,20 +2542,20 @@
    "reporting": "95.7%",
    "dem": {
     "name": "Daniel Ebers",
-    "votes": 302078,
+    "votes": 302095,
     "pct": 41.54
    },
    "rep": {
     "name": "Joey Spellerberg",
-    "votes": 425117,
+    "votes": 425161,
     "pct": 58.46
    },
    "marginPts": -16.92,
-   "marginVotes": 123039,
+   "marginVotes": 123066,
    "calledBy": "DDHQ",
    "source": "https://www.1011now.com/politics/election-results/",
-   "asOf": "2026-11-06T15:17:00-05:00",
-   "totalVotes": 727195,
+   "asOf": "2026-11-06T15:48:00-05:00",
+   "totalVotes": 727256,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2959,22 +2959,22 @@
    "id": "NE-LG",
    "status": "Called",
    "leader": "R",
-   "reporting": "96.5%",
+   "reporting": "96.6%",
    "dem": {
     "name": "Ben Steffen",
-    "votes": 317690,
+    "votes": 317705,
     "pct": 42.39
    },
    "rep": {
     "name": "Joe Kelly",
-    "votes": 378878,
+    "votes": 378918,
     "pct": 50.55
    },
    "marginPts": -8.16,
-   "marginVotes": 61188,
+   "marginVotes": 61213,
    "calledBy": "DDHQ",
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
-   "asOf": "2026-11-06T15:32:00-05:00",
+   "asOf": "2026-11-06T15:48:00-05:00",
    "others": [
     {
      "name": "Brett Lindstrom",
@@ -2983,7 +2983,7 @@
      "pct": 4.37
     }
    ],
-   "totalVotes": 749482,
+   "totalVotes": 749543,
    "note": "Joint ticket; counts follow NE-GOV."
   },
   {
@@ -3070,20 +3070,20 @@
    "reporting": "93.6%",
    "dem": {
     "name": "Nick Mansour",
-    "votes": 1274782,
+    "votes": 1274924,
     "pct": 53.64
    },
    "rep": {
     "name": "Elijah Norton",
-    "votes": 1101652,
+    "votes": 1101852,
     "pct": 46.36
    },
    "marginPts": 7.28,
-   "marginVotes": 173130,
+   "marginVotes": 173072,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T13:48:00-05:00",
-   "totalVotes": 2376434
+   "asOf": "2026-11-06T15:48:00-05:00",
+   "totalVotes": 2376776
   },
   {
    "id": "WY-SOS",
