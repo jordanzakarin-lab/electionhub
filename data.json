@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:32:00-05:00",
+ "updated": "2026-11-05T19:47:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2297,31 +2297,31 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "90.9%",
+   "reporting": "93.1%",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 147763,
-    "pct": 48.42
+    "votes": 150290,
+    "pct": 48.49
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 151992,
-    "pct": 49.8
+    "votes": 154125,
+    "pct": 49.72
    },
-   "marginPts": -1.38,
-   "marginVotes": 4229,
+   "marginPts": -1.23,
+   "marginVotes": 3835,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T19:32:00-05:00",
+   "asOf": "2026-11-05T19:47:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5436,
-     "pct": 1.78
+     "votes": 5550,
+     "pct": 1.79
     }
    ],
-   "totalVotes": 305191
+   "totalVotes": 309965
   },
   {
    "id": "UT-01",
@@ -2393,37 +2393,37 @@
    "id": "AZ-06",
    "status": "Called",
    "leader": "D",
-   "reporting": "84.4%",
+   "reporting": "85.4%",
    "dem": {
     "name": "JoAnna Mendoza",
-    "votes": 163778,
-    "pct": 52.95
+    "votes": 164610,
+    "pct": 52.94
    },
    "rep": {
     "name": "Juan Ciscomani",
-    "votes": 139089,
-    "pct": 44.97
+    "votes": 139798,
+    "pct": 44.96
    },
    "marginPts": 7.98,
-   "marginVotes": 24689,
+   "marginVotes": 24812,
    "calledBy": "DDHQ",
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T19:17:00-05:00",
+   "asOf": "2026-11-05T19:47:00-05:00",
    "others": [
     {
      "name": "Jereme Peters",
      "party": "LIB",
-     "votes": 3780,
-     "pct": 1.22
+     "votes": 3813,
+     "pct": 1.23
     },
     {
      "name": "Gary Swing",
      "party": "GRE",
-     "votes": 2665,
-     "pct": 0.86
+     "votes": 2696,
+     "pct": 0.87
     }
    ],
-   "totalVotes": 309312,
+   "totalVotes": 310917,
    "countSource": "https://www.azfamily.com/politics/election-results/"
   },
   {
@@ -2481,23 +2481,23 @@
    "id": "AZ-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "87.4%",
+   "reporting": "88.6%",
    "dem": {
     "name": "Elizabeth Lee",
-    "votes": 136922,
-    "pct": 48.8
+    "votes": 139123,
+    "pct": 48.7
    },
    "rep": {
     "name": "Mark Lamb",
-    "votes": 143661,
-    "pct": 51.2
+    "votes": 146563,
+    "pct": 51.3
    },
-   "marginPts": -2.4,
-   "marginVotes": 6739,
+   "marginPts": -2.6,
+   "marginVotes": 7440,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T13:17:00-05:00",
-   "totalVotes": 280583
+   "asOf": "2026-11-05T19:47:00-05:00",
+   "totalVotes": 285686
   },
   {
    "id": "AZ-08",
