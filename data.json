@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:03:00-05:00",
+ "updated": "2026-11-06T10:48:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1688,24 +1688,24 @@
    "id": "IA-03",
    "status": "Called",
    "leader": "D",
-   "reporting": "98.9%",
+   "reporting": "98.8%",
    "dem": {
     "name": "Sarah Trone Garriott",
-    "votes": 189349,
+    "votes": 189350,
     "pct": 53.64
    },
    "rep": {
     "name": "Zach Nunn",
-    "votes": 163631,
+    "votes": 163633,
     "pct": 46.36
    },
    "marginPts": 7.28,
-   "marginVotes": 25718,
+   "marginVotes": 25717,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-3-general-election",
-   "asOf": "2026-11-05T11:48:00-05:00",
+   "asOf": "2026-11-06T10:48:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 352980,
+   "totalVotes": 352983,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -1715,19 +1715,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Josh Turek",
-    "votes": 686629,
+    "votes": 686630,
     "pct": 50.51
    },
    "rep": {
     "name": "Ashley Hinson",
-    "votes": 630789,
+    "votes": 630791,
     "pct": 46.4
    },
    "marginPts": 4.11,
-   "marginVotes": 55840,
+   "marginVotes": 55839,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election",
-   "asOf": "2026-11-05T11:48:00-05:00",
+   "asOf": "2026-11-06T10:48:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "others": [
     {
@@ -1737,7 +1737,7 @@
      "pct": 3.1
     }
    ],
-   "totalVotes": 1359507,
+   "totalVotes": 1359510,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
