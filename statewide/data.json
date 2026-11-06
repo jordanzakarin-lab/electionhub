@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:17:00-05:00",
+ "updated": "2026-11-06T12:33:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2412,20 +2412,20 @@
    "reporting": "93.4%",
    "dem": {
     "name": "Jocelyn Brasher",
-    "votes": 314766,
+    "votes": 314769,
     "pct": 43.65
    },
    "rep": {
     "name": "Mike Hilgers",
-    "votes": 406384,
+    "votes": 406393,
     "pct": 56.35
    },
    "marginPts": -12.7,
-   "marginVotes": 91618,
+   "marginVotes": 91624,
    "calledBy": "DDHQ",
    "source": "https://www.1011now.com/politics/election-results/",
-   "asOf": "2026-11-05T17:32:00-05:00",
-   "totalVotes": 721150,
+   "asOf": "2026-11-06T12:33:00-05:00",
+   "totalVotes": 721162,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2465,19 +2465,19 @@
    "reporting": "94.2%",
    "dem": {
     "name": "Lynne Walz",
-    "votes": 312653,
+    "votes": 312657,
     "pct": 42.18
    },
    "rep": {
     "name": "Jim Pillen",
-    "votes": 376285,
+    "votes": 376292,
     "pct": 50.77
    },
    "marginPts": -8.59,
-   "marginVotes": 63632,
+   "marginVotes": 63635,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-governor-general-election",
-   "asOf": "2026-11-05T17:32:00-05:00",
+   "asOf": "2026-11-06T12:33:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
@@ -2489,11 +2489,11 @@
     {
      "name": "Rick Beard",
      "party": "LMN",
-     "votes": 19682,
+     "votes": 19683,
      "pct": 2.66
     }
    ],
-   "totalVotes": 741226,
+   "totalVotes": 741238,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2503,35 +2503,35 @@
    "reporting": "93.8%",
    "dem": {
     "name": "Sarah Slattery",
-    "votes": 293543,
+    "votes": 293544,
     "pct": 40.3
    },
    "rep": {
     "name": "Scott Petersen",
-    "votes": 393550,
+    "votes": 393557,
     "pct": 54.03
    },
    "marginPts": -13.73,
-   "marginVotes": 100007,
+   "marginVotes": 100013,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-secretary-of-state-general-election",
-   "asOf": "2026-11-05T17:32:00-05:00",
+   "asOf": "2026-11-06T12:33:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Paul Rumbaugh",
      "party": "NWP",
-     "votes": 22490,
+     "votes": 22492,
      "pct": 3.09
     },
     {
      "name": "Bob Krist",
      "party": "AF",
-     "votes": 18756,
+     "votes": 18757,
      "pct": 2.58
     }
    ],
-   "totalVotes": 728339,
+   "totalVotes": 728350,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2541,20 +2541,20 @@
    "reporting": "93.4%",
    "dem": {
     "name": "Daniel Ebers",
-    "votes": 297527,
+    "votes": 297530,
     "pct": 41.37
    },
    "rep": {
     "name": "Joey Spellerberg",
-    "votes": 421679,
+    "votes": 421688,
     "pct": 58.63
    },
    "marginPts": -17.26,
-   "marginVotes": 124152,
+   "marginVotes": 124158,
    "calledBy": "DDHQ",
    "source": "https://www.1011now.com/politics/election-results/",
-   "asOf": "2026-11-05T17:32:00-05:00",
-   "totalVotes": 719206,
+   "asOf": "2026-11-06T12:33:00-05:00",
+   "totalVotes": 719218,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2961,19 +2961,19 @@
    "reporting": "94.2%",
    "dem": {
     "name": "Ben Steffen",
-    "votes": 312653,
+    "votes": 312657,
     "pct": 42.18
    },
    "rep": {
     "name": "Joe Kelly",
-    "votes": 376285,
+    "votes": 376292,
     "pct": 50.77
    },
    "marginPts": -8.59,
-   "marginVotes": 63632,
+   "marginVotes": 63635,
    "calledBy": "DDHQ",
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
-   "asOf": "2026-11-05T17:32:00-05:00",
+   "asOf": "2026-11-06T12:33:00-05:00",
    "others": [
     {
      "name": "Brett Lindstrom",
@@ -2982,7 +2982,7 @@
      "pct": 4.37
     }
    ],
-   "totalVotes": 741226,
+   "totalVotes": 741238,
    "note": "Joint ticket; counts follow NE-GOV."
   },
   {

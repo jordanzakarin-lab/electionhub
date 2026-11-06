@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:33:00-05:00",
+ "updated": "2026-11-06T12:33:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1946,19 +1946,19 @@
    "reporting": "94.1%",
    "dem": {
     "name": "Dan Osborn",
-    "votes": 322646,
+    "votes": 322651,
     "pct": 43.61
    },
    "rep": {
     "name": "Pete Ricketts",
-    "votes": 373160,
+    "votes": 373167,
     "pct": 50.44
    },
    "marginPts": -6.83,
-   "marginVotes": 50514,
+   "marginVotes": 50516,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
-   "asOf": "2026-11-05T17:32:00-05:00",
+   "asOf": "2026-11-06T12:33:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
@@ -1980,7 +1980,7 @@
      "pct": 1.21
     }
    ],
-   "totalVotes": 739767,
+   "totalVotes": 739779,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
