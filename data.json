@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:32:00-05:00",
+ "updated": "2026-11-06T18:48:00-05:00",
  "sample": false,
  "races": [
   {
@@ -866,7 +866,7 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 560784,
+    "votes": 560790,
     "pct": 51.01
    },
    "rep": {
@@ -875,10 +875,10 @@
     "pct": 45.97
    },
    "marginPts": 5.04,
-   "marginVotes": 55437,
+   "marginVotes": 55443,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T18:32:00-05:00",
+   "asOf": "2026-11-06T18:48:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
@@ -888,7 +888,7 @@
      "pct": 3.02
     }
    ],
-   "totalVotes": 1099306,
+   "totalVotes": 1099312,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -2398,37 +2398,37 @@
    "id": "AZ-06",
    "status": "Called",
    "leader": "D",
-   "reporting": "89.1%",
+   "reporting": "93.8%",
    "dem": {
     "name": "JoAnna Mendoza",
-    "votes": 170823,
-    "pct": 52.72
+    "votes": 181117,
+    "pct": 53.12
    },
    "rep": {
     "name": "Juan Ciscomani",
-    "votes": 146334,
-    "pct": 45.16
+    "votes": 152546,
+    "pct": 44.74
    },
-   "marginPts": 7.56,
-   "marginVotes": 24489,
+   "marginPts": 8.38,
+   "marginVotes": 28571,
    "calledBy": "DDHQ",
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:48:00-05:00",
    "others": [
     {
      "name": "Jereme Peters",
      "party": "LIB",
-     "votes": 4043,
+     "votes": 4252,
      "pct": 1.25
     },
     {
      "name": "Gary Swing",
      "party": "GRE",
-     "votes": 2842,
-     "pct": 0.88
+     "votes": 3058,
+     "pct": 0.9
     }
    ],
-   "totalVotes": 324042,
+   "totalVotes": 340973,
    "countSource": "https://www.azfamily.com/politics/election-results/"
   },
   {
