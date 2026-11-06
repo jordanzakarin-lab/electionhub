@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:32:00-05:00",
+ "updated": "2026-11-05T22:03:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2297,31 +2297,31 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "94.3%",
+   "reporting": "95.2%",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 151804,
-    "pct": 48.62
+    "votes": 152632,
+    "pct": 48.43
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 154850,
-    "pct": 49.59
+    "votes": 156878,
+    "pct": 49.77
    },
-   "marginPts": -0.97,
-   "marginVotes": 3046,
+   "marginPts": -1.34,
+   "marginVotes": 4246,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T20:32:00-05:00",
+   "asOf": "2026-11-05T22:03:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5602,
-     "pct": 1.79
+     "votes": 5672,
+     "pct": 1.8
     }
    ],
-   "totalVotes": 312256
+   "totalVotes": 315182
   },
   {
    "id": "UT-01",
