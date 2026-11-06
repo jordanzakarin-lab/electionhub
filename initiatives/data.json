@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:51:00-05:00",
+ "updated": "2026-11-06T07:35:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -887,18 +887,24 @@
    "measure": "Residential Vacancy Tax",
    "ballotNo": "Issue 2J",
    "description": "Tax on homes empty more than 183 days a year: ~$4,000, indexed, capped at $7,000.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 19910,
+    "pct": 57.75
+   },
+   "no": {
+    "votes": 14564,
+    "pct": 42.25
+   },
+   "marginPts": 15.5,
+   "reporting": "unofficial county count",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "note": "Boulder County unofficial results (5:23 PM, time zone as shown); not called.; not refreshed this run",
+   "source": "https://electionresults.bouldercounty.gov/Home/IndexCategory/58.html",
+   "asOf": "Nov 4, 7:23 PM ET"
   },
   {
    "category": "Housing",
@@ -907,18 +913,24 @@
    "measure": "Fair and Affordable Housing Ordinance",
    "ballotNo": "Measure E",
    "description": "Caps rent increases at 5% or 60% of inflation, whichever is less, and rolls rents back to October 2025 levels.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 6348,
+    "pct": 43.74
+   },
+   "no": {
+    "votes": 8164,
+    "pct": 56.26
+   },
+   "marginPts": -12.5,
+   "reporting": "~24,000 ballots counted; 9,465 still to count",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Wed. returns per Palo Alto Daily Post / Redwood City Pulse; not called.; not refreshed this run",
+   "source": "https://padailypost.com/2026/11/04/rent-control-measure-e-is-losing/",
+   "asOf": "Nov 4, 6:07 AM ET"
   },
   {
    "category": "Housing",
@@ -2901,24 +2913,24 @@
    "measure": "Trans Student Sports Ban",
    "ballotNo": "IL26-638",
    "description": "Bars students defined as biologically male from girls' teams.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 56.8
+    "pct": 56.58
    },
    "no": {
     "votes": null,
-    "pct": 43.2
+    "pct": 43.42
    },
-   "marginPts": 13.6,
-   "reporting": "78.5% of expected vote",
-   "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:46 PM ET Nov 5); not called.",
-   "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:46 PM ET"
+   "marginPts": 13.16,
+   "reporting": "partial (not stated)",
+   "calledBy": "AP",
+   "note": "AP called it passed Wed night Nov 4 per KUOW live updates. Yes % per MultiState (56.58); vote counts not available.",
+   "source": "https://www.kuow.org/live-updates/live-updates-2026-midterm-elections-in-seattle-washington-state",
+   "asOf": "Nov 5, 8:51 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
