@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:47:00-05:00",
+ "updated": "2026-11-06T13:03:00-05:00",
  "sample": false,
  "races": [
   {
@@ -864,7 +864,7 @@
    "reporting": "98.7%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 559855,
+    "votes": 559856,
     "pct": 50.99
    },
    "rep": {
@@ -873,10 +873,10 @@
     "pct": 45.99
    },
    "marginPts": 5.0,
-   "marginVotes": 54904,
+   "marginVotes": 54905,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T12:47:00-05:00",
+   "asOf": "2026-11-06T13:03:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
@@ -886,7 +886,7 @@
      "pct": 3.02
     }
    ],
-   "totalVotes": 1097925,
+   "totalVotes": 1097926,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -2301,7 +2301,7 @@
    "reporting": "95.8%",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 153913,
+    "votes": 153920,
     "pct": 48.51
    },
    "rep": {
@@ -2310,19 +2310,19 @@
     "pct": 49.69
    },
    "marginPts": -1.18,
-   "marginVotes": 3736,
+   "marginVotes": 3729,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T22:48:00-05:00",
+   "asOf": "2026-11-06T13:03:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5701,
+     "votes": 5702,
      "pct": 1.8
     }
    ],
-   "totalVotes": 317263
+   "totalVotes": 317271
   },
   {
    "id": "UT-01",
@@ -2364,31 +2364,31 @@
    "id": "AZ-01",
    "status": "Counting",
    "leader": "D",
-   "reporting": "91.1%",
+   "reporting": "95.3%",
    "dem": {
     "name": "Amish Shah",
-    "votes": 175722,
-    "pct": 52.39
+    "votes": 179685,
+    "pct": 52.43
    },
    "rep": {
     "name": "Jay Feely",
-    "votes": 152544,
-    "pct": 45.48
+    "votes": 155688,
+    "pct": 45.43
    },
-   "marginPts": 6.91,
-   "marginVotes": 23178,
+   "marginPts": 7.0,
+   "marginVotes": 23997,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T22:48:00-05:00",
+   "asOf": "2026-11-06T13:03:00-05:00",
    "others": [
     {
      "name": "Monica Alponte",
      "party": "LIB",
-     "votes": 7118,
-     "pct": 2.12
+     "votes": 7363,
+     "pct": 2.15
     }
    ],
-   "totalVotes": 335384
+   "totalVotes": 342736
   },
   {
    "id": "AZ-06",
@@ -2482,45 +2482,45 @@
    "id": "AZ-05",
    "status": "Counting",
    "leader": "R",
-   "reporting": "94.1%",
+   "reporting": "95%",
    "dem": {
     "name": "Elizabeth Lee",
-    "votes": 147058,
-    "pct": 48.5
+    "votes": 150119,
+    "pct": 48.43
    },
    "rep": {
     "name": "Mark Lamb",
-    "votes": 156179,
-    "pct": 51.5
+    "votes": 159821,
+    "pct": 51.57
    },
-   "marginPts": -3.0,
-   "marginVotes": 9121,
+   "marginPts": -3.14,
+   "marginVotes": 9702,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T22:48:00-05:00",
-   "totalVotes": 303237
+   "asOf": "2026-11-06T13:03:00-05:00",
+   "totalVotes": 309940
   },
   {
    "id": "AZ-08",
    "status": "Counting",
    "leader": "R",
-   "reporting": "91.4%",
+   "reporting": "95.2%",
    "dem": {
     "name": "Bernadette Greene-Placentia",
-    "votes": 134378,
-    "pct": 48.68
+    "votes": 137230,
+    "pct": 48.7
    },
    "rep": {
     "name": "Abraham Hamadeh",
-    "votes": 141667,
-    "pct": 51.32
+    "votes": 144547,
+    "pct": 51.3
    },
-   "marginPts": -2.64,
-   "marginVotes": 7289,
+   "marginPts": -2.6,
+   "marginVotes": 7317,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T22:48:00-05:00",
-   "totalVotes": 276045
+   "asOf": "2026-11-06T13:03:00-05:00",
+   "totalVotes": 281777
   },
   {
    "id": "CA-23",
