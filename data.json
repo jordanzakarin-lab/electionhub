@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:32:00-05:00",
+ "updated": "2026-11-06T16:48:00-05:00",
  "sample": false,
  "races": [
   {
@@ -834,29 +834,29 @@
    "reporting": "98.6%",
    "dem": {
     "name": "Don Coover",
-    "votes": 110247,
+    "votes": 110278,
     "pct": 44.99
    },
    "rep": {
     "name": "Derek Schmidt",
-    "votes": 125640,
+    "votes": 125664,
     "pct": 51.27
    },
    "marginPts": -6.28,
-   "marginVotes": 15393,
+   "marginVotes": 15386,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-06T16:18:00-05:00",
+   "asOf": "2026-11-06T16:48:00-05:00",
    "ddhqUpdated": "2026-11-04 06:51:32.196953+00",
    "others": [
     {
      "name": "John Hauer",
      "party": "LIB",
-     "votes": 9165,
+     "votes": 9166,
      "pct": 3.74
     }
    ],
-   "totalVotes": 245052,
+   "totalVotes": 245108,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -866,29 +866,29 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 560220,
+    "votes": 560255,
     "pct": 51.0
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 505055,
+    "votes": 505072,
     "pct": 45.98
    },
    "marginPts": 5.02,
-   "marginVotes": 55165,
+   "marginVotes": 55183,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T16:32:00-05:00",
+   "asOf": "2026-11-06T16:48:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "David Graham",
      "party": "LIB",
-     "votes": 33129,
+     "votes": 33134,
      "pct": 3.02
     }
    ],
-   "totalVotes": 1098404,
+   "totalVotes": 1098461,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -1116,29 +1116,29 @@
    "reporting": "96.9%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 467829,
+    "votes": 467846,
     "pct": 49.08
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 465336,
+    "votes": 465348,
     "pct": 48.82
    },
    "marginPts": 0.26,
-   "marginVotes": 2493,
+   "marginVotes": 2498,
    "calledBy": null,
    "source": "https://www.wlbt.com/politics/election-results/",
-   "asOf": "2026-11-06T16:18:00-05:00",
+   "asOf": "2026-11-06T16:48:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 20025,
+     "votes": 20028,
      "pct": 2.1
     }
    ],
-   "totalVotes": 953190
+   "totalVotes": 953222
   },
   {
    "id": "NC-03",
