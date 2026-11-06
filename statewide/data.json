@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:48:00-05:00",
+ "updated": "2026-11-06T18:03:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1553,7 +1553,7 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Chris Mann",
-    "votes": 552355,
+    "votes": 552359,
     "pct": 50.61
    },
    "rep": {
@@ -1562,11 +1562,11 @@
     "pct": 49.39
    },
    "marginPts": 1.22,
-   "marginVotes": 13389,
+   "marginVotes": 13393,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T17:48:00-05:00",
-   "totalVotes": 1091321
+   "asOf": "2026-11-06T18:03:00-05:00",
+   "totalVotes": 1091325
   },
   {
    "id": "KS-GOV",
@@ -1575,20 +1575,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 550866,
+    "votes": 550872,
     "pct": 50.35
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 543266,
+    "votes": 543269,
     "pct": 49.65
    },
    "marginPts": 0.7,
-   "marginVotes": 7600,
+   "marginVotes": 7603,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T17:48:00-05:00",
-   "totalVotes": 1094132
+   "asOf": "2026-11-06T18:03:00-05:00",
+   "totalVotes": 1094141
   },
   {
    "id": "KS-SOS",
@@ -1628,29 +1628,29 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Juan Luengo",
-    "votes": 479431,
+    "votes": 479445,
     "pct": 44.29
    },
    "rep": {
     "name": "Steven C. Johnson",
-    "votes": 554021,
+    "votes": 554028,
     "pct": 51.18
    },
    "marginPts": -6.89,
-   "marginVotes": 74590,
+   "marginVotes": 74583,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-treasurer-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:03:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "Eric Lund",
      "party": "LIB",
-     "votes": 49063,
+     "votes": 49064,
      "pct": 4.53
     }
    ],
-   "totalVotes": 1082515,
+   "totalVotes": 1082537,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -2410,23 +2410,23 @@
    "id": "NE-AG",
    "status": "Called",
    "leader": "R",
-   "reporting": "96.5%",
+   "reporting": "96.6%",
    "dem": {
     "name": "Jocelyn Brasher",
-    "votes": 323346,
-    "pct": 44.0
+    "votes": 323433,
+    "pct": 43.97
    },
    "rep": {
     "name": "Mike Hilgers",
-    "votes": 411464,
-    "pct": 56.0
+    "votes": 412134,
+    "pct": 56.03
    },
-   "marginPts": -12.0,
-   "marginVotes": 88118,
+   "marginPts": -12.06,
+   "marginVotes": 88701,
    "calledBy": "DDHQ",
    "source": "https://www.1011now.com/politics/election-results/",
-   "asOf": "2026-11-06T17:32:00-05:00",
-   "totalVotes": 734810,
+   "asOf": "2026-11-06T18:03:00-05:00",
+   "totalVotes": 735567,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2463,99 +2463,99 @@
    "id": "NE-GOV",
    "status": "Called",
    "leader": "R",
-   "reporting": "97.3%",
+   "reporting": "97.4%",
    "dem": {
     "name": "Lynne Walz",
-    "votes": 321070,
-    "pct": 42.52
+    "votes": 321162,
+    "pct": 42.49
    },
    "rep": {
     "name": "Jim Pillen",
-    "votes": 380732,
-    "pct": 50.42
+    "votes": 381371,
+    "pct": 50.45
    },
-   "marginPts": -7.9,
-   "marginVotes": 59662,
+   "marginPts": -7.96,
+   "marginVotes": 60209,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-governor-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:03:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Brett Lindstrom",
      "party": "AF",
-     "votes": 33297,
+     "votes": 33332,
      "pct": 4.41
     },
     {
      "name": "Rick Beard",
      "party": "LMN",
-     "votes": 20042,
+     "votes": 20063,
      "pct": 2.65
     }
    ],
-   "totalVotes": 755141,
+   "totalVotes": 755928,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
    "id": "NE-SOS",
    "status": "Called",
    "leader": "R",
-   "reporting": "96.8%",
+   "reporting": "96.9%",
    "dem": {
     "name": "Sarah Slattery",
-    "votes": 301500,
-    "pct": 40.63
+    "votes": 301575,
+    "pct": 40.6
    },
    "rep": {
     "name": "Scott Petersen",
-    "votes": 398233,
-    "pct": 53.67
+    "votes": 398890,
+    "pct": 53.7
    },
-   "marginPts": -13.04,
-   "marginVotes": 96733,
+   "marginPts": -13.1,
+   "marginVotes": 97315,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-secretary-of-state-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:03:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Paul Rumbaugh",
      "party": "NWP",
-     "votes": 22986,
+     "votes": 23010,
      "pct": 3.1
     },
     {
      "name": "Bob Krist",
      "party": "AF",
-     "votes": 19303,
+     "votes": 19315,
      "pct": 2.6
     }
    ],
-   "totalVotes": 742022,
+   "totalVotes": 742790,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
    "id": "NE-TREAS",
    "status": "Called",
    "leader": "R",
-   "reporting": "96.4%",
+   "reporting": "96.5%",
    "dem": {
     "name": "Daniel Ebers",
-    "votes": 305023,
-    "pct": 41.63
+    "votes": 305109,
+    "pct": 41.6
    },
    "rep": {
     "name": "Joey Spellerberg",
-    "votes": 427609,
-    "pct": 58.37
+    "votes": 428283,
+    "pct": 58.4
    },
-   "marginPts": -16.74,
-   "marginVotes": 122586,
+   "marginPts": -16.8,
+   "marginVotes": 123174,
    "calledBy": "DDHQ",
    "source": "https://www.1011now.com/politics/election-results/",
-   "asOf": "2026-11-06T17:32:00-05:00",
-   "totalVotes": 732632,
+   "asOf": "2026-11-06T18:03:00-05:00",
+   "totalVotes": 733392,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2940,41 +2940,41 @@
    "reporting": "98.8%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 550866,
+    "votes": 550872,
     "pct": 50.35
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 543266,
+    "votes": 543269,
     "pct": 49.65
    },
    "marginPts": 0.7,
-   "marginVotes": 7600,
+   "marginVotes": 7603,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T17:48:00-05:00",
-   "totalVotes": 1094132
+   "asOf": "2026-11-06T18:03:00-05:00",
+   "totalVotes": 1094141
   },
   {
    "id": "NE-LG",
    "status": "Called",
    "leader": "R",
-   "reporting": "97.3%",
+   "reporting": "97.4%",
    "dem": {
     "name": "Ben Steffen",
-    "votes": 321070,
-    "pct": 42.52
+    "votes": 321162,
+    "pct": 42.49
    },
    "rep": {
     "name": "Joe Kelly",
-    "votes": 380732,
-    "pct": 50.42
+    "votes": 381371,
+    "pct": 50.45
    },
-   "marginPts": -7.9,
-   "marginVotes": 59662,
+   "marginPts": -7.96,
+   "marginVotes": 60209,
    "calledBy": "DDHQ",
    "source": "https://www.foxnews.com/elections/2026/midterm-results/state/nebraska",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:03:00-05:00",
    "others": [
     {
      "name": "Brett Lindstrom",
@@ -2983,7 +2983,7 @@
      "pct": 4.37
     }
    ],
-   "totalVotes": 755141,
+   "totalVotes": 755928,
    "note": "Joint ticket; counts follow NE-GOV."
   },
   {

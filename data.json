@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:48:00-05:00",
+ "updated": "2026-11-06T18:03:00-05:00",
  "sample": false,
  "races": [
   {
@@ -834,29 +834,29 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Don Coover",
-    "votes": 110660,
+    "votes": 110664,
     "pct": 45.04
    },
    "rep": {
     "name": "Derek Schmidt",
-    "votes": 125827,
+    "votes": 125828,
     "pct": 51.21
    },
    "marginPts": -6.17,
-   "marginVotes": 15167,
+   "marginVotes": 15164,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:03:00-05:00",
    "ddhqUpdated": "2026-11-04 06:51:32.196953+00",
    "others": [
     {
      "name": "John Hauer",
      "party": "LIB",
-     "votes": 9198,
+     "votes": 9201,
      "pct": 3.74
     }
    ],
-   "totalVotes": 245685,
+   "totalVotes": 245693,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -866,19 +866,19 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 560747,
+    "votes": 560753,
     "pct": 51.02
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 505231,
+    "votes": 505234,
     "pct": 45.97
    },
    "marginPts": 5.05,
-   "marginVotes": 55516,
+   "marginVotes": 55519,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T17:48:00-05:00",
+   "asOf": "2026-11-06T18:03:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
@@ -888,7 +888,7 @@
      "pct": 3.02
     }
    ],
-   "totalVotes": 1099150,
+   "totalVotes": 1099159,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -1948,44 +1948,44 @@
    "id": "NE-SEN",
    "status": "Called",
    "leader": "R",
-   "reporting": "97.2%",
+   "reporting": "97.3%",
    "dem": {
     "name": "Dan Osborn",
-    "votes": 331162,
-    "pct": 43.94
+    "votes": 331268,
+    "pct": 43.91
    },
    "rep": {
     "name": "Pete Ricketts",
-    "votes": 377649,
-    "pct": 50.11
+    "votes": 378281,
+    "pct": 50.14
    },
-   "marginPts": -6.17,
-   "marginVotes": 46487,
+   "marginPts": -6.23,
+   "marginVotes": 47013,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:03:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Robin Richards",
      "party": "NWP",
-     "votes": 19528,
+     "votes": 19545,
      "pct": 2.59
     },
     {
      "name": "Mike Marvin",
      "party": "LMN",
-     "votes": 16219,
+     "votes": 16239,
      "pct": 2.15
     },
     {
      "name": "Chuck Conboy",
      "party": "AF",
-     "votes": 9089,
+     "votes": 9097,
      "pct": 1.21
     }
    ],
-   "totalVotes": 753647,
+   "totalVotes": 754430,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
