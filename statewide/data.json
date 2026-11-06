@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:48:00-05:00",
+ "updated": "2026-11-06T12:17:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1575,20 +1575,20 @@
    "reporting": "98.7%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 549976,
+    "votes": 549983,
     "pct": 50.32
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 542930,
+    "votes": 542943,
     "pct": 49.68
    },
    "marginPts": 0.64,
-   "marginVotes": 7046,
+   "marginVotes": 7040,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T11:48:00-05:00",
-   "totalVotes": 1092906
+   "asOf": "2026-11-06T12:17:00-05:00",
+   "totalVotes": 1092926
   },
   {
    "id": "KS-SOS",
@@ -2939,20 +2939,20 @@
    "reporting": "98.7%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 549976,
+    "votes": 549983,
     "pct": 50.32
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 542930,
+    "votes": 542943,
     "pct": 49.68
    },
    "marginPts": 0.64,
-   "marginVotes": 7046,
+   "marginVotes": 7040,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T11:48:00-05:00",
-   "totalVotes": 1092906
+   "asOf": "2026-11-06T12:17:00-05:00",
+   "totalVotes": 1092926
   },
   {
    "id": "NE-LG",
