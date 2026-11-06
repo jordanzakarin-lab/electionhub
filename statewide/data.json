@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:48:00-05:00",
+ "updated": "2026-11-06T11:03:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2084,21 +2084,21 @@
    "reporting": "98.6%",
    "dem": {
     "name": "Nate Willems",
-    "votes": 681244,
+    "votes": 681247,
     "pct": 50.88
    },
    "rep": {
     "name": "Brenna Bird",
-    "votes": 657591,
+    "votes": 657596,
     "pct": 49.12
    },
    "marginPts": 1.76,
-   "marginVotes": 23653,
+   "marginVotes": 23651,
    "calledBy": "Radio Iowa",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-attorney-general-general-election",
-   "asOf": "2026-11-06T10:48:00-05:00",
+   "asOf": "2026-11-06T11:03:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1338835,
+   "totalVotes": 1338843,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2108,22 +2108,22 @@
    "reporting": "98.6%",
    "dem": {
     "name": "Taylor Wettach",
-    "votes": 666762,
+    "votes": 666765,
     "pct": 50.24
    },
    "rep": {
     "name": "Chris Cournoyer",
-    "votes": 660347,
+    "votes": 660352,
     "pct": 49.76
    },
    "marginPts": 0.48,
-   "marginVotes": 6415,
+   "marginVotes": 6413,
    "calledBy": "Concession (Chris Cournoyer)",
    "source": "https://www.yahoo.com/news/politics/articles/republican-chris-cournoyer-concedes-iowa-192904717.html",
-   "asOf": "2026-11-06T10:48:00-05:00",
+   "asOf": "2026-11-06T11:03:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "note": "Cournoyer conceded ~noon CT Wed: \"I just spoke with Taylor Wettach, and I wish him well as he serves Iowa as Auditor.\" AP had not called.",
-   "totalVotes": 1327109,
+   "totalVotes": 1327117,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2133,21 +2133,21 @@
    "reporting": "99%",
    "dem": {
     "name": "Rob Sand",
-    "votes": 757492,
+    "votes": 757495,
     "pct": 55.49
    },
    "rep": {
     "name": "Zach Lahn",
-    "votes": 607575,
+    "votes": 607580,
     "pct": 44.51
    },
    "marginPts": 10.98,
-   "marginVotes": 149917,
+   "marginVotes": 149915,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-   "asOf": "2026-11-06T10:48:00-05:00",
+   "asOf": "2026-11-06T11:03:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1365067,
+   "totalVotes": 1365075,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2157,21 +2157,21 @@
    "reporting": "98.7%",
    "dem": {
     "name": "Ryan Peterman",
-    "votes": 625986,
+    "votes": 625989,
     "pct": 46.79
    },
    "rep": {
     "name": "Paul Pate",
-    "votes": 711969,
+    "votes": 711974,
     "pct": 53.21
    },
    "marginPts": -6.42,
-   "marginVotes": 85983,
+   "marginVotes": 85985,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-secretary-of-state-general-election",
-   "asOf": "2026-11-06T10:48:00-05:00",
+   "asOf": "2026-11-06T11:03:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1337955,
+   "totalVotes": 1337963,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2181,22 +2181,22 @@
    "reporting": "98.5%",
    "dem": {
     "name": "John Norwood",
-    "votes": 655904,
+    "votes": 655907,
     "pct": 49.65
    },
    "rep": {
     "name": "Roby Smith",
-    "votes": 665126,
+    "votes": 665131,
     "pct": 50.35
    },
    "marginPts": -0.7,
-   "marginVotes": 9222,
+   "marginVotes": 9224,
    "calledBy": "Iowa Starting Line",
    "source": "https://iowastartingline.com/news/elections/iowa-2026-election-results/",
-   "asOf": "2026-11-06T10:48:00-05:00",
+   "asOf": "2026-11-06T11:03:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "note": "All 99 counties reporting (unofficial); two-party shares",
-   "totalVotes": 1321030,
+   "totalVotes": 1321038,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2916,20 +2916,20 @@
    "reporting": "99%",
    "dem": {
     "name": "Dave Muhlbauer",
-    "votes": 757492,
+    "votes": 757495,
     "pct": 55.49
    },
    "rep": {
     "name": "Derek Wulf",
-    "votes": 607575,
+    "votes": 607580,
     "pct": 44.51
    },
    "marginPts": 10.98,
-   "marginVotes": 149917,
+   "marginVotes": 149915,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-   "asOf": "2026-11-06T10:48:00-05:00",
-   "totalVotes": 1365067,
+   "asOf": "2026-11-06T11:03:00-05:00",
+   "totalVotes": 1365075,
    "note": "Joint ticket; counts follow IA-GOV."
   },
   {
