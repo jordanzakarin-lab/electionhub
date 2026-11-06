@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:17:00-05:00",
+ "updated": "2026-11-06T13:32:00-05:00",
  "sample": false,
  "races": [
   {
@@ -864,19 +864,19 @@
    "reporting": "98.7%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 559857,
+    "votes": 559859,
     "pct": 50.99
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 504952,
+    "votes": 504953,
     "pct": 45.99
    },
    "marginPts": 5.0,
-   "marginVotes": 54905,
+   "marginVotes": 54906,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T13:17:00-05:00",
+   "asOf": "2026-11-06T13:32:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
@@ -886,7 +886,7 @@
      "pct": 3.02
     }
    ],
-   "totalVotes": 1097928,
+   "totalVotes": 1097931,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
