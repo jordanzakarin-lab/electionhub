@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:02:00-05:00",
+ "updated": "2026-11-05T19:17:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2297,31 +2297,31 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "89.7%",
+   "reporting": "91%",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 144794,
-    "pct": 48.14
+    "votes": 147749,
+    "pct": 48.42
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 150665,
-    "pct": 50.09
+    "votes": 151982,
+    "pct": 49.8
    },
-   "marginPts": -1.95,
-   "marginVotes": 5871,
+   "marginPts": -1.38,
+   "marginVotes": 4233,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T19:02:00-05:00",
+   "asOf": "2026-11-05T19:17:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5341,
+     "votes": 5434,
      "pct": 1.78
     }
    ],
-   "totalVotes": 300800
+   "totalVotes": 305165
   },
   {
    "id": "UT-01",
@@ -2393,37 +2393,37 @@
    "id": "AZ-06",
    "status": "Called",
    "leader": "D",
-   "reporting": "84%",
+   "reporting": "84.4%",
    "dem": {
     "name": "JoAnna Mendoza",
-    "votes": 163211,
-    "pct": 53.01
+    "votes": 163778,
+    "pct": 52.95
    },
    "rep": {
     "name": "Juan Ciscomani",
-    "votes": 138289,
-    "pct": 44.91
+    "votes": 139089,
+    "pct": 44.97
    },
-   "marginPts": 8.1,
-   "marginVotes": 24922,
+   "marginPts": 7.98,
+   "marginVotes": 24689,
    "calledBy": "DDHQ",
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T19:02:00-05:00",
+   "asOf": "2026-11-05T19:17:00-05:00",
    "others": [
     {
      "name": "Jereme Peters",
      "party": "LIB",
-     "votes": 3756,
+     "votes": 3780,
      "pct": 1.22
     },
     {
      "name": "Gary Swing",
      "party": "GRE",
-     "votes": 2637,
+     "votes": 2665,
      "pct": 0.86
     }
    ],
-   "totalVotes": 307893,
+   "totalVotes": 309312,
    "countSource": "https://www.azfamily.com/politics/election-results/"
   },
   {
