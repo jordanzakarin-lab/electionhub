@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:33:00-05:00",
+ "updated": "2026-11-06T12:47:00-05:00",
  "sample": false,
  "races": [
   {
@@ -861,32 +861,33 @@
    "id": "KS-SEN",
    "status": "Called",
    "leader": "D",
-   "reporting": "98.8%",
+   "reporting": "98.7%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 559853,
+    "votes": 559855,
     "pct": 50.99
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 504950,
+    "votes": 504951,
     "pct": 45.99
    },
    "marginPts": 5.0,
-   "marginVotes": 54903,
+   "marginVotes": 54904,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-05T08:40:00-05:00",
+   "asOf": "2026-11-06T12:47:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "David Graham",
      "party": "LIB",
-     "votes": 33117,
+     "votes": 33119,
      "pct": 3.02
     }
    ],
-   "totalVotes": 1097920
+   "totalVotes": 1097925,
+   "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
    "id": "ME-02",
@@ -1110,32 +1111,32 @@
    "id": "MS-SEN",
    "status": "Counting",
    "leader": "D",
-   "reporting": "95.7%",
+   "reporting": "96.2%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 466959,
+    "votes": 467066,
     "pct": 49.05
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 465023,
-    "pct": 48.85
+    "votes": 465056,
+    "pct": 48.84
    },
-   "marginPts": 0.2,
-   "marginVotes": 1936,
+   "marginPts": 0.21,
+   "marginVotes": 2010,
    "calledBy": null,
    "source": "https://www.wlbt.com/politics/election-results/",
-   "asOf": "2026-11-06T10:03:00-05:00",
+   "asOf": "2026-11-06T12:47:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 20010,
+     "votes": 20011,
      "pct": 2.1
     }
    ],
-   "totalVotes": 951992
+   "totalVotes": 952133
   },
   {
    "id": "NC-03",
