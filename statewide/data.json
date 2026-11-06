@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:32:00-05:00",
+ "updated": "2026-11-06T17:48:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1553,20 +1553,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Chris Mann",
-    "votes": 552333,
+    "votes": 552355,
     "pct": 50.61
    },
    "rep": {
     "name": "Kris Kobach",
-    "votes": 538948,
+    "votes": 538966,
     "pct": 49.39
    },
    "marginPts": 1.22,
-   "marginVotes": 13385,
+   "marginVotes": 13389,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T17:18:00-05:00",
-   "totalVotes": 1091281
+   "asOf": "2026-11-06T17:48:00-05:00",
+   "totalVotes": 1091321
   },
   {
    "id": "KS-GOV",
@@ -1575,20 +1575,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 550854,
+    "votes": 550866,
     "pct": 50.35
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 543265,
+    "votes": 543266,
     "pct": 49.65
    },
    "marginPts": 0.7,
-   "marginVotes": 7589,
+   "marginVotes": 7600,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T17:32:00-05:00",
-   "totalVotes": 1094119
+   "asOf": "2026-11-06T17:48:00-05:00",
+   "totalVotes": 1094132
   },
   {
    "id": "KS-SOS",
@@ -2940,20 +2940,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 550854,
+    "votes": 550866,
     "pct": 50.35
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 543265,
+    "votes": 543266,
     "pct": 49.65
    },
    "marginPts": 0.7,
-   "marginVotes": 7589,
+   "marginVotes": 7600,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T17:32:00-05:00",
-   "totalVotes": 1094119
+   "asOf": "2026-11-06T17:48:00-05:00",
+   "totalVotes": 1094132
   },
   {
    "id": "NE-LG",
