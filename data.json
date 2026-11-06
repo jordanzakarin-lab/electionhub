@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:48:00-05:00",
+ "updated": "2026-11-06T17:02:00-05:00",
  "sample": false,
  "races": [
   {
@@ -834,19 +834,19 @@
    "reporting": "98.6%",
    "dem": {
     "name": "Don Coover",
-    "votes": 110278,
+    "votes": 110287,
     "pct": 44.99
    },
    "rep": {
     "name": "Derek Schmidt",
-    "votes": 125664,
+    "votes": 125671,
     "pct": 51.27
    },
    "marginPts": -6.28,
-   "marginVotes": 15386,
+   "marginVotes": 15384,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-06T16:48:00-05:00",
+   "asOf": "2026-11-06T17:02:00-05:00",
    "ddhqUpdated": "2026-11-04 06:51:32.196953+00",
    "others": [
     {
@@ -856,7 +856,7 @@
      "pct": 3.74
     }
    ],
-   "totalVotes": 245108,
+   "totalVotes": 245124,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -866,29 +866,29 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 560255,
-    "pct": 51.0
+    "votes": 560316,
+    "pct": 51.01
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 505072,
+    "votes": 505091,
     "pct": 45.98
    },
-   "marginPts": 5.02,
-   "marginVotes": 55183,
+   "marginPts": 5.03,
+   "marginVotes": 55225,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T16:48:00-05:00",
+   "asOf": "2026-11-06T17:02:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "David Graham",
      "party": "LIB",
-     "votes": 33134,
+     "votes": 33137,
      "pct": 3.02
     }
    ],
-   "totalVotes": 1098461,
+   "totalVotes": 1098544,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {

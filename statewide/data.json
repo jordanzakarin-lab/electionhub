@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:48:00-05:00",
+ "updated": "2026-11-06T17:02:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1553,20 +1553,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Chris Mann",
-    "votes": 551862,
+    "votes": 551916,
     "pct": 50.6
    },
    "rep": {
     "name": "Kris Kobach",
-    "votes": 538782,
+    "votes": 538803,
     "pct": 49.4
    },
    "marginPts": 1.2,
-   "marginVotes": 13080,
+   "marginVotes": 13113,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T16:48:00-05:00",
-   "totalVotes": 1090644
+   "asOf": "2026-11-06T17:02:00-05:00",
+   "totalVotes": 1090719
   },
   {
    "id": "KS-GOV",
@@ -1575,20 +1575,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 550376,
+    "votes": 550428,
     "pct": 50.33
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 543084,
+    "votes": 543104,
     "pct": 49.67
    },
    "marginPts": 0.66,
-   "marginVotes": 7292,
+   "marginVotes": 7324,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T16:48:00-05:00",
-   "totalVotes": 1093460
+   "asOf": "2026-11-06T17:02:00-05:00",
+   "totalVotes": 1093532
   },
   {
    "id": "KS-SOS",
@@ -1628,29 +1628,29 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Juan Luengo",
-    "votes": 479026,
+    "votes": 479048,
     "pct": 44.28
    },
    "rep": {
     "name": "Steven C. Johnson",
-    "votes": 553843,
+    "votes": 553856,
     "pct": 51.19
    },
    "marginPts": -6.91,
-   "marginVotes": 74817,
+   "marginVotes": 74808,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-treasurer-general-election",
-   "asOf": "2026-11-06T16:48:00-05:00",
+   "asOf": "2026-11-06T17:02:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "Eric Lund",
      "party": "LIB",
-     "votes": 49034,
+     "votes": 49035,
      "pct": 4.53
     }
    ],
-   "totalVotes": 1081903,
+   "totalVotes": 1081939,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -2940,20 +2940,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 550376,
+    "votes": 550428,
     "pct": 50.33
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 543084,
+    "votes": 543104,
     "pct": 49.67
    },
    "marginPts": 0.66,
-   "marginVotes": 7292,
+   "marginVotes": 7324,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T16:48:00-05:00",
-   "totalVotes": 1093460
+   "asOf": "2026-11-06T17:02:00-05:00",
+   "totalVotes": 1093532
   },
   {
    "id": "NE-LG",
