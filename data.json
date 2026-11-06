@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:02:00-05:00",
+ "updated": "2026-11-06T16:18:00-05:00",
  "sample": false,
  "races": [
   {
@@ -834,7 +834,7 @@
    "reporting": "98.6%",
    "dem": {
     "name": "Don Coover",
-    "votes": 110246,
+    "votes": 110247,
     "pct": 44.99
    },
    "rep": {
@@ -843,10 +843,10 @@
     "pct": 51.27
    },
    "marginPts": -6.28,
-   "marginVotes": 15394,
+   "marginVotes": 15393,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-06T15:17:00-05:00",
+   "asOf": "2026-11-06T16:18:00-05:00",
    "ddhqUpdated": "2026-11-04 06:51:32.196953+00",
    "others": [
     {
@@ -856,7 +856,7 @@
      "pct": 3.74
     }
    ],
-   "totalVotes": 245051,
+   "totalVotes": 245052,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -866,7 +866,7 @@
    "reporting": "98.7%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 559871,
+    "votes": 559872,
     "pct": 50.99
    },
    "rep": {
@@ -875,10 +875,10 @@
     "pct": 45.99
    },
    "marginPts": 5.0,
-   "marginVotes": 54909,
+   "marginVotes": 54910,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T15:32:00-05:00",
+   "asOf": "2026-11-06T16:18:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
@@ -888,7 +888,7 @@
      "pct": 3.02
     }
    ],
-   "totalVotes": 1097952,
+   "totalVotes": 1097953,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -1113,32 +1113,32 @@
    "id": "MS-SEN",
    "status": "Counting",
    "leader": "D",
-   "reporting": "96.8%",
+   "reporting": "96.9%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 467312,
-    "pct": 49.06
+    "votes": 467829,
+    "pct": 49.08
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 465183,
-    "pct": 48.84
+    "votes": 465336,
+    "pct": 48.82
    },
-   "marginPts": 0.22,
-   "marginVotes": 2129,
+   "marginPts": 0.26,
+   "marginVotes": 2493,
    "calledBy": null,
    "source": "https://www.wlbt.com/politics/election-results/",
-   "asOf": "2026-11-06T16:02:00-05:00",
+   "asOf": "2026-11-06T16:18:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 20017,
+     "votes": 20025,
      "pct": 2.1
     }
    ],
-   "totalVotes": 952512
+   "totalVotes": 953190
   },
   {
    "id": "NC-03",
@@ -2302,31 +2302,31 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "95.9%",
+   "reporting": "96.8%",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 154138,
-    "pct": 48.51
+    "votes": 155585,
+    "pct": 48.49
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 157880,
-    "pct": 49.69
+    "votes": 159466,
+    "pct": 49.7
    },
-   "marginPts": -1.18,
-   "marginVotes": 3742,
+   "marginPts": -1.21,
+   "marginVotes": 3881,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T15:17:00-05:00",
+   "asOf": "2026-11-06T16:18:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5719,
-     "pct": 1.8
+     "votes": 5806,
+     "pct": 1.81
     }
    ],
-   "totalVotes": 317737
+   "totalVotes": 320857
   },
   {
    "id": "UT-01",
