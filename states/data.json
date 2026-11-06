@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:00:00-05:00",
+ "updated": "2026-11-06T17:18:59-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -25744,7 +25744,9 @@
    "status": "Called",
    "leader": "D",
    "dem": {
-    "name": "Veleria Levy"
+    "name": "Veleria Levy",
+    "votes": 23971,
+    "pct": 100.0
    },
    "reporting": "uncontested",
    "calledBy": "Uncontested (Ballotpedia candidate list)",
@@ -25752,7 +25754,13 @@
    "asOf": "Nov 4, 11:18 AM ET",
    "flip": true,
    "note": "Nasif Majeed (listed unaffiliated) held the seat; only a Democrat on the general ballot",
-   "sweep": "Nov 4 uncontested flips"
+   "sweep": "Nov 4 uncontested flips",
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 23971,
+   "totalVotes": 23971,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
@@ -25761,7 +25769,9 @@
    "status": "Called",
    "leader": "D",
    "dem": {
-    "name": "Rodney Sadler"
+    "name": "Rodney Sadler",
+    "votes": 33231,
+    "pct": 100.0
    },
    "reporting": "uncontested",
    "calledBy": "Uncontested (Ballotpedia candidate list)",
@@ -25769,7 +25779,13 @@
    "asOf": "Nov 4, 11:18 AM ET",
    "flip": true,
    "note": "Carla Cunningham (listed unaffiliated) held the seat; only a Democrat on the general ballot",
-   "sweep": "Nov 4 uncontested flips"
+   "sweep": "Nov 4 uncontested flips",
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 33231,
+   "totalVotes": 33231,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:16:09-05:00"
   },
   {
    "state": "CT",
@@ -77014,7 +77030,7 @@
    "chamber": "House",
    "district": "1",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77023,14 +77039,30 @@
    "note": "Winner(s) per MultiState results table: Ed Goodwin (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Miriam Rollin",
+    "votes": 14880,
+    "pct": 39.9
+   },
+   "rep": {
+    "name": "Edward C. Goodwin",
+    "votes": 22436,
+    "pct": 60.1
+   },
+   "other": 0,
+   "marginPts": -20.2,
+   "marginVotes": 7556,
+   "totalVotes": 37316,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "2",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77039,14 +77071,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Ray Jeffers (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Ray Jeffers",
+    "votes": 28177,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 28177,
+   "totalVotes": 28177,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "3",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77055,14 +77098,30 @@
    "note": "Winner(s) per MultiState results table: Steve Tyson (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Diannia Bright",
+    "votes": 15547,
+    "pct": 41.7
+   },
+   "rep": {
+    "name": "Steve Tyson",
+    "votes": 20885,
+    "pct": 56.0
+   },
+   "other": 888,
+   "marginPts": -14.3,
+   "marginVotes": 5338,
+   "totalVotes": 37320,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "4",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77071,14 +77130,30 @@
    "note": "Winner(s) per MultiState results table: Jimmy Dixon (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Vernon Moore",
+    "votes": 11204,
+    "pct": 44.8
+   },
+   "rep": {
+    "name": "Jimmy Dixon",
+    "votes": 13780,
+    "pct": 55.2
+   },
+   "other": 0,
+   "marginPts": -10.4,
+   "marginVotes": 2576,
+   "totalVotes": 24984,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "6",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77087,14 +77162,30 @@
    "note": "Winner(s) per MultiState results table: Joe Pike (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Tony Spears",
+    "votes": 13887,
+    "pct": 48.9
+   },
+   "rep": {
+    "name": "Joe Pike",
+    "votes": 14489,
+    "pct": 51.1
+   },
+   "other": 0,
+   "marginPts": -2.2,
+   "marginVotes": 602,
+   "totalVotes": 28376,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "7",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77103,14 +77194,30 @@
    "note": "Winner(s) per MultiState results table: Mark Speed (D). Flipped R to D.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mark Speed",
+    "votes": 19901,
+    "pct": 51.6
+   },
+   "rep": {
+    "name": "Cory Thornton",
+    "votes": 18698,
+    "pct": 48.4
+   },
+   "other": 0,
+   "marginPts": 3.2,
+   "marginVotes": 1203,
+   "totalVotes": 38599,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "8",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77119,14 +77226,30 @@
    "note": "Winner(s) per MultiState results table: Gloristine Brown (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Gloristine Brown",
+    "votes": 18488,
+    "pct": 71.3
+   },
+   "rep": {
+    "name": "Cathy Thorne Bynum",
+    "votes": 7440,
+    "pct": 28.7
+   },
+   "other": 0,
+   "marginPts": 42.6,
+   "marginVotes": 11048,
+   "totalVotes": 25928,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "10",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77135,14 +77258,30 @@
    "note": "Winner(s) per MultiState results table: John Bell (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Zyaire Webb",
+    "votes": 13180,
+    "pct": 45.1
+   },
+   "rep": {
+    "name": "John Bell",
+    "votes": 16019,
+    "pct": 54.9
+   },
+   "other": 0,
+   "marginPts": -9.8,
+   "marginVotes": 2839,
+   "totalVotes": 29199,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "11",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77151,14 +77290,30 @@
    "note": "Winner(s) per MultiState results table: Allison Dahle (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Allison A. Dahle",
+    "votes": 30013,
+    "pct": 81.4
+   },
+   "rep": {
+    "name": "Matthew Kordon",
+    "votes": 6854,
+    "pct": 18.6
+   },
+   "other": 0,
+   "marginPts": 62.8,
+   "marginVotes": 23159,
+   "totalVotes": 36867,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:55:04-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "12",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77167,14 +77322,30 @@
    "note": "Winner(s) per MultiState results table: Chris Humphrey (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Don Hardy",
+    "votes": 14153,
+    "pct": 47.9
+   },
+   "rep": {
+    "name": "Chris Humphrey",
+    "votes": 15422,
+    "pct": 52.1
+   },
+   "other": 0,
+   "marginPts": -4.2,
+   "marginVotes": 1269,
+   "totalVotes": 29575,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "13",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77183,14 +77354,30 @@
    "note": "Winner(s) per MultiState results table: Celeste Cairns (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jason Moore",
+    "votes": 13595,
+    "pct": 34.8
+   },
+   "rep": {
+    "name": "Celeste Cairns",
+    "votes": 25511,
+    "pct": 65.2
+   },
+   "other": 0,
+   "marginPts": -30.4,
+   "marginVotes": 11916,
+   "totalVotes": 39106,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "14",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77199,14 +77386,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Wyatt Gable (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "rep": {
+    "name": "Wyatt Gable",
+    "votes": 10557,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 10557,
+   "totalVotes": 10557,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:13:33-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "15",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77215,14 +77413,30 @@
    "note": "Winner(s) per MultiState results table: Phil Shepard (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Christopher Schulte",
+    "votes": 10328,
+    "pct": 43.1
+   },
+   "rep": {
+    "name": "Phillip Shepard",
+    "votes": 13610,
+    "pct": 56.9
+   },
+   "other": 0,
+   "marginPts": -13.8,
+   "marginVotes": 3282,
+   "totalVotes": 23938,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:13:33-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "16",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77231,14 +77445,30 @@
    "note": "Winner(s) per MultiState results table: Carson Smith (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jim Harris",
+    "votes": 13111,
+    "pct": 37.4
+   },
+   "rep": {
+    "name": "Carson Smith",
+    "votes": 21921,
+    "pct": 62.6
+   },
+   "other": 0,
+   "marginPts": -25.2,
+   "marginVotes": 8810,
+   "totalVotes": 35032,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:58:28-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "17",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77247,14 +77477,30 @@
    "note": "Winner(s) per MultiState results table: Frank Iler (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Dennis A. Breen",
+    "votes": 25019,
+    "pct": 45.5
+   },
+   "rep": {
+    "name": "Frank Iler",
+    "votes": 29965,
+    "pct": 54.5
+   },
+   "other": 0,
+   "marginPts": -9.0,
+   "marginVotes": 4946,
+   "totalVotes": 54984,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "18",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77263,14 +77509,30 @@
    "note": "Winner(s) per MultiState results table: Deb Butler (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Deb Butler",
+    "votes": 24899,
+    "pct": 70.4
+   },
+   "rep": {
+    "name": "Latisha Grady",
+    "votes": 10460,
+    "pct": 29.6
+   },
+   "other": 0,
+   "marginPts": 40.8,
+   "marginVotes": 14439,
+   "totalVotes": 35359,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "19",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77279,14 +77541,30 @@
    "note": "Winner(s) per MultiState results table: Charlie Miller (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Scott Nasiff",
+    "votes": 24093,
+    "pct": 44.8
+   },
+   "rep": {
+    "name": "Charlie Miller",
+    "votes": 29735,
+    "pct": 55.2
+   },
+   "other": 0,
+   "marginPts": -10.4,
+   "marginVotes": 5642,
+   "totalVotes": 53828,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "21",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77295,14 +77573,30 @@
    "note": "Winner(s) per MultiState results table: Ya Liu (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Ya Liu",
+    "votes": 29171,
+    "pct": 71.3
+   },
+   "rep": {
+    "name": "Bryson Johnson",
+    "votes": 11722,
+    "pct": 28.7
+   },
+   "other": 0,
+   "marginPts": 42.6,
+   "marginVotes": 17449,
+   "totalVotes": 40893,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:14:03-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "22",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77311,14 +77605,25 @@
    "note": "Winner(s) per MultiState results table: Wellie Jackson (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "rep": {
+    "name": "Wellie Jackson",
+    "votes": 19106,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 19106,
+   "totalVotes": 19106,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "23",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77327,14 +77632,30 @@
    "note": "Winner(s) per MultiState results table: Patricia Smith (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Patricia Smith",
+    "votes": 20679,
+    "pct": 61.5
+   },
+   "rep": {
+    "name": "Brent Roberson",
+    "votes": 12968,
+    "pct": 38.5
+   },
+   "other": 0,
+   "marginPts": 23.0,
+   "marginVotes": 7711,
+   "totalVotes": 33647,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "26",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77343,14 +77664,30 @@
    "note": "Winner(s) per MultiState results table: L'Bertrice Solomon (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "L'Bertrice Solomon",
+    "votes": 21655,
+    "pct": 53.0
+   },
+   "rep": {
+    "name": "Donna McDowell White",
+    "votes": 19212,
+    "pct": 47.0
+   },
+   "other": 0,
+   "marginPts": 6.0,
+   "marginVotes": 2443,
+   "totalVotes": 40867,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "27",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77359,14 +77696,30 @@
    "note": "Winner(s) per MultiState results table: Rodney Pierce (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Rodney D. Pierce",
+    "votes": 20657,
+    "pct": 63.5
+   },
+   "rep": {
+    "name": "David Woodson",
+    "votes": 11864,
+    "pct": 36.5
+   },
+   "other": 0,
+   "marginPts": 27.0,
+   "marginVotes": 8793,
+   "totalVotes": 32521,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "28",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77375,14 +77728,30 @@
    "note": "Winner(s) per MultiState results table: Larry Strickland (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "D. Matthew Bailey",
+    "votes": 12241,
+    "pct": 41.7
+   },
+   "rep": {
+    "name": "Larry C. Strickland",
+    "votes": 17117,
+    "pct": 58.3
+   },
+   "other": 0,
+   "marginPts": -16.6,
+   "marginVotes": 4876,
+   "totalVotes": 29358,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "29",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77391,14 +77760,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Vernetta Alston (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Vernetta Alston",
+    "votes": 40935,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 40935,
+   "totalVotes": 40935,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "30",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77407,14 +77787,30 @@
    "note": "Winner(s) per MultiState results table: Marcia Morey (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Marcia Morey",
+    "votes": 34703,
+    "pct": 93.0
+   },
+   "rep": {
+    "name": "Ray Ubinger",
+    "votes": 2627,
+    "pct": 7.0
+   },
+   "other": 0,
+   "marginPts": 86.0,
+   "marginVotes": 32076,
+   "totalVotes": 37330,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "31",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77423,14 +77819,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Zack Hawkins (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Zack Hawkins",
+    "votes": 37012,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 37012,
+   "totalVotes": 37012,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "33",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77439,14 +77846,30 @@
    "note": "Winner(s) per MultiState results table: Monika Johnson-Hostler (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Monika Johnson-Hostler",
+    "votes": 29474,
+    "pct": 79.1
+   },
+   "rep": {
+    "name": "Matthew Orr",
+    "votes": 7793,
+    "pct": 20.9
+   },
+   "other": 0,
+   "marginPts": 58.2,
+   "marginVotes": 21681,
+   "totalVotes": 37267,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "34",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77455,14 +77878,30 @@
    "note": "Winner(s) per MultiState results table: Tim Longest (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Tim Longest",
+    "votes": 29813,
+    "pct": 81.6
+   },
+   "rep": {
+    "name": "Ed George",
+    "votes": 6731,
+    "pct": 18.4
+   },
+   "other": 0,
+   "marginPts": 63.2,
+   "marginVotes": 23082,
+   "totalVotes": 36544,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "36",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77471,14 +77910,30 @@
    "note": "Winner(s) per MultiState results table: Julie von Haefen (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Julie von Haefen",
+    "votes": 26677,
+    "pct": 63.0
+   },
+   "rep": {
+    "name": "Mary Insprucker",
+    "votes": 15686,
+    "pct": 37.0
+   },
+   "other": 0,
+   "marginPts": 26.0,
+   "marginVotes": 10991,
+   "totalVotes": 42363,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:14:03-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "38",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77487,14 +77942,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Abraham P. Jones (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Abe Jones",
+    "votes": 27817,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 27817,
+   "totalVotes": 27817,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "39",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77503,14 +77969,30 @@
    "note": "Winner(s) per MultiState results table: James Roberson (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "James A. Roberson",
+    "votes": 29894,
+    "pct": 72.6
+   },
+   "rep": {
+    "name": "Jorge Cordova",
+    "votes": 10332,
+    "pct": 25.1
+   },
+   "other": 962,
+   "marginPts": 47.5,
+   "marginVotes": 19562,
+   "totalVotes": 41188,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "40",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77519,14 +78001,30 @@
    "note": "Winner(s) per MultiState results table: Phil Rubin (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Phil Rubin",
+    "votes": 31473,
+    "pct": 80.8
+   },
+   "rep": {
+    "name": "Lucas Everett Jones",
+    "votes": 7478,
+    "pct": 19.2
+   },
+   "other": 0,
+   "marginPts": 61.6,
+   "marginVotes": 23995,
+   "totalVotes": 38951,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:14:03-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "41",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77535,14 +78033,30 @@
    "note": "Winner(s) per MultiState results table: Maria Cervania (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Maria Cervania",
+    "votes": 27656,
+    "pct": 76.2
+   },
+   "rep": {
+    "name": "Bruce Forster",
+    "votes": 8619,
+    "pct": 23.8
+   },
+   "other": 0,
+   "marginPts": 52.4,
+   "marginVotes": 19037,
+   "totalVotes": 36275,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:14:03-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "42",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77551,14 +78065,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Mike Colvin (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mike Colvin",
+    "votes": 14691,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 14691,
+   "totalVotes": 14691,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:32:36-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "43",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77567,14 +78092,30 @@
    "note": "Winner(s) per MultiState results table: Janene Ackles (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Janene Ackles",
+    "votes": 15814,
+    "pct": 52.1
+   },
+   "rep": {
+    "name": "Diane Wheatley",
+    "votes": 14530,
+    "pct": 47.9
+   },
+   "other": 0,
+   "marginPts": 4.2,
+   "marginVotes": 1284,
+   "totalVotes": 30344,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:32:36-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "44",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77583,14 +78124,25 @@
    "note": "Winner(s) per MultiState results table: Charles Smith (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Charles Smith",
+    "votes": 17814,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 17814,
+   "totalVotes": 17814,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:32:36-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "45",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77599,14 +78151,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Frances Jackson (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Frances Jackson",
+    "votes": 17968,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 17968,
+   "totalVotes": 17968,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:32:36-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "46",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77615,14 +78178,30 @@
    "note": "Winner(s) per MultiState results table: Brenden Jones (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Brittany Newton",
+    "votes": 10273,
+    "pct": 40.5
+   },
+   "rep": {
+    "name": "Brenden H. Jones",
+    "votes": 15074,
+    "pct": 59.5
+   },
+   "other": 0,
+   "marginPts": -19.0,
+   "marginVotes": 4801,
+   "totalVotes": 25347,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "47",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77631,14 +78210,30 @@
    "note": "Winner(s) per MultiState results table: John Lowery (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Eshonda Hooper",
+    "votes": 9531,
+    "pct": 46.0
+   },
+   "rep": {
+    "name": "John L. Lowery",
+    "votes": 11173,
+    "pct": 54.0
+   },
+   "other": 0,
+   "marginPts": -8.0,
+   "marginVotes": 1642,
+   "totalVotes": 20704,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "49",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77647,14 +78242,30 @@
    "note": "Winner(s) per MultiState results table: Cynthia Ball (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Cynthia Ball",
+    "votes": 25262,
+    "pct": 79.0
+   },
+   "rep": {
+    "name": "Daran Thomas",
+    "votes": 6711,
+    "pct": 21.0
+   },
+   "other": 0,
+   "marginPts": 58.0,
+   "marginVotes": 18551,
+   "totalVotes": 31973,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "50",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77663,14 +78274,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Renée Price (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Renee A. Price",
+    "votes": 29976,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 29976,
+   "totalVotes": 29976,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "52",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77679,14 +78301,30 @@
    "note": "Winner(s) per MultiState results table: Ben Moss (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Joe Parfitt",
+    "votes": 14841,
+    "pct": 48.3
+   },
+   "rep": {
+    "name": "Ben Moss",
+    "votes": 15889,
+    "pct": 51.7
+   },
+   "other": 0,
+   "marginPts": -3.4,
+   "marginVotes": 1048,
+   "totalVotes": 30730,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "53",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77695,14 +78333,30 @@
    "note": "Winner(s) per MultiState results table: Howard Penny (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Kevin G. Thurman",
+    "votes": 15787,
+    "pct": 46.3
+   },
+   "rep": {
+    "name": "Howard L. Penny, Jr.",
+    "votes": 17570,
+    "pct": 51.6
+   },
+   "other": 722,
+   "marginPts": -5.3,
+   "marginVotes": 1783,
+   "totalVotes": 34079,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "54",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77711,14 +78365,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Robert Reives (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Robert T. Reives II",
+    "votes": 30519,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 30519,
+   "totalVotes": 30519,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "55",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77727,14 +78392,30 @@
    "note": "Winner(s) per MultiState results table: Clancy Baucom (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "John J. Kirkpatrick IV",
+    "votes": 12594,
+    "pct": 44.2
+   },
+   "rep": {
+    "name": "Clancy Baucom",
+    "votes": 15907,
+    "pct": 55.8
+   },
+   "other": 0,
+   "marginPts": -11.6,
+   "marginVotes": 3313,
+   "totalVotes": 28501,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "56",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77743,14 +78424,30 @@
    "note": "Winner(s) per MultiState results table: Allen Buansi (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Allen Buansi",
+    "votes": 35365,
+    "pct": 93.1
+   },
+   "rep": {
+    "name": "Matthew P. Clements",
+    "votes": 2616,
+    "pct": 6.9
+   },
+   "other": 0,
+   "marginPts": 86.2,
+   "marginVotes": 32749,
+   "totalVotes": 37981,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:44:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "57",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77759,14 +78456,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Tracy Clark (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Tracy Clark",
+    "votes": 28829,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 28829,
+   "totalVotes": 28829,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:16:09-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "58",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77775,14 +78483,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Amos Quick (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Amos Quick",
+    "votes": 24991,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 24991,
+   "totalVotes": 24991,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "59",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77791,14 +78510,30 @@
    "note": "Winner(s) per MultiState results table: Elma Hairston (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Elma Hairston",
+    "votes": 22405,
+    "pct": 51.8
+   },
+   "rep": {
+    "name": "Alan Branson",
+    "votes": 20812,
+    "pct": 48.2
+   },
+   "other": 0,
+   "marginPts": 3.6,
+   "marginVotes": 1593,
+   "totalVotes": 43217,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "60",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77807,14 +78542,30 @@
    "note": "Winner(s) per MultiState results table: Amanda Cook (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Amanda Cook",
+    "votes": 20212,
+    "pct": 72.5
+   },
+   "rep": {
+    "name": "Joseph Perrotta",
+    "votes": 7650,
+    "pct": 27.5
+   },
+   "other": 0,
+   "marginPts": 45.0,
+   "marginVotes": 12562,
+   "totalVotes": 27862,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "61",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77823,14 +78574,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Mary Harrison (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mary Price (Pricey) Harrison",
+    "votes": 28790,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 28790,
+   "totalVotes": 28790,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "64",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77839,14 +78601,30 @@
    "note": "Winner(s) per MultiState results table: LeVon Barnes (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "LeVon Barnes",
+    "votes": 18261,
+    "pct": 52.7
+   },
+   "rep": {
+    "name": "Dennis Riddell",
+    "votes": 16373,
+    "pct": 47.3
+   },
+   "other": 0,
+   "marginPts": 5.4,
+   "marginVotes": 1888,
+   "totalVotes": 34634,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "65",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77855,14 +78633,30 @@
    "note": "Winner(s) per MultiState results table: Seth Woodall (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Gavin McGaughey",
+    "votes": 12456,
+    "pct": 36.8
+   },
+   "rep": {
+    "name": "Seth Woodall",
+    "votes": 21413,
+    "pct": 63.2
+   },
+   "other": 0,
+   "marginPts": -26.4,
+   "marginVotes": 8957,
+   "totalVotes": 33869,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "66",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77871,14 +78665,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Sarah Crawford (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Sarah Crawford",
+    "votes": 29620,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 29620,
+   "totalVotes": 29620,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "67",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77887,14 +78692,30 @@
    "note": "Winner(s) per MultiState results table: Cody Huneycutt (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jocelyn Torres",
+    "votes": 10631,
+    "pct": 32.1
+   },
+   "rep": {
+    "name": "Cody Huneycutt",
+    "votes": 22475,
+    "pct": 67.9
+   },
+   "other": 0,
+   "marginPts": -35.8,
+   "marginVotes": 11844,
+   "totalVotes": 33106,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "68",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77903,14 +78724,30 @@
    "note": "Winner(s) per MultiState results table: David Willis (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Derek Warriner",
+    "votes": 19017,
+    "pct": 46.8
+   },
+   "rep": {
+    "name": "David Willis",
+    "votes": 21658,
+    "pct": 53.2
+   },
+   "other": 0,
+   "marginPts": -6.4,
+   "marginVotes": 2641,
+   "totalVotes": 40675,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "69",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77919,14 +78756,30 @@
    "note": "Winner(s) per MultiState results table: Dean Arp (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Heidi Sinsley",
+    "votes": 17920,
+    "pct": 46.6
+   },
+   "rep": {
+    "name": "Dean Arp",
+    "votes": 20575,
+    "pct": 53.4
+   },
+   "other": 0,
+   "marginPts": -6.8,
+   "marginVotes": 2655,
+   "totalVotes": 38495,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "70",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77935,14 +78788,30 @@
    "note": "Winner(s) per MultiState results table: Brian Biggs (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "William (Bill) McCaskill",
+    "votes": 9291,
+    "pct": 32.9
+   },
+   "rep": {
+    "name": "Brian Biggs",
+    "votes": 18928,
+    "pct": 67.1
+   },
+   "other": 0,
+   "marginPts": -34.2,
+   "marginVotes": 9637,
+   "totalVotes": 28219,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "71",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77951,14 +78820,30 @@
    "note": "Winner(s) per MultiState results table: Kanika Brown (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Kanika Brown",
+    "votes": 25156,
+    "pct": 88.1
+   },
+   "rep": {
+    "name": "Mathew Mena",
+    "votes": 3410,
+    "pct": 11.9
+   },
+   "other": 0,
+   "marginPts": 76.2,
+   "marginVotes": 21746,
+   "totalVotes": 28566,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "72",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77967,14 +78852,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Amber Baker (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Amber M. Baker",
+    "votes": 24655,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 24655,
+   "totalVotes": 24655,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "75",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -77983,14 +78879,30 @@
    "note": "Winner(s) per MultiState results table: Jen Wiles (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jen Wiles",
+    "votes": 18503,
+    "pct": 54.0
+   },
+   "rep": {
+    "name": "Donny C. Lambeth",
+    "votes": 15782,
+    "pct": 46.0
+   },
+   "other": 0,
+   "marginPts": 8.0,
+   "marginVotes": 2721,
+   "totalVotes": 34285,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "76",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -77999,14 +78911,30 @@
    "note": "Winner(s) per MultiState results table: Greg Edds (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Scott Huffman",
+    "votes": 14166,
+    "pct": 46.8
+   },
+   "rep": {
+    "name": "Greg Edds",
+    "votes": 16091,
+    "pct": 53.2
+   },
+   "other": 0,
+   "marginPts": -6.4,
+   "marginVotes": 1925,
+   "totalVotes": 30257,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "77",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78015,14 +78943,30 @@
    "note": "Winner(s) per MultiState results table: Julia Howard (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Sabrina Harris",
+    "votes": 10511,
+    "pct": 29.2
+   },
+   "rep": {
+    "name": "Julia Howard",
+    "votes": 25470,
+    "pct": 70.8
+   },
+   "other": 0,
+   "marginPts": -41.6,
+   "marginVotes": 14959,
+   "totalVotes": 35981,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "78",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78031,14 +78975,30 @@
    "note": "Winner(s) per MultiState results table: Neal Jackson (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Matt Holway",
+    "votes": 11430,
+    "pct": 31.8
+   },
+   "rep": {
+    "name": "Neal Jackson",
+    "votes": 24521,
+    "pct": 68.2
+   },
+   "other": 0,
+   "marginPts": -36.4,
+   "marginVotes": 13091,
+   "totalVotes": 35951,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "79",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78047,14 +79007,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Darren Armstrong (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "rep": {
+    "name": "Darren Armstrong",
+    "votes": 26399,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 26399,
+   "totalVotes": 26399,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-06T15:48:37-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "80",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78063,14 +79034,30 @@
    "note": "Winner(s) per MultiState results table: Sam Watford (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "JacQuez Johnson",
+    "votes": 9272,
+    "pct": 32.0
+   },
+   "rep": {
+    "name": "Sam Watford",
+    "votes": 19706,
+    "pct": 68.0
+   },
+   "other": 0,
+   "marginPts": -36.0,
+   "marginVotes": 10434,
+   "totalVotes": 28978,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "81",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78079,14 +79066,30 @@
    "note": "Winner(s) per MultiState results table: Larry Potts (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Dylan R. Tucker",
+    "votes": 11521,
+    "pct": 36.6
+   },
+   "rep": {
+    "name": "Larry W. Potts",
+    "votes": 19943,
+    "pct": 63.4
+   },
+   "other": 0,
+   "marginPts": -26.8,
+   "marginVotes": 8422,
+   "totalVotes": 31464,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "82",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78095,14 +79098,30 @@
    "note": "Winner(s) per MultiState results table: Chris Bishopp (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Chris Bishopp",
+    "votes": 20956,
+    "pct": 56.0
+   },
+   "rep": {
+    "name": "Brian Echevarria",
+    "votes": 16481,
+    "pct": 44.0
+   },
+   "other": 0,
+   "marginPts": 12.0,
+   "marginVotes": 4475,
+   "totalVotes": 37437,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "83",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78111,14 +79130,30 @@
    "note": "Winner(s) per MultiState results table: Grant Campbell (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Johnnie Jones",
+    "votes": 14126,
+    "pct": 43.6
+   },
+   "rep": {
+    "name": "Grant Campbell",
+    "votes": 18240,
+    "pct": 56.4
+   },
+   "other": 0,
+   "marginPts": -12.8,
+   "marginVotes": 4114,
+   "totalVotes": 32366,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "84",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78127,14 +79162,25 @@
    "note": "Winner(s) per MultiState results table: Jeff McNeely (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "rep": {
+    "name": "Jeffrey C. McNeely",
+    "votes": 22235,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 22235,
+   "totalVotes": 22235,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "85",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78143,14 +79189,30 @@
    "note": "Winner(s) per MultiState results table: Dudley Greene (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Suzanne Gavenus",
+    "votes": 12416,
+    "pct": 35.0
+   },
+   "rep": {
+    "name": "Dudley Greene",
+    "votes": 23012,
+    "pct": 65.0
+   },
+   "other": 0,
+   "marginPts": -30.0,
+   "marginVotes": 10596,
+   "totalVotes": 35428,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "86",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78159,14 +79221,30 @@
    "note": "Winner(s) per MultiState results table: Hugh Blackwell (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Wesley E. Hendrix",
+    "votes": 10965,
+    "pct": 36.6
+   },
+   "rep": {
+    "name": "Hugh Blackwell",
+    "votes": 19007,
+    "pct": 63.4
+   },
+   "other": 0,
+   "marginPts": -26.8,
+   "marginVotes": 8042,
+   "totalVotes": 29972,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "87",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78175,14 +79253,30 @@
    "note": "Winner(s) per MultiState results table: Destin Hall (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Iris Bender",
+    "votes": 9834,
+    "pct": 33.4
+   },
+   "rep": {
+    "name": "Destin Hall",
+    "votes": 19635,
+    "pct": 66.6
+   },
+   "other": 0,
+   "marginPts": -33.2,
+   "marginVotes": 9801,
+   "totalVotes": 29469,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "88",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78191,14 +79285,30 @@
    "note": "Winner(s) per MultiState results table: Mary Belk (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mary Belk",
+    "votes": 23537,
+    "pct": 78.0
+   },
+   "rep": {
+    "name": "Ray Craig",
+    "votes": 6640,
+    "pct": 22.0
+   },
+   "other": 0,
+   "marginPts": 56.0,
+   "marginVotes": 16897,
+   "totalVotes": 30177,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:16:09-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "89",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78207,14 +79317,30 @@
    "note": "Winner(s) per MultiState results table: Mitchell Setzer (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Robert (Spider) Thompson",
+    "votes": 11488,
+    "pct": 32.5
+   },
+   "rep": {
+    "name": "Mitchell Smith Setzer",
+    "votes": 23905,
+    "pct": 67.5
+   },
+   "other": 0,
+   "marginPts": -35.0,
+   "marginVotes": 12417,
+   "totalVotes": 35393,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "90",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78223,14 +79349,30 @@
    "note": "Winner(s) per MultiState results table: Dan Kiger (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Ken Badgett",
+    "votes": 8703,
+    "pct": 29.2
+   },
+   "rep": {
+    "name": "Dan Kiger",
+    "votes": 21120,
+    "pct": 70.8
+   },
+   "other": 0,
+   "marginPts": -41.6,
+   "marginVotes": 12417,
+   "totalVotes": 29823,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "91",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78239,14 +79381,30 @@
    "note": "Winner(s) per MultiState results table: Kyle Hall (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Lucille Puckett",
+    "votes": 12693,
+    "pct": 40.8
+   },
+   "rep": {
+    "name": "Kyle Hall",
+    "votes": 18405,
+    "pct": 59.2
+   },
+   "other": 0,
+   "marginPts": -18.4,
+   "marginVotes": 5712,
+   "totalVotes": 31098,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "92",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78255,14 +79413,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Terry L Brown (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Terry Brown",
+    "votes": 29574,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 29574,
+   "totalVotes": 29574,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:44:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "94",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78271,14 +79440,30 @@
    "note": "Winner(s) per MultiState results table: Blair Eddins (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Andy Warren",
+    "votes": 8479,
+    "pct": 27.4
+   },
+   "rep": {
+    "name": "Blair Eddins",
+    "votes": 22432,
+    "pct": 72.6
+   },
+   "other": 0,
+   "marginPts": -45.2,
+   "marginVotes": 13953,
+   "totalVotes": 30911,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "95",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78287,14 +79472,30 @@
    "note": "Winner(s) per MultiState results table: Todd Carver (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Michael Robinson",
+    "votes": 15767,
+    "pct": 44.1
+   },
+   "rep": {
+    "name": "Richard (Todd) Carver",
+    "votes": 19963,
+    "pct": 55.9
+   },
+   "other": 0,
+   "marginPts": -11.8,
+   "marginVotes": 4196,
+   "totalVotes": 35730,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "96",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78303,14 +79504,30 @@
    "note": "Winner(s) per MultiState results table: Jay Adams (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Park Inglefield",
+    "votes": 14351,
+    "pct": 45.4
+   },
+   "rep": {
+    "name": "Jay Adams",
+    "votes": 17288,
+    "pct": 54.6
+   },
+   "other": 0,
+   "marginPts": -9.2,
+   "marginVotes": 2937,
+   "totalVotes": 31639,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "97",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78319,14 +79536,30 @@
    "note": "Winner(s) per MultiState results table: Heather Rhyne (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Greg McBryde",
+    "votes": 12545,
+    "pct": 33.0
+   },
+   "rep": {
+    "name": "Heather Rhyne",
+    "votes": 25490,
+    "pct": 67.0
+   },
+   "other": 0,
+   "marginPts": -34.0,
+   "marginVotes": 12945,
+   "totalVotes": 38035,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "98",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78335,14 +79568,30 @@
    "note": "Winner(s) per MultiState results table: Beth Gardner Helfrich (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Beth Helfrich",
+    "votes": 23447,
+    "pct": 60.1
+   },
+   "rep": {
+    "name": "John Rhodes",
+    "votes": 15589,
+    "pct": 39.9
+   },
+   "other": 0,
+   "marginPts": 20.2,
+   "marginVotes": 7858,
+   "totalVotes": 39036,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "100",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78351,14 +79600,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Julia Greenfield (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Julia Greenfield",
+    "votes": 22364,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 22364,
+   "totalVotes": 22364,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:16:09-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "101",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78367,14 +79627,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Carolyn Logan (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Carolyn G. Logan",
+    "votes": 27021,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 27021,
+   "totalVotes": 27021,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "102",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78383,14 +79654,25 @@
    "note": "Winner(s) per MultiState results table: Becky Carney (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Becky Carney",
+    "votes": 31920,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 31920,
+   "totalVotes": 31920,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "103",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78399,14 +79681,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Laura Budd (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Laura Budd",
+    "votes": 25645,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 25645,
+   "totalVotes": 25645,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "104",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78415,14 +79708,30 @@
    "note": "Winner(s) per MultiState results table: Brandon Lofton (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Brandon Lofton",
+    "votes": 24901,
+    "pct": 65.0
+   },
+   "rep": {
+    "name": "Trina Boyd",
+    "votes": 13432,
+    "pct": 35.0
+   },
+   "other": 0,
+   "marginPts": 30.0,
+   "marginVotes": 11469,
+   "totalVotes": 38333,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "107",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78431,14 +79740,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Aisha Dew (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Aisha O. Dew",
+    "votes": 29696,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 29696,
+   "totalVotes": 29696,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "108",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78447,14 +79767,30 @@
    "note": "Winner(s) per MultiState results table: John Torbett (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Sydnie Hutchinson",
+    "votes": 14304,
+    "pct": 46.0
+   },
+   "rep": {
+    "name": "John A. Torbett",
+    "votes": 16794,
+    "pct": 54.0
+   },
+   "other": 0,
+   "marginPts": -8.0,
+   "marginVotes": 2490,
+   "totalVotes": 31098,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "109",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78463,14 +79799,30 @@
    "note": "Winner(s) per MultiState results table: Mark Carver (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mark D. Carver",
+    "votes": 18775,
+    "pct": 51.6
+   },
+   "rep": {
+    "name": "Donnie Loftis",
+    "votes": 17598,
+    "pct": 48.4
+   },
+   "other": 0,
+   "marginPts": 3.2,
+   "marginVotes": 1177,
+   "totalVotes": 36373,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "110",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78479,14 +79831,30 @@
    "note": "Winner(s) per MultiState results table: Caroline Eason (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mary Silver",
+    "votes": 12081,
+    "pct": 42.0
+   },
+   "rep": {
+    "name": "Caroline Eason",
+    "votes": 16704,
+    "pct": 58.0
+   },
+   "other": 0,
+   "marginPts": -16.0,
+   "marginVotes": 4623,
+   "totalVotes": 28785,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "111",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78495,14 +79863,30 @@
    "note": "Winner(s) per MultiState results table: Paul Scott (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jerry Blake",
+    "votes": 9598,
+    "pct": 34.0
+   },
+   "rep": {
+    "name": "Paul Scott",
+    "votes": 18619,
+    "pct": 66.0
+   },
+   "other": 0,
+   "marginPts": -32.0,
+   "marginVotes": 9021,
+   "totalVotes": 28217,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "112",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78511,14 +79895,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Jordan Lopez (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jordan Lopez",
+    "votes": 26324,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 26324,
+   "totalVotes": 26324,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:16:09-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "113",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78527,14 +79922,30 @@
    "note": "Winner(s) per MultiState results table: Jake Johnson (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "John Morgan",
+    "votes": 16343,
+    "pct": 41.4
+   },
+   "rep": {
+    "name": "Jake Johnson",
+    "votes": 23090,
+    "pct": 58.6
+   },
+   "other": 0,
+   "marginPts": -17.2,
+   "marginVotes": 6747,
+   "totalVotes": 39433,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "114",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78543,14 +79954,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Eric Ager (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Eric Ager",
+    "votes": 32833,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 32833,
+   "totalVotes": 32833,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "115",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78559,14 +79981,30 @@
    "note": "Winner(s) per MultiState results table: Lindsey Prather (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Lindsey Prather",
+    "votes": 24407,
+    "pct": 60.1
+   },
+   "rep": {
+    "name": "Anthony J. Penland",
+    "votes": 16236,
+    "pct": 39.9
+   },
+   "other": 0,
+   "marginPts": 20.2,
+   "marginVotes": 8171,
+   "totalVotes": 40643,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "116",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78575,14 +80013,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Brian Turner (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Brian Turner",
+    "votes": 38732,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 38732,
+   "totalVotes": 38732,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "117",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78591,14 +80040,30 @@
    "note": "Winner(s) per MultiState results table: Lynne Russo (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Lynne Russo",
+    "votes": 22710,
+    "pct": 51.7
+   },
+   "rep": {
+    "name": "Chelsea Walsh",
+    "votes": 21180,
+    "pct": 48.3
+   },
+   "other": 0,
+   "marginPts": 3.4,
+   "marginVotes": 1530,
+   "totalVotes": 43890,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "119",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78607,14 +80072,30 @@
    "note": "Winner(s) per MultiState results table: Mark R. Burrows (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mark Burrows",
+    "votes": 19523,
+    "pct": 52.4
+   },
+   "rep": {
+    "name": "Anna Ferguson",
+    "votes": 17726,
+    "pct": 47.6
+   },
+   "other": 0,
+   "marginPts": 4.8,
+   "marginVotes": 1797,
+   "totalVotes": 37249,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "120",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78623,14 +80104,30 @@
    "note": "Winner(s) per MultiState results table: Karl Gillespie (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Caleb Brown",
+    "votes": 12120,
+    "pct": 32.1
+   },
+   "rep": {
+    "name": "Karl Gillespie",
+    "votes": 25619,
+    "pct": 67.9
+   },
+   "other": 0,
+   "marginPts": -35.8,
+   "marginVotes": 13499,
+   "totalVotes": 37739,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "1",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78639,14 +80136,30 @@
    "note": "Winner(s) per MultiState results table: Jerry R. Tillett (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Melissa Zehner",
+    "votes": 39504,
+    "pct": 47.9
+   },
+   "rep": {
+    "name": "Jerry Tillett",
+    "votes": 42924,
+    "pct": 52.1
+   },
+   "other": 0,
+   "marginPts": -4.2,
+   "marginVotes": 3420,
+   "totalVotes": 82428,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T09:18:06-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "2",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78655,14 +80168,30 @@
    "note": "Winner(s) per MultiState results table: Norman Sanderson (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Roy Surrett",
+    "votes": 40530,
+    "pct": 46.2
+   },
+   "rep": {
+    "name": "Norman Sanderson",
+    "votes": 47174,
+    "pct": 53.8
+   },
+   "other": 0,
+   "marginPts": -7.6,
+   "marginVotes": 6644,
+   "totalVotes": 87704,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-06T15:48:37-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "3",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78671,14 +80200,30 @@
    "note": "Winner(s) per MultiState results table: Bob Brinson (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Charles Dudley",
+    "votes": 36279,
+    "pct": 45.0
+   },
+   "rep": {
+    "name": "Bob Brinson",
+    "votes": 44365,
+    "pct": 55.0
+   },
+   "other": 0,
+   "marginPts": -10.0,
+   "marginVotes": 8086,
+   "totalVotes": 80644,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "4",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78687,14 +80232,30 @@
    "note": "Winner(s) per MultiState results table: Jess Rivera (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jessica (Jess) Rivera",
+    "votes": 37539,
+    "pct": 51.1
+   },
+   "rep": {
+    "name": "Buck Newton",
+    "votes": 35962,
+    "pct": 48.9
+   },
+   "other": 0,
+   "marginPts": 2.2,
+   "marginVotes": 1577,
+   "totalVotes": 73501,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:55:04-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "5",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78703,14 +80264,30 @@
    "note": "Winner(s) per MultiState results table: Kandie Smith (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Kandie D. Smith",
+    "votes": 49446,
+    "pct": 61.7
+   },
+   "rep": {
+    "name": "Henry Hostetler",
+    "votes": 30638,
+    "pct": 38.3
+   },
+   "other": 0,
+   "marginPts": 23.4,
+   "marginVotes": 18808,
+   "totalVotes": 80084,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "6",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78719,14 +80296,30 @@
    "note": "Winner(s) per MultiState results table: Michael Lazzara (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Andi Morrow",
+    "votes": 19841,
+    "pct": 39.7
+   },
+   "rep": {
+    "name": "Michael Anthony Lazzara",
+    "votes": 30152,
+    "pct": 60.3
+   },
+   "other": 0,
+   "marginPts": -20.6,
+   "marginVotes": 10311,
+   "totalVotes": 49993,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:13:33-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "7",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78735,14 +80328,30 @@
    "note": "Winner(s) per MultiState results table: Jessica Bichler (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jessica Bichler",
+    "votes": 48310,
+    "pct": 52.6
+   },
+   "rep": {
+    "name": "Michael Lee",
+    "votes": 43469,
+    "pct": 47.4
+   },
+   "other": 0,
+   "marginPts": 5.2,
+   "marginVotes": 4841,
+   "totalVotes": 91779,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "8",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78751,14 +80360,30 @@
    "note": "Winner(s) per MultiState results table: Bill Rabon (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Richard (Rick) Combes",
+    "votes": 51954,
+    "pct": 45.6
+   },
+   "rep": {
+    "name": "Bill Rabon",
+    "votes": 59369,
+    "pct": 52.2
+   },
+   "other": 2502,
+   "marginPts": -6.6,
+   "marginVotes": 7415,
+   "totalVotes": 113825,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "9",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78767,14 +80392,25 @@
    "note": "Winner(s) per MultiState results table: Brent Jackson (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "rep": {
+    "name": "Brent Jackson",
+    "votes": 48386,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": -100.0,
+   "marginVotes": 48386,
+   "totalVotes": 48386,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:58:28-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "12",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78783,14 +80419,30 @@
    "note": "Winner(s) per MultiState results table: Jim Burgin (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Tanya White Anderson",
+    "votes": 32358,
+    "pct": 48.2
+   },
+   "rep": {
+    "name": "Jim Burgin",
+    "votes": 34783,
+    "pct": 51.8
+   },
+   "other": 0,
+   "marginPts": -3.6,
+   "marginVotes": 2425,
+   "totalVotes": 67141,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "13",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78799,14 +80451,30 @@
    "note": "Winner(s) per MultiState results table: Lisa Grafstein (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Lisa Grafstein",
+    "votes": 63834,
+    "pct": 60.8
+   },
+   "rep": {
+    "name": "Robert van Brederode",
+    "votes": 41169,
+    "pct": 39.2
+   },
+   "other": 0,
+   "marginPts": 21.6,
+   "marginVotes": 22665,
+   "totalVotes": 105003,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "14",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78815,14 +80483,30 @@
    "note": "Winner(s) per MultiState results table: Dan Blue (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Dan Blue",
+    "votes": 67944,
+    "pct": 82.0
+   },
+   "rep": {
+    "name": "Angela B. McCarty",
+    "votes": 14912,
+    "pct": 18.0
+   },
+   "other": 0,
+   "marginPts": 64.0,
+   "marginVotes": 53032,
+   "totalVotes": 82856,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "15",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78831,14 +80515,30 @@
    "note": "Winner(s) per MultiState results table: Jay Chaudhuri (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jay J. Chaudhuri",
+    "votes": 61375,
+    "pct": 75.1
+   },
+   "rep": {
+    "name": "David Bankert",
+    "votes": 20368,
+    "pct": 24.9
+   },
+   "other": 0,
+   "marginPts": 50.2,
+   "marginVotes": 41007,
+   "totalVotes": 81743,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:23:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "16",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78847,14 +80547,30 @@
    "note": "Winner(s) per MultiState results table: Gale Adcock (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Gale Adcock",
+    "votes": 66706,
+    "pct": 74.6
+   },
+   "rep": {
+    "name": "Philip Hensley",
+    "votes": 20952,
+    "pct": 23.4
+   },
+   "other": 1748,
+   "marginPts": 51.2,
+   "marginVotes": 45754,
+   "totalVotes": 89406,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:55:04-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "17",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78863,14 +80579,30 @@
    "note": "Winner(s) per MultiState results table: Sydney Batch (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mrs. Sydney Batch",
+    "votes": 61644,
+    "pct": 72.7
+   },
+   "rep": {
+    "name": "Shirley Johnson",
+    "votes": 21392,
+    "pct": 25.2
+   },
+   "other": 1763,
+   "marginPts": 47.5,
+   "marginVotes": 40252,
+   "totalVotes": 84799,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:14:03-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "19",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78879,14 +80611,30 @@
    "note": "Winner(s) per MultiState results table: Val Applewhite (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Val Applewhite",
+    "votes": 45407,
+    "pct": 73.6
+   },
+   "rep": {
+    "name": "Venus de la Cruz",
+    "votes": 16319,
+    "pct": 26.4
+   },
+   "other": 0,
+   "marginPts": 47.2,
+   "marginVotes": 29088,
+   "totalVotes": 61726,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:32:36-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "20",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78895,14 +80643,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Natalie Murdock (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Natalie S. Murdock",
+    "votes": 85371,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 85371,
+   "totalVotes": 85371,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "21",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78911,14 +80670,30 @@
    "note": "Winner(s) per MultiState results table: Tom McInnis (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Paul Taylor",
+    "votes": 35149,
+    "pct": 45.6
+   },
+   "rep": {
+    "name": "Tom McInnis",
+    "votes": 41901,
+    "pct": 54.4
+   },
+   "other": 0,
+   "marginPts": -8.8,
+   "marginVotes": 6752,
+   "totalVotes": 77050,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:32:36-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "22",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78927,14 +80702,30 @@
    "note": "Winner(s) per MultiState results table: Sophia Chitlik (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Sophia Chitlik",
+    "votes": 72857,
+    "pct": 85.3
+   },
+   "rep": {
+    "name": "LaKeshia M. Alston",
+    "votes": 12600,
+    "pct": 14.7
+   },
+   "other": 0,
+   "marginPts": 70.6,
+   "marginVotes": 60257,
+   "totalVotes": 85457,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "23",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78943,14 +80734,30 @@
    "note": "Winner(s) per MultiState results table: Jonah Garson (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Jonah Garson",
+    "votes": 69311,
+    "pct": 72.6
+   },
+   "rep": {
+    "name": "Laura Pichardo",
+    "votes": 26191,
+    "pct": 27.4
+   },
+   "other": 0,
+   "marginPts": 45.2,
+   "marginVotes": 43120,
+   "totalVotes": 95502,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:44:50-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "25",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78959,14 +80766,30 @@
    "note": "Winner(s) per MultiState results table: Amy Galey (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Southey Blanton",
+    "votes": 40046,
+    "pct": 48.4
+   },
+   "rep": {
+    "name": "Amy Scott Galey",
+    "votes": 42643,
+    "pct": 51.6
+   },
+   "other": 0,
+   "marginPts": -3.2,
+   "marginVotes": 2597,
+   "totalVotes": 82689,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "26",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -78975,14 +80798,30 @@
    "note": "Winner(s) per MultiState results table: Sam Page (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Steve Luking",
+    "votes": 43202,
+    "pct": 46.2
+   },
+   "rep": {
+    "name": "Sam Page",
+    "votes": 50217,
+    "pct": 53.8
+   },
+   "other": 0,
+   "marginPts": -7.6,
+   "marginVotes": 7015,
+   "totalVotes": 93419,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "27",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -78991,14 +80830,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Michael Garrett (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Michael K. Garrett",
+    "votes": 61203,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 61203,
+   "totalVotes": 61203,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "28",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -79007,14 +80857,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Gladys Robinson (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Gladys A. Robinson",
+    "votes": 61097,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 61097,
+   "totalVotes": 61097,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "29",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79023,14 +80884,30 @@
    "note": "Winner(s) per MultiState results table: Dave Craven (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Judy Little",
+    "votes": 27537,
+    "pct": 39.0
+   },
+   "rep": {
+    "name": "Dave Craven",
+    "votes": 43081,
+    "pct": 61.0
+   },
+   "other": 0,
+   "marginPts": -22.0,
+   "marginVotes": 15544,
+   "totalVotes": 70618,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "30",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79039,14 +80916,30 @@
    "note": "Winner(s) per MultiState results table: Steve Jarvis (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Pamela D. McAfee",
+    "votes": 26741,
+    "pct": 33.9
+   },
+   "rep": {
+    "name": "Steve Jarvis",
+    "votes": 52180,
+    "pct": 66.1
+   },
+   "other": 0,
+   "marginPts": -32.2,
+   "marginVotes": 25439,
+   "totalVotes": 78921,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "31",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79055,14 +80948,30 @@
    "note": "Winner(s) per MultiState results table: Dana Jones (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Andy Bowline",
+    "votes": 43110,
+    "pct": 46.3
+   },
+   "rep": {
+    "name": "Dana Caudill Jones",
+    "votes": 49941,
+    "pct": 53.7
+   },
+   "other": 0,
+   "marginPts": -7.4,
+   "marginVotes": 6831,
+   "totalVotes": 93051,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "32",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -79071,14 +80980,30 @@
    "note": "Winner(s) per MultiState results table: Paul Lowe (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Paul Lowe, Jr.",
+    "votes": 56997,
+    "pct": 75.9
+   },
+   "rep": {
+    "name": "Peter Antinozzi",
+    "votes": 16728,
+    "pct": 22.3
+   },
+   "other": 1357,
+   "marginPts": 53.6,
+   "marginVotes": 40269,
+   "totalVotes": 75082,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "33",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79087,14 +81012,30 @@
    "note": "Winner(s) per MultiState results table: Carl Ford (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Gary R. Weart",
+    "votes": 28074,
+    "pct": 37.5
+   },
+   "rep": {
+    "name": "Carl Ford",
+    "votes": 46721,
+    "pct": 62.5
+   },
+   "other": 0,
+   "marginPts": -25.0,
+   "marginVotes": 18647,
+   "totalVotes": 74795,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "34",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -79103,14 +81044,30 @@
    "note": "Winner(s) per MultiState results table: April Cook (D). Flipped R to D.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "April Cook",
+    "votes": 46750,
+    "pct": 57.7
+   },
+   "rep": {
+    "name": "Kevin Crutchfield",
+    "votes": 34328,
+    "pct": 42.3
+   },
+   "other": 0,
+   "marginPts": 15.4,
+   "marginVotes": 12422,
+   "totalVotes": 81078,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "35",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79119,14 +81076,30 @@
    "note": "Winner(s) per MultiState results table: Todd Johnson (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Christine E. Winward",
+    "votes": 44329,
+    "pct": 46.0
+   },
+   "rep": {
+    "name": "Todd Johnson",
+    "votes": 52066,
+    "pct": 54.0
+   },
+   "other": 0,
+   "marginPts": -8.0,
+   "marginVotes": 7737,
+   "totalVotes": 96395,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "36",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79135,14 +81108,30 @@
    "note": "Winner(s) per MultiState results table: Eddie Settle (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Trevor Cole Hardwick",
+    "votes": 20115,
+    "pct": 27.1
+   },
+   "rep": {
+    "name": "Eddie Settle",
+    "votes": 54065,
+    "pct": 72.9
+   },
+   "other": 0,
+   "marginPts": -45.8,
+   "marginVotes": 33950,
+   "totalVotes": 74180,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "37",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79151,14 +81140,30 @@
    "note": "Winner(s) per MultiState results table: Vickie Sawyer (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Raygan J. Angel",
+    "votes": 39588,
+    "pct": 43.4
+   },
+   "rep": {
+    "name": "Vickie Sawyer",
+    "votes": 51692,
+    "pct": 56.6
+   },
+   "other": 0,
+   "marginPts": -13.2,
+   "marginVotes": 12104,
+   "totalVotes": 91280,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "38",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -79167,14 +81172,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): Mujtaba Mohammed (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Mujtaba A. Mohammed",
+    "votes": 75088,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 75088,
+   "totalVotes": 75088,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:16:09-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "39",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -79183,14 +81199,25 @@
    "note": "Winner(s) per MultiState results table (unopposed): DeAndrea Salvador (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "DeAndrea Salvador",
+    "votes": 69536,
+    "pct": 100.0
+   },
+   "other": 0,
+   "marginPts": 100.0,
+   "marginVotes": 69536,
+   "totalVotes": 69536,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "40",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -79199,14 +81226,30 @@
    "note": "Winner(s) per MultiState results table: Joyce Waddell (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Joyce Waddell",
+    "votes": 56925,
+    "pct": 83.6
+   },
+   "rep": {
+    "name": "Bobbie Shields",
+    "votes": 11203,
+    "pct": 16.4
+   },
+   "other": 0,
+   "marginPts": 67.2,
+   "marginVotes": 45722,
+   "totalVotes": 68128,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T00:07:22-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "41",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -79215,14 +81258,30 @@
    "note": "Winner(s) per MultiState results table: Caleb Theodros (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Caleb Theodros",
+    "votes": 69771,
+    "pct": 84.5
+   },
+   "rep": {
+    "name": "Kevin Gray",
+    "votes": 12764,
+    "pct": 15.5
+   },
+   "other": 0,
+   "marginPts": 69.0,
+   "marginVotes": 57007,
+   "totalVotes": 82535,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "44",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79231,14 +81290,30 @@
    "note": "Winner(s) per MultiState results table: Ted Alexander (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Rod Powell",
+    "votes": 27752,
+    "pct": 35.6
+   },
+   "rep": {
+    "name": "Ted Alexander",
+    "votes": 50272,
+    "pct": 64.4
+   },
+   "other": 0,
+   "marginPts": -28.8,
+   "marginVotes": 22520,
+   "totalVotes": 78024,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "45",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79247,14 +81322,30 @@
    "note": "Winner(s) per MultiState results table: Mark Hollo (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Greg Cranford",
+    "votes": 29101,
+    "pct": 37.2
+   },
+   "rep": {
+    "name": "Mark Hollo",
+    "votes": 49039,
+    "pct": 62.8
+   },
+   "other": 0,
+   "marginPts": -25.6,
+   "marginVotes": 19938,
+   "totalVotes": 78140,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "46",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79263,14 +81354,30 @@
    "note": "Winner(s) per MultiState results table: Warren Daniel (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Kyle Whisnant",
+    "votes": 33287,
+    "pct": 43.9
+   },
+   "rep": {
+    "name": "Warren Daniel",
+    "votes": 42610,
+    "pct": 56.1
+   },
+   "other": 0,
+   "marginPts": -12.2,
+   "marginVotes": 9323,
+   "totalVotes": 75897,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "47",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79279,14 +81386,30 @@
    "note": "Winner(s) per MultiState results table: Ralph Hise (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Frank Patton Hughes III",
+    "votes": 38829,
+    "pct": 44.5
+   },
+   "rep": {
+    "name": "Ralph Hise",
+    "votes": 48503,
+    "pct": 55.5
+   },
+   "other": 0,
+   "marginPts": -11.0,
+   "marginVotes": 9674,
+   "totalVotes": 87332,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "48",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79295,14 +81418,30 @@
    "note": "Winner(s) per MultiState results table: Tim Moffitt (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Doyle G. Brown, Jr.",
+    "votes": 40065,
+    "pct": 44.8
+   },
+   "rep": {
+    "name": "Tim Moffitt",
+    "votes": 49359,
+    "pct": 55.2
+   },
+   "other": 0,
+   "marginPts": -10.4,
+   "marginVotes": 9294,
+   "totalVotes": 89424,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "49",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -79311,14 +81450,30 @@
    "note": "Winner(s) per MultiState results table: Julie Mayfield (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Julie Mayfield",
+    "votes": 77184,
+    "pct": 77.1
+   },
+   "rep": {
+    "name": "CJ Domingo",
+    "votes": 22866,
+    "pct": 22.9
+   },
+   "other": 0,
+   "marginPts": 54.2,
+   "marginVotes": 54318,
+   "totalVotes": 100050,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "Senate",
    "district": "50",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -79327,7 +81482,23 @@
    "note": "Winner(s) per MultiState results table: Kevin Corbin (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "sweep": "Nov 4 seat sweep 3"
+   "sweep": "Nov 4 seat sweep 3",
+   "dem": {
+    "name": "Tom Downing",
+    "votes": 39781,
+    "pct": 41.8
+   },
+   "rep": {
+    "name": "Kevin Corbin",
+    "votes": 55374,
+    "pct": 58.2
+   },
+   "other": 0,
+   "marginPts": -16.4,
+   "marginVotes": 15593,
+   "totalVotes": 95155,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "ND",
@@ -94177,7 +96348,7 @@
    "others": [],
    "rep": {
     "name": "Benton Sawrey",
-    "votes": null,
+    "votes": 43863,
     "pct": 49.7
    },
    "reporting": "All precincts",
@@ -94189,7 +96360,18 @@
    "note": "Winner(s) per North State Journal results table: Benton Sawrey (R). Votes: https://nsjonline.com/article/2026/11/general-assembly-general-election-key-race-results/ as of 2026-11-04 02:57 EDT",
    "source": "https://nsjonline.com/article/2026/11/general-assembly-general-election-key-race-results/",
    "asOf": "Nov 4, 11:26 PM ET",
-   "sweep": "Nov 5 seat sweep 7"
+   "sweep": "Nov 5 seat sweep 7",
+   "dem": {
+    "name": "Pat LeGrand",
+    "votes": 42609,
+    "pct": 48.3
+   },
+   "other": 1782,
+   "marginPts": -1.4,
+   "marginVotes": 1254,
+   "totalVotes": 88254,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NH",
@@ -104055,7 +106237,7 @@
    "chamber": "House",
    "district": "5",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
@@ -104064,7 +106246,23 @@
    "note": "Winner(s) per MultiState results table: Sam Davis III (D). Flipped R to D; Incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 5, 5:51 PM ET",
-   "sweep": "Nov 5 seat sweep 8"
+   "sweep": "Nov 5 seat sweep 8",
+   "dem": {
+    "name": "Sam Davis III",
+    "votes": 16082,
+    "pct": 52.8
+   },
+   "rep": {
+    "name": "Bill Ward",
+    "votes": 14385,
+    "pct": 47.2
+   },
+   "other": 0,
+   "marginPts": 5.6,
+   "marginVotes": 1697,
+   "totalVotes": 30467,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-04T09:18:06-05:00"
   },
   {
    "state": "NC",
@@ -104125,7 +106323,7 @@
    "chamber": "House",
    "district": "51",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "I",
    "calledBy": "MultiState",
@@ -104134,14 +106332,30 @@
    "note": "Winner(s) per MultiState results table: April Montgomery (I). Flipped R to I.",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 5, 5:51 PM ET",
-   "sweep": "Nov 5 seat sweep 8"
+   "sweep": "Nov 5 seat sweep 8",
+   "dem": {
+    "name": "April Montgomery",
+    "votes": 13919,
+    "pct": 50.7
+   },
+   "rep": {
+    "name": "Charles M. Taylor",
+    "votes": 13537,
+    "pct": 49.3
+   },
+   "other": 0,
+   "marginPts": 1.4,
+   "marginVotes": 382,
+   "totalVotes": 27456,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
    "chamber": "House",
    "district": "118",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -104150,7 +106364,23 @@
    "note": "Winner(s) per MultiState results table: Jimmy Rogers (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 5, 5:51 PM ET",
-   "sweep": "Nov 5 seat sweep 8"
+   "sweep": "Nov 5 seat sweep 8",
+   "dem": {
+    "name": "Danny E. Davis",
+    "votes": 18920,
+    "pct": 49.2
+   },
+   "rep": {
+    "name": "James M. (Jimmy) Rogers",
+    "votes": 19525,
+    "pct": 50.8
+   },
+   "other": 0,
+   "marginPts": -1.6,
+   "marginVotes": 605,
+   "totalVotes": 38445,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "NC",
@@ -104184,7 +106414,7 @@
    "chamber": "Senate",
    "district": "43",
    "others": [],
-   "reporting": "unknown",
+   "reporting": "100%",
    "status": "Called",
    "leader": "R",
    "calledBy": "MultiState",
@@ -104193,7 +106423,23 @@
    "note": "Winner(s) per MultiState results table: Brad Overcash (R).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 5, 5:51 PM ET",
-   "sweep": "Nov 5 seat sweep 8"
+   "sweep": "Nov 5 seat sweep 8",
+   "dem": {
+    "name": "Steve Rutherford",
+    "votes": 37758,
+    "pct": 49.1
+   },
+   "rep": {
+    "name": "Brad Overcash",
+    "votes": 39155,
+    "pct": 50.9
+   },
+   "other": 0,
+   "marginPts": -1.8,
+   "marginVotes": 1397,
+   "totalVotes": 76913,
+   "votesSource": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+   "votesAsOf": "2026-11-03T23:01:48-05:00"
   },
   {
    "state": "ND",
