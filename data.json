@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:19:08-05:00",
+ "updated": "2026-11-06T15:32:00-05:00",
  "sample": false,
  "races": [
   {
@@ -871,14 +871,14 @@
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 504961,
+    "votes": 504962,
     "pct": 45.99
    },
    "marginPts": 5.0,
-   "marginVotes": 54910,
+   "marginVotes": 54909,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T15:17:00-05:00",
+   "asOf": "2026-11-06T15:32:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
@@ -888,7 +888,7 @@
      "pct": 3.02
     }
    ],
-   "totalVotes": 1097951,
+   "totalVotes": 1097952,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -1113,32 +1113,32 @@
    "id": "MS-SEN",
    "status": "Counting",
    "leader": "D",
-   "reporting": "96.3%",
+   "reporting": "96.8%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 467086,
-    "pct": 49.05
+    "votes": 467153,
+    "pct": 49.06
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 465077,
+    "votes": 465124,
     "pct": 48.84
    },
-   "marginPts": 0.21,
-   "marginVotes": 2009,
+   "marginPts": 0.22,
+   "marginVotes": 2029,
    "calledBy": null,
    "source": "https://www.wlbt.com/politics/election-results/",
-   "asOf": "2026-11-06T14:48:00-05:00",
+   "asOf": "2026-11-06T15:32:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 20012,
+     "votes": 20015,
      "pct": 2.1
     }
    ],
-   "totalVotes": 952175
+   "totalVotes": 952292
   },
   {
    "id": "NC-03",
