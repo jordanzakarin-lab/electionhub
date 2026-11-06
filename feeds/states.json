@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:40:13-05:00",
+ "updated": "2026-11-05T19:02:29-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -5441,21 +5441,21 @@
    "dem": {
     "name": "Keith R. Klawitter",
     "votes": 6421,
-    "pct": 34.3
+    "pct": 34.1
    },
    "rep": {
     "name": "Geri Theis",
-    "votes": 12301,
-    "pct": 65.7
+    "votes": 12401,
+    "pct": 65.9
    },
    "other": 10,
-   "marginPts": -31.4,
-   "marginVotes": 5880,
+   "marginPts": -31.8,
+   "marginVotes": 5980,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-05T13:40:13-05:00",
+   "asOf": "2026-11-05T19:02:29-05:00",
    "feed": true,
-   "totalVotes": 18732,
+   "totalVotes": 18832,
    "state": "MN",
    "chamber": "House",
    "district": "HD-15B",
@@ -6024,22 +6024,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Dan Wilson",
-    "votes": 10704,
+    "votes": 10701,
     "pct": 55.0
    },
    "rep": {
     "name": "Aaron Repinski",
-    "votes": 8742,
+    "votes": 8741,
     "pct": 44.9
    },
    "other": 7,
    "marginPts": 10.1,
-   "marginVotes": 1962,
+   "marginVotes": 1960,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T01:20:58-05:00",
+   "asOf": "2026-11-05T19:02:29-05:00",
    "feed": true,
-   "totalVotes": 19453,
+   "totalVotes": 19449,
    "state": "MN",
    "chamber": "House",
    "district": "HD-26A",
@@ -6869,17 +6869,17 @@
    },
    "rep": {
     "name": "Wayne A Johnson",
-    "votes": 12611,
+    "votes": 12609,
     "pct": 45.9
    },
    "other": 12,
    "marginPts": 8.2,
-   "marginVotes": 2258,
+   "marginVotes": 2260,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
-   "asOf": "2026-11-04T00:29:58-05:00",
+   "asOf": "2026-11-05T19:02:29-05:00",
    "feed": true,
-   "totalVotes": 27492,
+   "totalVotes": 27490,
    "state": "MN",
    "chamber": "House",
    "district": "HD-41A",
@@ -9020,22 +9020,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Jack Hedin",
-    "votes": 19509,
+    "votes": 19506,
     "pct": 48.6
    },
    "rep": {
     "name": "Cherie Johnson",
-    "votes": 20630,
+    "votes": 20629,
     "pct": 51.4
    },
    "other": 26,
    "marginPts": -2.8,
-   "marginVotes": 1121,
+   "marginVotes": 1123,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-05T13:40:13-05:00",
+   "asOf": "2026-11-05T19:02:29-05:00",
    "feed": true,
-   "totalVotes": 40165,
+   "totalVotes": 40161,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-26",
@@ -9445,17 +9445,17 @@
    },
    "rep": {
     "name": "Tom Dippel",
-    "votes": 23184,
+    "votes": 23182,
     "pct": 47.5
    },
    "other": 42,
    "marginPts": 4.9,
-   "marginVotes": 2363,
+   "marginVotes": 2365,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
-   "asOf": "2026-11-04T02:09:51-05:00",
+   "asOf": "2026-11-05T19:02:29-05:00",
    "feed": true,
-   "totalVotes": 48773,
+   "totalVotes": 48771,
    "state": "MN",
    "chamber": "Senate",
    "district": "SD-41",
