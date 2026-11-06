@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:03:00-05:00",
+ "updated": "2026-11-06T18:18:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1553,20 +1553,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Chris Mann",
-    "votes": 552359,
+    "votes": 552381,
     "pct": 50.61
    },
    "rep": {
     "name": "Kris Kobach",
-    "votes": 538966,
+    "votes": 539072,
     "pct": 49.39
    },
    "marginPts": 1.22,
-   "marginVotes": 13393,
+   "marginVotes": 13309,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T18:03:00-05:00",
-   "totalVotes": 1091325
+   "asOf": "2026-11-06T18:18:00-05:00",
+   "totalVotes": 1091453
   },
   {
    "id": "KS-GOV",
@@ -1575,51 +1575,51 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 550872,
-    "pct": 50.35
+    "votes": 550895,
+    "pct": 50.34
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 543269,
-    "pct": 49.65
+    "votes": 543373,
+    "pct": 49.66
    },
-   "marginPts": 0.7,
-   "marginVotes": 7603,
+   "marginPts": 0.68,
+   "marginVotes": 7522,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T18:03:00-05:00",
-   "totalVotes": 1094141
+   "asOf": "2026-11-06T18:18:00-05:00",
+   "totalVotes": 1094268
   },
   {
    "id": "KS-SOS",
    "status": "Counting",
    "leader": "R",
-   "reporting": "98.7%",
+   "reporting": "98.8%",
    "dem": {
     "name": "Jennifer Day",
-    "votes": 514519,
-    "pct": 47.45
+    "votes": 515392,
+    "pct": 47.47
    },
    "rep": {
     "name": "Pat Proctor",
-    "votes": 523942,
-    "pct": 48.32
+    "votes": 524339,
+    "pct": 48.29
    },
-   "marginPts": -0.87,
-   "marginVotes": 9423,
+   "marginPts": -0.82,
+   "marginVotes": 8947,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T13:48:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "Scott Morgan",
      "party": "UKP",
-     "votes": 45943,
+     "votes": 46006,
      "pct": 4.24
     }
    ],
-   "totalVotes": 1084404
+   "totalVotes": 1085737
   },
   {
    "id": "KS-TREAS",
@@ -1628,29 +1628,29 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Juan Luengo",
-    "votes": 479445,
+    "votes": 479464,
     "pct": 44.29
    },
    "rep": {
     "name": "Steven C. Johnson",
-    "votes": 554028,
+    "votes": 554143,
     "pct": 51.18
    },
    "marginPts": -6.89,
-   "marginVotes": 74583,
+   "marginVotes": 74679,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-treasurer-general-election",
-   "asOf": "2026-11-06T18:03:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "Eric Lund",
      "party": "LIB",
-     "votes": 49064,
+     "votes": 49069,
      "pct": 4.53
     }
    ],
-   "totalVotes": 1082537,
+   "totalVotes": 1082676,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -2085,21 +2085,21 @@
    "reporting": "98.5%",
    "dem": {
     "name": "Nate Willems",
-    "votes": 681251,
+    "votes": 681255,
     "pct": 50.88
    },
    "rep": {
     "name": "Brenna Bird",
-    "votes": 657602,
+    "votes": 657607,
     "pct": 49.12
    },
    "marginPts": 1.76,
-   "marginVotes": 23649,
+   "marginVotes": 23648,
    "calledBy": "Radio Iowa",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-attorney-general-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1338853,
+   "totalVotes": 1338862,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2109,22 +2109,22 @@
    "reporting": "98.5%",
    "dem": {
     "name": "Taylor Wettach",
-    "votes": 666769,
+    "votes": 666772,
     "pct": 50.24
    },
    "rep": {
     "name": "Chris Cournoyer",
-    "votes": 660358,
+    "votes": 660364,
     "pct": 49.76
    },
    "marginPts": 0.48,
-   "marginVotes": 6411,
+   "marginVotes": 6408,
    "calledBy": "Concession (Chris Cournoyer)",
    "source": "https://www.yahoo.com/news/politics/articles/republican-chris-cournoyer-concedes-iowa-192904717.html",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "note": "Cournoyer conceded ~noon CT Wed: \"I just spoke with Taylor Wettach, and I wish him well as he serves Iowa as Auditor.\" AP had not called.",
-   "totalVotes": 1327127,
+   "totalVotes": 1327136,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2134,21 +2134,21 @@
    "reporting": "99%",
    "dem": {
     "name": "Rob Sand",
-    "votes": 757502,
+    "votes": 757506,
     "pct": 55.49
    },
    "rep": {
     "name": "Zach Lahn",
-    "votes": 607585,
+    "votes": 607591,
     "pct": 44.51
    },
    "marginPts": 10.98,
-   "marginVotes": 149917,
+   "marginVotes": 149915,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1365087,
+   "totalVotes": 1365097,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2158,21 +2158,21 @@
    "reporting": "98.7%",
    "dem": {
     "name": "Ryan Peterman",
-    "votes": 625993,
+    "votes": 625997,
     "pct": 46.79
    },
    "rep": {
     "name": "Paul Pate",
-    "votes": 711981,
+    "votes": 711986,
     "pct": 53.21
    },
    "marginPts": -6.42,
-   "marginVotes": 85988,
+   "marginVotes": 85989,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-secretary-of-state-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 1337974,
+   "totalVotes": 1337983,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2182,22 +2182,22 @@
    "reporting": "98.5%",
    "dem": {
     "name": "John Norwood",
-    "votes": 655912,
+    "votes": 655915,
     "pct": 49.65
    },
    "rep": {
     "name": "Roby Smith",
-    "votes": 665137,
+    "votes": 665143,
     "pct": 50.35
    },
    "marginPts": -0.7,
-   "marginVotes": 9225,
+   "marginVotes": 9228,
    "calledBy": "Iowa Starting Line",
    "source": "https://iowastartingline.com/news/elections/iowa-2026-election-results/",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "note": "All 99 counties reporting (unofficial); two-party shares",
-   "totalVotes": 1321049,
+   "totalVotes": 1321058,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -2917,20 +2917,20 @@
    "reporting": "99%",
    "dem": {
     "name": "Dave Muhlbauer",
-    "votes": 757502,
+    "votes": 757506,
     "pct": 55.49
    },
    "rep": {
     "name": "Derek Wulf",
-    "votes": 607585,
+    "votes": 607591,
     "pct": 44.51
    },
    "marginPts": 10.98,
-   "marginVotes": 149917,
+   "marginVotes": 149915,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
-   "totalVotes": 1365087,
+   "asOf": "2026-11-06T18:18:00-05:00",
+   "totalVotes": 1365097,
    "note": "Joint ticket; counts follow IA-GOV."
   },
   {
@@ -2940,20 +2940,20 @@
    "reporting": "98.8%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 550872,
-    "pct": 50.35
+    "votes": 550895,
+    "pct": 50.34
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 543269,
-    "pct": 49.65
+    "votes": 543373,
+    "pct": 49.66
    },
-   "marginPts": 0.7,
-   "marginVotes": 7603,
+   "marginPts": 0.68,
+   "marginVotes": 7522,
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T18:03:00-05:00",
-   "totalVotes": 1094141
+   "asOf": "2026-11-06T18:18:00-05:00",
+   "totalVotes": 1094268
   },
   {
    "id": "NE-LG",

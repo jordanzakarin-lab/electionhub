@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:03:00-05:00",
+ "updated": "2026-11-06T18:18:00-05:00",
  "sample": false,
  "races": [
   {
@@ -866,29 +866,29 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 560753,
-    "pct": 51.02
+    "votes": 560776,
+    "pct": 51.01
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 505234,
+    "votes": 505337,
     "pct": 45.97
    },
-   "marginPts": 5.05,
-   "marginVotes": 55519,
+   "marginPts": 5.04,
+   "marginVotes": 55439,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T18:03:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "David Graham",
      "party": "LIB",
-     "votes": 33172,
+     "votes": 33175,
      "pct": 3.02
     }
    ],
-   "totalVotes": 1099159,
+   "totalVotes": 1099288,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -1116,19 +1116,19 @@
    "reporting": "96.9%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 467846,
+    "votes": 467930,
     "pct": 49.08
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 465348,
-    "pct": 48.82
+    "votes": 465356,
+    "pct": 48.81
    },
-   "marginPts": 0.26,
-   "marginVotes": 2498,
+   "marginPts": 0.27,
+   "marginVotes": 2574,
    "calledBy": null,
    "source": "https://www.wlbt.com/politics/election-results/",
-   "asOf": "2026-11-06T16:48:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
@@ -1138,7 +1138,7 @@
      "pct": 2.1
     }
    ],
-   "totalVotes": 953222
+   "totalVotes": 953314
   },
   {
    "id": "NC-03",
@@ -1718,19 +1718,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Josh Turek",
-    "votes": 686638,
+    "votes": 686641,
     "pct": 50.51
    },
    "rep": {
     "name": "Ashley Hinson",
-    "votes": 630802,
+    "votes": 630808,
     "pct": 46.4
    },
    "marginPts": 4.11,
-   "marginVotes": 55836,
+   "marginVotes": 55833,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T18:18:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "others": [
     {
@@ -1740,7 +1740,7 @@
      "pct": 3.1
     }
    ],
-   "totalVotes": 1359530,
+   "totalVotes": 1359539,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
