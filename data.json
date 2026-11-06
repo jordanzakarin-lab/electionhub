@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:03:00-05:00",
+ "updated": "2026-11-06T15:17:00-05:00",
  "sample": false,
  "races": [
   {
@@ -830,22 +830,22 @@
    "id": "KS-02",
    "status": "Called",
    "leader": "R",
-   "reporting": "98.4%",
+   "reporting": "98.6%",
    "dem": {
     "name": "Don Coover",
-    "votes": 110244,
+    "votes": 110246,
     "pct": 44.99
    },
    "rep": {
     "name": "Derek Schmidt",
-    "votes": 125639,
+    "votes": 125640,
     "pct": 51.27
    },
    "marginPts": -6.28,
-   "marginVotes": 15395,
+   "marginVotes": 15394,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-05T08:40:00-05:00",
+   "asOf": "2026-11-06T15:17:00-05:00",
    "ddhqUpdated": "2026-11-04 06:51:32.196953+00",
    "others": [
     {
@@ -855,7 +855,8 @@
      "pct": 3.74
     }
    ],
-   "totalVotes": 245048
+   "totalVotes": 245051,
+   "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
    "id": "KS-SEN",
@@ -864,19 +865,19 @@
    "reporting": "98.7%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 559869,
+    "votes": 559871,
     "pct": 50.99
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 504960,
+    "votes": 504961,
     "pct": 45.99
    },
    "marginPts": 5.0,
-   "marginVotes": 54909,
+   "marginVotes": 54910,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T14:03:00-05:00",
+   "asOf": "2026-11-06T15:17:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
@@ -886,7 +887,7 @@
      "pct": 3.02
     }
    ],
-   "totalVotes": 1097948,
+   "totalVotes": 1097951,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -1692,21 +1693,21 @@
    "reporting": "98.8%",
    "dem": {
     "name": "Sarah Trone Garriott",
-    "votes": 189350,
+    "votes": 189351,
     "pct": 53.64
    },
    "rep": {
     "name": "Zach Nunn",
-    "votes": 163633,
+    "votes": 163634,
     "pct": 46.36
    },
    "marginPts": 7.28,
    "marginVotes": 25717,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-3-general-election",
-   "asOf": "2026-11-06T10:48:00-05:00",
+   "asOf": "2026-11-06T15:17:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
-   "totalVotes": 352983,
+   "totalVotes": 352985,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -1716,19 +1717,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Josh Turek",
-    "votes": 686637,
+    "votes": 686638,
     "pct": 50.51
    },
    "rep": {
     "name": "Ashley Hinson",
-    "votes": 630800,
+    "votes": 630801,
     "pct": 46.4
    },
    "marginPts": 4.11,
    "marginVotes": 55837,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election",
-   "asOf": "2026-11-06T15:03:00-05:00",
+   "asOf": "2026-11-06T15:17:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "others": [
     {
@@ -1738,7 +1739,7 @@
      "pct": 3.1
     }
    ],
-   "totalVotes": 1359527,
+   "totalVotes": 1359529,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -1876,38 +1877,38 @@
    "id": "NE-01",
    "status": "Called",
    "leader": "R",
-   "reporting": "94.8%",
+   "reporting": "94.9%",
    "dem": {
     "name": "Chris Backemeyer",
-    "votes": 114696,
-    "pct": 46.16
+    "votes": 114765,
+    "pct": 46.15
    },
    "rep": {
     "name": "Mike Flood",
-    "votes": 124990,
+    "votes": 125075,
     "pct": 50.3
    },
-   "marginPts": -4.14,
-   "marginVotes": 10294,
+   "marginPts": -4.15,
+   "marginVotes": 10310,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-1-general-election",
-   "asOf": "2026-11-06T13:17:00-05:00",
+   "asOf": "2026-11-06T15:17:00-05:00",
    "ddhqUpdated": "2026-11-04 15:22:05.809312+00",
    "others": [
     {
      "name": "Nik Sandman",
      "party": "LIB",
-     "votes": 4503,
+     "votes": 4511,
      "pct": 1.81
     },
     {
      "name": "Dan Hartong",
      "party": "AF",
-     "votes": 4301,
+     "votes": 4307,
      "pct": 1.73
     }
    ],
-   "totalVotes": 248490,
+   "totalVotes": 248658,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -1917,29 +1918,29 @@
    "reporting": "96.2%",
    "dem": {
     "name": "Denise Powell",
-    "votes": 143758,
-    "pct": 56.65
+    "votes": 143785,
+    "pct": 56.64
    },
    "rep": {
     "name": "Brinker Harding",
-    "votes": 103463,
+    "votes": 103494,
     "pct": 40.77
    },
-   "marginPts": 15.88,
-   "marginVotes": 40295,
+   "marginPts": 15.87,
+   "marginVotes": 40291,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-house-2-general-election",
-   "asOf": "2026-11-06T13:17:00-05:00",
+   "asOf": "2026-11-06T15:17:00-05:00",
    "ddhqUpdated": "2026-11-04 09:32:03.109613+00",
    "others": [
     {
      "name": "Eric Foreman",
      "party": "LIB",
-     "votes": 6553,
+     "votes": 6557,
      "pct": 2.58
     }
    ],
-   "totalVotes": 253774,
+   "totalVotes": 253836,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -1949,41 +1950,41 @@
    "reporting": "96.4%",
    "dem": {
     "name": "Dan Osborn",
-    "votes": 327555,
+    "votes": 327652,
     "pct": 43.8
    },
    "rep": {
     "name": "Pete Ricketts",
-    "votes": 375690,
+    "votes": 375796,
     "pct": 50.24
    },
    "marginPts": -6.44,
-   "marginVotes": 48135,
+   "marginVotes": 48144,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election",
-   "asOf": "2026-11-06T13:17:00-05:00",
+   "asOf": "2026-11-06T15:17:00-05:00",
    "ddhqUpdated": "2026-11-04 12:03:48.85094+00",
    "others": [
     {
      "name": "Robin Richards",
      "party": "NWP",
-     "votes": 19379,
+     "votes": 19391,
      "pct": 2.59
     },
     {
      "name": "Mike Marvin",
      "party": "LMN",
-     "votes": 16122,
+     "votes": 16133,
      "pct": 2.16
     },
     {
      "name": "Chuck Conboy",
      "party": "AF",
-     "votes": 9022,
+     "votes": 9024,
      "pct": 1.21
     }
    ],
-   "totalVotes": 747768,
+   "totalVotes": 747996,
    "countSource": "https://www.1011now.com/politics/election-results/"
   },
   {
@@ -2300,31 +2301,31 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "95.8%",
+   "reporting": "95.9%",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 153983,
-    "pct": 48.52
+    "votes": 154138,
+    "pct": 48.51
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 157677,
-    "pct": 49.68
+    "votes": 157880,
+    "pct": 49.69
    },
-   "marginPts": -1.16,
-   "marginVotes": 3694,
+   "marginPts": -1.18,
+   "marginVotes": 3742,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T13:48:00-05:00",
+   "asOf": "2026-11-06T15:17:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5710,
+     "votes": 5719,
      "pct": 1.8
     }
    ],
-   "totalVotes": 317370
+   "totalVotes": 317737
   },
   {
    "id": "UT-01",
