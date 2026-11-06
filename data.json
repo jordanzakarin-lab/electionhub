@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:18:00-05:00",
+ "updated": "2026-11-06T11:33:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1658,14 +1658,14 @@
    },
    "rep": {
     "name": "Joe Mitchell",
-    "votes": 157722,
+    "votes": 157723,
     "pct": 45.56
    },
    "marginPts": 3.98,
-   "marginVotes": 13790,
+   "marginVotes": 13789,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-2-general-election",
-   "asOf": "2026-11-05T09:10:00-05:00",
+   "asOf": "2026-11-06T11:33:00-05:00",
    "ddhqUpdated": "2026-11-04 07:01:36.592417+00",
    "others": [
     {
@@ -1681,7 +1681,7 @@
      "pct": 2.16
     }
    ],
-   "totalVotes": 346203,
+   "totalVotes": 346204,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -1720,14 +1720,14 @@
    },
    "rep": {
     "name": "Ashley Hinson",
-    "votes": 630796,
+    "votes": 630798,
     "pct": 46.4
    },
    "marginPts": 4.11,
-   "marginVotes": 55839,
+   "marginVotes": 55837,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election",
-   "asOf": "2026-11-06T11:18:00-05:00",
+   "asOf": "2026-11-06T11:33:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "others": [
     {
@@ -1737,7 +1737,7 @@
      "pct": 3.1
     }
    ],
-   "totalVotes": 1359521,
+   "totalVotes": 1359523,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
