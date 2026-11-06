@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:48:00-05:00",
+ "updated": "2026-11-06T14:17:00-05:00",
  "sample": false,
  "races": [
   {
@@ -160,32 +160,32 @@
    "id": "ME-GOV",
    "status": "Called",
    "leader": "D",
-   "reporting": "93.4%",
+   "reporting": "93.6%",
    "dem": {
     "name": "Hannah Pingree",
-    "votes": 386653,
-    "pct": 54.51
+    "votes": 387226,
+    "pct": 54.49
    },
    "rep": {
     "name": "Bobby Charles",
-    "votes": 265308,
-    "pct": 37.4
+    "votes": 265982,
+    "pct": 37.43
    },
-   "marginPts": 17.11,
-   "marginVotes": 121345,
+   "marginPts": 17.06,
+   "marginVotes": 121244,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/maine-governor-general-election",
-   "asOf": "2026-11-06T13:32:00-05:00",
+   "asOf": "2026-11-06T14:17:00-05:00",
    "ddhqUpdated": "2026-11-04 16:19:49.271668+00",
    "others": [
     {
      "name": "Rick Bennett",
      "party": "IND",
-     "votes": 57351,
+     "votes": 57478,
      "pct": 8.09
     }
    ],
-   "totalVotes": 709312,
+   "totalVotes": 710686,
    "countSource": "https://www.wabi.tv/politics/election-results/"
   },
   {
