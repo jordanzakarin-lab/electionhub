@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:15:00-05:00",
+ "updated": "2026-11-06T10:03:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1113,29 +1113,29 @@
    "reporting": "95.7%",
    "dem": {
     "name": "Scott Colom",
-    "votes": 466775,
-    "pct": 49.04
+    "votes": 466959,
+    "pct": 49.05
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 464962,
+    "votes": 465023,
     "pct": 48.85
    },
-   "marginPts": 0.19,
-   "marginVotes": 1813,
+   "marginPts": 0.2,
+   "marginVotes": 1936,
    "calledBy": null,
    "source": "https://www.wlbt.com/politics/election-results/",
-   "asOf": "2026-11-05T17:32:00-05:00",
+   "asOf": "2026-11-06T10:03:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 20007,
+     "votes": 20010,
      "pct": 2.1
     }
    ],
-   "totalVotes": 951744
+   "totalVotes": 951992
   },
   {
    "id": "NC-03",
