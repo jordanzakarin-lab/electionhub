@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:03:00-05:00",
+ "updated": "2026-11-06T11:20:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3565,7 +3565,7 @@
    "id": "CO-03",
    "status": "Counting",
    "leader": "R",
-   "reporting": "96.9%",
+   "reporting": "97.3%",
    "dem": {
     "name": "Dwayne Romero",
     "votes": null,
@@ -3580,7 +3580,7 @@
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/colorado-house-results",
-   "asOf": "2026-11-05T22:10:00-05:00",
+   "asOf": "2026-11-06T10:53:00-05:00",
    "others": [
     {
      "name": "Cory Robertson",
@@ -3595,13 +3595,13 @@
      "pct": 1.6
     }
    ],
-   "totalVotes": 329895
+   "totalVotes": 332044
   },
   {
    "id": "CO-04",
    "status": "Counting",
    "leader": "D",
-   "reporting": "97%",
+   "reporting": "97.3%",
    "dem": {
     "name": "Eileen Laubacher",
     "votes": null,
@@ -3616,7 +3616,7 @@
    "marginVotes": null,
    "calledBy": null,
    "source": "https://www.nbcnews.com/politics/2026-elections/colorado-house-results",
-   "asOf": "2026-11-05T22:10:00-05:00",
+   "asOf": "2026-11-06T10:53:00-05:00",
    "others": [
     {
      "name": "Douglas Mangeris",
@@ -3625,7 +3625,7 @@
      "pct": 3.3
     }
    ],
-   "totalVotes": 377647
+   "totalVotes": 378685
   },
   {
    "id": "NV-01",
