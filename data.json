@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T14:48:00-05:00",
+ "updated": "2026-11-06T15:03:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1654,19 +1654,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Lindsay James",
-    "votes": 171512,
+    "votes": 171514,
     "pct": 49.54
    },
    "rep": {
     "name": "Joe Mitchell",
-    "votes": 157723,
+    "votes": 157724,
     "pct": 45.56
    },
    "marginPts": 3.98,
-   "marginVotes": 13789,
+   "marginVotes": 13790,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-house-2-general-election",
-   "asOf": "2026-11-06T11:33:00-05:00",
+   "asOf": "2026-11-06T15:03:00-05:00",
    "ddhqUpdated": "2026-11-04 07:01:36.592417+00",
    "others": [
     {
@@ -1678,11 +1678,11 @@
     {
      "name": "Dave Bushaw",
      "party": "NPA",
-     "votes": 7469,
+     "votes": 7470,
      "pct": 2.16
     }
    ],
-   "totalVotes": 346204,
+   "totalVotes": 346208,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
@@ -1716,19 +1716,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Josh Turek",
-    "votes": 686635,
+    "votes": 686637,
     "pct": 50.51
    },
    "rep": {
     "name": "Ashley Hinson",
-    "votes": 630798,
+    "votes": 630800,
     "pct": 46.4
    },
    "marginPts": 4.11,
    "marginVotes": 55837,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election",
-   "asOf": "2026-11-06T11:33:00-05:00",
+   "asOf": "2026-11-06T15:03:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "others": [
     {
@@ -1738,7 +1738,7 @@
      "pct": 3.1
     }
    ],
-   "totalVotes": 1359523,
+   "totalVotes": 1359527,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
