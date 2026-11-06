@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:35:00-05:00",
+ "updated": "2026-11-06T11:55:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -835,24 +835,24 @@
    "measure": "Ban Gender-Affirming Care for Minors",
    "ballotNo": "Prop 135",
    "description": "Bans gender-affirming surgery for minors and bars public money, including Medicaid, from paying for gender-affirming procedures.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 52.1
+    "pct": 52.0
    },
    "no": {
     "votes": null,
-    "pct": 47.9
+    "pct": 48.0
    },
-   "marginPts": 4.2,
-   "reporting": "94% of expected vote",
-   "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:46 PM ET Nov 5); not called.",
+   "marginPts": 4.0,
+   "reporting": "95.7% of expected vote",
+   "calledBy": "NBC News Decision Desk",
+   "note": "NBC News projects Passed (95.7% of expected vote in, 11:51 AM ET Nov 6).",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:46 PM ET"
+   "asOf": "Nov 6, 11:51 AM ET"
   },
   {
    "category": "Healthcare",
@@ -3023,18 +3023,18 @@
    "thresholdPct": 50,
    "yes": {
     "votes": null,
-    "pct": 52.4
+    "pct": 52.3
    },
    "no": {
     "votes": null,
-    "pct": 47.6
+    "pct": 47.7
    },
-   "marginPts": 4.8,
-   "reporting": "94% of expected vote",
+   "marginPts": 4.6,
+   "reporting": "95.7% of expected vote",
    "calledBy": "NBC News Decision Desk",
    "note": "NBC News projects Passed (94% of expected vote in, 11:46 PM ET Nov 5).",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:46 PM ET"
+   "asOf": "Nov 6, 11:51 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
