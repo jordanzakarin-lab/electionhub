@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:32:00-05:00",
+ "updated": "2026-11-05T19:02:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2300,28 +2300,28 @@
    "reporting": "89.7%",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 144768,
-    "pct": 48.13
+    "votes": 144794,
+    "pct": 48.14
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 150662,
+    "votes": 150665,
     "pct": 50.09
    },
-   "marginPts": -1.96,
-   "marginVotes": 5894,
+   "marginPts": -1.95,
+   "marginVotes": 5871,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-05T18:32:00-05:00",
+   "asOf": "2026-11-05T19:02:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5339,
+     "votes": 5341,
      "pct": 1.78
     }
    ],
-   "totalVotes": 300769
+   "totalVotes": 300800
   },
   {
    "id": "UT-01",
@@ -2396,34 +2396,35 @@
    "reporting": "84%",
    "dem": {
     "name": "JoAnna Mendoza",
-    "votes": 163197,
-    "pct": 53.02
+    "votes": 163211,
+    "pct": 53.01
    },
    "rep": {
     "name": "Juan Ciscomani",
-    "votes": 138235,
+    "votes": 138289,
     "pct": 44.91
    },
-   "marginPts": 8.11,
-   "marginVotes": 24962,
+   "marginPts": 8.1,
+   "marginVotes": 24922,
    "calledBy": "DDHQ",
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-04T21:20:00-05:00",
+   "asOf": "2026-11-05T19:02:00-05:00",
    "others": [
     {
      "name": "Jereme Peters",
      "party": "LIB",
-     "votes": 3753,
-     "pct": 1.2
+     "votes": 3756,
+     "pct": 1.22
     },
     {
      "name": "Gary Swing",
      "party": "GRE",
-     "votes": 2636,
-     "pct": 0.9
+     "votes": 2637,
+     "pct": 0.86
     }
    ],
-   "totalVotes": 307821
+   "totalVotes": 307893,
+   "countSource": "https://www.azfamily.com/politics/election-results/"
   },
   {
    "id": "MN-02",

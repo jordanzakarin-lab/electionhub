@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:32:00-05:00",
+ "updated": "2026-11-05T19:02:00-05:00",
  "sample": false,
  "races": [
   {
@@ -289,25 +289,25 @@
    "reporting": "86.9%",
    "dem": {
     "name": "Katie Hobbs",
-    "votes": 1252205,
+    "votes": 1252250,
     "pct": 55.43
    },
    "rep": {
     "name": "Andy Biggs",
-    "votes": 967504,
+    "votes": 967560,
     "pct": 42.83
    },
    "marginPts": 12.6,
-   "marginVotes": 284701,
+   "marginVotes": 284690,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-governor-general-election",
-   "asOf": "2026-11-05T18:32:00-05:00",
+   "asOf": "2026-11-05T19:02:00-05:00",
    "ddhqUpdated": "2026-11-04 11:13:42.541632+00",
    "others": [
     {
      "name": "Risa Lombardo",
      "party": "GRE",
-     "votes": 20308,
+     "votes": 20309,
      "pct": 0.9
     },
     {
@@ -317,7 +317,7 @@
      "pct": 0.84
     }
    ],
-   "totalVotes": 2259030,
+   "totalVotes": 2259132,
    "countSource": "https://www.azfamily.com/politics/election-results/"
   }
  ]
