@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:20:00-05:00",
+ "updated": "2026-11-06T11:18:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1715,19 +1715,19 @@
    "reporting": "99%",
    "dem": {
     "name": "Josh Turek",
-    "votes": 686633,
+    "votes": 686635,
     "pct": 50.51
    },
    "rep": {
     "name": "Ashley Hinson",
-    "votes": 630795,
+    "votes": 630796,
     "pct": 46.4
    },
    "marginPts": 4.11,
-   "marginVotes": 55838,
+   "marginVotes": 55839,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election",
-   "asOf": "2026-11-06T11:03:00-05:00",
+   "asOf": "2026-11-06T11:18:00-05:00",
    "ddhqUpdated": "2026-11-04 08:13:10.730282+00",
    "others": [
     {
@@ -1737,7 +1737,7 @@
      "pct": 3.1
     }
    ],
-   "totalVotes": 1359518,
+   "totalVotes": 1359521,
    "countSource": "https://www.kcrg.com/politics/election-results/"
   },
   {
