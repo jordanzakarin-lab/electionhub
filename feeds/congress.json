@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:02:29-05:00",
+ "updated": "2026-11-06T15:48:37-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -8,22 +8,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Roy Cooper",
-    "votes": 2467963,
+    "votes": 2467972,
     "pct": 58.7
    },
    "rep": {
     "name": "Michael Whatley",
-    "votes": 1643088,
+    "votes": 1643114,
     "pct": 39.1
    },
-   "other": 92130,
+   "other": 92132,
    "marginPts": 19.6,
-   "marginVotes": 824875,
+   "marginVotes": 824858,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T09:18:06-05:00",
+   "asOf": "2026-11-06T15:48:37-05:00",
    "feed": true,
-   "totalVotes": 4203181,
+   "totalVotes": 4203218,
    "id": "NC-SEN"
   },
   {
@@ -56,22 +56,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Don Davis",
-    "votes": 156564,
+    "votes": 156572,
     "pct": 50.1
    },
    "rep": {
     "name": "Laurie Buckhout",
-    "votes": 146259,
+    "votes": 146287,
     "pct": 46.8
    },
-   "other": 9880,
+   "other": 9881,
    "marginPts": 3.3,
-   "marginVotes": 10305,
+   "marginVotes": 10285,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T09:18:06-05:00",
+   "asOf": "2026-11-06T15:48:37-05:00",
    "feed": true,
-   "totalVotes": 312703,
+   "totalVotes": 312740,
    "id": "NC-01"
   },
   {
@@ -296,22 +296,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Peggy Flanagan",
-    "votes": 1520864,
+    "votes": 1520863,
     "pct": 53.7
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 1233460,
+    "votes": 1233458,
     "pct": 43.6
    },
    "other": 77447,
    "marginPts": 10.1,
-   "marginVotes": 287404,
+   "marginVotes": 287405,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
-   "asOf": "2026-11-05T19:02:29-05:00",
+   "asOf": "2026-11-06T15:48:37-05:00",
    "feed": true,
-   "totalVotes": 2831771,
+   "totalVotes": 2831768,
    "id": "MN-SEN"
   },
   {
@@ -320,7 +320,7 @@
    "reporting": "100%",
    "dem": {
     "name": "Jake Johnson",
-    "votes": 163054,
+    "votes": 163055,
     "pct": 50.0
    },
    "rep": {
@@ -330,12 +330,12 @@
    },
    "other": 391,
    "marginPts": 0.1,
-   "marginVotes": 321,
+   "marginVotes": 322,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-05T19:02:29-05:00",
+   "asOf": "2026-11-06T15:48:37-05:00",
    "feed": true,
-   "totalVotes": 326178,
+   "totalVotes": 326179,
    "id": "MN-01"
   },
   {
