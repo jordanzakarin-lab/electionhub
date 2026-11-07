@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:55:00-05:00",
+ "updated": "2026-11-07T19:05:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -9,24 +9,24 @@
    "measure": "California Billionaire Tax Act",
    "ballotNo": "Prop 40",
    "description": "5% one-time wealth tax on ~200 billionaires; revenue for Medi-Cal, K-14 education, food aid.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 45.4
+    "votes": 4455639,
+    "pct": 46.1
    },
    "no": {
-    "votes": null,
-    "pct": 54.6
+    "votes": 5209728,
+    "pct": 53.9
    },
-   "marginPts": -9.2,
-   "reporting": "63.8% of expected vote",
-   "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:46 PM ET Nov 5); not called.",
-   "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:46 PM ET"
+   "marginPts": -7.8,
+   "reporting": "71.1% of expected vote (NBC)",
+   "calledBy": "Decision Desk HQ",
+   "note": "DDHQ called it Failed overnight Nov 6\u20137 (reported by Bloomberg); votes from NBC LA (NBC still \"Too early to call\"). No AP call.",
+   "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
+   "asOf": "Nov 6, 11:36 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -40,11 +40,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 42.4
    },
    "no": {
-    "votes": null,
     "pct": 57.6
    },
    "marginPts": -15.2,
@@ -61,24 +59,22 @@
    "measure": "Graduated Income Tax",
    "ballotNo": "Amendment 87",
    "description": "Higher income tax rates on income over $500K and a small cut for lower brackets. Competes with Prop 136; if both pass, the one with more yes votes wins.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 50.49
+    "pct": 51.37
    },
    "no": {
-    "votes": null,
-    "pct": 49.51
+    "pct": 48.63
    },
-   "marginPts": 0.98,
-   "reporting": "80%",
-   "calledBy": "",
-   "note": "Shares derived from DDHQ margin; not called.; not refreshed this run",
-   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/colorado",
-   "asOf": "Nov 4, 8:23 AM ET"
+   "marginPts": 2.74,
+   "reporting": "partial (not stated)",
+   "calledBy": "Colorado Sun (news report)",
+   "note": "Colorado Sun headline Nov 6: \"Colorado voters approve Amendment 87.\" MultiState still shows pending (51.37% yes); Denver7 had 50.8% yes at 3:15 PM MT Nov 5 with no AP call then. Percentages per MultiState.",
+   "source": "https://coloradosun.com/2026/11/06/amendment-87-results-passes-graduated-income-tax/",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -87,24 +83,22 @@
    "measure": "Cap Income Tax at 4.4%",
    "ballotNo": "Prop 136",
    "description": "Caps the income tax at 4.4% to block Amendment 87. If both pass, the one with more yes votes wins.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 1020369,
-    "pct": 47.49
+    "pct": 47.28
    },
    "no": {
-    "votes": 1128269,
-    "pct": 52.51
+    "pct": 52.72
    },
-   "marginPts": -5.02,
-   "reporting": "unofficial SOS count (Wed. afternoon)",
-   "calledBy": "",
-   "note": "Unofficial Secretary of State count per Summit Daily (Wednesday afternoon); \"appears to have failed by a comfortable margin\"; not called.",
-   "source": "https://www.summitdaily.com/news/amendment-87-proposition-136-colorado-income-tax-measures-midterm-results/",
-   "asOf": "Nov 4, 8:51 PM ET"
+   "marginPts": -5.44,
+   "reporting": "partial (not stated)",
+   "calledBy": "MultiState",
+   "note": "MultiState Elections records Failed (Yes 47.28%). Earlier: unofficial SOS count Yes 47.49% (1,020,369) to No 52.51% (1,128,269). No vote counts on MultiState page.",
+   "source": "https://www.multistate.us/elections/results/colorado-2026",
+   "asOf": "Nov 6, 2:55 PM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -118,19 +112,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 46.7
+    "votes": 4365280,
+    "pct": 46.0
    },
    "no": {
-    "votes": null,
-    "pct": 53.3
+    "votes": 5128740,
+    "pct": 54.0
    },
-   "marginPts": -6.6,
-   "reporting": "63.8% of expected vote",
+   "marginPts": -8.0,
+   "reporting": "71.1% of expected vote (NBC)",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:46 PM ET Nov 5); not called.",
-   "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:46 PM ET"
+   "note": "NBC: Too early to call. Votes via NBC LA.",
+   "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
+   "asOf": "Nov 6, 11:36 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -144,19 +138,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 53.4
+    "votes": 5043565,
+    "pct": 52.6
    },
    "no": {
-    "votes": null,
-    "pct": 46.6
+    "votes": 4543485,
+    "pct": 47.4
    },
-   "marginPts": 6.8,
-   "reporting": "63.8% of expected vote",
+   "marginPts": 5.2,
+   "reporting": "71.1% of expected vote (NBC)",
    "calledBy": "",
-   "note": "NBC News: \"Too early to call\" (11:46 PM ET Nov 5); not called.",
-   "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
-   "asOf": "Nov 5, 11:46 PM ET"
+   "note": "NBC: Too early to call. Votes via NBC LA.",
+   "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
+   "asOf": "Nov 6, 11:36 AM ET"
   },
   {
    "category": "Tax Wealthy / Initiative Process",
@@ -170,19 +164,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 3356990,
-    "pct": 45.09
+    "votes": 4099520,
+    "pct": 43.56
    },
    "no": {
-    "votes": 4087452,
-    "pct": 54.91
+    "votes": 5310858,
+    "pct": 56.44
    },
-   "marginPts": -9.82,
-   "reporting": "58% of expected vote",
+   "marginPts": -12.88,
+   "reporting": "71% of expected vote (NBC)",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
-   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
-   "asOf": "Nov 4, 11:51 AM ET"
+   "note": "Not called (NBC, KQED). Votes via NBC LA.",
+   "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
+   "asOf": "Nov 6, 11:36 AM ET"
   },
   {
    "category": "Tax Wealthy",
@@ -236,14 +230,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 56
+    "pct": 56.0
    },
    "no": {
-    "votes": null,
-    "pct": 44
+    "pct": 44.0
    },
-   "marginPts": 12,
+   "marginPts": 12.0,
    "reporting": "per Iowa SOS results (no % given)",
    "calledBy": "AP",
    "note": "Call: AP. Updated in Nov 4 evening sweep.",
@@ -262,12 +254,12 @@
    "threshold": "60%",
    "thresholdPct": 60,
    "yes": {
-    "pct": 62
+    "pct": 62.0
    },
    "no": {
-    "pct": 38
+    "pct": 38.0
    },
-   "marginPts": 24,
+   "marginPts": 24.0,
    "reporting": "",
    "calledBy": "AP",
    "note": "AP call 9:53 PM ET (WFTV); cleared the 60% threshold with about 62% yes (CBS12). Exact counts not yet captured.",
@@ -286,14 +278,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 39
+    "pct": 39.0
    },
    "no": {
-    "votes": null,
-    "pct": 61
+    "pct": 61.0
    },
-   "marginPts": -22,
+   "marginPts": -22.0,
    "reporting": "partial (not stated)",
    "calledBy": "KCUR",
    "note": "Reported failed, per KCUR; no AP call found.",
@@ -312,11 +302,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 44.08
    },
    "no": {
-    "votes": null,
     "pct": 55.92
    },
    "marginPts": -11.84,
@@ -333,18 +321,22 @@
    "measure": "Millionaire Income Surcharge",
    "ballotNo": "Advisory",
    "description": "Advisory: should Illinois add a 3% surcharge on income over $1M, half for property-tax relief and half for schools?",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "pct": 75.0
+   },
+   "no": {
+    "pct": 25.0
+   },
+   "marginPts": 50.0,
+   "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "note": "Yes \"over 75%\" per Illinois Policy (Nov 4); shown at 75% floor, no derived; no vote counts; not called. Not refreshed this run.",
+   "source": "https://www.illinoispolicy.org/cook-county-millionaires-tax/",
+   "asOf": "Nov 4, 2026 (time n/a)"
   },
   {
    "category": "Tax Wealthy",
@@ -353,18 +345,24 @@
    "measure": "Mansion Tax Exemption for Fire Victims",
    "ballotNo": "Measure TE",
    "description": "One-time Measure ULA exemption for Palisades-fire homes sold within five years.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 576290,
+    "pct": 61.88
+   },
+   "no": {
+    "votes": 355048,
+    "pct": 38.12
+   },
+   "marginPts": 23.76,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Not called; DDHQ shows Yes leading.",
+   "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
+   "asOf": "Nov 6 (LA County update, via NBC LA)"
   },
   {
    "category": "Economic Justice",
@@ -378,19 +376,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 95222,
-    "pct": 49.96
+    "votes": 146415,
+    "pct": 51.65
    },
    "no": {
-    "votes": 95366,
-    "pct": 50.04
+    "votes": 137078,
+    "pct": 48.35
    },
-   "marginPts": -0.1,
-   "reporting": "unofficial; SF Standard, updated 7 AM PT Nov 4",
+   "marginPts": 3.3,
+   "reporting": "unofficial; AP via KQED",
    "calledBy": "",
-   "note": "No leads by 144 votes per SF Standard; not called.",
-   "source": "https://sfstandard.com/2026/11/03/san-francisco-election-results-november-2026/",
-   "asOf": "Nov 4, 10:00 AM ET"
+   "note": "KQED/AP page (4:12 PM PT Nov 6) shows \"Passes with majority vote\" but no explicit AP call confirmed; not called here. Not refreshed this run.",
+   "source": "https://www.kqed.org/elections/results/sanfrancisco/proposition-b",
+   "asOf": "Nov 6, 7:12 PM ET"
   },
   {
    "category": "Economic Justice",
@@ -399,18 +397,24 @@
    "measure": "Parcel Tax for Public Bank",
    "ballotNo": "Measure Z",
    "description": "Six-year parcel tax to capitalize a public bank.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 17251,
+    "pct": 43.9
+   },
+   "no": {
+    "votes": 22049,
+    "pct": 56.1
+   },
+   "marginPts": -12.2,
+   "reporting": "early",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Per NBC Bay Area (page dated 12:01 AM ET Nov 4; vote counts higher than prior snapshot); not called.",
+   "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
+   "asOf": "Nov 4, 12:01 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -419,18 +423,24 @@
    "measure": "Parcel Tax for Arts Funding",
    "ballotNo": "Measure Y",
    "description": "12-year parcel tax funding grants to arts organizations.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 27464,
+    "pct": 69.29
+   },
+   "no": {
+    "votes": 12173,
+    "pct": 30.71
+   },
+   "marginPts": 38.58,
+   "reporting": "early",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Per NBC Bay Area (page dated 12:01 AM ET Nov 4; vote counts higher than prior snapshot); not called.",
+   "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
+   "asOf": "Nov 4, 12:01 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -444,11 +454,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 74.05
    },
    "no": {
-    "votes": null,
     "pct": 25.95
    },
    "marginPts": 48.1,
@@ -470,11 +478,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 74.56
    },
    "no": {
-    "votes": null,
     "pct": 25.44
    },
    "marginPts": 49.12,
@@ -511,18 +517,24 @@
    "measure": "Binding Arbitration for Public-Safety Workers",
    "ballotNo": "Measure A",
    "description": "Binding arbitration for about 17,000 public-safety workers and a strike ban for some county workers.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 1493493,
+    "pct": 62.98
+   },
+   "no": {
+    "votes": 877793,
+    "pct": 37.02
+   },
+   "marginPts": 25.96,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Not called; DDHQ shows Yes leading.",
+   "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
+   "asOf": "Nov 6 (LA County update, via NBC LA)"
   },
   {
    "category": "Economic Justice",
@@ -531,8 +543,8 @@
    "measure": "Legalize Online Sports Betting",
    "ballotNo": "Measure 440",
    "description": "Allows online sports betting through the state's six licensed racetracks.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority + 35% of ballots cast",
    "thresholdPct": 50,
    "yes": {
@@ -545,10 +557,10 @@
    },
    "marginPts": -9.82,
    "reporting": "97.88% of precincts",
-   "calledBy": "",
-   "note": "Unofficial count, 97.88% of precincts (5:50 AM CT), per gaming.net; not called.; not refreshed this run",
-   "source": "https://www.gaming.net/nebraska-online-sports-wagering-measures-trail-in-unofficial-count/",
-   "asOf": "Nov 4, 11:51 AM ET"
+   "calledBy": "MultiState",
+   "note": "MultiState records it Failed (45.11% yes). Votes from unofficial count at 97.88% of precincts (gaming.net).",
+   "source": "https://www.multistate.us/elections/results/nebraska-2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -557,8 +569,8 @@
    "measure": "Regulate Online Sports Betting",
    "ballotNo": "Measure 441",
    "description": "Sets rules and taxes for online sports betting.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority + 35% of ballots cast",
    "thresholdPct": 50,
    "yes": {
@@ -571,10 +583,10 @@
    },
    "marginPts": -8.98,
    "reporting": "97.88% of precincts",
-   "calledBy": "",
-   "note": "Unofficial count, 97.88% of precincts (5:50 AM CT), per gaming.net; not called.; not refreshed this run",
-   "source": "https://www.gaming.net/nebraska-online-sports-wagering-measures-trail-in-unofficial-count/",
-   "asOf": "Nov 4, 11:51 AM ET"
+   "calledBy": "MultiState",
+   "note": "MultiState records it Failed (45.53% yes). Votes from unofficial count at 97.88% of precincts (gaming.net).",
+   "source": "https://www.multistate.us/elections/results/nebraska-2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -588,14 +600,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 61
+    "pct": 61.0
    },
    "no": {
-    "votes": null,
-    "pct": 39
+    "pct": 39.0
    },
-   "marginPts": 22,
+   "marginPts": 22.0,
    "reporting": "partial (not stated)",
    "calledBy": "SD News Watch",
    "note": "Reported passed, per SD News Watch; no AP call found.",
@@ -614,11 +624,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 48.34
    },
    "no": {
-    "votes": null,
     "pct": 51.66
    },
    "marginPts": -3.32,
@@ -714,11 +722,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 55.4
    },
    "no": {
-    "votes": null,
     "pct": 44.6
    },
    "marginPts": 10.8,
@@ -740,11 +746,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 49.4
    },
    "no": {
-    "votes": null,
     "pct": 50.6
    },
    "marginPts": -1.2,
@@ -790,11 +794,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 17.38
    },
    "no": {
-    "votes": null,
     "pct": 82.62
    },
    "marginPts": -65.24,
@@ -816,12 +818,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "pct": 45
+    "pct": 45.0
    },
    "no": {
-    "pct": 55
+    "pct": 55.0
    },
-   "marginPts": -10,
+   "marginPts": -10.0,
    "reporting": ">90%",
    "calledBy": "AP",
    "note": "AP called 10:18 PM ET; No nearly 55% (KCTV5). Exact vote counts not yet captured.",
@@ -840,11 +842,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 52.0
    },
    "no": {
-    "votes": null,
     "pct": 48.0
    },
    "marginPts": 4.0,
@@ -866,14 +866,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 44
+    "pct": 44.0
    },
    "no": {
-    "votes": null,
-    "pct": 56
+    "pct": 56.0
    },
-   "marginPts": -12,
+   "marginPts": -12.0,
    "reporting": "partial (not stated)",
    "calledBy": "AP",
    "note": "Called by AP per rapidcitypost.com.",
@@ -892,19 +890,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 19910,
-    "pct": 57.75
+    "votes": 25993,
+    "pct": 59.38
    },
    "no": {
-    "votes": 14564,
-    "pct": 42.25
+    "votes": 17783,
+    "pct": 40.62
    },
-   "marginPts": 15.5,
+   "marginPts": 18.76,
    "reporting": "unofficial county count",
    "calledBy": "",
-   "note": "Boulder County unofficial results (5:23 PM, time zone as shown); not called.; not refreshed this run",
+   "note": "Not called by AP/DDHQ/officials. Rocky Mountain PBS and Boulder Reporting Lab report it approved. County unofficial results 11/6 11:05 PM MT; pcts computed from counts.",
    "source": "https://electionresults.bouldercounty.gov/Home/IndexCategory/58.html",
-   "asOf": "Nov 4, 7:23 PM ET"
+   "asOf": "Nov 7, 1:05 AM ET"
   },
   {
    "category": "Housing",
@@ -918,19 +916,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 6348,
-    "pct": 43.74
+    "votes": 7466,
+    "pct": 43.89
    },
    "no": {
-    "votes": 8164,
-    "pct": 56.26
+    "votes": 9544,
+    "pct": 56.11
    },
-   "marginPts": -12.5,
-   "reporting": "~24,000 ballots counted; 9,465 still to count",
+   "marginPts": -12.22,
+   "reporting": "~24,000 ballots returned; up to ~7,000 left to count",
    "calledBy": "",
-   "note": "Wed. returns per Palo Alto Daily Post / Redwood City Pulse; not called.; not refreshed this run",
-   "source": "https://padailypost.com/2026/11/04/rent-control-measure-e-is-losing/",
-   "asOf": "Nov 4, 6:07 AM ET"
+   "note": "Not called; supporters have not conceded.",
+   "source": "https://www.rwcpulse.com/redwood-city/2026/11/06/measure-e-trails-by-double-digits-as-supporters-hold-out-hope/",
+   "asOf": "Nov 6, 7:30 PM ET"
   },
   {
    "category": "Housing",
@@ -939,24 +937,22 @@
    "measure": "Minimum Lot Size for Single-Family Homes",
    "ballotNo": "Question 7",
    "description": "Allows single-family homes by right on lots of at least 5,000 sq ft with public water and sewer and 50 ft of frontage. Boston is excluded.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 49.4
    },
    "no": {
-    "votes": null,
     "pct": 50.6
    },
    "marginPts": -1.2,
    "reporting": "94.4% of ballots tallied, 4:30 PM Nov 4 (yes derived)",
-   "calledBy": "",
-   "note": "Not called. Boston.com (4:30 PM Nov 4, 94.4% tallied): No leads 50.6%; replaces earlier MultiState figures that showed Yes ahead.",
-   "source": "https://boston.com/news/local-news/2026/11/04/mass-question-7-remains-too-close-to-call-as-ballots-are-counted",
-   "asOf": "Nov 4, 5:59 PM ET"
+   "calledBy": "MultiState",
+   "note": "MultiState Elections lists Question 7 as rejected (~49% yes). Last vote tally: Boston.com, 94.4% tallied Nov 4: No 50.6%.",
+   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
+   "asOf": "Nov 6, 2:55 PM ET"
   },
   {
    "category": "Housing",
@@ -1015,18 +1011,24 @@
    "measure": "Rent Stabilization Amendments",
    "ballotNo": "Measure X",
    "description": "Amends the rent stabilization and just-cause eviction law, including a 10% annual cap on rent increases.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 26368,
+    "pct": 69.28
+   },
+   "no": {
+    "votes": 11691,
+    "pct": 30.72
+   },
+   "marginPts": 38.56,
+   "reporting": "early",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Per NBC Bay Area (page dated 12:01 AM ET Nov 4; vote counts higher than prior snapshot); not called.",
+   "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
+   "asOf": "Nov 4, 12:01 AM ET"
   },
   {
    "category": "Housing",
@@ -1035,18 +1037,24 @@
    "measure": "Just-Cause Eviction in Charter",
    "ballotNo": "Measure GG",
    "description": "Puts just-cause eviction protections in the city charter.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 20086,
+    "pct": 58.87
+   },
+   "no": {
+    "votes": 14034,
+    "pct": 41.13
+   },
+   "marginPts": 17.74,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Not called by AP/DDHQ/officials. Santa Monica Daily Press lists it as approved; DDHQ shows Yes leading. Votes via NBC LA.",
+   "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
+   "asOf": "Nov 6 (LA County update, via NBC LA)"
   },
   {
    "category": "Housing",
@@ -1055,18 +1063,24 @@
    "measure": "No Evictions for Small Rent Debts",
    "ballotNo": "Measure RR",
    "description": "Bans eviction for unpaid rent below one month of HUD fair-market rent.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 24975,
+    "pct": 71.33
+   },
+   "no": {
+    "votes": 10040,
+    "pct": 28.67
+   },
+   "marginPts": 42.66,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Not called by AP/DDHQ/officials. Santa Monica Daily Press lists it as approved; DDHQ shows Yes leading. Votes via NBC LA.",
+   "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
+   "asOf": "Nov 6 (LA County update, via NBC LA)"
   },
   {
    "category": "Housing",
@@ -1075,18 +1089,24 @@
    "measure": "Eviction Protections for Single-Family Homes",
    "ballotNo": "Measure VV",
    "description": "Extends eviction protections to single-family homes and condos.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 21367,
+    "pct": 62.28
+   },
+   "no": {
+    "votes": 12940,
+    "pct": 37.72
+   },
+   "marginPts": 24.56,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Not called by AP/DDHQ/officials. Santa Monica Daily Press lists it as approved; DDHQ shows Yes leading. Votes via NBC LA.",
+   "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
+   "asOf": "Nov 6 (LA County update, via NBC LA)"
   },
   {
    "category": "Housing",
@@ -1095,18 +1115,22 @@
    "measure": "Tenant Right to Repair",
    "ballotNo": "",
    "description": "Tenants can make repairs and deduct up to $500 or half a month's rent. The city is appealing in court, so votes may not count.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "City appealing; votes may not count Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "yes": {
+    "pct": 80.0
+   },
+   "no": {
+    "pct": 20.0
+   },
+   "marginPts": 60.0,
+   "reporting": "82 precincts",
+   "calledBy": "MPR News (news report)",
+   "note": "MPR News: \"St. Paul approves right to repair\"; nearly 80% yes with 82 precincts reporting (11:59 PM Nov 3). City is appealing in court, so votes may not count.",
+   "source": "https://www.mprnews.org/story/2026/11/03/st-paul-approves-right-to-repair-letting-renters-make-fixes-with-landlords-paying",
+   "asOf": "Nov 3, 11:59 PM ET"
   },
   {
    "category": "Public Transit",
@@ -1127,7 +1151,7 @@
     "votes": 52855,
     "pct": 27.21
    },
-   "marginPts": 45.6,
+   "marginPts": 45.58,
    "reporting": "unofficial; SF Standard, updated 7 AM PT Nov 4",
    "calledBy": "KQED",
    "note": "Reported passed, per KQED; campaign and Mayor Lurie declared victory; no AP call found; vote counts updated from SF Standard.",
@@ -1153,7 +1177,7 @@
     "votes": 450283,
     "pct": 38.13
    },
-   "marginPts": 23.7,
+   "marginPts": 23.74,
    "reporting": "unofficial; SF Standard, updated 7 AM PT Nov 4",
    "calledBy": "KQED / KRON4",
    "note": "Reported passed, per KQED and KRON4; campaign declared victory; no AP call found; vote counts updated from SF Standard.",
@@ -1166,9 +1190,9 @@
    "level": "Local",
    "measure": "Front Range Passenger Rail District",
    "ballotNo": "Measure 7A",
-   "description": "0.333% sales tax (~$295M a year) for the Fort Collins–Pueblo Colorado Connector. District voters only.",
-   "status": "Counting",
-   "outcome": null,
+   "description": "0.333% sales tax (~$295M a year) for the Fort Collins\u2013Pueblo Colorado Connector. District voters only.",
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -1181,10 +1205,10 @@
    },
    "marginPts": 11.2,
    "reporting": "early",
-   "calledBy": "",
-   "note": "Early SOS report per Denver Gazette; not called.; not refreshed this run",
-   "source": "https://www.denvergazette.com/2026/11/03/colorado-front-range-passenger-rail-sales-use-tax-increase-denver-fort-collins-pueblo-train-service-issue-7a-election-results/",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "calledBy": "KRDO (news report)",
+   "note": "KRDO: Ballot Issue 7A \"passed statewide on Election Night\"; nine of 12 counties in favor. Percentages from earlier early returns.",
+   "source": "https://krdo.com/news/2026/11/04/ballot-issue-7a-passes/",
+   "asOf": "Nov 4, 8:51 PM ET"
   },
   {
    "category": "Public Transit",
@@ -1198,19 +1222,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 72
+    "votes": 151909,
+    "pct": 72.6
    },
    "no": {
-    "votes": null,
-    "pct": 28
+    "votes": 57318,
+    "pct": 27.4
    },
-   "marginPts": 44,
+   "marginPts": 45.2,
    "reporting": "early",
    "calledBy": "",
-   "note": "More than 72% yes in early results per MyNorthwest; not called.; not refreshed this run",
-   "source": "https://mynorthwest.com/mynorthwest-politics/seattle-transit-measure/4294471",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "note": "Fox13 (as of Tue night Nov 3): 151,909 yes, 57,318 no; Mayor's office says voters delivered \"overwhelming support\"; no formal call found. Not refreshed this run.",
+   "source": "https://www.fox13seattle.com/news/seattle-prop-1-election-results",
+   "asOf": "Nov 3, ~11:00 PM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1219,18 +1243,24 @@
    "measure": "Major Development Voter Approval",
    "ballotNo": "",
    "description": "Voter approval for $450M+ projects on the GM/JATCO site.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 9:12 PM ET"
+   "yes": {
+    "votes": 16779,
+    "pct": 62.8
+   },
+   "no": {
+    "votes": 9932,
+    "pct": 37.2
+   },
+   "marginPts": 25.6,
+   "reporting": "Ballotpedia result",
+   "calledBy": "Ballotpedia",
+   "note": "Result per Ballotpedia's data-center ballot measures page.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1239,18 +1269,24 @@
    "measure": "Data Center Land Use",
    "ballotNo": "Question 1",
    "description": "Allow data centers on city land in Eldorado Valley.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 10:52 PM ET"
+   "yes": {
+    "votes": 2100,
+    "pct": 29.3
+   },
+   "no": {
+    "votes": 5060,
+    "pct": 70.7
+   },
+   "marginPts": -41.4,
+   "reporting": "Ballotpedia result",
+   "calledBy": "Ballotpedia",
+   "note": "Result per Ballotpedia's data-center ballot measures page.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1259,18 +1295,24 @@
    "measure": "Data Center Ban",
    "ballotNo": "Measure DB",
    "description": "Bans data centers in all zones.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "yes": {
+    "votes": 13314,
+    "pct": 82.2
+   },
+   "no": {
+    "votes": 2889,
+    "pct": 17.8
+   },
+   "marginPts": 64.4,
+   "reporting": "Ballotpedia result",
+   "calledBy": "Ballotpedia",
+   "note": "Result per Ballotpedia's data-center ballot measures page.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1279,18 +1321,24 @@
    "measure": "Data Center Ban and Housing",
    "ballotNo": "Measure HOM",
    "description": "Keeps the city's data-center ban and allows limited housing on underused commercial and industrial land.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "yes": {
+    "votes": 11286,
+    "pct": 86.07
+   },
+   "no": {
+    "votes": 1826,
+    "pct": 13.93
+   },
+   "marginPts": 72.14,
+   "reporting": "not stated",
+   "calledBy": "Decision Desk HQ",
+   "note": "DDHQ results page: \"Winner: Yes\". Votes via NBC LA.",
+   "source": "https://votes.decisiondeskhq.com/elections/2026-11-03/california/los-angeles",
+   "asOf": "Nov 6 (LA County update, via NBC LA)"
   },
   {
    "category": "Data Centers & AI",
@@ -1299,18 +1347,24 @@
    "measure": "Large Data Center Moratorium",
    "ballotNo": "Advisory",
    "description": "Advisory: should the city adopt a moratorium on large-scale data centers?",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "votes": 21851,
+    "pct": 77.6
+   },
+   "no": {
+    "votes": 6316,
+    "pct": 22.4
+   },
+   "marginPts": 55.2,
+   "reporting": "Ballotpedia result",
+   "calledBy": "Ballotpedia",
+   "note": "Result per Ballotpedia's data-center ballot measures page.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1320,23 +1374,23 @@
    "ballotNo": "",
    "description": "Referendum on the term sheet guiding negotiations with EdgeConneX over two data centers.",
    "status": "Called",
-   "outcome": "Passed",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 82
+    "votes": 331,
+    "pct": 18.4
    },
    "no": {
-    "votes": null,
-    "pct": 18
+    "votes": 1469,
+    "pct": 81.6
    },
-   "marginPts": 64,
+   "marginPts": -63.2,
    "reporting": "",
-   "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
-   "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
-   "asOf": "Nov 4, 8:44 AM ET"
+   "calledBy": "Ballotpedia",
+   "note": "Ballotpedia lists the referendum as Defeated (yes 18%, no 82%); earlier Enquirer-based entry had the direction reversed. Corrected Nov 6, 11:57 AM ET.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1349,12 +1403,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 2301,
+    "pct": 65.4
+   },
+   "no": {
+    "votes": 1218,
+    "pct": 34.6
+   },
+   "marginPts": 30.8,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1369,12 +1429,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 3823,
+    "pct": 64.7
+   },
+   "no": {
+    "votes": 2083,
+    "pct": 35.3
+   },
+   "marginPts": 29.4,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1389,12 +1455,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 2015,
+    "pct": 82.4
+   },
+   "no": {
+    "votes": 429,
+    "pct": 17.6
+   },
+   "marginPts": 64.8,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1410,17 +1482,17 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 55
+    "votes": 11317,
+    "pct": 54.6
    },
    "no": {
-    "votes": null,
-    "pct": 45
+    "votes": 9411,
+    "pct": 45.4
    },
-   "marginPts": 10,
+   "marginPts": 9.2,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1435,12 +1507,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 2622,
+    "pct": 76.6
+   },
+   "no": {
+    "votes": 802,
+    "pct": 23.4
+   },
+   "marginPts": 53.2,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1451,18 +1529,24 @@
    "measure": "Township Zoning Initiative",
    "ballotNo": "",
    "description": "Establishes zoning regulations for unincorporated areas.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "votes": 148,
+    "pct": 59.7
+   },
+   "no": {
+    "votes": 100,
+    "pct": 40.3
+   },
+   "marginPts": 19.4,
+   "reporting": "Ballotpedia result",
+   "calledBy": "Ballotpedia",
+   "note": "Result per Ballotpedia's data-center ballot measures page.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1471,18 +1555,24 @@
    "measure": "Data Center Advisory Question",
    "ballotNo": "Advisory",
    "description": "Asks whether officials should allow data center development in the village.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "votes": 55,
+    "pct": 12.2
+   },
+   "no": {
+    "votes": 394,
+    "pct": 87.8
+   },
+   "marginPts": -75.6,
+   "reporting": "Ballotpedia result",
+   "calledBy": "Ballotpedia",
+   "note": "Result per Ballotpedia's data-center ballot measures page.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1491,18 +1581,24 @@
    "measure": "Ban Data Centers Over 25 MW",
    "ballotNo": "",
    "description": "Prohibits data centers exceeding 25 MW.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "votes": 4994,
+    "pct": 60.7
+   },
+   "no": {
+    "votes": 3235,
+    "pct": 39.3
+   },
+   "marginPts": 21.4,
+   "reporting": "Ballotpedia result",
+   "calledBy": "Ballotpedia",
+   "note": "Result per Ballotpedia's data-center ballot measures page.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1515,12 +1611,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 5418,
+    "pct": 73.6
+   },
+   "no": {
+    "votes": 1941,
+    "pct": 26.4
+   },
+   "marginPts": 47.2,
    "reporting": "",
    "calledBy": "Fortune / Cincinnati Enquirer",
-   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1536,17 +1638,17 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 87
+    "votes": 946,
+    "pct": 87.1
    },
    "no": {
-    "votes": null,
-    "pct": 13
+    "votes": 140,
+    "pct": 12.9
    },
-   "marginPts": 74,
+   "marginPts": 74.2,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1561,12 +1663,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 4061,
+    "pct": 66.7
+   },
+   "no": {
+    "votes": 2027,
+    "pct": 33.3
+   },
+   "marginPts": 33.4,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1577,18 +1685,24 @@
    "measure": "Township Zoning Initiative",
    "ballotNo": "",
    "description": "Establishes zoning regulations for unincorporated areas.",
-   "status": "No results yet",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
-   "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 8:27 PM ET"
+   "yes": {
+    "votes": 330,
+    "pct": 52.6
+   },
+   "no": {
+    "votes": 297,
+    "pct": 47.4
+   },
+   "marginPts": 5.2,
+   "reporting": "Ballotpedia result",
+   "calledBy": "Ballotpedia",
+   "note": "Result per Ballotpedia's data-center ballot measures page.",
+   "source": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1601,12 +1715,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 2809,
+    "pct": 78.6
+   },
+   "no": {
+    "votes": 763,
+    "pct": 21.4
+   },
+   "marginPts": 57.2,
    "reporting": "",
    "calledBy": "Fortune / Cincinnati Enquirer",
-   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1622,17 +1742,17 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 80
+    "votes": 3541,
+    "pct": 79.7
    },
    "no": {
-    "votes": null,
-    "pct": 20
+    "votes": 903,
+    "pct": 20.3
    },
-   "marginPts": 60,
+   "marginPts": 59.4,
    "reporting": "",
    "calledBy": "Fortune / Cincinnati Enquirer",
-   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Fortune / Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1647,12 +1767,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 1893,
+    "pct": 76.9
+   },
+   "no": {
+    "votes": 568,
+    "pct": 23.1
+   },
+   "marginPts": 53.8,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1667,12 +1793,18 @@
    "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 2978,
+    "pct": 77.3
+   },
+   "no": {
+    "votes": 877,
+    "pct": 22.7
+   },
+   "marginPts": 54.6,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found.",
+   "note": "Reported passed, per Cincinnati Enquirer; unofficial; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1687,12 +1819,18 @@
    "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 732,
+    "pct": 20.2
+   },
+   "no": {
+    "votes": 2886,
+    "pct": 79.8
+   },
+   "marginPts": -59.6,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found.",
+   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1707,12 +1845,18 @@
    "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 724,
+    "pct": 20.0
+   },
+   "no": {
+    "votes": 2887,
+    "pct": 80.0
+   },
+   "marginPts": -60.0,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found.",
+   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1727,12 +1871,18 @@
    "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
+   "yes": {
+    "votes": 716,
+    "pct": 19.8
+   },
+   "no": {
+    "votes": 2909,
+    "pct": 80.2
+   },
+   "marginPts": -60.4,
    "reporting": "",
    "calledBy": "Cincinnati Enquirer",
-   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found.",
+   "note": "Reported failed, per Cincinnati Enquirer: rezoning rejected, around 80% no across the Wilmington referendums; no AP call found. Vote counts per Ballotpedia.",
    "source": "https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html",
    "asOf": "Nov 4, 8:44 AM ET"
   },
@@ -1749,13 +1899,13 @@
    "thresholdPct": 50,
    "yes": {
     "votes": 1571398,
-    "pct": 55
+    "pct": 55.0
    },
    "no": {
     "votes": 1292954,
-    "pct": 45
+    "pct": 45.0
    },
-   "marginPts": 10,
+   "marginPts": 10.0,
    "reporting": "91%",
    "calledBy": "AP",
    "note": "AP call via WSLS; counts as of 9:43 PM ET.",
@@ -1774,11 +1924,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 62.27
    },
    "no": {
-    "votes": null,
     "pct": 37.73
    },
    "marginPts": 24.54,
@@ -1800,19 +1948,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 3557709,
-    "pct": 48.04
+    "votes": 4605132,
+    "pct": 49.13
    },
    "no": {
-    "votes": 3847290,
-    "pct": 51.96
+    "votes": 4767740,
+    "pct": 50.87
    },
-   "marginPts": -3.92,
-   "reporting": "57% of expected vote",
+   "marginPts": -1.74,
+   "reporting": "71% of expected vote (NBC)",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
-   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
-   "asOf": "Nov 4, 11:51 AM ET"
+   "note": "Not called (KQED). Votes via NBC LA.",
+   "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
+   "asOf": "Nov 6, 11:36 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1826,19 +1974,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 3696245,
-    "pct": 50.35
+    "votes": 4755931,
+    "pct": 51.4
    },
    "no": {
-    "votes": 3644907,
-    "pct": 49.65
+    "votes": 4482253,
+    "pct": 48.5
    },
-   "marginPts": 0.7,
-   "reporting": "57% of expected vote",
+   "marginPts": 2.9,
+   "reporting": "70.97% of votes counted (AP estimate)",
    "calledBy": "",
-   "note": "Per NBC News Decision Desk via NBC San Diego; not called.; not refreshed this run",
-   "source": "https://www.nbcsandiego.com/news/local/election-results-for-billionaire-tax-voter-id-measure-and-other-california-props/4096284/",
-   "asOf": "Nov 4, 11:51 AM ET"
+   "note": "Not called. Votes via KQED (AP).",
+   "source": "https://www.kqed.org/elections/results/california/proposition-5",
+   "asOf": "Nov 6, 10:44 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1852,11 +2000,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 43.19
    },
    "no": {
-    "votes": null,
     "pct": 56.81
    },
    "marginPts": -13.62,
@@ -1878,11 +2024,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 65.26
    },
    "no": {
-    "votes": null,
     "pct": 34.74
    },
    "marginPts": 30.52,
@@ -1904,11 +2048,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 68.8
    },
    "no": {
-    "votes": null,
     "pct": 31.2
    },
    "marginPts": 37.6,
@@ -1930,11 +2072,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 65.02
    },
    "no": {
-    "votes": null,
     "pct": 34.98
    },
    "marginPts": 30.04,
@@ -1996,14 +2136,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 37
+    "pct": 37.0
    },
    "no": {
-    "votes": null,
-    "pct": 63
+    "pct": 63.0
    },
-   "marginPts": -26,
+   "marginPts": -26.0,
    "reporting": "",
    "calledBy": "AP",
    "note": "Called by AP per www.kuer.org.",
@@ -2022,14 +2160,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 42
+    "pct": 42.0
    },
    "no": {
-    "votes": null,
-    "pct": 58
+    "pct": 58.0
    },
-   "marginPts": -16,
+   "marginPts": -16.0,
    "reporting": "partial (not stated)",
    "calledBy": "AP",
    "note": "Called by AP per rapidcitypost.com.",
@@ -2048,11 +2184,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 28.41
    },
    "no": {
-    "votes": null,
     "pct": 71.59
    },
    "marginPts": -43.18,
@@ -2114,11 +2248,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 60.04
    },
    "no": {
-    "votes": null,
     "pct": 39.96
    },
    "marginPts": 20.08,
@@ -2184,14 +2316,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 62
+    "pct": 62.0
    },
    "no": {
-    "votes": null,
-    "pct": 38
+    "pct": 38.0
    },
-   "marginPts": 24,
+   "marginPts": 24.0,
    "reporting": "partial (not stated)",
    "calledBy": "AP",
    "note": "Called by AP per www.yahoo.com.",
@@ -2217,7 +2347,7 @@
     "votes": 82834,
     "pct": 42.46
    },
-   "marginPts": 15.1,
+   "marginPts": 15.08,
    "reporting": "unofficial; SF Standard, updated 7 AM PT Nov 4",
    "calledBy": "SF Standard",
    "note": "Projected passing by The San Francisco Standard; preliminary, certification Dec. 3; vote counts updated from SF Standard.",
@@ -2231,18 +2361,24 @@
    "measure": "Ranked-Choice Voting",
    "ballotNo": "Measure D",
    "description": "Instant runoff for mayor and council.",
-   "status": "No results yet",
+   "status": "Counting",
    "outcome": null,
    "threshold": "Majority",
    "thresholdPct": 50,
-   "yes": {},
-   "no": {},
-   "marginPts": null,
-   "reporting": "",
+   "yes": {
+    "votes": 35295,
+    "pct": 52.29
+   },
+   "no": {
+    "votes": 32204,
+    "pct": 47.71
+   },
+   "marginPts": 4.58,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Polls closed; no counts found yet.; not refreshed this run",
-   "source": "",
-   "asOf": "Nov 3, 11:07 PM ET"
+   "note": "Not called (DDHQ).",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-irvine-measure-d-nonpartisan-ballot-question",
+   "asOf": "Nov 6, 8:03 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2256,14 +2392,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 75
+    "pct": 75.0
    },
    "no": {
-    "votes": null,
-    "pct": 25
+    "pct": 25.0
    },
-   "marginPts": 50,
+   "marginPts": 50.0,
    "reporting": "",
    "calledBy": "KRWG",
    "note": "Reported passed, per KRWG; no AP call found.",
@@ -2282,12 +2416,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "pct": 38
+    "pct": 38.0
    },
    "no": {
-    "pct": 62
+    "pct": 62.0
    },
-   "marginPts": -24,
+   "marginPts": -24.0,
    "reporting": "",
    "calledBy": "AP",
    "note": "AP called 9:59 PM ET; map rejected 62%-38% (St. Louis Public Radio). Exact vote counts not yet captured.",
@@ -2306,11 +2440,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 59.65
    },
    "no": {
-    "votes": null,
     "pct": 40.35
    },
    "marginPts": 19.3,
@@ -2332,19 +2464,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 98218,
+    "votes": 98460,
     "pct": 48.1
    },
    "no": {
-    "votes": 105774,
+    "votes": 106040,
     "pct": 51.9
    },
    "marginPts": -3.8,
-   "reporting": "393 of 400 precincts; thousands of ballots still uncounted",
+   "reporting": "Est. 72.7% of votes in",
    "calledBy": "",
-   "note": "Not called. Updated in Nov 4 evening sweep.",
-   "source": "https://thealaskastory.com/chaos-reigns-as-alaskas-second-ranked-choice-repeal-bid-trails-by-7556-votes/",
-   "asOf": "Nov 4, 5:59 PM ET"
+   "note": "Not called (IVN projection not counted). Counting resumes Nov 10.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/",
+   "asOf": "Nov 7, 7:05 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2358,11 +2490,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 69.64
    },
    "no": {
-    "votes": null,
     "pct": 30.36
    },
    "marginPts": 39.28,
@@ -2384,12 +2514,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "pct": 39
+    "pct": 39.0
    },
    "no": {
-    "pct": 61
+    "pct": 61.0
    },
-   "marginPts": -22,
+   "marginPts": -22.0,
    "reporting": "46%",
    "calledBy": "Yes campaign conceded (GBH)",
    "note": "Not called by AP yet; Yes campaign conceded. 61% No with 46% in as of 11:45 PM ET (GBH).",
@@ -2428,11 +2558,9 @@
    "threshold": "55%",
    "thresholdPct": 55,
    "yes": {
-    "votes": null,
     "pct": 36.6
    },
    "no": {
-    "votes": null,
     "pct": 63.4
    },
    "marginPts": -26.8,
@@ -2454,11 +2582,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 40.99
    },
    "no": {
-    "votes": null,
     "pct": 59.01
    },
    "marginPts": -18.02,
@@ -2480,11 +2606,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 27.49
    },
    "no": {
-    "votes": null,
     "pct": 72.51
    },
    "marginPts": -45.02,
@@ -2566,11 +2690,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 67.19
    },
    "no": {
-    "votes": null,
     "pct": 32.81
    },
    "marginPts": 34.38,
@@ -2592,12 +2714,10 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 44
+    "pct": 44.0
    },
    "no": {
-    "votes": null,
-    "pct": 56
+    "pct": 56.0
    },
    "marginPts": -12.0,
    "reporting": "second printout",
@@ -2618,14 +2738,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 82
+    "pct": 82.0
    },
    "no": {
-    "votes": null,
-    "pct": 18
+    "pct": 18.0
    },
-   "marginPts": 64,
+   "marginPts": 64.0,
    "reporting": "",
    "calledBy": "WOSU",
    "note": "Reported passed, per WOSU; no AP call found.",
@@ -2644,14 +2762,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 57
+    "pct": 57.0
    },
    "no": {
-    "votes": null,
-    "pct": 43
+    "pct": 43.0
    },
-   "marginPts": 14,
+   "marginPts": 14.0,
    "reporting": "",
    "calledBy": "WOSU",
    "note": "Reported passed, per WOSU; no AP call found.",
@@ -2670,11 +2786,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 50.99
    },
    "no": {
-    "votes": null,
     "pct": 49.01
    },
    "marginPts": 1.98,
@@ -2691,24 +2805,22 @@
    "measure": "Judicial Disabilities Commission Vacancies",
    "ballotNo": "Question 2",
    "description": "Allows temporary appointments to the Commission on Judicial Disabilities.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 1167267,
-    "pct": 66.8
+    "pct": 67.2
    },
    "no": {
-    "votes": 580245,
-    "pct": 33.2
+    "pct": 32.8
    },
-   "marginPts": 33.6,
+   "marginPts": 34.4,
    "reporting": "1,967 of 1,979 election-day precincts; early+ED+mail, provisionals not yet (SBE, 11/04 3:44 AM)",
-   "calledBy": "",
-   "note": "Not called. Updated in Nov 4 evening sweep.",
-   "source": "https://elections.maryland.gov/elections/2026/general_results/gen_qresults_2026_1_00_ALL.html",
-   "asOf": "Nov 4, 5:59 PM ET"
+   "calledBy": "MultiState",
+   "note": "MultiState records it Passed (67.2% yes).",
+   "source": "https://www.multistate.us/elections/results/maryland-2026",
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2723,13 +2835,13 @@
    "thresholdPct": 50,
    "yes": {
     "votes": 1737597,
-    "pct": 61
+    "pct": 61.0
    },
    "no": {
     "votes": 1113142,
-    "pct": 39
+    "pct": 39.0
    },
-   "marginPts": 22,
+   "marginPts": 22.0,
    "reporting": "91%",
    "calledBy": "AP",
    "note": "AP call via WSLS; counts as of 9:43 PM ET.",
@@ -2749,13 +2861,13 @@
    "thresholdPct": 50,
    "yes": {
     "votes": 1614645,
-    "pct": 56
+    "pct": 56.0
    },
    "no": {
     "votes": 1255409,
-    "pct": 44
+    "pct": 44.0
    },
-   "marginPts": 12,
+   "marginPts": 12.0,
    "reporting": "91%",
    "calledBy": "AP",
    "note": "AP call via WSLS; counts as of 9:43 PM ET.",
@@ -2794,11 +2906,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 44.7
    },
    "no": {
-    "votes": null,
     "pct": 55.3
    },
    "marginPts": -10.6,
@@ -2840,11 +2950,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 55.98
    },
    "no": {
-    "votes": null,
     "pct": 44.02
    },
    "marginPts": 11.96,
@@ -2866,11 +2974,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 50.6
    },
    "no": {
-    "votes": null,
     "pct": 49.4
    },
    "marginPts": 1.2,
@@ -2892,11 +2998,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 47.61
    },
    "no": {
-    "votes": null,
     "pct": 52.39
    },
    "marginPts": -4.78,
@@ -2918,11 +3022,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 56.58
    },
    "no": {
-    "votes": null,
     "pct": 43.42
    },
    "marginPts": 13.16,
@@ -2944,19 +3046,17 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 47.25
+    "pct": 47.92
    },
    "no": {
-    "votes": null,
-    "pct": 52.75
+    "pct": 52.08
    },
-   "marginPts": -5.5,
+   "marginPts": -4.16,
    "reporting": "partial (not stated)",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; vote counts and % reporting not available.; not refreshed this run",
+   "note": "Yes % per MultiState (pending); No % derived; no vote counts or timestamp; not called. Rechecked Nov 6 11:51 PM ET, unchanged.",
    "source": "https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 4, 2:20 AM ET"
+   "asOf": "Nov 6, 11:57 AM ET"
   },
   {
    "category": "Civil Rights & Repro",
@@ -2996,14 +3096,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 58
+    "pct": 58.0
    },
    "no": {
-    "votes": null,
-    "pct": 42
+    "pct": 42.0
    },
-   "marginPts": 16,
+   "marginPts": 16.0,
    "reporting": "",
    "calledBy": "Signal Akron",
    "note": "Reported passed, per Signal Akron; no AP call found.",
@@ -3022,17 +3120,15 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 52.3
    },
    "no": {
-    "votes": null,
     "pct": 47.7
    },
    "marginPts": 4.6,
    "reporting": "95.7% of expected vote",
    "calledBy": "NBC News Decision Desk",
-   "note": "NBC News projects Passed (94% of expected vote in, 11:46 PM ET Nov 5).",
+   "note": "NBC News projects Passed (95.7% of expected vote in, 11:51 AM ET Nov 6).",
    "source": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
    "asOf": "Nov 6, 11:51 AM ET"
   },
@@ -3100,14 +3196,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 79
+    "pct": 79.0
    },
    "no": {
-    "votes": null,
-    "pct": 21
+    "pct": 21.0
    },
-   "marginPts": 58,
+   "marginPts": 58.0,
    "reporting": "",
    "calledBy": "WCAX / Manchester Journal",
    "note": "Reported passed, per WCAX / Manchester Journal; no AP call found.",
@@ -3126,11 +3220,9 @@
    "threshold": "55%",
    "thresholdPct": 55,
    "yes": {
-    "votes": null,
     "pct": 44.97
    },
    "no": {
-    "votes": null,
     "pct": 55.03
    },
    "marginPts": -10.06,
@@ -3152,11 +3244,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 72.21
    },
    "no": {
-    "votes": null,
     "pct": 27.79
    },
    "marginPts": 44.42,
@@ -3178,14 +3268,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 72
+    "pct": 72.0
    },
    "no": {
-    "votes": null,
-    "pct": 28
+    "pct": 28.0
    },
-   "marginPts": 44,
+   "marginPts": 44.0,
    "reporting": "",
    "calledBy": "KPRC",
    "note": "Reported passed, per KPRC; no AP call found.",
@@ -3244,11 +3332,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 68.56
    },
    "no": {
-    "votes": null,
     "pct": 31.44
    },
    "marginPts": 37.12,
@@ -3270,11 +3356,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 63.25
    },
    "no": {
-    "votes": null,
     "pct": 36.75
    },
    "marginPts": 26.5,
@@ -3296,14 +3380,12 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
-    "pct": 48
+    "pct": 48.0
    },
    "no": {
-    "votes": null,
-    "pct": 52
+    "pct": 52.0
    },
-   "marginPts": -4,
+   "marginPts": -4.0,
    "reporting": "",
    "calledBy": "Michigan Public",
    "note": "Reported failed, per Michigan Public; no AP call found.",
@@ -3322,11 +3404,9 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": null,
     "pct": 54.73
    },
    "no": {
-    "votes": null,
     "pct": 45.27
    },
    "marginPts": 9.46,
