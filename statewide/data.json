@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:17:00-05:00",
+ "updated": "2026-11-06T22:18:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3012,79 +3012,79 @@
    "id": "AZ-AG",
    "status": "Called",
    "leader": "D",
-   "reporting": "95.6%",
+   "reporting": "96.5%",
    "dem": {
     "name": "Kris Mayes",
-    "votes": 1356394,
-    "pct": 55.32
+    "votes": 1368996,
+    "pct": 55.37
    },
    "rep": {
     "name": "Warren Petersen",
-    "votes": 1095685,
-    "pct": 44.68
+    "votes": 1103447,
+    "pct": 44.63
    },
-   "marginPts": 10.64,
-   "marginVotes": 260709,
+   "marginPts": 10.74,
+   "marginVotes": 265549,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-attorney-general-general-election",
-   "asOf": "2026-11-06T21:17:00-05:00",
+   "asOf": "2026-11-06T22:18:00-05:00",
    "ddhqUpdated": "2026-11-04 09:35:09.38313+00",
-   "totalVotes": 2452079,
+   "totalVotes": 2472443,
    "countSource": "https://www.azfamily.com/politics/election-results/"
   },
   {
    "id": "AZ-SOS",
    "status": "Called",
    "leader": "D",
-   "reporting": "95.6%",
+   "reporting": "96.5%",
    "dem": {
     "name": "Adrian Fontes",
-    "votes": 1345195,
-    "pct": 54.71
+    "votes": 1357422,
+    "pct": 54.75
    },
    "rep": {
     "name": "Alexander Kolodin",
-    "votes": 1077354,
-    "pct": 43.81
+    "votes": 1084998,
+    "pct": 43.76
    },
-   "marginPts": 10.9,
-   "marginVotes": 267841,
+   "marginPts": 10.99,
+   "marginVotes": 272424,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-secretary-of-state-general-election",
-   "asOf": "2026-11-06T21:17:00-05:00",
+   "asOf": "2026-11-06T22:18:00-05:00",
    "ddhqUpdated": "2026-11-04 09:35:09.38313+00",
    "others": [
     {
      "name": "Duwayne Collier",
      "party": "GRE",
-     "votes": 36439,
-     "pct": 1.48
+     "votes": 36905,
+     "pct": 1.49
     }
    ],
-   "totalVotes": 2458988,
+   "totalVotes": 2479325,
    "countSource": "https://www.azfamily.com/politics/election-results/"
   },
   {
    "id": "AZ-TREAS",
    "status": "Counting",
    "leader": "D",
-   "reporting": "95.7%",
+   "reporting": "96.5%",
    "dem": {
     "name": "Nick Mansour",
-    "votes": 1303860,
-    "pct": 53.67
+    "votes": 1316120,
+    "pct": 53.73
    },
    "rep": {
     "name": "Elijah Norton",
-    "votes": 1125406,
-    "pct": 46.33
+    "votes": 1133345,
+    "pct": 46.27
    },
-   "marginPts": 7.34,
-   "marginVotes": 178454,
+   "marginPts": 7.46,
+   "marginVotes": 182775,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T21:17:00-05:00",
-   "totalVotes": 2429266
+   "asOf": "2026-11-06T22:18:00-05:00",
+   "totalVotes": 2449465
   },
   {
    "id": "WY-SOS",
@@ -3132,24 +3132,24 @@
   {
    "status": "Called",
    "leader": "D",
-   "reporting": "95.7%",
-   "marginPts": 12.78,
-   "marginVotes": 317041,
+   "reporting": "96.5%",
+   "marginPts": 12.88,
+   "marginVotes": 322307,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/arizona-governor-general-election",
-   "asOf": "2026-11-06T21:17:00-05:00",
+   "asOf": "2026-11-06T22:18:00-05:00",
    "id": "AZ-LG",
    "dem": {
     "name": "John Giles",
-    "votes": 1376366,
-    "pct": 55.47
+    "votes": 1389019,
+    "pct": 55.52
    },
    "rep": {
     "name": "Sine Kerr",
-    "votes": 1059325,
-    "pct": 42.69
+    "votes": 1066712,
+    "pct": 42.64
    },
-   "totalVotes": 2481196,
+   "totalVotes": 2501871,
    "note": "Joint ticket; counts follow AZ-GOV (Hobbs/Biggs)."
   },
   {
