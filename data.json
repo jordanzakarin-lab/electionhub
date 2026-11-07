@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:18:00-05:00",
+ "updated": "2026-11-06T19:32:00-05:00",
  "sample": false,
  "races": [
   {
@@ -834,19 +834,19 @@
    "reporting": "98.9%",
    "dem": {
     "name": "Don Coover",
-    "votes": 110671,
+    "votes": 110677,
     "pct": 45.04
    },
    "rep": {
     "name": "Derek Schmidt",
-    "votes": 125837,
+    "votes": 125843,
     "pct": 51.21
    },
    "marginPts": -6.17,
    "marginVotes": 15166,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-house-2-general-election",
-   "asOf": "2026-11-06T19:18:00-05:00",
+   "asOf": "2026-11-06T19:32:00-05:00",
    "ddhqUpdated": "2026-11-04 06:51:32.196953+00",
    "others": [
     {
@@ -856,39 +856,39 @@
      "pct": 3.74
     }
    ],
-   "totalVotes": 245709,
+   "totalVotes": 245721,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
    "id": "KS-SEN",
    "status": "Called",
    "leader": "D",
-   "reporting": "98.8%",
+   "reporting": "98.9%",
    "dem": {
     "name": "Adam Hamilton",
-    "votes": 560873,
-    "pct": 51.01
+    "votes": 561133,
+    "pct": 51.02
    },
    "rep": {
     "name": "Roger Marshall",
-    "votes": 505401,
-    "pct": 45.97
+    "votes": 505551,
+    "pct": 45.96
    },
-   "marginPts": 5.04,
-   "marginVotes": 55472,
+   "marginPts": 5.06,
+   "marginVotes": 55582,
    "calledBy": "DDHQ",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election",
-   "asOf": "2026-11-06T19:18:00-05:00",
+   "asOf": "2026-11-06T19:32:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
      "name": "David Graham",
      "party": "LIB",
-     "votes": 33183,
+     "votes": 33195,
      "pct": 3.02
     }
    ],
-   "totalVotes": 1099457,
+   "totalVotes": 1099879,
    "countSource": "https://www.wibw.com/politics/election-results/"
   },
   {
@@ -2302,31 +2302,31 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "96.8%",
+   "reporting": "97.1%",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 155619,
-    "pct": 48.49
+    "votes": 156467,
+    "pct": 48.59
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 159486,
-    "pct": 49.7
+    "votes": 159705,
+    "pct": 49.6
    },
-   "marginPts": -1.21,
-   "marginVotes": 3867,
+   "marginPts": -1.01,
+   "marginVotes": 3238,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T17:32:00-05:00",
+   "asOf": "2026-11-06T19:32:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5808,
+     "votes": 5820,
      "pct": 1.81
     }
    ],
-   "totalVotes": 320913
+   "totalVotes": 321992
   },
   {
    "id": "UT-01",
