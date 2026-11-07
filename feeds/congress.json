@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:48:37-05:00",
+ "updated": "2026-11-06T19:50:20-05:00",
  "source": "official state results files (NC, MN, WA)",
  "races": [
   {
@@ -296,22 +296,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Peggy Flanagan",
-    "votes": 1520863,
+    "votes": 1520571,
     "pct": 53.7
    },
    "rep": {
     "name": "Michele Tafoya",
-    "votes": 1233458,
+    "votes": 1233465,
     "pct": 43.6
    },
-   "other": 77447,
+   "other": 77382,
    "marginPts": 10.1,
-   "marginVotes": 287405,
+   "marginVotes": 287106,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
-   "asOf": "2026-11-06T15:48:37-05:00",
+   "asOf": "2026-11-06T19:50:20-05:00",
    "feed": true,
-   "totalVotes": 2831768,
+   "totalVotes": 2831418,
    "id": "MN-SEN"
   },
   {
@@ -344,22 +344,22 @@
    "reporting": "100%",
    "dem": {
     "name": "Matt Little",
-    "votes": 214254,
+    "votes": 214280,
     "pct": 57.1
    },
    "rep": {
     "name": "Eric Pratt",
-    "votes": 160636,
+    "votes": 160642,
     "pct": 42.8
    },
-   "other": 335,
+   "other": 314,
    "marginPts": 14.3,
-   "marginVotes": 53618,
+   "marginVotes": 53638,
    "calledBy": null,
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
-   "asOf": "2026-11-05T19:02:29-05:00",
+   "asOf": "2026-11-06T19:50:20-05:00",
    "feed": true,
-   "totalVotes": 375225,
+   "totalVotes": 375236,
    "id": "MN-02"
   }
  ]
