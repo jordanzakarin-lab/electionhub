@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:02:00-05:00",
+ "updated": "2026-11-07T18:55:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2565,7 +2565,7 @@
    "leader": "D",
    "reporting": "99%",
    "dem": {
-    "name": "Raúl Torrez",
+    "name": "Ra\u00fal Torrez",
     "votes": 450371,
     "pct": 62.9
    },
@@ -3066,7 +3066,7 @@
   },
   {
    "id": "AZ-TREAS",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "97.9%",
    "dem": {
@@ -3081,10 +3081,11 @@
    },
    "marginPts": 7.72,
    "marginVotes": 192143,
-   "calledBy": null,
-   "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T23:02:00-05:00",
-   "totalVotes": 2488079
+   "calledBy": "AP",
+   "source": "https://www.azfamily.com/2026/11/05/democrat-nick-mansour-wins-arizona-treasurer-race/",
+   "asOf": "2026-11-07T18:55:00-05:00",
+   "totalVotes": 2488079,
+   "note": "AP call Nov 5 early afternoon. Flip (held by R)."
   },
   {
    "id": "WY-SOS",
@@ -3746,7 +3747,7 @@
     "pct": 39.9
    },
    "rep": {
-    "name": "Raúl Labrador",
+    "name": "Ra\u00fal Labrador",
     "votes": 384617,
     "pct": 60.1
    },
@@ -3872,7 +3873,7 @@
     "pct": 56.4
    },
    "rep": {
-    "name": "Adriana Guzmán Fralick",
+    "name": "Adriana Guzm\u00e1n Fralick",
     "votes": 400771,
     "pct": 41.4
    },

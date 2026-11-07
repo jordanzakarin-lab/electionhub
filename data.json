@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:20:00-05:00",
+ "updated": "2026-11-07T18:55:00-05:00",
  "sample": false,
  "races": [
   {
@@ -893,7 +893,7 @@
   },
   {
    "id": "ME-02",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "97.8%",
    "dem": {
@@ -908,9 +908,9 @@
    },
    "marginPts": -1.6,
    "marginVotes": null,
-   "calledBy": null,
-   "source": "https://www.nbcnews.com/politics/2026-elections/maine-us-house-district-2-results",
-   "asOf": "2026-11-05T15:32:00-05:00",
+   "calledBy": "Dunlap concession",
+   "source": "https://www.mainepublic.org/politics/2026-11-05/maines-2nd-congressional-district-race-requires-ranked-choice-runoff",
+   "asOf": "2026-11-07T18:55:00-05:00",
    "others": [
     {
      "name": "Gregory Ward",
@@ -920,7 +920,7 @@
     }
    ],
    "totalVotes": 341281,
-   "note": "NBC total excludes blank ballots; ranked-choice tabulation possible if no majority."
+   "note": "Declared: Dunlap conceded Nov 5. LePage 362 votes short of a majority, so the RCV tabulation still runs from Nov 9; no outlet call yet."
   },
   {
    "id": "ME-SEN",
@@ -2248,7 +2248,7 @@
   },
   {
    "id": "NY-01",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "86%",
    "dem": {
@@ -2263,10 +2263,11 @@
    },
    "marginPts": -2.2,
    "marginVotes": null,
-   "calledBy": null,
-   "source": "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-1-results",
-   "asOf": "2026-11-04T11:01:00-05:00",
-   "totalVotes": 298585
+   "calledBy": "Gallant concession",
+   "source": "https://greaterlongisland.com/chris-gallant-concedes-nick-lalota-ny-1-brother-in-arms/",
+   "asOf": "2026-11-07T18:55:00-05:00",
+   "totalVotes": 298585,
+   "note": "Declared: Chris Gallant conceded Nov 4."
   },
   {
    "id": "NY-04",
@@ -2506,7 +2507,7 @@
   },
   {
    "id": "AZ-08",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "96.9%",
    "dem": {
@@ -2521,10 +2522,11 @@
    },
    "marginPts": -2.48,
    "marginVotes": 7057,
-   "calledBy": null,
-   "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T23:02:00-05:00",
-   "totalVotes": 285223
+   "calledBy": "AP",
+   "source": "https://ktar.com/arizona-politics-news/election/arizona-elections-2026-congressional-results",
+   "asOf": "2026-11-07T18:55:00-05:00",
+   "totalVotes": 285223,
+   "note": "AP call Fri Nov 6, per KTAR results page."
   },
   {
    "id": "CA-23",
@@ -2674,7 +2676,7 @@
   },
   {
    "id": "NY-02",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "78%",
    "dem": {
@@ -2689,10 +2691,11 @@
    },
    "marginPts": -2.5,
    "marginVotes": null,
-   "calledBy": null,
-   "source": "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-2-results",
-   "asOf": "2026-11-04T11:03:00-05:00",
-   "totalVotes": 244620
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/politics/articles/republican-andrew-garbarino-wins-reelection-170032638.html",
+   "asOf": "2026-11-07T18:55:00-05:00",
+   "totalVotes": 244620,
+   "note": "AP call by Nov 5; Halpin has not conceded."
   },
   {
    "id": "NC-05",
@@ -3079,7 +3082,7 @@
   },
   {
    "id": "TX-02",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "99%",
    "dem": {
@@ -3094,9 +3097,9 @@
    },
    "marginPts": -2.0,
    "marginVotes": 5581,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-2-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "calledBy": "AP",
+   "source": "https://www.yahoo.com/news/politics/articles/republican-steve-toth-wins-election-221143526.html",
+   "asOf": "2026-11-07T18:55:00-05:00",
    "ddhqUpdated": "2026-11-04 16:10:01.498977+00"
   },
   {
@@ -3167,7 +3170,7 @@
   },
   {
    "id": "TX-22",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "99%",
    "dem": {
@@ -3182,9 +3185,9 @@
    },
    "marginPts": -3.6,
    "marginVotes": 10570,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-22-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://political.org/2026/11/04/trever-nehls-projected-to-win-texas-22nd-district-succeeding-twin-brother-troy-nehls-in-the-u-s-house/",
+   "asOf": "2026-11-07T18:55:00-05:00",
    "ddhqUpdated": "2026-11-04 16:10:01.498977+00"
   },
   {
@@ -3211,7 +3214,7 @@
   },
   {
    "id": "TX-38",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "99%",
    "dem": {
@@ -3226,9 +3229,9 @@
    },
    "marginPts": -4.2,
    "marginVotes": 12864,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-house-38-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "calledBy": "DDHQ",
+   "source": "https://www.yahoo.com/news/politics/articles/bonck-wins-house-election-hunt-173844508.html",
+   "asOf": "2026-11-07T18:55:00-05:00",
    "ddhqUpdated": "2026-11-04 16:10:01.498977+00",
    "others": [
     {
@@ -3568,7 +3571,7 @@
   },
   {
    "id": "CO-03",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "97.3%",
    "dem": {
@@ -3583,9 +3586,9 @@
    },
    "marginPts": -1.9,
    "marginVotes": null,
-   "calledBy": null,
-   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-house-results",
-   "asOf": "2026-11-06T10:53:00-05:00",
+   "calledBy": "AP",
+   "source": "https://www.kjct8.com/2026/11/07/jeff-hurd-wins-reelection-colorados-3rd-congressional-district/",
+   "asOf": "2026-11-07T18:55:00-05:00",
    "others": [
     {
      "name": "Cory Robertson",
@@ -3600,7 +3603,8 @@
      "pct": 1.6
     }
    ],
-   "totalVotes": 332044
+   "totalVotes": 332044,
+   "note": "AP called Fri morning Nov 6 (DDHQ projected Nov 5); Romero conceded."
   },
   {
    "id": "CO-04",
