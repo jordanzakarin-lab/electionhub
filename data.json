@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:02:00-05:00",
+ "updated": "2026-11-07T18:20:00-05:00",
  "sample": false,
  "races": [
   {
@@ -207,7 +207,7 @@
     "pct": 49.8
    },
    "rep": {
-    "name": "María Elvira Salazar",
+    "name": "Mar\u00eda Elvira Salazar",
     "votes": 124474,
     "pct": 50.2
    },
@@ -2182,7 +2182,7 @@
   },
   {
    "id": "CO-05",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "87.6%",
    "dem": {
@@ -2197,9 +2197,9 @@
    },
    "marginPts": 4.6,
    "marginVotes": null,
-   "calledBy": null,
-   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-5-results",
-   "asOf": "2026-11-05T12:40:00-05:00",
+   "calledBy": "CBS News",
+   "source": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "asOf": "2026-11-07T18:20:00-05:00",
    "others": [
     {
      "name": "Mark Elworth",
@@ -2366,7 +2366,7 @@
   },
   {
    "id": "AZ-01",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "98.2%",
    "dem": {
@@ -2381,9 +2381,9 @@
    },
    "marginPts": 6.91,
    "marginVotes": 24299,
-   "calledBy": null,
-   "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T23:02:00-05:00",
+   "calledBy": "CBS News",
+   "source": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "asOf": "2026-11-07T18:20:00-05:00",
    "others": [
     {
      "name": "Monica Alponte",
@@ -2484,7 +2484,7 @@
   },
   {
    "id": "AZ-05",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "98.7%",
    "dem": {
@@ -2499,9 +2499,9 @@
    },
    "marginPts": -3.44,
    "marginVotes": 11116,
-   "calledBy": null,
-   "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T23:02:00-05:00",
+   "calledBy": "CBS News",
+   "source": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "asOf": "2026-11-07T18:20:00-05:00",
    "totalVotes": 322744
   },
   {
@@ -2956,7 +2956,7 @@
      "pct": 1.2
     },
     {
-     "name": "Micheál O'Leary",
+     "name": "Miche\u00e1l O'Leary",
      "party": "IND",
      "votes": 815,
      "pct": 0.4
@@ -3528,7 +3528,7 @@
    "leader": "D",
    "reporting": "80%",
    "dem": {
-    "name": "Linda Sánchez",
+    "name": "Linda S\u00e1nchez",
     "votes": 109542,
     "pct": 65.0
    },
