@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:05:00-05:00",
+ "updated": "2026-11-09T18:30:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -107,24 +107,24 @@
    "measure": "Audits and Spending-Limit Rules for New Taxes",
    "ballotNo": "Prop 41",
    "description": "Requires audits of new state special taxes and bars exempting them from the spending limit. Written to cancel Prop 40 if it gets more yes votes.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 4365280,
-    "pct": 46.0
+    "votes": 4620911,
+    "pct": 45.4
    },
    "no": {
-    "votes": 5128740,
-    "pct": 54.0
+    "votes": 5552475,
+    "pct": 54.6
    },
-   "marginPts": -8.0,
-   "reporting": "71.1% of expected vote (NBC)",
-   "calledBy": "",
-   "note": "NBC: Too early to call. Votes via NBC LA.",
+   "marginPts": -9.2,
+   "reporting": "76.6% of expected vote (NBC)",
+   "calledBy": "AP (via KQED, 5:30 PM PT Nov 7); NBC News Decision Desk projects No",
+   "note": "NBC LA shows 'Projected Winner' on No (NBC News Decision Desk); KQED/AP page shows 'Race called at 5:30 PM PT on November 7'. Corroborating KQED page: https://www.kqed.org/elections/results/california/proposition-41",
    "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
-   "asOf": "Nov 6, 11:36 AM ET"
+   "asOf": "Nov 9, 5:55 PM ET (fetched)"
   },
   {
    "category": "Tax Wealthy",
@@ -138,19 +138,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 5043565,
-    "pct": 52.6
+    "votes": 5339967,
+    "pct": 52.0
    },
    "no": {
-    "votes": 4543485,
-    "pct": 47.4
+    "votes": 4933120,
+    "pct": 48.0
    },
-   "marginPts": 5.2,
-   "reporting": "71.1% of expected vote (NBC)",
+   "marginPts": 4.0,
+   "reporting": "76.61% of votes counted (AP estimate)",
    "calledBy": "",
-   "note": "NBC: Too early to call. Votes via NBC LA.",
-   "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
-   "asOf": "Nov 6, 11:36 AM ET"
+   "note": "No AP call on KQED; NBC News Decision Desk: Too Early to Call. Same counts on NBC LA.",
+   "source": "https://www.kqed.org/elections/results/california/proposition-42",
+   "asOf": "Nov 9, 9:26 AM ET"
   },
   {
    "category": "Tax Wealthy / Initiative Process",
@@ -159,24 +159,24 @@
    "measure": "Two-Thirds Vote for Citizen Local Special Taxes",
    "ballotNo": "Prop 43",
    "description": "Citizen-initiated local special taxes would need two-thirds, starting 2027. Not retroactive, so LA's mansion tax survives. Replaced the Local Taxpayer Protection Act.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 4099520,
-    "pct": 43.56
+    "votes": 4349879,
+    "pct": 43.04
    },
    "no": {
-    "votes": 5310858,
-    "pct": 56.44
+    "votes": 5757562,
+    "pct": 56.96
    },
-   "marginPts": -12.88,
-   "reporting": "71% of expected vote (NBC)",
-   "calledBy": "",
-   "note": "Not called (NBC, KQED). Votes via NBC LA.",
-   "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
-   "asOf": "Nov 6, 11:36 AM ET"
+   "marginPts": -13.92,
+   "reporting": "76.55% of votes counted (AP estimate)",
+   "calledBy": "AP (via KQED, 5:35 PM PT Nov 7); NBC News projects No",
+   "note": "KQED/AP: 'Race called at 5:35 PM PT on November 7'; NBC LA shows 'Projected Winner' on No. Same counts on both pages.",
+   "source": "https://www.kqed.org/elections/results/california/proposition-43",
+   "asOf": "Nov 9, 5:55 PM ET (fetched)"
   },
   {
    "category": "Tax Wealthy",
@@ -350,19 +350,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 576290,
-    "pct": 61.88
+    "votes": 646028,
+    "pct": 60.97
    },
    "no": {
-    "votes": 355048,
-    "pct": 38.12
+    "votes": 413572,
+    "pct": 39.03
    },
-   "marginPts": 23.76,
+   "marginPts": 21.94,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Not called; DDHQ shows Yes leading.",
+   "note": "Fresher counts on NBC LA; no call shown (page header timestamp stale).",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 6 (LA County update, via NBC LA)"
+   "asOf": "Nov 9, 5:55 PM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -376,19 +376,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 146415,
-    "pct": 51.65
+    "votes": 164430,
+    "pct": 52.3
    },
    "no": {
-    "votes": 137078,
-    "pct": 48.35
+    "votes": 149904,
+    "pct": 47.6
    },
-   "marginPts": 3.3,
+   "marginPts": 4.7,
    "reporting": "unofficial; AP via KQED",
    "calledBy": "",
-   "note": "KQED/AP page (4:12 PM PT Nov 6) shows \"Passes with majority vote\" but no explicit AP call confirmed; not called here. Not refreshed this run.",
+   "note": "No AP call indicator on KQED (only threshold text). Yes margin grew to ~14,500.",
    "source": "https://www.kqed.org/elections/results/sanfrancisco/proposition-b",
-   "asOf": "Nov 6, 7:12 PM ET"
+   "asOf": "Nov 9, 9:25 AM ET"
   },
   {
    "category": "Economic Justice",
@@ -522,19 +522,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 1493493,
-    "pct": 62.98
+    "votes": 1662470,
+    "pct": 62.26
    },
    "no": {
-    "votes": 877793,
-    "pct": 37.02
+    "votes": 1007636,
+    "pct": 37.74
    },
-   "marginPts": 25.96,
+   "marginPts": 24.52,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Not called; DDHQ shows Yes leading.",
+   "note": "Fresher counts on NBC LA; no call shown.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 6 (LA County update, via NBC LA)"
+   "asOf": "Nov 9, 5:55 PM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -1042,19 +1042,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 20086,
-    "pct": 58.87
+    "votes": 21825,
+    "pct": 58.77
    },
    "no": {
-    "votes": 14034,
-    "pct": 41.13
+    "votes": 15309,
+    "pct": 41.23
    },
-   "marginPts": 17.74,
+   "marginPts": 17.54,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Not called by AP/DDHQ/officials. Santa Monica Daily Press lists it as approved; DDHQ shows Yes leading. Votes via NBC LA.",
+   "note": "Fresher counts on NBC LA; no call shown.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 6 (LA County update, via NBC LA)"
+   "asOf": "Nov 9, 5:55 PM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1068,19 +1068,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 24975,
-    "pct": 71.33
+    "votes": 27256,
+    "pct": 71.44
    },
    "no": {
-    "votes": 10040,
-    "pct": 28.67
+    "votes": 10896,
+    "pct": 28.56
    },
-   "marginPts": 42.66,
+   "marginPts": 42.88,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Not called by AP/DDHQ/officials. Santa Monica Daily Press lists it as approved; DDHQ shows Yes leading. Votes via NBC LA.",
+   "note": "Fresher counts on NBC LA; no call shown.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 6 (LA County update, via NBC LA)"
+   "asOf": "Nov 9, 5:55 PM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1094,19 +1094,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 21367,
-    "pct": 62.28
+    "votes": 23322,
+    "pct": 62.42
    },
    "no": {
-    "votes": 12940,
-    "pct": 37.72
+    "votes": 14039,
+    "pct": 37.58
    },
-   "marginPts": 24.56,
+   "marginPts": 24.84,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Not called by AP/DDHQ/officials. Santa Monica Daily Press lists it as approved; DDHQ shows Yes leading. Votes via NBC LA.",
+   "note": "Fresher counts on NBC LA; no call shown.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 6 (LA County update, via NBC LA)"
+   "asOf": "Nov 9, 5:55 PM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1948,19 +1948,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 4605132,
-    "pct": 49.13
+    "votes": 4991264,
+    "pct": 49.58
    },
    "no": {
-    "votes": 4767740,
-    "pct": 50.87
+    "votes": 5076644,
+    "pct": 50.42
    },
-   "marginPts": -1.74,
-   "reporting": "71% of expected vote (NBC)",
+   "marginPts": -0.84,
+   "reporting": "77% of expected vote (NBC)",
    "calledBy": "",
-   "note": "Not called (KQED). Votes via NBC LA.",
+   "note": "No call on NBC or KQED (KQED/AP Nov 7 6:02 PM PT: 49.4/50.5 at 74.98%). Margin ~85k.",
    "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
-   "asOf": "Nov 6, 11:36 AM ET"
+   "asOf": "Nov 9, 5:55 PM ET (fetched)"
   },
   {
    "category": "Voting & Democracy",
@@ -1974,19 +1974,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 4755931,
-    "pct": 51.4
+    "votes": 5138785,
+    "pct": 51.93
    },
    "no": {
-    "votes": 4482253,
-    "pct": 48.5
+    "votes": 4757753,
+    "pct": 48.07
    },
-   "marginPts": 2.9,
-   "reporting": "70.97% of votes counted (AP estimate)",
+   "marginPts": 3.86,
+   "reporting": "76.5% of votes counted (AP estimate)",
    "calledBy": "",
-   "note": "Not called. Votes via KQED (AP).",
+   "note": "Not called (KQED/AP, NBC). Same counts on NBC LA.",
    "source": "https://www.kqed.org/elections/results/california/proposition-5",
-   "asOf": "Nov 6, 10:44 PM ET"
+   "asOf": "Nov 8, 8:04 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2366,19 +2366,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 35295,
-    "pct": 52.29
+    "votes": 37434,
+    "pct": 52.6
    },
    "no": {
-    "votes": 32204,
-    "pct": 47.71
+    "votes": 33729,
+    "pct": 47.4
    },
-   "marginPts": 4.58,
+   "marginPts": 5.2,
    "reporting": "not stated",
    "calledBy": "",
    "note": "Not called (DDHQ).",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-irvine-measure-d-nonpartisan-ballot-question",
-   "asOf": "Nov 6, 8:03 PM ET"
+   "asOf": "Nov 7, 8:01 PM ET"
   },
   {
    "category": "Voting & Democracy",
