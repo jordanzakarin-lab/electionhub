@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:30:00-05:00",
+ "updated": "2026-11-10T15:45:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -903,21 +903,21 @@
   },
   "CA-H": {
    "D": 62,
-   "R": 8,
+   "R": 11,
    "I": 0,
-   "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8; Nov 9 seat sweep 13; Nov 9 CA update (DDHQ)",
-   "asOf": "Nov 9, 11:15 PM ET",
+   "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8; Nov 9 seat sweep 13; Nov 9 CA update (DDHQ); Nov 10 seat sweep 15",
+   "asOf": "Nov 10, 3:45 PM ET",
    "control": "D",
    "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
    "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
    "note": "Held by D as of 7 AM ET Nov 4"
   },
   "CA-S": {
-   "D": 14,
+   "D": 15,
    "R": 1,
    "I": 0,
-   "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8; Nov 9 seat sweep 13",
-   "asOf": "Nov 9, 10:15 PM ET",
+   "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8; Nov 9 seat sweep 13; Nov 10 seat sweep 15",
+   "asOf": "Nov 10, 3:45 PM ET",
    "control": "D",
    "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
    "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
@@ -1001,11 +1001,11 @@
    "note": "Held by D as of 7 AM ET Nov 4"
   },
   "UT-H": {
-   "D": 24,
+   "D": 26,
    "R": 44,
    "I": 2,
-   "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState; Nov 4 seat sweep 6: MultiState winner tables; Nov 6 seat sweep 9; Nov 7 seat sweep 11; Nov 9 seat sweep 12; Nov 10 seat sweep 11",
-   "asOf": "Nov 10, 10:00 AM ET",
+   "source": "Nov 4 seat sweep: uncontested seats + calls from MultiState; Nov 4 seat sweep 6: MultiState winner tables; Nov 6 seat sweep 9; Nov 7 seat sweep 11; Nov 9 seat sweep 12; Nov 10 seat sweep 11; Nov 10 seat sweep 15",
+   "asOf": "Nov 10, 3:45 PM ET",
    "control": "R",
    "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
    "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
@@ -45750,13 +45750,13 @@
     "votes": 27654,
     "pct": 16.76
    },
-   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%)",
+   "reporting": "~97% counted (MD SBE unofficial refreshed 11/09 8:27 PM: all election-day precincts, early and mail-in canvass rounds counted; provisionals still NR (provisional canvass pending); est. ~97%)",
    "status": "Counting",
    "calledBy": "",
-   "note": "No winner marked. Seat 3: Pippy (R) 27,563 leads Stanley (D) 26,773 by 790. MultiState: Donald and Duck in winning positions alongside Pippy. NOTE input \"others\" votes were stale; these are current SBE.",
+   "note": "Newer SBE refresh (11/09 PM). Top 3: Donald (D), Duck (D), Pippy (R); 3rd-seat race Pippy +622 over Stanley (D); Stanley +282 over Miller (R) for 4th. Not called.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
-   "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
-   "sweep": "Nov 10 seat sweep 14",
+   "asOf": "Nov 9, 8:27 PM ET (SBE last refreshed)",
+   "sweep": "Nov 10 seat sweep 15",
    "marginPts": 0.82,
    "marginVotes": 1347,
    "leader": "D",
@@ -45871,13 +45871,13 @@
     "votes": 16393,
     "pct": 19.29
    },
-   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%)",
+   "reporting": "~97% counted (MD SBE unofficial refreshed 11/09 8:27 PM: all election-day precincts, early and mail-in canvass rounds counted; provisionals still NR (provisional canvass pending); est. ~97%)",
    "status": "Counting",
    "calledBy": "",
-   "note": "No winner marked; R sweep leading (3rd R Grammer leads top D by 2,547).",
+   "note": "Newer SBE refresh (11/09 PM). R sweep of 3 seats; 3rd R Grammer +2,442 over top D. Not called.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
-   "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
-   "sweep": "Nov 10 seat sweep 14",
+   "asOf": "Nov 9, 8:27 PM ET (SBE last refreshed)",
+   "sweep": "Nov 10 seat sweep 15",
    "marginPts": -4.04,
    "marginVotes": -3437,
    "leader": "R",
@@ -47420,24 +47420,24 @@
    "dem": {
     "name": "Anthony Lyon",
     "votes": 8994,
-    "pct": null
+    "pct": 48.42
    },
    "rep": {
     "name": "Jake Taylor",
     "votes": 9555,
-    "pct": null
+    "pct": 51.44
    },
    "marginVotes": -561,
    "marginPts": -3.02,
-   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%)",
+   "reporting": "~97% counted (MD SBE unofficial refreshed 11/09 8:27 PM: all election-day precincts, early and mail-in canvass rounds counted; provisionals still NR (provisional canvass pending); est. ~97%)",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "MultiState: Taylor (R) leads, still counting. Margin 561.",
+   "note": "SBE refresh 11/09 PM; totals unchanged from prior (Taylor +561). Provisionals NR. Not called.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
-   "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
-   "sweep": "Nov 10 seat sweep 14",
+   "asOf": "Nov 9, 8:27 PM ET (SBE last refreshed)",
+   "sweep": "Nov 10 seat sweep 15",
    "lean": true
   },
   {
@@ -47559,13 +47559,13 @@
     "votes": 28104,
     "pct": 21.08
    },
-   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%); some seats marked won by MultiState, not all",
+   "reporting": "~97% counted (MD SBE unofficial refreshed 11/09 8:27 PM: all election-day precincts, early and mail-in canvass rounds counted; provisionals still NR (provisional canvass pending); est. ~97%); some seats marked won by MultiState, not all",
    "status": "Counting",
    "calledBy": "",
-   "note": "MultiState marks Arentz (R) and Jacobs (R); 3rd seat (Caroline Co. seat, max 1 per county) Ghrist (R) 25,023 vs Crouse (D) 16,376 not marked.",
+   "note": "Newer SBE refresh (11/09 PM). R lead all 3 seats by 6,500+. Not called.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
-   "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
-   "sweep": "Nov 10 seat sweep 14",
+   "asOf": "Nov 9, 8:27 PM ET (SBE last refreshed)",
+   "sweep": "Nov 10 seat sweep 15",
    "marginPts": -7.22,
    "marginVotes": -9632,
    "leader": "R",
@@ -86869,13 +86869,13 @@
     "votes": 35302,
     "pct": 35.3
    },
-   "reporting": "Unknown: no current AZ count or ballots-remaining figure found.",
+   "reporting": "No current AZ count found; numbers are stale Nov 4",
    "status": "Counting",
    "calledBy": "",
-   "note": "No fresh count found (Maricopa/KJZZ only link AP widgets). Stale Nov 4 numbers: Kupper (R) +1,444 over Byrne (D) for 2nd seat. MultiState 'No winner recorded'.",
-   "source": "https://politicselections.com/arizona-election-results-legislature/ ; https://www.multistate.us/elections/results/arizona-2026",
-   "asOf": "Nov 4 numbers (stale); checked Nov 10, ~7:30 AM ET (fetched)",
-   "sweep": "Nov 10 seat sweep 14",
+   "note": "PARTIAL CALL: MultiState now records Carbone (R) winner for one seat; second seat uncalled, MultiState says Kupper (R) leads Byrne (D).",
+   "source": "https://www.multistate.us/elections/results/arizona-2026",
+   "asOf": "Nov 4 numbers (stale); call fetched Nov 10 ~3:20 PM ET",
+   "sweep": "Nov 10 seat sweep 15",
    "seats": [
     "R",
     "R"
@@ -87712,24 +87712,24 @@
    "others": [],
    "dem": {
     "name": "Sara Kiewiet",
-    "votes": 6867,
-    "pct": 50.11
+    "votes": 6881,
+    "pct": null
    },
    "rep": {
     "name": "Sean E. Tarwater",
-    "votes": 6825,
-    "pct": 49.81
+    "votes": 6828,
+    "pct": null
    },
-   "marginVotes": 42,
-   "reporting": "~97% counted (~97% counted (Johnson County 'unofficial final' Wednesday update (all precincts + advance); provisionals decided at county canvass (began Nov 9), results not found. Est. ~97%) [carried; canvass totals not found])",
+   "marginVotes": 53,
+   "reporting": "~97% counted (Friday Nov 6 afternoon post-election totals; provisionals/late mail to be decided at county canvass; carried ~97% estimate)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
-   "source": "https://www.jocoelection.org/sites/default/files/2026-11/Unofficial%20Final%20Results%20Wednesday%20Update.pdf",
-   "asOf": "Nov 4, 4:43 PM CT",
-   "sweep": "Nov 10 seat sweep 14",
+   "note": "KMBC: Kiewiet +53 of 13,709 cast (Fri afternoon), up from +42. Votes derived from margin+total (two-candidate race). Johnson Co. close-race audit began Mon Nov 9. Not called.",
+   "source": "https://www.kmbc.com/article/kansas-election-close-race-audit-results-candidates/74361926",
+   "asOf": "Nov 6, 7:33 PM ET (article updated)",
+   "sweep": "Nov 10 seat sweep 15",
    "marginPts": 0.3,
    "lean": true
   },
@@ -89560,16 +89560,18 @@
    },
    "marginVotes": 565,
    "marginPts": 2.98,
-   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
-   "status": "Counting",
+   "reporting": "No ballots-remaining figure found; SLTrib shows no reporting %",
+   "status": "Called",
    "leader": "D",
-   "wouldFlip": true,
-   "calledBy": "",
-   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
-   "sweep": "Nov 10 seat sweep 14",
-   "other": 0
+   "wouldFlip": false,
+   "calledBy": "MultiState winner mark (Nov 10)",
+   "note": "CALLED: MultiState records Woolstenhulme (D) winner; R->D flip. +565.",
+   "source": "https://www.multistate.us/elections/results/utah-2026 ; https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
+   "asOf": "Nov 10, ~3:20 PM ET (fetched); numbers unchanged",
+   "sweep": "Nov 10 seat sweep 15",
+   "other": 0,
+   "winner": "Zane Woolstenhulme",
+   "flip": true
   },
   {
    "state": "UT",
@@ -90187,15 +90189,17 @@
    },
    "marginVotes": 840,
    "marginPts": 5.24,
-   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
-   "status": "Counting",
+   "reporting": "No ballots-remaining figure found; SLTrib shows no reporting %",
+   "status": "Called",
    "leader": "D",
-   "wouldFlip": true,
-   "calledBy": "",
-   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
-   "sweep": "Nov 10 seat sweep 14"
+   "wouldFlip": false,
+   "calledBy": "MultiState winner mark (Nov 10)",
+   "note": "CALLED: MultiState records Birtcher (D) winner over incumbent Teuscher; R->D flip. +840.",
+   "source": "https://www.multistate.us/elections/results/utah-2026 ; https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
+   "asOf": "Nov 10, ~3:20 PM ET (fetched); numbers unchanged",
+   "sweep": "Nov 10 seat sweep 15",
+   "winner": "Jess Birtcher",
+   "flip": true
   },
   {
    "state": "UT",
@@ -90641,15 +90645,15 @@
    },
    "marginVotes": -288,
    "marginPts": -2.99,
-   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
+   "reporting": "No ballots-remaining figure found; SLTrib shows no reporting %",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
-   "sweep": "Nov 10 seat sweep 14",
+   "note": "Corrected third-party figure: SLTrib now shows Jennifer K. Doud (Constitution) 385 (entry had 168). Shepherd +288. MultiState no winner.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
+   "asOf": "Nov 10, ~3:20 PM ET (fetched)",
+   "sweep": "Nov 10 seat sweep 15",
    "other": 385
   },
   {
@@ -91080,15 +91084,15 @@
     "votes": 16119,
     "pct": 50.81
    },
-   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
+   "reporting": "No ballots-remaining figure found; SLTrib shows no reporting %",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
-   "sweep": "Nov 10 seat sweep 14",
+   "note": "Corrected figure: SLTrib shows Buss (Forward, party O) 15,607 (entry had 8,683). Benson +512 (1.6 pts). MultiState no winner.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
+   "asOf": "Nov 10, ~3:20 PM ET (fetched)",
+   "sweep": "Nov 10 seat sweep 15",
    "other": 15607
   },
   {
@@ -93004,15 +93008,15 @@
    },
    "marginVotes": 133,
    "marginPts": 1.02,
-   "reporting": "~97% counted (~97% counted (Post-election-night totals (JC Post); provisionals pending county canvass (began Nov 9). Est. ~97%) [carried; canvass totals not found])",
+   "reporting": "~97% counted (Friday Nov 6 afternoon post-election totals; provisionals/late mail to be decided at county canvass; carried ~97% estimate)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
-   "source": "https://jcpost.com/posts/eaf77661-74e7-49cb-a1cc-320f0ff62a10",
-   "asOf": "Nov 5 (article)",
-   "sweep": "Nov 10 seat sweep 14",
+   "note": "KMBC: Holland (D) +142 (Fri afternoon), vs +133 on board; individual totals not given. Not called.",
+   "source": "https://www.kmbc.com/article/kansas-election-close-race-audit-results-candidates/74361926",
+   "asOf": "Nov 6, 7:33 PM ET (article updated)",
+   "sweep": "Nov 10 seat sweep 15",
    "lean": true
   },
   {
@@ -93679,13 +93683,13 @@
     "votes": 26775,
     "pct": 18.46
    },
-   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%)",
+   "reporting": "~97% counted (MD SBE unofficial refreshed 11/09 8:27 PM: all election-day precincts, early and mail-in canvass rounds counted; provisionals still NR (provisional canvass pending); est. ~97%)",
    "status": "Counting",
    "calledBy": "",
-   "note": "No winner marked. 3rd seat Caldwell-Nkongolo (R) leads Schmidt (D) by 916.",
+   "note": "Newer SBE refresh (11/09 PM). R lead all 3 seats; 3rd R Caldwell-Nkongolo +916 over Schmidt (D). Not called.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
-   "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
-   "sweep": "Nov 10 seat sweep 14",
+   "asOf": "Nov 9, 8:27 PM ET (SBE last refreshed)",
+   "sweep": "Nov 10 seat sweep 15",
    "marginPts": -2.35,
    "marginVotes": -3412,
    "leader": "R",
@@ -97278,24 +97282,24 @@
    "others": [],
    "dem": {
     "name": "Devin Lander",
-    "votes": 59553,
+    "votes": 59971,
     "pct": null
    },
    "rep": {
     "name": "Jake Ashby",
-    "votes": 59871,
+    "votes": 60064,
     "pct": null
    },
-   "marginVotes": -318,
-   "reporting": "~97.5% counted (~97.5% counted (Daily Gazette Nov 4: ~2,900 absentees outstanding of ~122k => ~97.6% counted (as of Nov 4; some since counted, no update found)) [carried from prior sweep; no newer count found])",
+   "marginVotes": -93,
+   "reporting": "~98.5% counted (CBS6 (Nov 6): ~120k counted; remaining = up to 808 outstanding Albany Co. absentees (some never returned) + 618 Rensselaer affidavits under review + Washington Co. unknown; UOCAVA through Nov 16 -> est ~98.5%)",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "MultiState: Ashby (R) narrowly leads; no winner. No post-Nov 4 count update found. 318-vote margin.",
-   "source": "https://www.dailygazette.com/spotlightnews/news/government/state-senate-races-roundup-rogerson-fahy-ashby/article_f4da9b73-2a87-4f32-a914-dfb2cce2b4d3.html",
-   "asOf": "Nov 4, 2:15 PM ET",
-   "sweep": "Nov 10 seat sweep 14",
+   "note": "Newer than board's Nov 4 figure: Ashby (R) lead narrowed 318 -> 93. Lander filed court petition to preserve challenge rights; hand recount likely (margin <0.5%). Not called.",
+   "source": "https://cbs6albany.com/news/local/ny-21-has-a-winner-the-wait-continues-in-the-43rd-state-senate-district-ashby-constantino-gendebien-lander-new-york-wrgb",
+   "asOf": "Nov 6, 4:28 PM ET (unofficial results cited)",
+   "sweep": "Nov 10 seat sweep 15",
    "lean": true,
    "marginPts": -0.08
   },
@@ -101124,15 +101128,15 @@
     "pct": 50.44
    },
    "marginVotes": -67,
-   "reporting": "~97% counted (~97% counted (Post-election-night totals (JC Post); provisionals pending county canvass (began Nov 9). Est. ~97%) [carried; canvass totals not found])",
+   "reporting": "~97% counted (Friday Nov 6 afternoon post-election totals; provisionals/late mail to be decided at county canvass; carried ~97% estimate)",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
-   "source": "https://jcpost.com/posts/eaf77661-74e7-49cb-a1cc-320f0ff62a10",
-   "asOf": "Nov 5 (article)",
-   "sweep": "Nov 10 seat sweep 14",
+   "note": "KMBC: Buehler (R) +71 (Fri afternoon), vs +67 on board; individual totals not given. Not called.",
+   "source": "https://www.kmbc.com/article/kansas-election-close-race-audit-results-candidates/74361926",
+   "asOf": "Nov 6, 7:33 PM ET (article updated)",
+   "sweep": "Nov 10 seat sweep 15",
    "marginPts": -0.88,
    "lean": true
   },
@@ -112557,28 +112561,29 @@
    "state": "CA",
    "chamber": "Assembly",
    "district": "34",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "~94% counted (AP expected vote 94% (ABC7 LA, Nov 9 5:37 PM PT).)",
-   "calledBy": "",
-   "note": "NEW numbers: Hughes +7,592 (was +8,015). No call.",
-   "source": "https://abc7.com/politics/elections/local/",
-   "asOf": "Nov 9, 5:37 PM PT",
+   "reporting": "DDHQ expected vote >95% (Nov 9 11:47 PM ET); AP had 94% (ABC7 Nov 9)",
+   "calledBy": "MultiState winner mark (Nov 10)",
+   "note": "CALLED: MultiState now records Hughes (R) winner. Numbers unchanged (Hughes +7,592).",
+   "source": "https://www.multistate.us/elections/results/california-2026 ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-34-general-election",
+   "asOf": "Nov 9, 11:47 PM ET (DDHQ); call fetched Nov 10 ~3:20 PM ET",
    "dem": {
     "name": "Randall Putz",
     "votes": 70498,
-    "pct": 47.4
+    "pct": 47.45
    },
    "rep": {
     "name": "Charles Frederick Hughes",
     "votes": 78090,
-    "pct": 52.6
+    "pct": 52.55
    },
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -7592,
-   "marginPts": -5.2,
+   "marginPts": -5.1,
    "wouldFlip": false,
-   "lean": true
+   "winner": "Charles Frederick Hughes",
+   "flip": false
   },
   {
    "state": "CA",
@@ -112639,13 +112644,13 @@
    "state": "CA",
    "chamber": "Assembly",
    "district": "63",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "~75% counted (Derived: DDHQ showed 66,159 votes = 50% expected (Nov 4) -> ~132k expected; 99,294 counted at Riverside Update 12 = ~75%. Estimate.)",
-   "calledBy": "",
-   "note": "R vs P&F; no D on ballot, R seat certain. No formal call.",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/63/county/riverside ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-63-general-election",
-   "asOf": "Nov 7, 4:28 PM PT (Riverside Update 12)",
+   "reporting": "DDHQ expected vote 71% (Nov 9 10:23 PM ET)",
+   "calledBy": "MultiState winner mark (Nov 10); DDHQ #DecisionMade Nov 7 11:57 PM ET",
+   "note": "CALLED: MultiState records Johnson (R) winner. R vs Peace & Freedom (Akin, party O). Newer DDHQ total: Akin 45,320 (was 42,529).",
+   "source": "https://www.multistate.us/elections/results/california-2026 ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-63-general-election",
+   "asOf": "Nov 9, 10:23 PM ET (DDHQ)",
    "rep": {
     "name": "Natasha Johnson",
     "votes": 59942,
@@ -112660,11 +112665,12 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "other": 42529,
    "marginVotes": -14236,
    "marginPts": -14.34,
-   "lean": true
+   "winner": "Natasha Johnson",
+   "flip": false
   },
   {
    "state": "CA",
@@ -112799,13 +112805,13 @@
    "state": "CA",
    "chamber": "Assembly",
    "district": "75",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "~95% counted (DDHQ expected vote >95% (Nov 9 10:23 PM ET, same totals as SD county Nov 9 post); SD county ~85% counted countywide (1,079,098 counted, ~185k outstanding).)",
-   "calledBy": "",
-   "note": "DeMaio +17,453. No call. SD ENR page now serves test data (cache).",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-75-general-election",
-   "asOf": "Nov 9, 5:57 PM PT (SD county via DDHQ)",
+   "reporting": "DDHQ expected vote >95% (Nov 9 10:23 PM ET)",
+   "calledBy": "MultiState winner mark (Nov 10)",
+   "note": "CALLED: MultiState records DeMaio (R) winner. Numbers unchanged (+17,453).",
+   "source": "https://www.multistate.us/elections/results/california-2026 ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-75-general-election",
+   "asOf": "Nov 9, 10:23 PM ET (DDHQ); call fetched Nov 10 ~3:20 PM ET",
    "dem": {
     "name": "Gerald C. Boursiquot",
     "votes": 79062,
@@ -112816,11 +112822,12 @@
     "votes": 96515,
     "pct": 54.97
    },
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -17453,
    "marginPts": -9.94,
    "wouldFlip": false,
-   "lean": true
+   "winner": "Carl DeMaio",
+   "flip": false
   },
   {
    "state": "CA",
@@ -112933,13 +112940,13 @@
    "state": "CA",
    "chamber": "Senate",
    "district": "40",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "~85% counted (SD county only: 1,079,098 ballots counted, ~185,000 projected outstanding countywide (Nov 9) -> ~85%. DDHQ last 80% on older Nov 6 totals.)",
-   "calledBy": "",
-   "note": "Elliott +26,899; would flip R->D. No call.",
-   "source": "https://www.livevoterturnout.com/ENR/sandiegocaenr/25/en/Index_25.html",
-   "asOf": "Nov 9, 5:57 PM PT (prior sweep; SD page now serving cached test data)",
+   "reporting": "DDHQ expected vote >95% (Nov 9 10:23 PM ET)",
+   "calledBy": "MultiState winner mark (Nov 10), 'Flipped R to D'",
+   "note": "CALLED: MultiState records Elliott (D) winner, R->D flip. Numbers unchanged (+26,899). DDHQ now shows >95% (was 80%).",
+   "source": "https://www.multistate.us/elections/results/california-2026 ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-senate-40-general-election",
+   "asOf": "Nov 9, 10:23 PM ET (DDHQ); call fetched Nov 10 ~3:20 PM ET",
    "dem": {
     "name": "Mara Elliott",
     "votes": 178953,
@@ -112952,9 +112959,10 @@
    },
    "marginVotes": 26899,
    "marginPts": 8.12,
-   "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 14",
-   "lean": true
+   "wouldFlip": false,
+   "sweep": "Nov 10 seat sweep 15",
+   "winner": "Mara Elliott",
+   "flip": true
   },
   {
    "state": "AK",
@@ -113026,11 +113034,11 @@
    "district": "5",
    "status": "Counting",
    "leader": "I",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 72.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "Alaska's News Source results page 'votes in' expected-vote estimate 72.1% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=10",
    "calledBy": "",
-   "note": "Simpler (NP) leads; flip from R (open seat). Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Simpler (NP) +441; R flip to NP if holds. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "rep": {
     "name": "Sheldon Prout",
     "votes": null,
@@ -113045,7 +113053,7 @@
     }
    ],
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 14"
+   "sweep": "Nov 10 seat sweep 15"
   },
   {
    "state": "AK",
@@ -113053,11 +113061,11 @@
    "district": "6",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~77.4% counted (Alaska's News Source results page 'votes in' estimate 77.4% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~77.4% counted (Alaska's News Source results page 'votes in' expected-vote estimate 77.4% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Vance (R) +210; early votes could narrow. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Vance (R) +210. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "rep": {
     "name": "Sarah Vance",
     "votes": null,
@@ -113072,7 +113080,7 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "lean": true
   },
   {
@@ -113081,11 +113089,11 @@
    "district": "9",
    "status": "Counting",
    "leader": "I",
-   "reporting": "~77.1% counted (Alaska's News Source results page 'votes in' estimate 77.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~77.1% counted (Alaska's News Source results page 'votes in' expected-vote estimate 77.1% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Holland (NP, incumbent) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Holland (NP, inc.) +818. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "rep": {
     "name": "John Boyle",
     "votes": null,
@@ -113099,7 +113107,7 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "lean": true,
    "wouldFlip": false
   },
@@ -113192,11 +113200,11 @@
    "district": "16",
    "status": "Counting",
    "leader": "D",
-   "reporting": "~79.2% counted (Alaska's News Source results page 'votes in' estimate 79.2% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~79.2% counted (Alaska's News Source results page 'votes in' expected-vote estimate 79.2% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Hall (D) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Hall (D) +1,289, over 50%. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Carolyn Hall",
     "votes": 3855,
@@ -113215,7 +113223,7 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": 1289,
    "marginPts": 19.2,
    "lean": true,
@@ -113280,11 +113288,11 @@
    "district": "23",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 76.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "Alaska's News Source results page 'votes in' expected-vote estimate 76.1% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=10",
    "calledBy": "",
-   "note": "Allard (R) leads first choices; R combined 64.5%; RCV decides. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Allard (R) leads first choices; R combined 64.5%; RCV Nov 18. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Jim Arlington",
     "votes": 1916,
@@ -113296,7 +113304,7 @@
     "pct": 38.1
    },
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -648,
    "marginPts": -9.6
   },
@@ -113327,11 +113335,11 @@
    "district": "25",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 82.6% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "~82.6% counted (Alaska's News Source results page 'votes in' expected-vote estimate 82.6% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Three-way; top two both R but Merritt (NP) only 98 behind Bowles - RCV could produce NP winner. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Three-way; Merritt (NP) 98 behind Bowles (R) for 2nd; RCV decides. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "rep": {
     "name": "DeLena Johnson",
     "votes": null,
@@ -113346,7 +113354,8 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14"
+   "sweep": "Nov 10 seat sweep 15",
+   "lean": true
   },
   {
    "state": "AK",
@@ -113375,11 +113384,11 @@
    "district": "28",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~80.4% counted (Alaska's News Source results page 'votes in' estimate 80.4% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~80.4% counted (Alaska's News Source results page 'votes in' expected-vote estimate 80.4% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Top two both R; R hold near-certain, RCV picks Wright vs Moore. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Top two both R; R hold near-certain via RCV. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Kathleen M. Kennedy",
     "votes": 1624,
@@ -113391,7 +113400,7 @@
     "pct": 37.4
    },
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -633,
    "marginPts": -10.5,
    "lean": true
@@ -113402,18 +113411,18 @@
    "district": "29",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~77.5% counted (Alaska's News Source results page 'votes in' estimate 77.5% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~77.5% counted (Alaska's News Source results page 'votes in' expected-vote estimate 77.5% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Top two both R; R hold near-certain. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Top two both R; R hold near-certain. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Kimberly Slone",
     "votes": 1207,
     "pct": 18.8
    },
    "rep": {
-    "name": "Garret Nelson",
+    "name": "Gerald 'Garret' Nelson",
     "votes": 2294,
     "pct": 35.7
    },
@@ -113426,7 +113435,7 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -1087,
    "marginPts": -16.9,
    "lean": true
@@ -113437,11 +113446,11 @@
    "district": "30",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 68.7% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "Alaska's News Source results page 'votes in' expected-vote estimate 68.7% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=10",
    "calledBy": "",
-   "note": "Top two both R; Alaska Beacon headline says early RCV results show McCabe trailing (Massie R would win). R hold. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Top two both R; R hold. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Sandra D. Loomis",
     "votes": 1375,
@@ -113453,7 +113462,7 @@
     "pct": 38.4
    },
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -704,
    "marginPts": -13.0
   },
@@ -113463,11 +113472,11 @@
    "district": "31",
    "status": "Counting",
    "leader": "D",
-   "reporting": "~95% counted (Alaska's News Source results page 'votes in' estimate 95% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~95% counted (Alaska's News Source results page 'votes in' expected-vote estimate 95% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Dibert (D, incumbent) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Dibert (D, inc.) +1,005, over 50%. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Maxine L. Dibert",
     "votes": 2646,
@@ -113486,7 +113495,7 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": 1005,
    "marginPts": 22.2,
    "lean": true,
@@ -113498,11 +113507,11 @@
    "district": "33",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 86.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "Alaska's News Source results page 'votes in' expected-vote estimate 86.1% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=10",
    "calledBy": "",
-   "note": "Prax (R) leads; Haney (R) urged supporters to rank Prax 2nd -> R likely in RCV. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Prax (R) leads; R combined 70.5%; RCV likely R. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "rep": {
     "name": "Glenn 'Mike' Prax",
     "votes": null,
@@ -113517,7 +113526,7 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14"
+   "sweep": "Nov 10 seat sweep 15"
   },
   {
    "state": "AK",
@@ -113525,11 +113534,11 @@
    "district": "34",
    "status": "Counting",
    "leader": "I",
-   "reporting": "~83.1% counted (Alaska's News Source results page 'votes in' estimate 83.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~83.1% counted (Alaska's News Source results page 'votes in' expected-vote estimate 83.1% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Cottle (NP, Dem-backed) +43; would flip R seat. Tossup. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Cottle (NP, Dem-backed) +43 (Alaska Public Media Nov 9 confirms 43). Tossup. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "rep": {
     "name": "Harmony Tomaszewski",
     "votes": null,
@@ -113544,7 +113553,7 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "lean": true
   },
   {
@@ -113553,11 +113562,11 @@
    "district": "36",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~75.6% counted (Alaska's News Source results page 'votes in' estimate 75.6% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~75.6% counted (Alaska's News Source results page 'votes in' expected-vote estimate 75.6% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Schwanke (R) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Schwanke (R) +1,007. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "rep": {
     "name": "Becky Schwanke",
     "votes": null,
@@ -113571,7 +113580,7 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "lean": true,
    "wouldFlip": false
   },
@@ -113581,11 +113590,11 @@
    "district": "37",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 79.2% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "Alaska's News Source results page 'votes in' expected-vote estimate 79.2% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=10",
    "calledBy": "",
-   "note": "Open (Edgmon). Trefon (D) leads first choices; RCV decides; Wilson win would be R flip. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Trefon (D) leads first choices; RCV decides. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Evelynn M. Trefon",
     "votes": 1079,
@@ -113611,7 +113620,7 @@
     }
    ],
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": 271,
    "marginPts": 9.5
   },
@@ -113621,11 +113630,11 @@
    "district": "38",
    "status": "Counting",
    "leader": "D",
-   "reporting": "~85% counted (Alaska's News Source results page 'votes in' estimate 85% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
+   "reporting": "~85% counted (Alaska's News Source results page 'votes in' expected-vote estimate 85% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Top two both D (Jimmie, McCormick); D hold near-certain. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Top two both D; D hold near-certain. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Nellie Jimmie",
     "votes": 1149,
@@ -113645,7 +113654,7 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": 499,
    "marginPts": 17.3,
    "lean": true
@@ -113656,11 +113665,11 @@
    "district": "39",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 81.6% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "Alaska's News Source results page 'votes in' expected-vote estimate 81.6% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=10",
    "calledBy": "",
-   "note": "Foster (D, incumbent) leads, just under 50%; RCV with Okitkun transfers. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Foster (D, inc.) just under 50%; RCV. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Neal W. Foster",
     "votes": 1671,
@@ -113680,7 +113689,7 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "wouldFlip": false
   },
   {
@@ -113781,11 +113790,11 @@
    "district": "M",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 80.8% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "~80.8% counted (Alaska's News Source results page 'votes in' expected-vote estimate 80.8% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=100.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Tilton (R) narrowly leads first choices; Alaska Beacon headline says early RCV results show Tilton trailing; R combined 71.4% -> R likely (Berry), Chesbro (D) third. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Tilton (R) +125 over Berry (R); R combined 71.4%; R hold likely via RCV. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Patricia R. Chesbro",
     "votes": 3878,
@@ -113797,9 +113806,10 @@
     "pct": 33.4
    },
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -699,
-   "marginPts": -5.1
+   "marginPts": -5.1,
+   "lean": true
   },
   {
    "state": "AK",
@@ -113807,11 +113817,11 @@
    "district": "O",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 68.8% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "Alaska's News Source results page 'votes in' expected-vote estimate 68.8% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=10",
    "calledBy": "",
-   "note": "Top two both R; R hold. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Top two both R; R hold. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Peter Bauer",
     "votes": 3036,
@@ -113823,7 +113833,7 @@
     "pct": 43.0
    },
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -1994,
    "marginPts": -17.0
   },
@@ -113833,11 +113843,11 @@
    "district": "S",
    "status": "Counting",
    "leader": "I",
-   "reporting": "Alaska's News Source results page 'votes in' estimate 82.3% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
+   "reporting": "Alaska's News Source results page 'votes in' expected-vote estimate 82.3% (through Mon Nov 9 release; Tue Nov 10 early/absentee batch, described as larger than Monday's, not yet posted). Precinct %=10",
    "calledBy": "",
-   "note": "Edgmon (undeclared, coalition) leads first choices; RCV decides; Guy (D) transfers likely favor Edgmon. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
-   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
+   "note": "Edgmon (undeclared, coalition) +491 first choices; RCV decides. Not called (MultiState: no winner recorded). New vs. prior entry: full first-choice vote counts; numbers not changed by a Nov 10 release yet. RCV tabulation Nov 18 if no one >50%.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~3:25 PM ET (fetched); reflects Div. of Elections Mon Nov 9 release (~220,859 ballots); Tue Nov 10 batch not yet posted at fetch",
    "dem": {
     "name": "Wassilie P. Guy",
     "votes": 1450,
@@ -113863,7 +113873,7 @@
     }
    ],
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 15",
    "marginVotes": -91,
    "marginPts": -1.6
   },

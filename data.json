@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:30:00-05:00",
+ "updated": "2026-11-10T15:45:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1122,19 +1122,19 @@
    "reporting": "97.4% expected vote in (NBC)",
    "dem": {
     "name": "Scott Colom",
-    "votes": null,
+    "votes": 467961,
     "pct": 49.1
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": null,
+    "votes": 465425,
     "pct": 48.8
    },
    "marginPts": 0.3,
-   "marginVotes": 2574,
+   "marginVotes": 2536,
    "calledBy": null,
-   "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results",
-   "asOf": "2026-11-09T15:37:00-05:00",
+   "source": "WLBT/WDAM, Nov 10 8:09 AM CST",
+   "asOf": "2026-11-10T09:09:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
@@ -1145,7 +1145,7 @@
     }
    ],
    "totalVotes": 953418,
-   "note": "NBC: too close to call, total 953,418, ~26,000 est. remaining (updated Nov 9 3:37 PM ET). Colom +2,574 per AP (Yahoo, Nov 9). No call or concession; ID-cure/absentee deadline Nov 10 5 PM; county certification Nov 13. Pinkins (I) 2.1%."
+   "note": "Not called. Colom (D) leads by 2,536. Mail ballots due and affidavit cures due today (Nov 10); about 2,578 mail ballots were outstanding and 76% of 15,547 processed affidavits accepted as of Monday. Counties certify by Nov 13."
   },
   {
    "id": "NC-03",
