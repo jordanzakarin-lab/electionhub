@@ -1589,7 +1589,8 @@
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
    "asOf": "2026-11-06T19:47:00-05:00",
-   "totalVotes": 1094862
+   "totalVotes": 1094862,
+   "note": "Not called. Holscher (D) leads 50.3%\u201349.7%, by 7,000+ votes; Masterson won't concede until the 10% precinct audit finishes. Sedgwick County canvass Nov 12, state certification Nov 16, recount requests due Nov 17 (KWCH, Nov 9)."
   },
   {
    "id": "KS-SOS",
@@ -1620,7 +1621,8 @@
      "pct": 4.24
     }
    ],
-   "totalVotes": 1086329
+   "totalVotes": 1086329,
+   "note": "Not called. Proctor (R) leads with 48.3%. State certification Nov 16, recount requests due Nov 17 (KWCH, Nov 9)."
   },
   {
    "id": "KS-TREAS",
@@ -2954,7 +2956,8 @@
    "calledBy": null,
    "source": "https://www.wibw.com/politics/election-results/",
    "asOf": "2026-11-06T19:47:00-05:00",
-   "totalVotes": 1094862
+   "totalVotes": 1094862,
+   "note": "Not called. Holscher (D) leads 50.3%\u201349.7%, by 7,000+ votes; Masterson won't concede until the 10% precinct audit finishes. Sedgwick County canvass Nov 12, state certification Nov 16, recount requests due Nov 17 (KWCH, Nov 9). Joint ticket with governor."
   },
   {
    "id": "NE-LG",
