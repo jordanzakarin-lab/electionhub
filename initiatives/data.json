@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:30:00-05:00",
+ "updated": "2026-11-10T08:00:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -24,7 +24,7 @@
    "marginPts": -7.8,
    "reporting": "71.1% of expected vote (NBC)",
    "calledBy": "Decision Desk HQ",
-   "note": "DDHQ called it Failed overnight Nov 6\u20137 (reported by Bloomberg); votes from NBC LA (NBC still \"Too early to call\"). No AP call.",
+   "note": "DDHQ called it Failed overnight Nov 6–7 (reported by Bloomberg); votes from NBC LA (NBC still \"Too early to call\"). No AP call.",
    "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
    "asOf": "Nov 6, 11:36 AM ET"
   },
@@ -138,19 +138,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 5339967,
-    "pct": 52.0
+    "votes": 5733734,
+    "pct": 51.63
    },
    "no": {
-    "votes": 4933120,
-    "pct": 48.0
+    "votes": 5371123,
+    "pct": 48.37
    },
-   "marginPts": 4.0,
-   "reporting": "76.61% of votes counted (AP estimate)",
+   "marginPts": 3.26,
+   "reporting": "100% precincts reporting (SOS semi-official; KQED/AP: 83.35% of votes counted)",
    "calledBy": "",
-   "note": "No AP call on KQED; NBC News Decision Desk: Too Early to Call. Same counts on NBC LA.",
-   "source": "https://www.kqed.org/elections/results/california/proposition-42",
-   "asOf": "Nov 9, 9:26 AM ET"
+   "note": "No AP call on KQED (6:53 PM PT Nov 9); NBC News: Too Early to Call (83.4% expected in).",
+   "source": "https://api.sos.ca.gov/returns/ballot-measures",
+   "asOf": "Nov 9, 10:18 PM ET"
   },
   {
    "category": "Tax Wealthy / Initiative Process",
@@ -350,19 +350,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 646028,
-    "pct": 60.97
+    "votes": 649012,
+    "pct": 60.95
    },
    "no": {
-    "votes": 413572,
-    "pct": 39.03
+    "votes": 415832,
+    "pct": 39.05
    },
-   "marginPts": 21.94,
+   "marginPts": 21.9,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Fresher counts on NBC LA; no call shown (page header timestamp stale).",
+   "note": "NBC LA page shows no projection; page header timestamp stale (Nov 3) but counts larger than prior entry.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 9, 5:55 PM ET (fetched)"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -376,19 +376,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 164430,
-    "pct": 52.3
+    "votes": 167369,
+    "pct": 52.51
    },
    "no": {
-    "votes": 149904,
-    "pct": 47.6
+    "votes": 151353,
+    "pct": 47.49
    },
-   "marginPts": 4.7,
-   "reporting": "unofficial; AP via KQED",
+   "marginPts": 5.02,
+   "reporting": "unofficial; AP via KQED (pct counted not stated)",
    "calledBy": "",
-   "note": "No AP call indicator on KQED (only threshold text). Yes margin grew to ~14,500.",
+   "note": "KQED shows no call. Votes from KQED page updated 4:02 PM PT Nov 9.",
    "source": "https://www.kqed.org/elections/results/sanfrancisco/proposition-b",
-   "asOf": "Nov 9, 9:25 AM ET"
+   "asOf": "Nov 9, 7:02 PM ET"
   },
   {
    "category": "Economic Justice",
@@ -402,19 +402,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 17251,
-    "pct": 43.9
+    "votes": 21089,
+    "pct": 44.99
    },
    "no": {
-    "votes": 22049,
-    "pct": 56.1
+    "votes": 25783,
+    "pct": 55.01
    },
-   "marginPts": -12.2,
-   "reporting": "early",
+   "marginPts": -10.02,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Per NBC Bay Area (page dated 12:01 AM ET Nov 4; vote counts higher than prior snapshot); not called.",
+   "note": "NBC Bay Area page header still says 'Updated Nov 4, 12:01 AM' but counts are larger than prior entry; no call shown.",
    "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
-   "asOf": "Nov 4, 12:01 AM ET"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -428,19 +428,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 27464,
-    "pct": 69.29
+    "votes": 32958,
+    "pct": 69.7
    },
    "no": {
-    "votes": 12173,
-    "pct": 30.71
+    "votes": 14330,
+    "pct": 30.3
    },
-   "marginPts": 38.58,
-   "reporting": "early",
+   "marginPts": 39.4,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Per NBC Bay Area (page dated 12:01 AM ET Nov 4; vote counts higher than prior snapshot); not called.",
+   "note": "NBC Bay Area page header still says 'Updated Nov 4, 12:01 AM' but counts are larger than prior entry; no call shown.",
    "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
-   "asOf": "Nov 4, 12:01 AM ET"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -522,19 +522,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 1662470,
-    "pct": 62.26
+    "votes": 1668376,
+    "pct": 62.23
    },
    "no": {
-    "votes": 1007636,
-    "pct": 37.74
+    "votes": 1012447,
+    "pct": 37.77
    },
-   "marginPts": 24.52,
+   "marginPts": 24.46,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Fresher counts on NBC LA; no call shown.",
+   "note": "NBC LA page shows no projection; page header timestamp stale (Nov 3) but counts larger than prior entry.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 9, 5:55 PM ET (fetched)"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -916,19 +916,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 7466,
-    "pct": 43.89
+    "votes": 10167,
+    "pct": 44.72
    },
    "no": {
-    "votes": 9544,
-    "pct": 56.11
+    "votes": 12567,
+    "pct": 55.28
    },
-   "marginPts": -12.22,
-   "reporting": "~24,000 ballots returned; up to ~7,000 left to count",
+   "marginPts": -10.56,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Not called; supporters have not conceded.",
-   "source": "https://www.rwcpulse.com/redwood-city/2026/11/06/measure-e-trails-by-double-digits-as-supporters-hold-out-hope/",
-   "asOf": "Nov 6, 7:30 PM ET"
+   "note": "NBC Bay Area San Mateo County page; no call shown; header timestamp stale (Nov 4) but counts larger than prior entry.",
+   "source": "https://www.nbcbayarea.com/news/local/san-mateo-county-november-2026-election-results/4164783/",
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1016,19 +1016,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 26368,
-    "pct": 69.28
+    "votes": 31722,
+    "pct": 69.93
    },
    "no": {
-    "votes": 11691,
-    "pct": 30.72
+    "votes": 13643,
+    "pct": 30.07
    },
-   "marginPts": 38.56,
-   "reporting": "early",
+   "marginPts": 39.86,
+   "reporting": "not stated",
    "calledBy": "",
-   "note": "Per NBC Bay Area (page dated 12:01 AM ET Nov 4; vote counts higher than prior snapshot); not called.",
+   "note": "NBC Bay Area page header still says 'Updated Nov 4, 12:01 AM' but counts are larger than prior entry; no call shown.",
    "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
-   "asOf": "Nov 4, 12:01 AM ET"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1042,19 +1042,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 21825,
-    "pct": 58.77
+    "votes": 21900,
+    "pct": 58.78
    },
    "no": {
-    "votes": 15309,
-    "pct": 41.23
+    "votes": 15356,
+    "pct": 41.22
    },
-   "marginPts": 17.54,
+   "marginPts": 17.56,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Fresher counts on NBC LA; no call shown.",
+   "note": "NBC LA page shows no projection; counts larger than prior entry.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 9, 5:55 PM ET (fetched)"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1068,19 +1068,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 27256,
+    "votes": 27348,
     "pct": 71.44
    },
    "no": {
-    "votes": 10896,
+    "votes": 10931,
     "pct": 28.56
    },
    "marginPts": 42.88,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Fresher counts on NBC LA; no call shown.",
+   "note": "NBC LA page shows no projection; counts larger than prior entry.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 9, 5:55 PM ET (fetched)"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1094,19 +1094,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 23322,
-    "pct": 62.42
+    "votes": 23415,
+    "pct": 62.46
    },
    "no": {
-    "votes": 14039,
-    "pct": 37.58
+    "votes": 14070,
+    "pct": 37.54
    },
-   "marginPts": 24.84,
+   "marginPts": 24.92,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Fresher counts on NBC LA; no call shown.",
+   "note": "NBC LA page shows no projection; counts larger than prior entry.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 9, 5:55 PM ET (fetched)"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1190,7 +1190,7 @@
    "level": "Local",
    "measure": "Front Range Passenger Rail District",
    "ballotNo": "Measure 7A",
-   "description": "0.333% sales tax (~$295M a year) for the Fort Collins\u2013Pueblo Colorado Connector. District voters only.",
+   "description": "0.333% sales tax (~$295M a year) for the Fort Collins–Pueblo Colorado Connector. District voters only.",
    "status": "Called",
    "outcome": "Passed",
    "threshold": "Majority",
@@ -1222,19 +1222,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 151909,
-    "pct": 72.6
+    "votes": 245086,
+    "pct": 72.75
    },
    "no": {
-    "votes": 57318,
-    "pct": 27.4
+    "votes": 91819,
+    "pct": 27.25
    },
-   "marginPts": 45.2,
-   "reporting": "early",
+   "marginPts": 45.5,
+   "reporting": "King County SOVC: 353,195 ballots cast in Seattle (69.11% turnout); unofficial",
    "calledBy": "",
-   "note": "Fox13 (as of Tue night Nov 3): 151,909 yes, 57,318 no; Mayor's office says voters delivered \"overwhelming support\"; no formal call found. Not refreshed this run.",
-   "source": "https://www.fox13seattle.com/news/seattle-prop-1-election-results",
-   "asOf": "Nov 3, ~11:00 PM ET"
+   "note": "King County Elections Statement of Votes Cast, 2026-11-09 15:47:44 PT. City of Seattle Proposition No. 1. No formal call found.",
+   "source": "https://election-results-01.kingcounty.gov/results.pdf",
+   "asOf": "Nov 9, 6:47 PM ET"
   },
   {
    "category": "Data Centers & AI",
@@ -1948,19 +1948,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 4991264,
-    "pct": 49.58
+    "votes": 5406205,
+    "pct": 49.69
    },
    "no": {
-    "votes": 5076644,
-    "pct": 50.42
+    "votes": 5474047,
+    "pct": 50.31
    },
-   "marginPts": -0.84,
-   "reporting": "77% of expected vote (NBC)",
+   "marginPts": -0.62,
+   "reporting": "100% precincts reporting (SOS semi-official; KQED/AP: 83.21% of votes counted)",
    "calledBy": "",
-   "note": "No call on NBC or KQED (KQED/AP Nov 7 6:02 PM PT: 49.4/50.5 at 74.98%). Margin ~85k.",
-   "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
-   "asOf": "Nov 9, 5:55 PM ET (fetched)"
+   "note": "No call on KQED (6:18 PM PT Nov 9) or NBC LA (no projection).",
+   "source": "https://api.sos.ca.gov/returns/ballot-measures",
+   "asOf": "Nov 9, 10:18 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1974,19 +1974,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 5138785,
-    "pct": 51.93
+    "votes": 5562022,
+    "pct": 52.0
    },
    "no": {
-    "votes": 4757753,
-    "pct": 48.07
+    "votes": 5134433,
+    "pct": 48.0
    },
-   "marginPts": 3.86,
-   "reporting": "76.5% of votes counted (AP estimate)",
+   "marginPts": 4.0,
+   "reporting": "100% precincts reporting (SOS semi-official; KQED/AP: 83.24% of votes counted)",
    "calledBy": "",
-   "note": "Not called (KQED/AP, NBC). Same counts on NBC LA.",
-   "source": "https://www.kqed.org/elections/results/california/proposition-5",
-   "asOf": "Nov 8, 8:04 PM ET"
+   "note": "No call on KQED (6:49 PM PT Nov 9) or NBC LA (no projection).",
+   "source": "https://api.sos.ca.gov/returns/ballot-measures",
+   "asOf": "Nov 9, 10:18 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2366,19 +2366,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 37434,
-    "pct": 52.6
+    "votes": 39711,
+    "pct": 52.77
    },
    "no": {
-    "votes": 33729,
-    "pct": 47.4
+    "votes": 35548,
+    "pct": 47.23
    },
-   "marginPts": 5.2,
+   "marginPts": 5.54,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "Not called (DDHQ).",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-irvine-measure-d-nonpartisan-ballot-question",
-   "asOf": "Nov 7, 8:01 PM ET"
+   "note": "NBC LA Orange County page; no projection; header timestamp stale (Nov 3) but counts larger than prior entry. DDHQ page returned 429.",
+   "source": "https://www.nbclosangeles.com/elections/orange-county-november-2026-election-results/3962608/",
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Voting & Democracy",
@@ -2464,19 +2464,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 98460,
-    "pct": 48.1
+    "votes": 99869,
+    "pct": 47.72
    },
    "no": {
-    "votes": 106040,
-    "pct": 51.9
+    "votes": 109408,
+    "pct": 52.28
    },
-   "marginPts": -3.8,
-   "reporting": "Est. 72.7% of votes in",
+   "marginPts": -4.56,
+   "reporting": "Est. 74.6% of votes in",
    "calledBy": "",
-   "note": "Not called (IVN projection not counted). Counting resumes Nov 10.",
+   "note": "No call. Alaska Public Media (Nov 9, 4:03 PM AKST) confirms No leads by ~9,500 after Monday update; larger batch due Tue Nov 10. NBC News: Too Early to Call (74.6%).",
    "source": "https://www.alaskasnewssource.com/politics/election-results/",
-   "asOf": "Nov 7, 7:05 PM ET"
+   "asOf": "Nov 10, 7:15 AM ET (fetched)"
   },
   {
    "category": "Voting & Democracy",
@@ -3046,17 +3046,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "pct": 47.92
+    "votes": 1417721,
+    "pct": 47.5
    },
    "no": {
-    "pct": 52.08
+    "votes": 1566783,
+    "pct": 52.5
    },
-   "marginPts": -4.16,
-   "reporting": "partial (not stated)",
+   "marginPts": -5.0,
+   "reporting": "37 of 39 counties reporting (WA SOS); 2,984,504 votes",
    "calledBy": "",
-   "note": "Yes % per MultiState (pending); No % derived; no vote counts or timestamp; not called. Rechecked Nov 6 11:51 PM ET, unchanged.",
-   "source": "https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 6, 11:57 AM ET"
+   "note": "WA SOS results API (Initiative Measure No. IL26-001), asOf 2026-11-10T01:50:48Z. isWinner null; no call found.",
+   "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
+   "asOf": "Nov 9, 8:50 PM ET"
   },
   {
    "category": "Civil Rights & Repro",
