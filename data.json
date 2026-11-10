@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:20:00-05:00",
+ "updated": "2026-11-09T23:45:00-05:00",
  "sample": false,
  "races": [
   {
@@ -18,7 +18,7 @@
     "pct": 49.7
    },
    "marginPts": -0.5,
-   "marginVotes": -1631,
+   "marginVotes": 1631,
    "calledBy": null,
    "source": "https://www.cfpublic.org/politics/2026-11-07/midterm-no-recounts-turnout",
    "asOf": "2026-11-07T10:34:00-05:00",
@@ -3398,39 +3398,40 @@
   },
   {
    "id": "AK-AL",
-   "status": "Counting",
+   "status": "RCV",
    "leader": "R",
-   "reporting": "71%",
+   "reporting": "First-round count; ranked-choice tabulation Nov 18",
    "dem": {
-    "name": "Eric Hafner",
-    "votes": 15427,
-    "pct": 7.3
+    "name": "Bill Hill",
+    "votes": 86023,
+    "pct": 40.4
    },
    "rep": {
     "name": "Nick Begich III",
-    "votes": 105348,
+    "votes": 105647,
     "pct": 49.6
    },
-   "marginPts": -42.3,
-   "marginVotes": 89921,
+   "marginPts": -9.2,
+   "marginVotes": 19624,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alaska-us-house-at-large-general-election",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "source": "https://ballotpedia.org/Alaska%27s_At-large_Congressional_District_election,_2026",
+   "asOf": "2026-11-09T23:45:00-05:00",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
     {
-     "name": "Bill Hill",
-     "party": "NP",
-     "votes": 85790,
-     "pct": 40.4
+     "name": "Eric Hafner",
+     "party": "D",
+     "votes": 15550,
+     "pct": 7.3
     },
     {
-     "name": "James McDermott",
+     "name": "Jim McDermott",
      "party": "LIB",
-     "votes": 5762,
+     "votes": 5789,
      "pct": 2.7
     }
-   ]
+   ],
+   "note": "Begich (R) leads independent Bill Hill in first-choice votes but is under 50% (49.6%), so the race goes to the ranked-choice tabulation on Nov 18. Margin shown is Begich vs. Hill, the runner-up. Votes via Ballotpedia (NYT results); not called."
   },
   {
    "id": "AK-SEN",

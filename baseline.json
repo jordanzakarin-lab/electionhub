@@ -633,15 +633,16 @@
    "held": "R",
    "incumbent": "Nick Begich III",
    "open": false,
-   "dem": "Eric Hafner",
+   "dem": "Bill Hill",
    "rep": "Nick Begich III",
-   "note": "Ranked-choice count can take weeks",
+   "note": "Ranked-choice count; Bill Hill (independent, backed by Democrats) is Begich's main opponent. Democrat Eric Hafner is also on the ballot.",
    "last": {
     "yr": 2024,
     "party": "R",
     "m": 2.4,
     "note": "Final ranked-choice round"
-   }
+   },
+   "demParty": "I"
   },
   {
    "id": "AL-02",
