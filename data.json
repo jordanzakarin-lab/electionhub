@@ -1,60 +1,62 @@
 {
- "updated": "2026-11-09T23:45:00-05:00",
+ "updated": "2026-11-10T08:30:00-05:00",
  "sample": false,
  "races": [
   {
    "id": "FL-07",
    "status": "Counting",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "99% (NBC est.)",
    "dem": {
     "name": "Bale Dalton",
-    "votes": 159488,
-    "pct": 49.2
+    "votes": 159669,
+    "pct": 49.21
    },
    "rep": {
     "name": "Ryan Elijah",
-    "votes": 161189,
-    "pct": 49.7
+    "votes": 161300,
+    "pct": 49.71
    },
    "marginPts": -0.5,
    "marginVotes": 1631,
    "calledBy": null,
-   "source": "https://www.cfpublic.org/politics/2026-11-07/midterm-no-recounts-turnout",
-   "asOf": "2026-11-07T10:34:00-05:00",
+   "source": "https://floridaelectionwatch.gov/FederalOffices/USRepresentative",
+   "asOf": "2026-11-09T18:37:00-05:00",
    "ddhqUpdated": "2026-11-04 15:52:16.560987+00",
    "others": [
     {
      "name": "Christopher Dennison",
-     "party": "LIB",
-     "votes": 3480,
-     "pct": 1.1
+     "party": "LPF",
+     "votes": 3485,
+     "pct": 1.07
     }
    ],
-   "note": "Elijah (R) leads by 1,631 (0.503%) in unofficial returns; 9 votes short of recount threshold, no recount (CF Public, Nov 7)."
+   "note": "FL DOS 1st unofficial returns (total 324,454 matches NBC page updated Nov 9 6:37 PM ET). Elijah +1,631; NBC shows race not called. No machine recount. Search snippets mention a Florida Voice report calling Elijah congressman-elect, but that page returned 403, so it isn't recorded as a call.",
+   "totalVotes": 324454
   },
   {
    "id": "FL-09",
    "status": "Counting",
    "leader": "D",
-   "reporting": "99%",
+   "reporting": "99% (NBC est.)",
    "dem": {
     "name": "Darren Soto",
-    "votes": 143174,
-    "pct": 50.3
+    "votes": 143314,
+    "pct": 50.26
    },
    "rep": {
     "name": "Dan Green",
-    "votes": 141697,
-    "pct": 49.7
+    "votes": 141808,
+    "pct": 49.74
    },
-   "marginPts": 0.5,
+   "marginPts": 0.52,
    "marginVotes": 1506,
    "calledBy": null,
-   "source": "https://www.cfpublic.org/politics/2026-11-07/midterm-no-recounts-turnout",
-   "asOf": "2026-11-07T10:34:00-05:00",
+   "source": "https://floridaelectionwatch.gov/FederalOffices/USRepresentative",
+   "asOf": "2026-11-09T18:37:00-05:00",
    "ddhqUpdated": "2026-11-04 04:56:20.197161+00",
-   "note": "Soto (D) leads by 1,506 (0.53%) in unofficial returns; no recount (CF Public, Nov 7)."
+   "note": "FL DOS 1st unofficial returns (total 285,122 matches NBC page updated Nov 9 6:37 PM ET). Soto +1,506; not called by NBC. No recount.",
+   "totalVotes": 285122
   },
   {
    "id": "FL-13",
@@ -202,24 +204,25 @@
    "id": "FL-27",
    "status": "Counting",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "99%; machine recount underway",
    "dem": {
     "name": "Eliott Rodriguez",
-    "votes": 123358,
-    "pct": 49.8
+    "votes": 123438,
+    "pct": 49.78
    },
    "rep": {
-    "name": "Mar\u00eda Elvira Salazar",
-    "votes": 124474,
-    "pct": 50.2
+    "name": "Maria Elvira Salazar",
+    "votes": 124528,
+    "pct": 50.22
    },
-   "marginPts": -0.5,
-   "marginVotes": 1116,
+   "marginPts": -0.44,
+   "marginVotes": 1090,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-27-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "source": "https://www.cbsnews.com/miami/news/district-27-machine-recount-begins-judge-denies-garcia-recusal-salazar-rodriguez/",
+   "asOf": "2026-11-10T06:36:00-05:00",
    "ddhqUpdated": "2026-11-04 06:24:27.696286+00",
-   "note": "Salazar (R) led by 1,090 after initial count; machine recount slated Nov 7, result not found (WLRN Nov 6)."
+   "note": "Machine recount under way (Miami-Dade, began Nov 9). Pre-recount totals are FL DOS 1st unofficial returns (page marks 'Machine Recount Indicated'; total 247,966). Miami-Dade machine recount began Nov 9 and continued into Nov 10; no result yet (CBS Miami, Nov 10 6:36 AM). A federal judge denied Rodriguez's bid to remove Supervisor Alina Garcia from the canvassing board.",
+   "totalVotes": 247966
   },
   {
    "id": "FL-SEN",
@@ -1116,33 +1119,33 @@
    "id": "MS-SEN",
    "status": "Counting",
    "leader": "D",
-   "reporting": "96.9%",
+   "reporting": "97.4% expected vote in (NBC)",
    "dem": {
     "name": "Scott Colom",
-    "votes": 467930,
-    "pct": 49.08
+    "votes": null,
+    "pct": 49.1
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 465356,
-    "pct": 48.81
+    "votes": null,
+    "pct": 48.8
    },
-   "marginPts": 0.27,
+   "marginPts": 0.3,
    "marginVotes": 2574,
    "calledBy": null,
-   "source": "https://www.wtok.com/2026/11/09/colom-leads-hyde-smith-by-more-than-2500-votes-mississippi-awaits-final-senate-result/",
-   "asOf": "2026-11-06T18:18:00-05:00",
+   "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results",
+   "asOf": "2026-11-09T15:37:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
      "name": "Ty Pinkins",
      "party": "IND",
-     "votes": 20028,
+     "votes": null,
      "pct": 2.1
     }
    ],
-   "totalVotes": 953314,
-   "note": "AP has not called; Colom +2,574. 75 of 82 counties uploaded; ~2,800 mail ballots outstanding, 12,767 affidavits processed (~77% accepted). Cure deadline Nov 10, county certification Nov 13 (WTOK Nov 9)."
+   "totalVotes": 953418,
+   "note": "NBC: too close to call, total 953,418, ~26,000 est. remaining (updated Nov 9 3:37 PM ET). Colom +2,574 per AP (Yahoo, Nov 9). No call or concession; ID-cure/absentee deadline Nov 10 5 PM; county certification Nov 13. Pinkins (I) 2.1%."
   },
   {
    "id": "NC-03",
@@ -2307,31 +2310,32 @@
    "id": "AZ-02",
    "status": "Counting",
    "leader": "R",
-   "reporting": "98.9%",
+   "reporting": "99% (est.)",
    "dem": {
     "name": "Jonathan Nez",
-    "votes": 158856,
-    "pct": 48.49
+    "votes": 159763,
+    "pct": 48.5
    },
    "rep": {
     "name": "Eli Crane",
-    "votes": 162741,
-    "pct": 49.68
+    "votes": 163286,
+    "pct": 49.6
    },
-   "marginPts": -1.19,
-   "marginVotes": 3885,
+   "marginPts": -1.1,
+   "marginVotes": 3523,
    "calledBy": null,
    "source": "https://www.azfamily.com/politics/election-results/",
-   "asOf": "2026-11-06T23:02:00-05:00",
+   "asOf": "2026-11-09T23:28:00-05:00",
    "others": [
     {
      "name": "Curtis Goodwin",
      "party": "LIB",
-     "votes": 5978,
-     "pct": 1.82
+     "votes": 6021,
+     "pct": 1.8
     }
    ],
-   "totalVotes": 327575
+   "totalVotes": 329070,
+   "note": "Votes via azfamily (total 329,070 matches NBC page updated Nov 9 11:28 PM ET; NBC: not called, ~1,000 est. remaining)."
   },
   {
    "id": "UT-01",
@@ -2536,53 +2540,56 @@
    "id": "CA-23",
    "status": "Counting",
    "leader": "R",
-   "reporting": "100% precincts; ballots still being counted",
+   "reporting": "100% precincts; NBC est. 92.8% of expected vote",
    "dem": {
-    "name": "Tessa Hodge",
-    "votes": 92677,
-    "pct": 48.6
+    "name": "Tessa Lynn Hodge",
+    "votes": 101572,
+    "pct": 49.2
    },
    "rep": {
     "name": "Jay Obernolte",
-    "votes": 98122,
-    "pct": 51.4
+    "votes": 104956,
+    "pct": 50.8
    },
-   "marginPts": -2.8,
-   "marginVotes": -5445,
+   "marginPts": -1.6,
+   "marginVotes": -3384,
    "calledBy": null,
    "source": "https://api.sos.ca.gov/returns/us-rep/district/23",
-   "asOf": "2026-11-07T20:48:00-05:00",
-   "totalVotes": 131773
+   "asOf": "2026-11-09T22:18:00-05:00",
+   "totalVotes": 206528,
+   "note": "CA SOS reporting time Nov 9 7:18 PM PT. NBC (Nov 9 9:53 PM ET): not called, ~16,000 est. remaining; Hodge would need 60.6% of them."
   },
   {
    "id": "FL-26",
    "status": "Counting",
    "leader": "R",
-   "reporting": "99%",
+   "reporting": "99% (NBC est.)",
    "dem": {
     "name": "Nicole Locklin",
-    "votes": 112775,
-    "pct": 49.1
+    "votes": 112874,
+    "pct": 49.12
    },
    "rep": {
     "name": "Mario Diaz-Balart",
-    "votes": 114547,
-    "pct": 49.9
+    "votes": 114578,
+    "pct": 49.86
    },
-   "marginPts": -0.8,
-   "marginVotes": 1772,
+   "marginPts": -0.74,
+   "marginVotes": 1704,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-house-26-general-election",
-   "asOf": "2026-11-04T02:06:43-05:00",
+   "source": "https://floridaelectionwatch.gov/FederalOffices/USRepresentative",
+   "asOf": "2026-11-09T18:37:00-05:00",
    "ddhqUpdated": "2026-11-04 06:24:27.696286+00",
    "others": [
     {
-     "name": "Deborah Meidinger Hosey",
+     "name": "Deborah Ann Meidinger Hosey",
      "party": "NPA",
-     "votes": 2348,
-     "pct": 1.0
+     "votes": 2352,
+     "pct": 1.02
     }
-   ]
+   ],
+   "note": "FL DOS 1st unofficial returns (total 229,804 matches NBC page updated Nov 9 6:37 PM ET). Diaz-Balart +1,704; not called by NBC.",
+   "totalVotes": 229804
   },
   {
    "id": "GA-01",
@@ -2963,7 +2970,7 @@
      "pct": 1.2
     },
     {
-     "name": "Miche\u00e1l O'Leary",
+     "name": "Micheál O'Leary",
      "party": "IND",
      "votes": 815,
      "pct": 0.4
@@ -3400,69 +3407,63 @@
    "id": "AK-AL",
    "status": "RCV",
    "leader": "R",
-   "reporting": "First-round count; ranked-choice tabulation Nov 18",
+   "reporting": "76% (AP via Wikipedia); first-choice count, RCV tabulation Nov 18",
    "dem": {
     "name": "Bill Hill",
-    "votes": 86023,
-    "pct": 40.4
+    "votes": 88882,
+    "pct": 40.8
    },
    "rep": {
     "name": "Nick Begich III",
-    "votes": 105647,
-    "pct": 49.6
+    "votes": 107184,
+    "pct": 49.2
    },
-   "marginPts": -9.2,
-   "marginVotes": 19624,
+   "marginPts": -8.4,
+   "marginVotes": 18302,
    "calledBy": null,
-   "source": "https://ballotpedia.org/Alaska%27s_At-large_Congressional_District_election,_2026",
-   "asOf": "2026-11-09T23:45:00-05:00",
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Alaska",
+   "asOf": "2026-11-09T20:15:00-05:00",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
     {
      "name": "Eric Hafner",
      "party": "D",
-     "votes": 15550,
+     "votes": 15979,
      "pct": 7.3
-    },
-    {
-     "name": "Jim McDermott",
-     "party": "LIB",
-     "votes": 5789,
-     "pct": 2.7
     }
    ],
-   "note": "Begich (R) leads independent Bill Hill in first-choice votes but is under 50% (49.6%), so the race goes to the ranked-choice tabulation on Nov 18. Margin shown is Begich vs. Hill, the runner-up. Votes via Ballotpedia (NYT results); not called."
+   "note": "Infobox figures as of Nov 9 4:15 PM AKST, cited to AP; pcts match NBC page (total 217,925). Begich under 50%, uncalled. Hill is nonpartisan (in the dem slot as in the input)."
   },
   {
    "id": "AK-SEN",
    "status": "RCV",
    "leader": "D",
-   "reporting": "74%",
+   "reporting": "76% (AP via Wikipedia); NBC 75.9%",
    "dem": {
     "name": "Mary Peltola",
-    "votes": null,
-    "pct": 48.2
+    "votes": 106328,
+    "pct": 48.63
    },
    "rep": {
-    "name": "Dan Sullivan",
-    "votes": null,
-    "pct": 47.9
+    "name": "Dan S. Sullivan",
+    "votes": 103804,
+    "pct": 47.48
    },
-   "marginPts": 0.3,
-   "marginVotes": null,
+   "marginPts": 1.15,
+   "marginVotes": 2524,
    "calledBy": null,
-   "source": "https://www.yahoo.com/news/politics/articles/ranked-choice-twist-other-dan-234138123.html",
-   "asOf": "2026-11-08T18:41:00-05:00",
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+   "asOf": "2026-11-09T20:15:00-05:00",
    "others": [
     {
      "name": "Gerald Heikes",
      "party": "GOP",
      "votes": null,
-     "pct": null
+     "pct": 2.2
     }
    ],
-   "note": "No candidate above 50%; Peltola leads by 637 first-choice votes of 215,906 counted (Yahoo, Nov 8). RCV tabulation Nov 18.",
-   "totalVotes": 213180
+   "note": "First-choice votes as of Nov 9 4:15 PM AKST, cited to AP. NBC: too early to call, total 218,641, ~70,000 est. remaining, Heikes (R) 2.2%. Nobody above 50%; RCV tabulation Nov 18.",
+   "totalVotes": 218641
   },
   {
    "id": "CA-01",
@@ -3536,7 +3537,7 @@
    "leader": "D",
    "reporting": "80%",
    "dem": {
-    "name": "Linda S\u00e1nchez",
+    "name": "Linda Sánchez",
     "votes": 109542,
     "pct": 65.0
    },
