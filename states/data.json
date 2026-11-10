@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:15:00-05:00",
+ "updated": "2026-11-09T22:40:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -5431,8 +5431,8 @@
    "state": "WA",
    "chamber": "House",
    "district": "LD-25 Position 1",
-   "incumbent": "Open (Position 1)",
-   "challenger": "David Berg (D) vs Michael Keaton (R)",
+   "incumbent": "Rep. Michael Keaton (R)",
+   "challenger": "David Berg (D)",
    "others": [],
    "status": "Counting",
    "leader": "D",
@@ -5451,10 +5451,11 @@
    "marginVotes": 669,
    "reporting": "No ballots-left figure found. SOS API shows all reporting units in for this contest, but WA reporting units are counties, not ballots. No county ballots-on-hand estimate located.",
    "calledBy": "",
-   "note": "Not called (MultiState: no winner recorded). Leader +669 (1.19 pts). SOS Pos. 1 = Berg (D) vs Keaton (R). The entry's named candidates (Jacobsen R inc. vs Strickling D) are Pos. 2: Jacobsen 28,031 vs Strickling 27,809 (R +222), also uncalled. Numbers unchanged since Nov 5 snapshot.",
+   "note": "Not called (MultiState: no winner recorded). Berg (D) leads incumbent Keaton (R) by 669 (1.2 pts) for Position 1 per WA SOS. (Corrected Nov 9: this entry previously carried the Position 2 candidates.)",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
    "asOf": "Nov 9, 5:42 PM ET (WA SOS lastUpdated 2026-11-09 22:42 UTC)",
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 seat sweep 13",
+   "wouldFlip": true
   },
   {
    "state": "WA",
@@ -111759,7 +111760,7 @@
    "leader": "R",
    "reporting": "No ballots-left figure found. SOS API shows all reporting units in for this contest, but WA reporting units are counties, not ballots. No county ballots-on-hand estimate located.",
    "calledBy": "",
-   "note": "Not called (MultiState: no winner recorded). Leader +222 (0.4 pts). Pos. 2. MultiState: Jacobsen leads by under 250, no winner.",
+   "note": "Not called (MultiState: no winner recorded). Jacobsen (R) leads Strickling (D) by 222 (0.4 pts) for Position 2 per WA SOS.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
    "asOf": "Nov 9, 5:42 PM ET (WA SOS lastUpdated 2026-11-09 22:42 UTC)",
    "dem": {
@@ -111774,7 +111775,10 @@
    },
    "marginVotes": -222,
    "marginPts": -0.39,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 seat sweep 13",
+   "incumbent": "Rep. Cyndy Jacobsen (R)",
+   "challenger": "Jenn Strickling (D)",
+   "wouldFlip": false
   },
   {
    "state": "CA",
@@ -112507,7 +112511,7 @@
    "district": "42",
    "status": "Counting",
    "leader": "D",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "Leaning: leads by 12.8 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 8, 4:21 PM PT)",
    "calledBy": "",
    "note": "Klein Lopez (D) +22,581; D hold if it holds. MultiState: no winner recorded.",
    "source": "https://api.sos.ca.gov/returns/state-assembly/district/42",
@@ -112525,7 +112529,8 @@
    "marginVotes": 22581,
    "marginPts": 12.8,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 seat sweep 13b",
+   "lean": true
   },
   {
    "state": "CA",
@@ -112533,7 +112538,7 @@
    "district": "47",
    "status": "Counting",
    "leader": "D",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "Leaning: leads by ~12 pts per NBC Palm Springs (Nov 5) with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 5 (article))",
    "calledBy": "",
    "note": "Namvar (D) leads incumbent Wallis (R) by 13,982 (~12 pts) per NBC Palm Springs Nov 5; not called, Wallis hasn't conceded; would FLIP R->D. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers.",
    "source": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/11/05/leila-namvar-leads-greg-wallis-by-nearly-14000-votes-in-assembly-district-47",
@@ -112549,7 +112554,8 @@
     "pct": null
    },
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 seat sweep 13b",
+   "lean": true
   },
   {
    "state": "CA",
@@ -112720,7 +112726,7 @@
    "district": "4",
    "status": "Counting",
    "leader": "R",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "Leaning: leads by 5.8 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 6, 11:00 PM PT)",
    "calledBy": "",
    "note": "Duarte (R) +16,818. Seat currently held by R (Alvarado-Gil, elected as D in 2022). MultiState: no winner recorded.",
    "source": "https://api.sos.ca.gov/returns/state-senate/district/4",
@@ -112738,7 +112744,8 @@
    "marginVotes": -16818,
    "marginPts": -5.8,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 seat sweep 13b",
+   "lean": true
   },
   {
    "state": "CA",
@@ -112772,7 +112779,7 @@
    "district": "32",
    "status": "Counting",
    "leader": "R",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "Leaning: leads by 5.2 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 9, 5:14 PM PT)",
    "calledBy": "",
    "note": "Seyarto (R) +12,625. MultiState: no winner recorded.",
    "source": "https://api.sos.ca.gov/returns/state-senate/district/32",
@@ -112790,7 +112797,8 @@
    "marginVotes": -12625,
    "marginPts": -5.2,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 seat sweep 13b",
+   "lean": true
   },
   {
    "state": "CA",
@@ -112824,7 +112832,7 @@
    "district": "40",
    "status": "Counting",
    "leader": "D",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "Leaning: leads by 6.4 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 6, 11:00 PM PT)",
    "calledBy": "",
    "note": "Elliott (D) +17,503 in open R seat; would FLIP R->D. MultiState: no winner recorded.",
    "source": "https://api.sos.ca.gov/returns/state-senate/district/40",
@@ -112842,7 +112850,8 @@
    "marginVotes": 17503,
    "marginPts": 6.4,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 seat sweep 13b",
+   "lean": true
   },
   {
    "state": "AK",
