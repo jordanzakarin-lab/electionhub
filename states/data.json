@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:40:00-05:00",
+ "updated": "2026-11-09T23:15:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -902,11 +902,11 @@
    "note": "Bipartisan coalition of Democrats, independents and moderate Republicans will organize the House; Rep. Calvin Schrage (I) incoming speaker (ADN, Nov 5). Member count not given; RCV tabulation pending."
   },
   "CA-H": {
-   "D": 61,
-   "R": 7,
+   "D": 62,
+   "R": 8,
    "I": 0,
-   "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8; Nov 9 seat sweep 13",
-   "asOf": "Nov 9, 10:15 PM ET",
+   "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8; Nov 9 seat sweep 13; Nov 9 CA update (DDHQ)",
+   "asOf": "Nov 9, 11:15 PM ET",
    "control": "D",
    "calledBy": "State Capital Lobbyist roundup (calls from Ballotpedia, NYT, State Navigate)",
    "controlSource": "https://statecapitallobbyist.com/elections/2026-midterm-elections-where-things-stand/",
@@ -112410,51 +112410,54 @@
    "district": "7",
    "status": "Counting",
    "leader": "D",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "Leaning: leads by 6.1 pts with 68% counted (DDHQ expected-vote estimate 68% (Sacramento County only, Nov 6 release); Sacramento's next update is Tue Nov 10, 4:15 PM PT)",
    "calledBy": "",
-   "note": "Slavensky (D) +4,740 over incumbent Hoover (R) in early count; would FLIP R->D. MultiState: no winner recorded. Numbers stale (Nov 4).",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/7",
-   "asOf": "Nov 4, 3:57 AM PT",
+   "note": "Slavensky +7,394. She declared victory Nov 6 (Facebook, per news reports); Hoover has not conceded ('way too early'). No media call. SOS api still serves stale Nov 4 numbers.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-7-general-election ; https://www.elkgrovenews.net/slavensky-victory-over-hoover-ca07/ ; https://www.yahoo.com/news/politics/articles/democrat-declares-win-republican-doesn-032334982.html ; https://elections.saccounty.gov/content/vre/us/en/election-information/november-3--2026--general-election-results-schedule.html",
+   "asOf": "Nov 6, 8:18 PM PT",
    "dem": {
     "name": "Amy L. Slavensky",
-    "votes": 49852,
-    "pct": 52.5
+    "votes": 64292,
+    "pct": 53.05
    },
    "rep": {
     "name": "Josh Hoover",
-    "votes": 45112,
-    "pct": 47.5
+    "votes": 56898,
+    "pct": 46.95
    },
-   "marginVotes": 4740,
-   "marginPts": 5.0,
+   "marginVotes": 7394,
+   "marginPts": 6.1,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update",
+   "lean": true
   },
   {
    "state": "CA",
    "chamber": "Assembly",
    "district": "9",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
-   "calledBy": "",
-   "note": "Flora (R) +13,680. MultiState: no winner recorded. Numbers stale (Nov 4).",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/9",
-   "asOf": "Nov 4, 3:57 AM PT",
+   "reporting": "94% (DDHQ)",
+   "calledBy": "DDHQ (decision marker on DDHQ race page)",
+   "note": "Flora +17,195. Stockton-area report (Nov 9): Flora 'firmly in control'; Adams has not conceded.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-9-general-election ; https://www.yahoo.com/news/politics/articles/incumbents-hold-leads-stockton-area-233502567.html",
+   "asOf": "Nov 9, 5:19 PM PT",
    "dem": {
     "name": "Matthew Adams",
-    "votes": 39503,
-    "pct": 42.6
+    "votes": 61438,
+    "pct": 43.86
    },
    "rep": {
     "name": "Heath Flora",
-    "votes": 53183,
-    "pct": 57.4
+    "votes": 78633,
+    "pct": 56.14
    },
-   "marginVotes": -13680,
-   "marginPts": -14.8,
+   "marginVotes": -17195,
+   "marginPts": -12.28,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 seat sweep 13",
+   "winner": "Heath Flora",
+   "flip": false
   },
   {
    "state": "CA",
@@ -112462,75 +112465,80 @@
    "district": "33",
    "status": "Counting",
    "leader": "R",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "66% counted (AP expected vote 66% (via ABC30, Nov 6, 5:08 PM); DDHQ shows the same totals at 79% expected. Counties: Tulare 42,272 (Cerros +4.9); Kings 32,147 (Macedo +9.5); Fresno 6,803 (Macedo +14.4, 66% reported))",
    "calledBy": "",
-   "note": "Macedo (R) +2,514. MultiState: no winner recorded. Numbers stale (Nov 4).",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/33",
-   "asOf": "Nov 4, 4:54 AM PT",
+   "note": "Macedo +1,974 (narrowed from +2,514). No call.",
+   "source": "https://abc30.com/politics/elections/local/ ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-33-general-election ; https://sjvsun.com/news/politics/macedo-maintains-lead-against-cerros/",
+   "asOf": "Nov 6, 5:08 PM PT",
    "dem": {
     "name": "Hipolito Angel Cerros",
-    "votes": 31778,
-    "pct": 48.1
+    "votes": 39624,
+    "pct": 48.78
    },
    "rep": {
     "name": "Alexandra (Ali) Macedo",
-    "votes": 34292,
-    "pct": 51.9
+    "votes": 41598,
+    "pct": 51.22
    },
-   "marginVotes": -2514,
-   "marginPts": -3.8,
+   "marginVotes": -1974,
+   "marginPts": -2.44,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update"
   },
   {
    "state": "CA",
    "chamber": "Assembly",
    "district": "34",
    "status": "Counting",
-   "leader": null,
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "leader": "R",
+   "reporting": "Leaning: leads by 5.7 pts with 89% counted (AP expected vote 89% (via ABC7 LA). District covers parts of LA, San Bernardino and Kern counties)",
    "calledBy": "",
-   "note": "MultiState: no winner recorded. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers. Leader unknown.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "First real numbers for this race. Hughes (R) +8,015; R hold if this holds. The SOS api still returns pre-election test data (Oct 5 timestamp, 66.7/33.3). The DDHQ page is stale (Nov 3).",
+   "source": "https://abc7.com/politics/elections/local/",
+   "asOf": "Nov 8, 5:04 PM PT",
    "dem": {
     "name": "Randall Putz",
-    "votes": null,
-    "pct": null
+    "votes": 66159,
+    "pct": 47.14
    },
    "rep": {
     "name": "Charles Frederick Hughes",
-    "votes": null,
-    "pct": null
+    "votes": 74174,
+    "pct": 52.86
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update",
+   "marginVotes": -8015,
+   "marginPts": -5.72,
+   "wouldFlip": false,
+   "lean": true
   },
   {
    "state": "CA",
    "chamber": "Assembly",
    "district": "42",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "Leaning: leads by 12.8 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 8, 4:21 PM PT)",
-   "calledBy": "",
-   "note": "Klein Lopez (D) +22,581; D hold if it holds. MultiState: no winner recorded.",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/42",
-   "asOf": "Nov 8, 4:21 PM PT",
+   "reporting": "91% (DDHQ)",
+   "calledBy": "DDHQ (decision marker on DDHQ race page)",
+   "note": "Klein Lopez +23,583. Acorn headline 'Klein Lopez takes 42nd Assembly seat' (Nov 6). No concession reported from Nordblum.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-42-general-election ; https://www.toacorn.com/articles/agouras-klein-lopez-takes-42nd-assembly-seat/",
+   "asOf": "Nov 9, 4:55 PM PT",
    "dem": {
     "name": "Deborah Klein Lopez",
-    "votes": 99036,
-    "pct": 56.4
+    "votes": 102884,
+    "pct": 56.47
    },
    "rep": {
     "name": "Ted Nordblum",
-    "votes": 76455,
-    "pct": 43.6
+    "votes": 79301,
+    "pct": 43.53
    },
-   "marginVotes": 22581,
-   "marginPts": 12.8,
+   "marginVotes": 23583,
+   "marginPts": 12.94,
    "wouldFlip": false,
    "sweep": "Nov 9 seat sweep 13b",
-   "lean": true
+   "winner": "Deborah Klein Lopez",
+   "flip": false
   },
   {
    "state": "CA",
@@ -112538,11 +112546,11 @@
    "district": "47",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Leaning: leads by ~12 pts per NBC Palm Springs (Nov 5) with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 5 (article))",
+   "reporting": "Leaning: leads by 10.0 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count Nov 9, 8:07 PM PT (KESQ page))",
    "calledBy": "",
-   "note": "Namvar (D) leads incumbent Wallis (R) by 13,982 (~12 pts) per NBC Palm Springs Nov 5; not called, Wallis hasn't conceded; would FLIP R->D. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers.",
-   "source": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/11/05/leila-namvar-leads-greg-wallis-by-nearly-14000-votes-in-assembly-district-47",
-   "asOf": "Nov 5 (article)",
+   "note": "No district vote totals found. KESQ results page (likely AP-fed widget, percent only) shows Namvar 55%, Wallis 45% as of Nov 9 8:07 PM; Riverside-only portion was Namvar 60.21% / Wallis 39.79% at Riverside Update 10 (Nov 5). SOS districtwide still pre-election test data; SB county page cached at election night. Not called, no concession found.",
+   "source": "https://kesq.com/election-results/ ; https://myvalleynews.com/blog/2026/11/04/election-results-as-of-6-am-this-morning-wednesday-nov-4-2026/",
+   "asOf": "Nov 9, 8:07 PM PT (KESQ page)",
    "dem": {
     "name": "Leila Namvar",
     "votes": null,
@@ -112554,7 +112562,7 @@
     "pct": null
    },
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13b",
+   "sweep": "Nov 9 CA update",
    "lean": true
   },
   {
@@ -112563,26 +112571,30 @@
    "district": "63",
    "status": "Counting",
    "leader": "R",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "Leaning: leads by 14.3 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count Nov 7, 4:28 PM PT (Riverside Update 12))",
    "calledBy": "",
-   "note": "R vs Peace & Freedom (no D); effectively uncontested between majors; R near-certain. MultiState: no winner recorded. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Other = Kevin Akin (P&F) 42,529 (42.83%). District is entirely Riverside County (county = districtwide). R certain vs P&F; no formal call found.",
+   "source": "https://api.sos.ca.gov/returns/state-assembly/district/63/county/riverside ; https://myvalleynews.com/blog/2026/11/04/election-results-as-of-6-am-this-morning-wednesday-nov-4-2026/",
+   "asOf": "Nov 7, 4:28 PM PT (Riverside Update 12)",
    "rep": {
     "name": "Natasha Johnson",
-    "votes": null,
-    "pct": null
+    "votes": 56765,
+    "pct": 57.17
    },
    "others": [
     {
      "name": "Kevin Akin",
      "party": "P&F",
-     "votes": null,
-     "pct": null
+     "votes": 42529,
+     "pct": 42.83
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update",
+   "other": 42529,
+   "marginVotes": -14236,
+   "marginPts": -14.34,
+   "lean": true
   },
   {
    "state": "CA",
@@ -112610,115 +112622,132 @@
    "chamber": "Assembly",
    "district": "70",
    "status": "Counting",
-   "leader": null,
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "leader": "D",
+   "reporting": "Orange County only district: 1,060,431 ballots counted countywide (55.3% turnout of 1,916,510 registered) as of Nov 9 5 PM; ballots-left figure not retrieved",
    "calledBy": "",
-   "note": "R inc. MultiState: no winner recorded. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers. Leader unknown; no news numbers found.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Swift (D) leads incumbent Ta (R) by 2,749; lead grew from 244 (Nov 6) and 1,490 (Nov 7). Would FLIP R->D. Not called.",
+   "source": "https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html ; https://ocvote.gov/fileadmin/live/gen2026/Run_13/cumulative.pdf",
+   "asOf": "Nov 9, 5:00 PM PT",
    "dem": {
     "name": "Paula Swift",
-    "votes": null,
-    "pct": null
+    "votes": 69783,
+    "pct": 51.0
    },
    "rep": {
     "name": "Tri Ta",
-    "votes": null,
-    "pct": null
+    "votes": 67034,
+    "pct": 49.0
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update",
+   "marginVotes": 2749,
+   "marginPts": 2.0,
+   "wouldFlip": true
   },
   {
    "state": "CA",
    "chamber": "Assembly",
    "district": "71",
    "status": "Counting",
-   "leader": null,
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "leader": "R",
+   "reporting": "Leaning: leads by 7.8 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count Nov 9, 5:14 PM PT (SOS districtwide; matches OC Nov 9 + Riverside Nov 7))",
    "calledBy": "",
-   "note": "R inc. MultiState: no winner recorded. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers. Leader unknown; no news numbers found.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Sanchez (R) +11,502. Not called.",
+   "source": "https://api.sos.ca.gov/returns/state-assembly/district/71/county/riverside ; https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html",
+   "asOf": "Nov 9, 5:14 PM PT (SOS districtwide; matches OC Nov 9 + Riverside Nov 7)",
    "dem": {
     "name": "JJ Galvez",
-    "votes": null,
-    "pct": null
+    "votes": 68167,
+    "pct": 46.11
    },
    "rep": {
     "name": "Kate Sanchez",
-    "votes": null,
-    "pct": null
+    "votes": 79669,
+    "pct": 53.89
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update",
+   "marginVotes": -11502,
+   "marginPts": -7.78,
+   "wouldFlip": false,
+   "lean": true
   },
   {
    "state": "CA",
    "chamber": "Assembly",
    "district": "72",
    "status": "Counting",
-   "leader": null,
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "leader": "R",
+   "reporting": "Orange County only district: 1,060,431 ballots counted countywide as of Nov 9 5 PM; ballots-left figure not retrieved",
    "calledBy": "",
-   "note": "Open R seat. MultiState: no winner recorded. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers. Leader unknown; no news numbers found.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Van Der Mark (R) +1,383, narrowing (was +2,214 Nov 6, +1,701 Nov 7). Kluwe led on election night. Too close; not called.",
+   "source": "https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html ; https://ocvote.gov/fileadmin/live/gen2026/Run_13/cumulative.pdf",
+   "asOf": "Nov 9, 5:00 PM PT",
    "dem": {
     "name": "Chris Kluwe",
-    "votes": null,
-    "pct": null
+    "votes": 100548,
+    "pct": 49.66
    },
    "rep": {
     "name": "Gracey Van Der Mark",
-    "votes": null,
-    "pct": null
+    "votes": 101931,
+    "pct": 50.34
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update",
+   "marginVotes": -1383,
+   "marginPts": -0.68,
+   "wouldFlip": false
   },
   {
    "state": "CA",
    "chamber": "Assembly",
    "district": "74",
    "status": "Counting",
-   "leader": null,
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "leader": "D",
+   "reporting": "Sum of Orange (Nov 9 5 PM: Davies 47,778 / Farias 36,302) + San Diego (Nov 9 5:57 PM: Farias 53,896 / Davies 38,674). SD county 1,079,098 counted, ~185,000 outstanding (~85%); OC left unknown",
    "calledBy": "",
-   "note": "R inc. MultiState: no winner recorded. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers. Leader unknown; no news numbers found.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Farias (D) +3,746 over incumbent Davies (R); would FLIP R->D. SOS districtwide (Nov 6) had Davies +1,659 but is stale. Not called.",
+   "source": "https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html ; https://www.livevoterturnout.com/ENR/sandiegocaenr/25/en/Index_25.html",
+   "asOf": "Nov 9, 5:57 PM PT",
    "dem": {
     "name": "Sergio Farias",
-    "votes": null,
-    "pct": null
+    "votes": 90198,
+    "pct": 51.06
    },
    "rep": {
     "name": "Laurie Davies",
-    "votes": null,
-    "pct": null
+    "votes": 86452,
+    "pct": 48.94
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update",
+   "marginVotes": 3746,
+   "marginPts": 2.12,
+   "wouldFlip": true
   },
   {
    "state": "CA",
    "chamber": "Assembly",
    "district": "75",
    "status": "Counting",
-   "leader": null,
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "leader": "R",
+   "reporting": "Leaning: leads by 9.9 pts with 85.4% counted (San Diego County only district: 1,079,098 ballots counted, ~185,000 projected outstanding countywide \u2192 ~85%)",
    "calledBy": "",
-   "note": "R inc. MultiState: no winner recorded. SOS api returned pre-election test data for this district (timestamp before Nov 3), so no usable vote numbers. Leader unknown; no news numbers found.",
-   "source": "https://www.multistate.us/elections/results/california-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "DeMaio (R) +17,453. SOS api districtwide (82,060/65,514) lags the county's Nov 9 post. Not formally called.",
+   "source": "https://www.livevoterturnout.com/ENR/sandiegocaenr/25/en/Index_25.html",
+   "asOf": "Nov 9, 5:57 PM PT",
    "dem": {
     "name": "Gerald C. Boursiquot",
-    "votes": null,
-    "pct": null
+    "votes": 79062,
+    "pct": 45.03
    },
    "rep": {
     "name": "Carl DeMaio",
-    "votes": null,
-    "pct": null
+    "votes": 96515,
+    "pct": 54.97
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update",
+   "marginVotes": -17453,
+   "marginPts": -9.94,
+   "wouldFlip": false,
+   "lean": true
   },
   {
    "state": "CA",
@@ -112726,25 +112755,25 @@
    "district": "4",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Leaning: leads by 5.8 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 6, 11:00 PM PT)",
+   "reporting": "Leaning: leads by 5.9 pts with 75% counted (DDHQ and AP (via ABC30) both show 75% expected vote. 13 counties; Brandon leads Stanislaus, Placer, Nevada, Inyo, Mono, Alpine)",
    "calledBy": "",
-   "note": "Duarte (R) +16,818. Seat currently held by R (Alvarado-Gil, elected as D in 2022). MultiState: no winner recorded.",
-   "source": "https://api.sos.ca.gov/returns/state-senate/district/4",
-   "asOf": "Nov 6, 11:00 PM PT",
+   "note": "No new votes. Duarte +16,818. No call.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-senate-4-general-election ; https://abc30.com/politics/elections/local/",
+   "asOf": "Nov 9, 4:32 AM PT (DDHQ; totals unchanged since Nov 6, 11 PM)",
    "dem": {
     "name": "Jaron Brandon",
     "votes": 134872,
-    "pct": 47.1
+    "pct": 47.07
    },
    "rep": {
     "name": "Alexandra Duarte",
     "votes": 151690,
-    "pct": 52.9
+    "pct": 52.93
    },
    "marginVotes": -16818,
-   "marginPts": -5.8,
+   "marginPts": -5.86,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13b",
+   "sweep": "Nov 9 CA update",
    "lean": true
   },
   {
@@ -112753,25 +112782,25 @@
    "district": "6",
    "status": "Counting",
    "leader": "R",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "67% counted (DDHQ expected-vote estimate 67% (Placer 114,890 votes, Niello +10.8; Sacramento 155,479 votes, Frame +4.7). Sacramento and Placer both next report Tue Nov 10)",
    "calledBy": "",
-   "note": "Niello (R) +5,171. MultiState: no winner recorded.",
-   "source": "https://api.sos.ca.gov/returns/state-senate/district/6",
-   "asOf": "Nov 6, 11:00 PM PT",
+   "note": "No new votes since Nov 6. Niello +5,171. No call. Niello: 'it is going to be tight.'",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-senate-6-general-election ; https://www.yahoo.com/news/politics/articles/democratic-challenger-gains-ground-sacramento-015450448.html",
+   "asOf": "Nov 6, 8:18 PM PT",
    "dem": {
     "name": "Sean Frame",
     "votes": 132599,
-    "pct": 49.0
+    "pct": 49.04
    },
    "rep": {
     "name": "Roger Niello",
     "votes": 137770,
-    "pct": 51.0
+    "pct": 50.96
    },
    "marginVotes": -5171,
-   "marginPts": -2.0,
+   "marginPts": -1.92,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update"
   },
   {
    "state": "CA",
@@ -112779,25 +112808,25 @@
    "district": "32",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Leaning: leads by 5.2 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 9, 5:14 PM PT)",
+   "reporting": "Leaning: leads by 5.2 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count Nov 9, 5:14 PM PT)",
    "calledBy": "",
-   "note": "Seyarto (R) +12,625. MultiState: no winner recorded.",
-   "source": "https://api.sos.ca.gov/returns/state-senate/district/32",
+   "note": "No change from our current numbers; Seyarto (R) +12,625. Not called.",
+   "source": "https://api.sos.ca.gov/returns/state-senate/district/32/county/san-bernardino ; https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html",
    "asOf": "Nov 9, 5:14 PM PT",
    "dem": {
     "name": "Tiffanie Tate",
     "votes": 113972,
-    "pct": 47.4
+    "pct": 47.38
    },
    "rep": {
     "name": "Kelly Seyarto",
     "votes": 126597,
-    "pct": 52.6
+    "pct": 52.62
    },
    "marginVotes": -12625,
-   "marginPts": -5.2,
+   "marginPts": -5.24,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13b",
+   "sweep": "Nov 9 CA update",
    "lean": true
   },
   {
@@ -112806,25 +112835,25 @@
    "district": "36",
    "status": "Counting",
    "leader": "D",
-   "reporting": "no district-level ballots-left figure found; CA SOS statewide unprocessed report (Nov 5): 8,906,017 counted, 4,816,722 unprocessed (~65% counted statewide as of Nov 5)",
+   "reporting": "92% counted (DDHQ expected vote 92% (AP via ABC7: 84%). Orange County: 1,004,850 ballots processed, ~168,610 left as of Nov 8, so ~86% counted countywide. District: OC 314,909 votes (Strickland +1.1); LA 27,795 (Duncan +",
    "calledBy": "",
-   "note": "Duncan (D) +4,392 over incumbent Strickland (R); would FLIP R->D. MultiState: no winner recorded.",
-   "source": "https://api.sos.ca.gov/returns/state-senate/district/36",
-   "asOf": "Nov 6, 11:00 PM PT",
+   "note": "Duncan +5,568 (up from +4,392); would flip R->D. No call. Remaining votes are mostly in OC, where Strickland leads narrowly.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-senate-36-general-election ; https://abc7.com/politics/elections/local/ ; https://laist.com/news/politics/voter-guides/2026-midterm-voter-turnout-los-angeles-orange-county",
+   "asOf": "Nov 8, 5:04 PM PT",
    "dem": {
     "name": "Chris Duncan",
-    "votes": 165950,
-    "pct": 50.7
+    "votes": 174136,
+    "pct": 50.81
    },
    "rep": {
     "name": "Tony Strickland",
-    "votes": 161558,
-    "pct": 49.3
+    "votes": 168568,
+    "pct": 49.19
    },
-   "marginVotes": 4392,
-   "marginPts": 1.4,
+   "marginVotes": 5568,
+   "marginPts": 1.62,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 9 CA update"
   },
   {
    "state": "CA",
@@ -112832,25 +112861,25 @@
    "district": "40",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Leaning: leads by 6.4 pts with 65%+ counted (CA SOS statewide: ~65% of ballots counted as of Nov 5; this count is from Nov 6, 11:00 PM PT)",
+   "reporting": "Leaning: leads by 8.1 pts with 85.4% counted (San Diego County only district: 1,079,098 ballots counted, ~185,000 projected outstanding countywide \u2192 ~85%)",
    "calledBy": "",
-   "note": "Elliott (D) +17,503 in open R seat; would FLIP R->D. MultiState: no winner recorded.",
-   "source": "https://api.sos.ca.gov/returns/state-senate/district/40",
-   "asOf": "Nov 6, 11:00 PM PT",
+   "note": "Elliott (D) +26,899 (8.1 pts) in open R seat; would FLIP R->D. Not formally called.",
+   "source": "https://www.livevoterturnout.com/ENR/sandiegocaenr/25/en/Index_25.html",
+   "asOf": "Nov 9, 5:57 PM PT",
    "dem": {
     "name": "Mara Elliott",
-    "votes": 146773,
-    "pct": 53.2
+    "votes": 178953,
+    "pct": 54.06
    },
    "rep": {
     "name": "Kristie Bruce-Lane",
-    "votes": 129270,
-    "pct": 46.8
+    "votes": 152054,
+    "pct": 45.94
    },
-   "marginVotes": 17503,
-   "marginPts": 6.4,
+   "marginVotes": 26899,
+   "marginPts": 8.12,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13b",
+   "sweep": "Nov 9 CA update",
    "lean": true
   },
   {
