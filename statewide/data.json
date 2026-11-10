@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:55:00-05:00",
+ "updated": "2026-11-10T08:10:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3430,7 +3430,7 @@
   },
   {
    "id": "AK-GOV",
-   "status": "Counting",
+   "status": "RCV",
    "leader": "D",
    "reporting": "69%",
    "dem": {
@@ -3446,7 +3446,7 @@
    "marginPts": 19.9,
    "marginVotes": 42044,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/alaska-governor-general-election",
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update",
    "asOf": "2026-11-04T12:05:57-05:00",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
@@ -3462,11 +3462,12 @@
      "votes": 15713,
      "pct": 7.5
     }
-   ]
+   ],
+   "note": "Kreiss-Tomkins (D) leads with 49.6% of first-choice votes (Alaska Public, Nov 9), short of 50%, so the race goes to the ranked-choice tabulation Nov 18."
   },
   {
    "id": "AK-LG",
-   "status": "Counting",
+   "status": "RCV",
    "leader": "D",
    "reporting": "74%",
    "dem": {
@@ -3482,9 +3483,10 @@
    "marginPts": 20.0,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://www.nbcnews.com/politics/2026-elections/alaska-governor-results",
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update",
    "asOf": "2026-11-04T11:31:00-05:00",
-   "totalVotes": 210789
+   "totalVotes": 210789,
+   "note": "Kreiss-Tomkins (D) leads with 49.6% of first-choice votes (Alaska Public, Nov 9), short of 50%, so the race goes to the ranked-choice tabulation Nov 18. Joint ticket with governor."
   },
   {
    "id": "ID-SOS",

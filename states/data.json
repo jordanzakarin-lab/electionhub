@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T10:00:00-05:00",
+ "updated": "2026-11-10T07:50:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -83,7 +83,7 @@
     "R": "0",
     "by": "House Democrats via The Sum & Substance",
     "source": "https://tsscolorado.com/democrats-capture-supermajorities-and-then-some-in-colorado-legislature/",
-    "note": "49–16, apparent"
+    "note": "49\u201316, apparent"
    }
   },
   "CO-S": {
@@ -100,7 +100,7 @@
     "D": "at least 1",
     "by": "The Sum & Substance",
     "source": "https://tsscolorado.com/democrats-capture-supermajorities-and-then-some-in-colorado-legislature/",
-    "note": "24–11"
+    "note": "24\u201311"
    }
   },
   "CT-H": {
@@ -289,7 +289,7 @@
     "D": "20 (net)",
     "by": "Kansas House Democrats via KWCH",
     "source": "https://www.kwch.com/2026/11/04/state-democrats-break-gop-supermajority-kansas-house/",
-    "note": "68–57, was 88–37"
+    "note": "68\u201357, was 88\u201337"
    }
   },
   "KY-H": {
@@ -785,7 +785,7 @@
     "R": "0",
     "by": "DLCC / WPR",
     "source": "https://www.wispolitics.com/2026/dlcc-breaking-flips-wisconsin-assembly-and-senate-delivering-a-democratic-trifecta-for-the-first-time-in-over-a-decade/",
-    "note": "53–46"
+    "note": "53\u201346"
    }
   },
   "WI-S": {
@@ -801,7 +801,7 @@
     "D": "3",
     "by": "DLCC / WPR",
     "source": "https://www.wispolitics.com/2026/dlcc-breaking-dlcc-flips-wisconsin-senate-breaking-gop-control-of-legislature/",
-    "note": "18–15"
+    "note": "18\u201315"
    }
   },
   "WV-H": {
@@ -866,7 +866,7 @@
     "D": "3",
     "by": "The Detroit News",
     "source": "https://www.yahoo.com/news/politics/articles/michigan-democrats-ride-blue-tsunami-134237723.html",
-    "note": "expected 23–15, unofficial"
+    "note": "expected 23\u201315, unofficial"
    },
    "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8"
   },
@@ -1460,7 +1460,7 @@
    "state": "AZ",
    "chamber": "House",
    "district": "LD-23",
-   "incumbent": "Michele Peña (R)",
+   "incumbent": "Michele Pe\u00f1a (R)",
    "challenger": "Emilia Cortez (D)",
    "others": [
     {
@@ -1484,7 +1484,7 @@
     "pct": 31.3
    },
    "rep": {
-    "name": "Michele Peña",
+    "name": "Michele Pe\u00f1a",
     "votes": 15015,
     "pct": 19.6
    },
@@ -1949,13 +1949,13 @@
    "other": 0,
    "marginPts": null,
    "marginVotes": 30,
-   "reporting": "all but 7 challenged provisionals + up to 14 UOCAVA",
+   "reporting": "~99.9% counted (~99.9% counted (Spotlight PA: count includes unchallenged provisional/military/overseas; only 7 challenged provisionals (hearing Thu Nov 12) and up to 14 UOCAVA (due Nov 10 5 PM) remain, out of ~30k+ votes) [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "Adds vote totals: Chambers 14,289, Miller 14,259 after 139 provisionals added. Miller has not conceded; hearing on 7 challenged provisionals Thu Nov 12 11:30 AM; Miller may petition for recount within 5 days of count completion. MultiState (Nov 10) still no winner. D flip if it holds.",
-   "source": "https://lancasteronline.com/news/politics/chambers-declares-victory-in-pennsylvania-s-41st-house-district-following-provisional-ballot-count/article_eb45f048-6be8-4f86-9526-78fe13681189.html",
-   "asOf": "Nov 6 (LNP)",
+   "note": "Spotlight PA (Nov 6): D leads by >200 with ~220-230 ballots outstanding; D declared victory, R not conceded; AP no call; MultiState no winner.",
+   "source": "https://www.spotlightpa.org/news/2026/11/pennsylvania-house-election-results-final-races-control-elections/",
+   "asOf": "Nov 6, 5:16 PM ET",
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -2874,13 +2874,13 @@
    "other": 39,
    "marginPts": -0.08,
    "marginVotes": -42,
-   "reporting": "~99.5% counted (MN SOS: all precincts reporting; MN counts absentees by election night/shortly after; county canvass done by Nov 13, then state canvass. Est. ~99.5%)",
+   "reporting": "~99.5% counted (~99.5% counted (MN SOS: all precincts reporting; MN counts absentees by election night/shortly after; county canvass done by Nov 13, then state canvass. Est. ~99.5%) [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "42 votes (0.08%), under 0.5% publicly funded recount threshold. No winner.",
+   "note": "MN SOS file unchanged (Housley R +42); Fox9: publicly funded recount territory; MultiState no winner.",
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
    "asOf": "Nov 9, ~10 PM ET (fetched)",
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -4327,7 +4327,7 @@
    "state": "NC",
    "chamber": "House",
    "district": "HD-37",
-   "incumbent": "Rep. Erin Paré (R)",
+   "incumbent": "Rep. Erin Par\u00e9 (R)",
    "challenger": "Winn Decker (D)",
    "others": [],
    "status": "Called",
@@ -5260,13 +5260,13 @@
    "other": 0,
    "marginPts": 0.28,
    "marginVotes": 96,
-   "reporting": "Clark County unofficial; 745,317 ballots cast countywide (up from 744,770 on Nov 7); cure deadline passed Nov 9",
+   "reporting": "~98% counted (Estimate ~98%: Clark County has posted no update since Nov 7 3:19 PM PT (744,770 ballots countywide); signature-cure deadline passed Nov 9 5 PM, so only cured + provisional ballots remain. No official ballots-remaining figure.)",
    "calledBy": "",
    "note": "Booth (D) lead grew from 77 to 96 votes after the post-cure update. MultiState shows no winner recorded. Incumbent Hardy (R).",
    "source": "https://elections.clarkcountynv.gov/ElectionResults_NV/EnrEng/EnrMain",
    "asOf": "Nov 9, 9:46 PM ET (Clark County updated 11/09/26 6:46 PM PT)",
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -5323,13 +5323,14 @@
    "other": 65,
    "marginPts": 0.13,
    "marginVotes": 88,
-   "reporting": "SOS county estimates of ballots left (countywide, not district-only): Mason 5,000 (11/10 00:51 UTC), Kitsap 4,000 (11/9 23:26 UTC), Thurston 10,000 (11/10 00:53 UTC). All 3 counties reporting.",
+   "reporting": "~84% counted (Estimate ~84%: WA SOS county 'Estimated Ballots Left to Count' (posted Nov 6-7, latest county counts same dates): Mason (all in LD-35) 9,000 left vs ~21.5k counted (44.7% turnout); Kitsap 7,866 left countywide (~6%), Thurston 14,500 left countywide (~11%) -> ~13k left in LD-35 vs ~67k ballots counted. No county has posted for these since Nov 7.)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Mejia (D) leads incumbent MacEwen (R) by 88 (0.13 pts), down from +413. Within WA 0.5% recount threshold (and under 2,000 votes) if final. Would be a D flip.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
    "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true
   },
   {
    "state": "WA",
@@ -5451,13 +5452,14 @@
    "other": 0,
    "marginPts": 1.33,
    "marginVotes": 749,
-   "reporting": "LD-25 is within Pierce County (single reporting unit, 1/1 reporting). Pierce ballots-left estimate not confirmed via WebFetch.",
+   "reporting": "~99% counted (~99%: LD-25 is entirely in Pierce County; Pierce SOS estimate 2,000 ballots left countywide (posted Nov 6) vs ~325k counted (56% turnout).)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Position 1 (SOS 'Legislative District 25 - State Representative Pos. 1'). Berg (D) leads incumbent Keaton (R) by 749 (1.33 pts), up from +669. Would be a D flip.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
    "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
-   "sweep": "Nov 10 seat sweep 11",
-   "wouldFlip": true
+   "sweep": "Nov 10 seat sweep 14",
+   "wouldFlip": true,
+   "lean": true
   },
   {
    "state": "WA",
@@ -5707,12 +5709,12 @@
     "votes": 20289,
     "pct": 49.72
    },
-   "reporting": "~99% counted (78/79 precincts (99%) per ABC 33/40; 181-204 provisionals pending)",
-   "source": "https://abc3340.com/newsletter-daily/provisional-ballots-could-lead-to-recount-in-alabama-senate-district-10-race",
-   "asOf": "Nov 6, 1:55 PM ET",
-   "note": "Battles (I) +52; within AL 0.5% automatic recount; MultiState no winner. No newer numbers found.",
+   "reporting": "~99% counted (APR (SOS data) shows fully reported; 181-204 provisionals (countywide, unknown share in SD-10) reviewed Tue Nov 10 noon; ~99%)",
+   "source": "https://www.alreporter.com/election-results/176614",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
+   "note": "Battles (I) +52 (0.13%); automatic recount if certified margin <=0.5%. Not called.",
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "others": [
     {
      "name": "Jesse Battles",
@@ -6873,7 +6875,7 @@
    "source": "https://www.multistate.us/elections/results/arizona-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Sarah Liguori (D), Aaron Márquez (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Sarah Liguori (D), Aaron M\u00e1rquez (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "seats": [
     "D",
     "D"
@@ -7017,7 +7019,7 @@
    "source": "https://www.multistate.us/elections/results/arizona-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Betsy Munoz (D), Elda Luna-Nájera (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Betsy Munoz (D), Elda Luna-N\u00e1jera (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "seats": [
     "D",
     "D"
@@ -7053,7 +7055,7 @@
    "source": "https://www.multistate.us/elections/results/arizona-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Cesar Aguilar (D), Quantá Crews (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Cesar Aguilar (D), Quant\u00e1 Crews (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "seats": [
     "D",
     "D"
@@ -7247,7 +7249,7 @@
    "source": "https://www.multistate.us/elections/results/arizona-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Rosanna Gabaldón (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Rosanna Gabald\u00f3n (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -7779,7 +7781,7 @@
    "source": "https://www.multistate.us/elections/results/california-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Mark González (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Mark Gonz\u00e1lez (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -7835,7 +7837,7 @@
    "source": "https://www.multistate.us/elections/results/california-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: José Solache (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Jos\u00e9 Solache (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -8953,10 +8955,10 @@
    "reporting": "unknown",
    "source": "https://www.multistate.us/elections/results/hawaii-2026",
    "asOf": "Nov 4, 4:02 PM ET",
-   "note": "Winner(s) per MultiState results table: Jeanné Kapela (D).",
+   "note": "Winner(s) per MultiState results table: Jeann\u00e9 Kapela (D).",
    "sweep": "Nov 4 seat sweep 3",
    "calledBy": "MultiState",
-   "winner": "Jeanné Kapela",
+   "winner": "Jeann\u00e9 Kapela",
    "flip": false
   },
   {
@@ -10679,7 +10681,7 @@
    "source": "https://www.multistate.us/elections/results/idaho-2026",
    "asOf": "2026-11-04T10:38:43-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results page: Soñia Galaviz (D). No vote totals obtained (official results sites blocked).",
+   "note": "Winner(s) per MultiState results page: So\u00f1ia Galaviz (D). No vote totals obtained (official results sites blocked).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -12981,12 +12983,12 @@
    "other": 0,
    "marginPts": 1.58,
    "marginVotes": 558,
-   "reporting": "~99% counted (ABC7 (AP feed): 99% expected vote, as of election night; late mail (IL accepts mail postmarked by ED through Nov 17) may add)",
+   "reporting": "~99% counted (~99% counted (ABC7 (AP feed): 99% expected vote, as of election night; late mail (IL accepts mail postmarked by ED through Nov 17) may add) [carried from prior sweep; no newer count found])",
    "source": "https://abc7chicago.com/news/1246829",
    "asOf": "Nov 4, 12:46 AM ET",
-   "note": "McClellan +558; no winner on ABC7, MultiState, Ballotpedia. D flip if it holds.",
+   "note": "MultiState: McClellan (D) leads by <600, still counting; no winner.",
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "others": [],
    "calledBy": "",
    "lean": true
@@ -14502,12 +14504,12 @@
    "other": 0,
    "marginPts": -0.48,
    "marginVotes": -100,
-   "reporting": "~99.5% counted (KY SBE: all 120 counties reported; KY counts all ballots on election night (only few provisionals/cure))",
+   "reporting": "~99.5% counted (~99.5% counted (KY SBE: all 120 counties reported; KY counts all ballots on election night (only few provisionals/cure)) [carried from prior sweep; no newer count found])",
    "source": "https://vrsws.sos.ky.gov/liveresults?id=81",
    "asOf": "Nov 9, 10:05 PM ET (SBE page updated)",
-   "note": "Hodgson +100 unchanged; no winner mark; MultiState no winner.",
+   "note": "MultiState: Hodgson (R) leads by ~100, no winner, no recount note.",
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -17511,7 +17513,7 @@
    "source": "https://www.multistate.us/elections/results/new-mexico-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Andrés Romero (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Andr\u00e9s Romero (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -17539,7 +17541,7 @@
    "source": "https://www.multistate.us/elections/results/new-mexico-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Miguel García (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Miguel Garc\u00eda (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -17567,7 +17569,7 @@
    "source": "https://www.multistate.us/elections/results/new-mexico-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Debbie Sariñana (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Debbie Sari\u00f1ana (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -17595,7 +17597,7 @@
    "source": "https://www.multistate.us/elections/results/new-mexico-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Cristina Parajón (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Cristina Paraj\u00f3n (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -17609,7 +17611,7 @@
    "source": "https://www.multistate.us/elections/results/new-mexico-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Eleanor Chávez (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Eleanor Ch\u00e1vez (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -17805,7 +17807,7 @@
    "source": "https://www.multistate.us/elections/results/new-mexico-2026",
    "asOf": "2026-11-04T11:45:00-05:00",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Tara Luján (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
+   "note": "Winner(s) per MultiState results table: Tara Luj\u00e1n (D). Source shows no vote totals; numbers not available (official sites blocked from this environment).",
    "sweep": "Nov 4 seat sweep"
   },
   {
@@ -26303,10 +26305,10 @@
    "source": "https://ballotpedia.org/Connecticut_House_of_Representatives_elections,_2026",
    "asOf": "Nov 4, 11:20 AM ET",
    "flip": false,
-   "note": "Winner marked on Ballotpedia: Treneé McGee; uncontested",
+   "note": "Winner marked on Ballotpedia: Trene\u00e9 McGee; uncontested",
    "sweep": "Nov 4 Ballotpedia winners",
    "dem": {
-    "name": "Treneé McGee"
+    "name": "Trene\u00e9 McGee"
    }
   },
   {
@@ -27306,10 +27308,10 @@
    "source": "https://ballotpedia.org/Illinois_House_of_Representatives_elections,_2026",
    "asOf": "Nov 4, 11:20 AM ET",
    "flip": false,
-   "note": "Winner marked on Ballotpedia: Lilian Jiménez; uncontested",
+   "note": "Winner marked on Ballotpedia: Lilian Jim\u00e9nez; uncontested",
    "sweep": "Nov 4 Ballotpedia winners",
    "dem": {
-    "name": "Lilian Jiménez"
+    "name": "Lilian Jim\u00e9nez"
    }
   },
   {
@@ -29968,10 +29970,10 @@
    "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
    "asOf": "Nov 4, 11:20 AM ET",
    "flip": false,
-   "note": "Winner marked on Ballotpedia: Jessica González-Rojas",
+   "note": "Winner marked on Ballotpedia: Jessica Gonz\u00e1lez-Rojas",
    "sweep": "Nov 4 Ballotpedia winners",
    "dem": {
-    "name": "Jessica González-Rojas"
+    "name": "Jessica Gonz\u00e1lez-Rojas"
    }
   },
   {
@@ -30274,10 +30276,10 @@
    "source": "https://ballotpedia.org/New_York_State_Senate_elections,_2026",
    "asOf": "Nov 4, 11:20 AM ET",
    "flip": false,
-   "note": "Winner marked on Ballotpedia: Luis Sepúlveda; uncontested",
+   "note": "Winner marked on Ballotpedia: Luis Sep\u00falveda; uncontested",
    "sweep": "Nov 4 Ballotpedia winners",
    "dem": {
-    "name": "Luis Sepúlveda"
+    "name": "Luis Sep\u00falveda"
    }
   },
   {
@@ -33332,9 +33334,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Jimmy Sánchez",
+   "winner": "Jimmy S\u00e1nchez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Jimmy Sánchez (D).",
+   "note": "Winner(s) per MultiState results table: Jimmy S\u00e1nchez (D).",
    "source": "https://www.multistate.us/elections/results/connecticut-2026.html",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -33540,9 +33542,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Iris Sánchez",
+   "winner": "Iris S\u00e1nchez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Iris Sánchez (D).",
+   "note": "Winner(s) per MultiState results table: Iris S\u00e1nchez (D).",
    "source": "https://www.multistate.us/elections/results/connecticut-2026.html",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -33716,9 +33718,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Aundré Bumgardner",
+   "winner": "Aundr\u00e9 Bumgardner",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Aundré Bumgardner (D).",
+   "note": "Winner(s) per MultiState results table: Aundr\u00e9 Bumgardner (D).",
    "source": "https://www.multistate.us/elections/results/connecticut-2026.html",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -43028,9 +43030,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Carlos González",
+   "winner": "Carlos Gonz\u00e1lez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Carlos González (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Carlos Gonz\u00e1lez (D).",
    "source": "https://www.multistate.us/elections/results/massachusetts-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -43204,9 +43206,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Judith García",
+   "winner": "Judith Garc\u00eda",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Judith García (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Judith Garc\u00eda (D).",
    "source": "https://www.multistate.us/elections/results/massachusetts-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -43556,9 +43558,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Sam Montaño",
+   "winner": "Sam Monta\u00f1o",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Sam Montaño (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Sam Monta\u00f1o (D).",
    "source": "https://www.multistate.us/elections/results/massachusetts-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -45748,13 +45750,13 @@
     "votes": 27654,
     "pct": 16.76
    },
-   "reporting": "~96%+ counted (MD SBE unofficial; provisionals NR; late mail due Nov 13)",
+   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%)",
    "status": "Counting",
    "calledBy": "",
-   "note": "3-seat district, no winner marked by SBE or MultiState. Order: Donald (D) 29,001; Duck (D) 28,225; Pippy (R) 27,654; Stanley (D) 27,032; Miller (R) 26,750; Keckler (R) 26,207. 3rd seat: Pippy leads Stanley by 622; Duck leads Pippy by 571. Votes = top D vs top R.",
+   "note": "No winner marked. Seat 3: Pippy (R) 27,563 leads Stanley (D) 26,773 by 790. MultiState: Donald and Duck in winning positions alongside Pippy. NOTE input \"others\" votes were stale; these are current SBE.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
-   "asOf": "Nov 9, 8:27 PM ET (SBE last refreshed)",
-   "sweep": "Nov 10 seat sweep 11",
+   "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": 0.82,
    "marginVotes": 1347,
    "leader": "D",
@@ -45869,13 +45871,13 @@
     "votes": 16393,
     "pct": 19.29
    },
-   "reporting": "~96%+ counted (MD SBE unofficial; provisionals NR; late mail due Nov 13)",
+   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%)",
    "status": "Counting",
    "calledBy": "",
-   "note": "3-seat district, no winner marked by SBE or MultiState. R slate leads; 3rd Grammer (R) 15,398 leads top D Mioduszewski 12,956 by 2,442. Votes = top D vs top R.",
+   "note": "No winner marked; R sweep leading (3rd R Grammer leads top D by 2,547).",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
-   "asOf": "Nov 9, 8:27 PM ET (SBE last refreshed)",
-   "sweep": "Nov 10 seat sweep 11",
+   "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": -4.04,
    "marginVotes": -3437,
    "leader": "R",
@@ -46672,7 +46674,7 @@
      "pct": 31.98
     },
     {
-     "name": "Joseline A. Peña-Melnyk",
+     "name": "Joseline A. Pe\u00f1a-Melnyk",
      "party": "D",
      "votes": 22273,
      "pct": 32.19
@@ -46698,9 +46700,9 @@
    ],
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Ben Barnes, Joseline A. Peña-Melnyk, Mary A. Lehman",
+   "winner": "Ben Barnes, Joseline A. Pe\u00f1a-Melnyk, Mary A. Lehman",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Ben Barnes (D); Joseline A. Peña-Melnyk (D); Mary A. Lehman (D). Votes: https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_6_28.html as of 11/04/2026 09:21:22 AM",
+   "note": "Winner(s) per MultiState results table (unopposed): Ben Barnes (D); Joseline A. Pe\u00f1a-Melnyk (D); Mary A. Lehman (D). Votes: https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_6_28.html as of 11/04/2026 09:21:22 AM",
    "source": "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_6_28.html",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -47418,24 +47420,24 @@
    "dem": {
     "name": "Anthony Lyon",
     "votes": 8994,
-    "pct": 48.49
+    "pct": null
    },
    "rep": {
     "name": "Jake Taylor",
     "votes": 9555,
-    "pct": 51.51
+    "pct": null
    },
    "marginVotes": -561,
    "marginPts": -3.02,
-   "reporting": "~96% counted (MD SBE unofficial: all election-day precincts + early + mail canvassed so far; provisionals NR (provisional canvass not yet reported); late mail (postmarked by ED, due Nov 13) may still add. Est. ~96%)",
+   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%)",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "No winner marked. Taylor +561.",
+   "note": "MultiState: Taylor (R) leads, still counting. Margin 561.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
    "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -47557,13 +47559,13 @@
     "votes": 28104,
     "pct": 21.08
    },
-   "reporting": "~96%+ counted (MD SBE unofficial; provisionals NR; late mail due Nov 13)",
+   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%); some seats marked won by MultiState, not all",
    "status": "Counting",
    "calledBy": "",
-   "note": "Call covers 2 of 3 seats: MultiState records Arentz (R) and Jacobs (R) winners; 3rd (Caroline County) seat not recorded by MultiState (Ghrist R 25,023 vs Crouse D 16,376 on SBE; max 1 per county). Votes = top D vs top R. R hold.",
+   "note": "MultiState marks Arentz (R) and Jacobs (R); 3rd seat (Caroline Co. seat, max 1 per county) Ghrist (R) 25,023 vs Crouse (D) 16,376 not marked.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
-   "asOf": "Nov 9, 8:27 PM ET (SBE last refreshed)",
-   "sweep": "Nov 10 seat sweep 11",
+   "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": -7.22,
    "marginVotes": -9632,
    "leader": "R",
@@ -51650,9 +51652,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Fabian Doñate",
+   "winner": "Fabian Do\u00f1ate",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Fabian Doñate (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Fabian Do\u00f1ate (D).",
    "source": "https://www.multistate.us/elections/results/nevada-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -54706,9 +54708,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Chaunté Gilmore",
+   "winner": "Chaunt\u00e9 Gilmore",
    "flip": true,
-   "note": "Winner(s) per MultiState results table: Chaunté Gilmore (D). Flipped R to D; incumbent defeated.",
+   "note": "Winner(s) per MultiState results table: Chaunt\u00e9 Gilmore (D). Flipped R to D; incumbent defeated.",
    "source": "https://www.multistate.us/elections/results/oklahoma-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -55453,7 +55455,7 @@
     }
    ],
    "dem": {
-    "name": "Ramón Pérez",
+    "name": "Ram\u00f3n P\u00e9rez",
     "votes": 1743,
     "pct": 72.8
    },
@@ -62389,9 +62391,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Sergio Muñoz",
+   "winner": "Sergio Mu\u00f1oz",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Sergio Muñoz (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Sergio Mu\u00f1oz (D).",
    "source": "https://www.multistate.us/elections/results/texas-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -62421,9 +62423,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Erin Gámez",
+   "winner": "Erin G\u00e1mez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Erin Gámez (D).",
+   "note": "Winner(s) per MultiState results table: Erin G\u00e1mez (D).",
    "source": "https://www.multistate.us/elections/results/texas-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -62725,9 +62727,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Mary González",
+   "winner": "Mary Gonz\u00e1lez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Mary González (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Mary Gonz\u00e1lez (D).",
    "source": "https://www.multistate.us/elections/results/texas-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -62965,9 +62967,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Rafael Anchía",
+   "winner": "Rafael Anch\u00eda",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Rafael Anchía (D).",
+   "note": "Winner(s) per MultiState results table: Rafael Anch\u00eda (D).",
    "source": "https://www.multistate.us/elections/results/texas-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -62981,9 +62983,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Jessica González",
+   "winner": "Jessica Gonz\u00e1lez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Jessica González (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Jessica Gonz\u00e1lez (D).",
    "source": "https://www.multistate.us/elections/results/texas-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -63477,9 +63479,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "José Menéndez",
+   "winner": "Jos\u00e9 Men\u00e9ndez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: José Menéndez (D).",
+   "note": "Winner(s) per MultiState results table: Jos\u00e9 Men\u00e9ndez (D).",
    "source": "https://www.multistate.us/elections/results/texas-2026",
    "asOf": "Nov 4, 12:05 PM ET",
    "sweep": "Nov 4 seat sweep 2"
@@ -64637,13 +64639,13 @@
     "votes": 1667,
     "pct": 25.5
    },
-   "reporting": "~100% counted (VT SOS feed: all 247 towns reported; VT counts all ballots on election night)",
+   "reporting": "~100% counted (~100% counted (VT SOS feed: all 247 towns reported; VT counts all ballots on election night) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "calledBy": "",
-   "note": "2-seat; 2nd Bonges (D) +34 over Micklus (R). Recount-range. No winner.",
-   "source": "https://fyivt.com/feeds/election/results.html",
-   "asOf": "Nov 5, 9:41 AM ET (SOS update)",
-   "sweep": "Nov 9 seat sweep 13",
+   "note": "MultiState: No winner recorded. 2nd seat Bonges (D) leads Micklus (R) by 34.",
+   "source": "https://fyivt.com/feeds/election/results.html (votes); https://www.multistate.us/elections/results/vermont-2026 (calls)",
+   "asOf": "Nov 5, 9:41 AM ET (SOS feed); MultiState fetched Nov 10",
+   "sweep": "Nov 10 seat sweep 14",
    "rep": {
     "name": "Anthony \"Tony\" Micklus / Kumulia \"Kase\" Long",
     "votes": 1625,
@@ -64743,13 +64745,13 @@
     "votes": 2129,
     "pct": 25.7
    },
-   "reporting": "~100% counted (VT SOS feed: all 247 towns reported; VT counts all ballots on election night)",
+   "reporting": "~100% counted (~100% counted (VT SOS feed: all 247 towns reported; VT counts all ballots on election night) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "calledBy": "",
-   "note": "2-seat; 2nd Bright (D) leads 3rd Stebbins (R) by 2 votes. No winner.",
-   "source": "https://fyivt.com/feeds/election/results.html",
-   "asOf": "Nov 5, 9:41 AM ET (SOS update)",
-   "sweep": "Nov 9 seat sweep 13",
+   "note": "MultiState: No winner recorded. 2nd seat Bright (D) leads Stebbins (R) by 2 votes.",
+   "source": "https://fyivt.com/feeds/election/results.html (votes); https://www.multistate.us/elections/results/vermont-2026 (calls)",
+   "asOf": "Nov 5, 9:41 AM ET (SOS feed); MultiState fetched Nov 10",
+   "sweep": "Nov 10 seat sweep 14",
    "seats": [
     "R",
     "D"
@@ -64776,15 +64778,15 @@
     "pct": 50.9
    },
    "marginPts": -1.9,
-   "reporting": "~100% counted (VT SOS feed: all 247 towns reported; VT counts all ballots on election night)",
+   "reporting": "~100% counted (~100% counted (VT SOS feed: all 247 towns reported; VT counts all ballots on election night) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Dickinson +36 (1.8%), within VT 2% recount threshold. No winner.",
-   "source": "https://fyivt.com/feeds/election/results.html",
-   "asOf": "Nov 5, 9:41 AM ET (SOS update)",
-   "sweep": "Nov 9 seat sweep 13",
+   "note": "MultiState: No winner recorded. Dickinson (R) +36.",
+   "source": "https://fyivt.com/feeds/election/results.html (votes); https://www.multistate.us/elections/results/vermont-2026 (calls)",
+   "asOf": "Nov 5, 9:41 AM ET (SOS feed); MultiState fetched Nov 10",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -36,
    "lean": true
   },
@@ -68360,9 +68362,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Löki Tobin",
+   "winner": "L\u00f6ki Tobin",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Löki Tobin (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): L\u00f6ki Tobin (D).",
    "source": "https://www.multistate.us/elections/results/alaska-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3"
@@ -69144,9 +69146,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Kenyatté Hassell",
+   "winner": "Kenyatt\u00e9 Hassell",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Kenyatté Hassell (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Kenyatt\u00e9 Hassell (D).",
    "source": "https://www.multistate.us/elections/results/alabama-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3"
@@ -69800,9 +69802,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Alma Hernández",
+   "winner": "Alma Hern\u00e1ndez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Alma Hernández (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Alma Hern\u00e1ndez (D).",
    "source": "https://www.multistate.us/elections/results/arizona-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3"
@@ -69976,9 +69978,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Lorena García",
+   "winner": "Lorena Garc\u00eda",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Lorena García (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Lorena Garc\u00eda (D).",
    "source": "https://www.multistate.us/elections/results/colorado-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3"
@@ -71805,9 +71807,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Graciela Guzmán",
+   "winner": "Graciela Guzm\u00e1n",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Graciela Guzmán (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Graciela Guzm\u00e1n (D).",
    "source": "https://www.multistate.us/elections/results/illinois-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3"
@@ -75552,15 +75554,15 @@
     "pct": 50.0
    },
    "marginPts": -0.09,
-   "reporting": "~99.5% counted (MN SOS: all precincts reporting; MN counts absentees by election night/shortly after; county canvass done by Nov 13, then state canvass. Est. ~99.5%)",
+   "reporting": "~99.5% counted (~99.5% counted (MN SOS: all precincts reporting; MN counts absentees by election night/shortly after; county canvass done by Nov 13, then state canvass. Est. ~99.5%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "22 votes; MultiState: likely recount. No winner.",
+   "note": "MultiState: West (R) leads, likely recount; no winner.",
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/LegislativeByDistrict.txt",
    "asOf": "Nov 7, 6:30 PM ET (fetched; not refetched)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -22,
    "other": 22,
    "lean": true
@@ -78393,9 +78395,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Renée Price",
+   "winner": "Ren\u00e9e Price",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Renée Price (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Ren\u00e9e Price (D).",
    "source": "https://www.multistate.us/elections/results/north-carolina-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3",
@@ -81733,9 +81735,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Javier Martínez",
+   "winner": "Javier Mart\u00ednez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Javier Martínez (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Javier Mart\u00ednez (D).",
    "source": "https://www.multistate.us/elections/results/new-mexico-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3"
@@ -82341,9 +82343,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Desireè Tims",
+   "winner": "Desire\u00e8 Tims",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Desireè Tims (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Desire\u00e8 Tims (D).",
    "source": "https://www.multistate.us/elections/results/ohio-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3"
@@ -83322,9 +83324,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "José Giral",
+   "winner": "Jos\u00e9 Giral",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): José Giral (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Jos\u00e9 Giral (D).",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
    "asOf": "Nov 4, 4:02 PM ET",
    "sweep": "Nov 4 seat sweep 3"
@@ -86867,13 +86869,13 @@
     "votes": 35302,
     "pct": 35.3
    },
-   "reporting": "Not shown on MultiState page",
+   "reporting": "Unknown: no current AZ count or ballots-remaining figure found.",
    "status": "Counting",
    "calledBy": "",
-   "note": "Two-seat district. MultiState records Michael Carbone (R) as winner of one seat; second seat uncalled, Rep. Nick Kupper (R) leads Tiffany Byrne (D) per MultiState. No new vote counts fetched.",
-   "source": "https://www.multistate.us/elections/results/arizona-2026",
-   "asOf": "Nov 10, ~7:15 AM ET (MultiState fetch; no page timestamp)",
-   "sweep": "Nov 10 seat sweep 11",
+   "note": "No fresh count found (Maricopa/KJZZ only link AP widgets). Stale Nov 4 numbers: Kupper (R) +1,444 over Byrne (D) for 2nd seat. MultiState 'No winner recorded'.",
+   "source": "https://politicselections.com/arizona-election-results-legislature/ ; https://www.multistate.us/elections/results/arizona-2026",
+   "asOf": "Nov 4 numbers (stale); checked Nov 10, ~7:30 AM ET (fetched)",
+   "sweep": "Nov 10 seat sweep 14",
    "seats": [
     "R",
     "R"
@@ -87448,9 +87450,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Reneé Pack",
+   "winner": "Rene\u00e9 Pack",
    "flip": false,
-   "note": "Winner(s) per MultiState results table (unopposed): Reneé Pack (D).",
+   "note": "Winner(s) per MultiState results table (unopposed): Rene\u00e9 Pack (D).",
    "source": "https://www.multistate.us/elections/results/indiana-2026",
    "asOf": "Nov 4, 5:58 PM ET",
    "sweep": "Nov 4 seat sweep 5"
@@ -87691,15 +87693,15 @@
     "pct": 51
    },
    "marginVotes": -142,
-   "reporting": "~97% counted (Johnson County 'unofficial final' Wednesday update (all precincts + advance); provisionals decided at county canvass (began Nov 9), results not found. Est. ~97%)",
+   "reporting": "~97% counted (~97% counted (Johnson County 'unofficial final' Wednesday update (all precincts + advance); provisionals decided at county canvass (began Nov 9), results not found. Est. ~97%) [carried; canvass totals not found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "VanHouden +142; MultiState no winner; canvass result not found.",
+   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
    "source": "https://johnsoncountypost.com/2026/11/04/democrats-flip-kansas-house-seats-301015/",
    "asOf": "Nov 4, 11:15 AM CT",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": -2,
    "lean": true
   },
@@ -87719,15 +87721,15 @@
     "pct": 49.81
    },
    "marginVotes": 42,
-   "reporting": "~97% counted (Johnson County 'unofficial final' Wednesday update (all precincts + advance); provisionals decided at county canvass (began Nov 9), results not found. Est. ~97%)",
+   "reporting": "~97% counted (~97% counted (Johnson County 'unofficial final' Wednesday update (all precincts + advance); provisionals decided at county canvass (began Nov 9), results not found. Est. ~97%) [carried; canvass totals not found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Kiewiet +42; MultiState: tightest race, <60 votes. D flip if it holds.",
+   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
    "source": "https://www.jocoelection.org/sites/default/files/2026-11/Unofficial%20Final%20Results%20Wednesday%20Update.pdf",
    "asOf": "Nov 4, 4:43 PM CT",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": 0.3,
    "lean": true
   },
@@ -87747,15 +87749,15 @@
     "pct": 49
    },
    "marginVotes": 176,
-   "reporting": "~97% counted (Johnson County 'unofficial final' Wednesday update (all precincts + advance); provisionals decided at county canvass (began Nov 9), results not found. Est. ~97%)",
+   "reporting": "~97% counted (~97% counted (Johnson County 'unofficial final' Wednesday update (all precincts + advance); provisionals decided at county canvass (began Nov 9), results not found. Est. ~97%) [carried; canvass totals not found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Schultz +176; MultiState no winner. D flip if it holds.",
+   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
    "source": "https://johnsoncountypost.com/2026/11/04/democrats-flip-kansas-house-seats-301015/",
    "asOf": "Nov 4, 11:15 AM CT",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": 2,
    "lean": true
   },
@@ -88851,15 +88853,15 @@
    },
    "marginVotes": -131,
    "marginPts": 0,
-   "reporting": "~99% counted (100% precincts; TX mail/UOCAVA cure deadline Nov 9, provisionals reviewed for county final count ~Nov 10; canvass Nov 13. Est. ~99%)",
+   "reporting": "~99% counted (~99% counted (100% precincts; TX mail/UOCAVA cure deadline Nov 9, provisionals reviewed for county final count ~Nov 10; canvass Nov 13. Est. ~99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Morgan +131; MultiState no winner.",
+   "note": "MultiState: No winner recorded, no leader note. No post-canvass/final-count news found.",
    "source": "https://www.click2houston.com/decision-2026/2026/10/30/texas-legislature-general-election-results-for-nov-3-2026/",
    "asOf": "Nov 6, 7:27 AM ET",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -89020,15 +89022,15 @@
    },
    "marginVotes": 265,
    "marginPts": 0,
-   "reporting": "~99% counted (100% precincts; TX mail/UOCAVA cure deadline Nov 9, provisionals reviewed for county final count ~Nov 10; canvass Nov 13. Est. ~99%)",
+   "reporting": "~99% counted (~99% counted (100% precincts; TX mail/UOCAVA cure deadline Nov 9, provisionals reviewed for county final count ~Nov 10; canvass Nov 13. Est. ~99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Bord +265; MultiState no winner. D flip if it holds.",
+   "note": "MultiState: No winner recorded, no leader note. No post-canvass/final-count news found.",
    "source": "https://www.click2houston.com/decision-2026/2026/10/30/texas-legislature-general-election-results-for-nov-3-2026/",
    "asOf": "Nov 6, 7:27 AM ET",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -89558,15 +89560,15 @@
    },
    "marginVotes": 565,
    "marginPts": 2.98,
-   "reporting": "Unknown: SLTrib/state show no reporting %; latest county ballots-remaining figures found are from Nov 4 (SL Co >100k, Davis ~30k, Weber ~17k). Counties canvass Nov 10-17, so counting is near/at end, b",
+   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Numbers unchanged since Nov 9 fetch. MultiState: 'No winner recorded' (checked Nov 9).",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
-   "asOf": "Nov 9, ~10 PM ET (fetched; page shows no timestamp)",
-   "sweep": "Nov 9 seat sweep 13",
+   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 0
   },
   {
@@ -89948,15 +89950,15 @@
    },
    "marginVotes": 184,
    "marginPts": 1.46,
-   "reporting": "Unknown: SLTrib/state show no reporting %; latest county ballots-remaining figures found are from Nov 4 (SL Co >100k, Davis ~30k, Weber ~17k). Counties canvass Nov 10-17, so counting is near/at end, b",
+   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Numbers unchanged since Nov 7 fetch (no new batch in this district). MultiState: 'No winner recorded' (checked Nov 9).",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
-   "asOf": "Nov 9, ~10 PM ET (fetched; page shows no timestamp)",
-   "sweep": "Nov 9 seat sweep 13"
+   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "UT",
@@ -90185,15 +90187,15 @@
    },
    "marginVotes": 840,
    "marginPts": 5.24,
-   "reporting": "Unknown: SLTrib/state show no reporting %; latest county ballots-remaining figures found are from Nov 4 (SL Co >100k, Davis ~30k, Weber ~17k). Counties canvass Nov 10-17, so counting is near/at end, b",
+   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Numbers unchanged since Nov 7 fetch (no new batch in this district). MultiState: 'No winner recorded' (checked Nov 9).",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
-   "asOf": "Nov 9, ~10 PM ET (fetched; page shows no timestamp)",
-   "sweep": "Nov 9 seat sweep 13"
+   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "UT",
@@ -90271,15 +90273,15 @@
    },
    "marginVotes": -298,
    "marginPts": -2.06,
-   "reporting": "Unknown: SLTrib/state show no reporting %; latest county ballots-remaining figures found are from Nov 4 (SL Co >100k, Davis ~30k, Weber ~17k). Counties canvass Nov 10-17, so counting is near/at end, b",
+   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Numbers unchanged since Nov 7 fetch (no new batch in this district). MultiState: 'No winner recorded' (checked Nov 9).",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
-   "asOf": "Nov 9, ~10 PM ET (fetched; page shows no timestamp)",
-   "sweep": "Nov 9 seat sweep 13"
+   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "UT",
@@ -90604,15 +90606,15 @@
    },
    "marginVotes": 322,
    "marginPts": 1.78,
-   "reporting": "Unknown: SLTrib/state show no reporting %; latest county ballots-remaining figures found are from Nov 4 (SL Co >100k, Davis ~30k, Weber ~17k). Counties canvass Nov 10-17, so counting is near/at end, b",
+   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Numbers unchanged since Nov 9 fetch. MultiState: 'No winner recorded' (checked Nov 9).",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
-   "asOf": "Nov 9, ~10 PM ET (fetched; page shows no timestamp)",
-   "sweep": "Nov 9 seat sweep 13",
+   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 0
   },
   {
@@ -90639,15 +90641,15 @@
    },
    "marginVotes": -288,
    "marginPts": -2.99,
-   "reporting": "Unknown: SLTrib/state show no reporting %; latest county ballots-remaining figures found are from Nov 4 (SL Co >100k, Davis ~30k, Weber ~17k). Counties canvass Nov 10-17, so counting is near/at end, b",
+   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Numbers unchanged since Nov 7 fetch (no new batch in this district). MultiState: 'No winner recorded' (checked Nov 9).",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
-   "asOf": "Nov 9, ~10 PM ET (fetched; page shows no timestamp)",
-   "sweep": "Nov 9 seat sweep 13",
+   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 385
   },
   {
@@ -91078,15 +91080,15 @@
     "votes": 16119,
     "pct": 50.81
    },
-   "reporting": "Unknown: SLTrib/state show no reporting %; latest county ballots-remaining figures found are from Nov 4 (SL Co >100k, Davis ~30k, Weber ~17k). Counties canvass Nov 10-17, so counting is near/at end, b",
+   "reporting": "Unknown: SLTrib live results show no reporting % and numbers are unchanged since Nov 7-9; no current county ballots-remaining figures found (latest Nov 4: SL Co >100k, Davis ~30k, Weber ~17k left). Co",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Numbers unchanged since Nov 7 fetch (no new batch in this district). MultiState: 'No winner recorded' (checked Nov 9).",
-   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/",
-   "asOf": "Nov 9, ~10 PM ET (fetched; page shows no timestamp)",
-   "sweep": "Nov 9 seat sweep 13",
+   "note": "No winner marked by SLTrib; MultiState 'No winner recorded' (checked Nov 10). No call/concession found.",
+   "source": "https://www.sltrib.com/news/politics/2026/11/03/live-utah-election-results-vote/ ; https://www.multistate.us/elections/results/utah-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); numbers unchanged from Nov 9",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 15607
   },
   {
@@ -91721,15 +91723,15 @@
     "pct": 49.1
    },
    "marginPts": 1.8,
-   "reporting": "75%+ counted: CO official totals unchanged since Nov 6; only cures/provisionals left",
+   "reporting": "~97% counted (Estimate: CO SOS ENR totals unchanged since Nov 5 10:39 PM MST (re-fetched Nov 10); CO tabulates mail ballots quickly, only cures/UOCAVA/provisionals remain. Not an official % (ENR precinct field shows 0/1 for HD15/22, 1/1 for HD21).)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "MultiState: 'No winner recorded' (Nov 9). CO SOS ENR summary.json still shows the Nov 5-6 totals; no newer version found.",
+   "note": "Tweed +423. No winner marked.",
    "source": "https://results.enr.clarityelections.com/CO/127407/385835/json/en/summary.json",
-   "asOf": "Nov 6, 12:39 AM ET (CO SOS ENR updated 11/5/2026 10:39:05 PM MST); re-fetched Nov 9 same numbers",
-   "sweep": "Nov 9 seat sweep 13",
+   "asOf": "Nov 5, 10:39 PM MST (ENR); re-fetched Nov 10",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 423,
    "lean": true
   },
@@ -91749,15 +91751,15 @@
     "pct": 51.25
    },
    "marginPts": -2.5,
-   "reporting": "75%+ counted: CO official totals unchanged since Nov 6; only cures/provisionals left",
+   "reporting": "~97% counted (Estimate: CO SOS ENR totals unchanged since Nov 5 10:39 PM MST (re-fetched Nov 10); CO tabulates mail ballots quickly, only cures/UOCAVA/provisionals remain. Not an official % (ENR precinct field shows 0/1 for HD15/22, 1/1 for HD21).)",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "MultiState: 'No winner recorded' (Nov 9). CO SOS ENR summary.json still shows the Nov 5-6 totals; no newer version found.",
+   "note": "deGraaf +971. No winner marked.",
    "source": "https://results.enr.clarityelections.com/CO/127407/385835/json/en/summary.json",
-   "asOf": "Nov 6, 12:39 AM ET (CO SOS ENR updated 11/5/2026 10:39:05 PM MST); re-fetched Nov 9 same numbers",
-   "sweep": "Nov 9 seat sweep 13",
+   "asOf": "Nov 5, 10:39 PM MST (ENR); re-fetched Nov 10",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -971,
    "lean": true
   },
@@ -93002,15 +93004,15 @@
    },
    "marginVotes": 133,
    "marginPts": 1.02,
-   "reporting": "~97% counted (Post-election-night totals (JC Post); provisionals pending county canvass (began Nov 9). Est. ~97%)",
+   "reporting": "~97% counted (~97% counted (Post-election-night totals (JC Post); provisionals pending county canvass (began Nov 9). Est. ~97%) [carried; canvass totals not found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Holland +133; MultiState no winner. D flip if it holds.",
+   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
    "source": "https://jcpost.com/posts/eaf77661-74e7-49cb-a1cc-320f0ff62a10",
    "asOf": "Nov 5 (article)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -93677,13 +93679,13 @@
     "votes": 26775,
     "pct": 18.46
    },
-   "reporting": "~96% counted (MD SBE unofficial: all election-day precincts + early + mail canvassed so far; provisionals NR (provisional canvass not yet reported); late mail (postmarked by ED, due Nov 13) may still add. Est. ~96%)",
+   "reporting": "~96% counted (MD SBE unofficial (Last refreshed 11/08/2026 7:40 PM): all 35/35 ED precincts + early + mail canvassed so far; provisional column NR; late mail (due Nov 13) may add. Est. ~96%)",
    "status": "Counting",
    "calledBy": "",
-   "note": "No winner marked. 3rd Caldwell-Nkongolo (R) leads top D Schmidt by 916.",
+   "note": "No winner marked. 3rd seat Caldwell-Nkongolo (R) leads Schmidt (D) by 916.",
    "source": "https://elections.maryland.gov/elections/2026/General_results/gen_results_2026_6.html",
    "asOf": "Nov 8, 7:40 PM ET (SBE last refreshed)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": -2.35,
    "marginVotes": -3412,
    "leader": "R",
@@ -95535,15 +95537,15 @@
    },
    "marginVotes": -4,
    "marginPts": -0.01,
-   "reporting": "~99.5% counted (MN SOS: all precincts reporting; MN counts absentees by election night/shortly after; county canvass done by Nov 13, then state canvass. Est. ~99.5%)",
+   "reporting": "~99.5% counted (~99.5% counted (MN SOS: all precincts reporting; MN counts absentees by election night/shortly after; county canvass done by Nov 13, then state canvass. Est. ~99.5%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "4-vote margin; MultiState: headed to recount. No winner.",
+   "note": "MN SOS file unchanged (Peterson R +4); MultiState: headed to recount; no winner.",
    "source": "https://electionresultsfiles.sos.mn.gov/20261103/stsenate.txt",
    "asOf": "Nov 9, ~10 PM ET (fetched)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 42,
    "lean": true
   },
@@ -96549,15 +96551,15 @@
     "pct": 49.7
    },
    "marginPts": 0.6,
-   "reporting": "~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%)",
+   "reporting": "~98.5% counted (~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "No winner; MultiState no winner recorded. Wallin +228 (0.6%); within 1% recount margin.",
+   "note": "MultiState: No winner recorded; same leader. County canvass Nov 13, recount requests due Nov 17 (MultiState/WFAE).",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
    "asOf": "Nov 9, ~10 PM ET (fetched; NCSBE file unchanged since Nov 6)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 228,
    "lean": true
   },
@@ -96796,9 +96798,9 @@
    "status": "Called",
    "leader": "D",
    "calledBy": "MultiState",
-   "winner": "Cecelia González",
+   "winner": "Cecelia Gonz\u00e1lez",
    "flip": false,
-   "note": "Winner(s) per MultiState results table: Cecelia González (D).",
+   "note": "Winner(s) per MultiState results table: Cecelia Gonz\u00e1lez (D).",
    "source": "https://www.multistate.us/elections/results/nevada-2026",
    "asOf": "Nov 4, 11:26 PM ET",
    "sweep": "Nov 5 seat sweep 7"
@@ -97276,24 +97278,24 @@
    "others": [],
    "dem": {
     "name": "Devin Lander",
-    "votes": null,
-    "pct": 49.15
+    "votes": 59553,
+    "pct": null
    },
    "rep": {
     "name": "Jake Ashby",
-    "votes": null,
-    "pct": 49.23
+    "votes": 59871,
+    "pct": null
    },
-   "marginVotes": -103,
-   "reporting": ">121,989 votes counted; absentees still arriving (deadline Nov 10; UOCAVA Nov 16)",
+   "marginVotes": -318,
+   "reporting": "~97.5% counted (~97.5% counted (Daily Gazette Nov 4: ~2,900 absentees outstanding of ~122k => ~97.6% counted (as of Nov 4; some since counted, no update found)) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Ashby +103 per state BOE (down from 125 Thu). Within 0.5% automatic manual recount range. MultiState (Nov 10) still no winner.",
-   "source": "https://spectrumlocalnews.com/nys/capital-region/news/2026/11/05/republican-holds-razor-thin-lead-in-new-york-s-43rd-senate-district",
-   "asOf": "Nov 6, 2:10 PM ET (Spectrum)",
-   "sweep": "Nov 10 seat sweep 11",
+   "note": "MultiState: Ashby (R) narrowly leads; no winner. No post-Nov 4 count update found. 318-vote margin.",
+   "source": "https://www.dailygazette.com/spotlightnews/news/government/state-senate-races-roundup-rogerson-fahy-ashby/article_f4da9b73-2a87-4f32-a914-dfb2cce2b4d3.html",
+   "asOf": "Nov 4, 2:15 PM ET",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true,
    "marginPts": -0.08
   },
@@ -97359,7 +97361,7 @@
    "district": "32",
    "others": [
     {
-     "name": "Valentin Peña",
+     "name": "Valentin Pe\u00f1a",
      "party": "I",
      "votes": 529,
      "pct": 4.2
@@ -97427,13 +97429,13 @@
      "pct": 2.1
     }
    ],
-   "reporting": "unofficial; remaining ballots not stated",
+   "reporting": "~99.3% counted (~99.3% counted (Spotlight PA: Bucks County says 220 ballots still being processed (of ~33,500)) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "calledBy": "",
    "note": "Hayes +209 (independent Gambino 713). Hayes declared victory. Labs (R-inc) FB post: \"Even though the results of this particular election didn't turn out in our favor...\" -- Patch does not call it a concession; treat as near-concession, verify. MultiState (Nov 10) still no winner. D flip if it holds.",
    "source": "https://patch.com/pennsylvania/doylestown/tim-hayes-declares-victory-143rd-house-district-race",
    "asOf": "Nov 9, 2:13 AM ET (Patch)",
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "dem": {
     "name": "Tim Hayes",
     "votes": 16597,
@@ -97618,15 +97620,15 @@
    },
    "marginVotes": 315,
    "marginPts": 0.5,
-   "reporting": "~99% counted (KBTX: estimated 99%; ~164 mail + ~150 provisionals countywide pending; final count Nov 10 (result not found))",
+   "reporting": "~99% counted (~99% counted (KBTX: estimated 99%; ~164 mail + ~150 provisionals countywide pending; final count Nov 10 (result not found)) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Dudding +315; KBTX not called; MultiState no winner. Nov 10 final count not found yet. D flip if it holds.",
+   "note": "MultiState: No winner recorded, no leader note. No post-canvass/final-count news found (Brazos final count Nov 10 not yet reported).",
    "source": "https://www.kbtx.com/2026/11/05/brazos-countys-closest-races-arent-official-yet/",
    "asOf": "Nov 4, 9:30 PM CT",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -97904,15 +97906,15 @@
    },
    "marginVotes": -134,
    "marginPts": -0.14,
-   "reporting": "~99% counted (All 90 Collin County vote centers, final election-night report; only provisionals/late mail pending)",
+   "reporting": "~99% counted (~99% counted (All 90 Collin County vote centers, final election-night report; only provisionals/late mail pending) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Richardson +134; MultiState no winner.",
+   "note": "MultiState: No winner recorded, no leader note. No post-canvass/final-count news found.",
    "source": "https://tx3dnews.com/collin-county-election-results-november-2026/",
    "asOf": "Nov 4, 1:02 AM CT",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -98652,15 +98654,15 @@
    },
    "marginVotes": 442,
    "marginPts": 1.16,
-   "reporting": "75%+ counted: CO official totals unchanged since Nov 6; only cures/provisionals left",
+   "reporting": "~97% counted (Estimate: CO SOS ENR totals unchanged since Nov 5 10:39 PM MST (re-fetched Nov 10); CO tabulates mail ballots quickly, only cures/UOCAVA/provisionals remain. Not an official % (ENR precinct field shows 0/1 for HD15/22, 1/1 for HD21).)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "MultiState: 'No winner recorded' (Nov 9). CO SOS ENR summary.json still shows the Nov 5-6 totals; no newer version found.",
+   "note": "Livingston +442. Libertarian Doug Jones is 1,371 (not 1,137). No winner marked.",
    "source": "https://results.enr.clarityelections.com/CO/127407/385835/json/en/summary.json",
-   "asOf": "Nov 6, 12:39 AM ET (CO SOS ENR updated 11/5/2026 10:39:05 PM MST); re-fetched Nov 9 same numbers",
-   "sweep": "Nov 9 seat sweep 13",
+   "asOf": "Nov 5, 10:39 PM MST (ENR); re-fetched Nov 10",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -98936,15 +98938,15 @@
     "pct": 50.26
    },
    "marginPts": -0.52,
-   "reporting": "~100% (CT counts all ballots election night)",
+   "reporting": "~99% counted (~99% counted (CT counts all ballots (in-person + absentee) on election night; CBIA lists all towns; only a few late overseas ballots possible) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Ziobron +60 (0.52%), 3 votes above automatic recanvass threshold, so no recanvass; no concession reported. MultiState still no winner. pct computed from two-candidate votes.",
-   "source": "https://ctnewsjunkie.com/2026/11/07/3-connecticut-house-races-headed-for-recounts/",
-   "asOf": "Nov 10, 3:08 AM ET (article last updated)",
-   "sweep": "Nov 10 seat sweep 11",
+   "note": "MultiState (Nov 10 fetch): No winner recorded; no recount note.",
+   "source": "https://www.cbia.com/resources/issues-policies/election-2026-results-connecticut-state-house",
+   "asOf": "Nov 7, 8:27 AM ET (CBIA page modified; unchanged at fetch Nov 9)",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -60,
    "lean": true
   },
@@ -98970,26 +98972,26 @@
    "district": "48",
    "others": [],
    "dem": {
-    "name": "Bob Fernandez",
+    "name": "Robert Fernandez",
     "votes": 5796,
     "pct": 50.25
    },
    "rep": {
     "name": "Mark DeCaprio",
-    "votes": 5738,
+    "votes": 5739,
     "pct": 49.75
    },
    "marginPts": 0.5,
-   "reporting": "100% + recanvass (Colchester recanvass held Sun Nov 8)",
+   "reporting": "~99% counted (~99% counted (CT counts all ballots (in-person + absentee) on election night; CBIA lists all towns; only a few late overseas ballots possible) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Automatic recanvass (margin <0.5%). Post-recanvass state count Fernandez +58 (was +57). No concession from DeCaprio (R-inc). CTNJ says recounts appear to uphold election-night outcome; not a call. D flip if it holds. pct computed from two-candidate votes.",
-   "source": "https://ctnewsjunkie.com/2026/11/10/connecticut-house-recounts-candidates-concede/",
-   "asOf": "Nov 10, 5:00 AM ET",
-   "sweep": "Nov 10 seat sweep 11",
-   "marginVotes": 58,
+   "note": "MultiState (Nov 10 fetch): No winner recorded; no recount note.",
+   "source": "https://www.cbia.com/resources/issues-policies/election-2026-results-connecticut-state-house",
+   "asOf": "Nov 7, 8:27 AM ET (CBIA page modified; unchanged at fetch Nov 9)",
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": 57,
    "lean": true
   },
   {
@@ -99008,15 +99010,15 @@
     "pct": 50.83
    },
    "marginPts": -1.66,
-   "reporting": "~99% counted (CT counts all ballots (in-person + absentee) on election night; CBIA lists all towns; only a few late overseas ballots possible)",
+   "reporting": "~99% counted (~99% counted (CT counts all ballots (in-person + absentee) on election night; CBIA lists all towns; only a few late overseas ballots possible) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Unchanged since Nov 7. CBIA bolds leader only ('provisional until certified'); no call found. 181-vote margin.",
+   "note": "MultiState (Nov 10 fetch): No winner recorded; no recount note.",
    "source": "https://www.cbia.com/resources/issues-policies/election-2026-results-connecticut-state-house",
    "asOf": "Nov 7, 8:27 AM ET (CBIA page modified; unchanged at fetch Nov 9)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -181,
    "lean": true
   },
@@ -99428,15 +99430,15 @@
    },
    "marginVotes": 289,
    "marginPts": 0.4,
-   "reporting": "~99.5%; machine recount under way",
+   "reporting": "~99.5% counted (~99.5% counted (FL DOS 1st unofficial returns (all counties; FL counts nearly all VBM/early by ED); 'Machine Recount Indicated') [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "Recount update: the SOS ordered a machine recount because the margin is within 0.5%. WFTV says the Brevard machine recount was set to begin 9 AM Tue Nov 10. A manual recount of blank, over- and undervotes follows Nov 11-12 only if the margin is 0.25% or less. Brevard SOE press release of Nov 7: 'Brevard County Will Conduct a Recount for Two Races'. No recount results had been posted when checked Nov 10. The vote totals are unchanged from the input (FL DOS first unofficial returns). This would be a D flip if it holds.",
-   "source": "https://www.wftv.com/news/local/brevard-county/brevard-county-races-face-recounts-after-razor-thin-victory-margins/XSP5RGXKUFC3BNWMACUTQLR27Y/",
-   "asOf": "Nov 7, 11:29 AM ET",
-   "sweep": "Nov 10 seat sweep 11",
+   "note": "MultiState: No winner, \"headed toward a recount\".",
+   "source": "https://floridaelectionwatch.gov/DistrictOffices/StateRepresentative",
+   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 0,
    "lean": true
   },
@@ -99575,15 +99577,15 @@
     "pct": 49.43
    },
    "marginPts": -10.5,
-   "reporting": "~100% counted (Runoff set; first-round count complete)",
+   "reporting": "~100% counted (~100% counted (Runoff set; first-round count complete) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Dec 1 runoff Cheokas (R) vs Wolfe (D) (MultiState table name 'James E. Wolfe'). Not called.",
+   "note": "MultiState: goes to Dec 1 runoff. (Status should be Runoff.)",
    "source": "https://www.multistate.us/elections/results/georgia-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
-   "sweep": "Nov 9 seat sweep 13",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -101122,15 +101124,15 @@
     "pct": 50.44
    },
    "marginVotes": -67,
-   "reporting": "~97% counted (Post-election-night totals (JC Post); provisionals pending county canvass (began Nov 9). Est. ~97%)",
+   "reporting": "~97% counted (~97% counted (Post-election-night totals (JC Post); provisionals pending county canvass (began Nov 9). Est. ~97%) [carried; canvass totals not found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Buehler +67; MultiState no winner.",
+   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
    "source": "https://jcpost.com/posts/eaf77661-74e7-49cb-a1cc-320f0ff62a10",
    "asOf": "Nov 5 (article)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": -0.88,
    "lean": true
   },
@@ -104344,15 +104346,15 @@
    },
    "marginVotes": -67,
    "marginPts": -0.4,
-   "reporting": "~99.5% counted (18/18 precincts; MO counts absentee by election night)",
+   "reporting": "~99.5% counted (~99.5% counted (18/18 precincts; MO counts absentee by election night) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Miller +67; MultiState no winner (still being counted).",
+   "note": "MultiState: No winner, still being counted; no leader named.",
    "source": "https://graphics.stltoday.com/apps/elections/missouri/",
    "asOf": "Nov 3 (published)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -105629,7 +105631,7 @@
     "pct": 50.26
    },
    "marginVotes": -18,
-   "reporting": "3 of 3 precincts fully reported (write-ins not reported)",
+   "reporting": "~99.5% counted (~99.5% counted (MT SOS: 3/3 precincts fully reported (incl. absentee); write-ins not reported) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
@@ -105637,7 +105639,7 @@
    "note": "Schomer (R) lead narrowed from 32 to 18 votes; SOS page shows a recount flag on the contest. MultiState shows no winner recorded.",
    "source": "https://electionresults.mt.gov/SearchResults.aspx?ID=487",
    "asOf": "Nov 10, 7:10 AM ET (MT SOS updated 11/10/2026 5:10:24 AM MT)",
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": -0.52,
    "lean": true
   },
@@ -106585,15 +106587,15 @@
     "pct": 49.76
    },
    "marginPts": 0.48,
-   "reporting": "~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%)",
+   "reporting": "~98.5% counted (~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "No winner; MultiState no winner recorded. Kempner +175 (0.48%); within NC 1% recount-request margin.",
+   "note": "MultiState: No winner recorded; same leader. County canvass Nov 13, recount requests due Nov 17 (MultiState/WFAE).",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
    "asOf": "Nov 9, ~10 PM ET (fetched; NCSBE file unchanged since Nov 6)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 175,
    "lean": true
   },
@@ -106613,15 +106615,15 @@
     "pct": 49.89
    },
    "marginPts": 0.22,
-   "reporting": "~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%)",
+   "reporting": "~98.5% counted (~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "No winner; MultiState no winner recorded. Merrick +101 (0.22%); within 1% recount margin.",
+   "note": "MultiState: No winner recorded; same leader. County canvass Nov 13, recount requests due Nov 17 (MultiState/WFAE).",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
    "asOf": "Nov 9, ~10 PM ET (fetched; NCSBE file unchanged since Nov 6)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 101,
    "lean": true
   },
@@ -106705,15 +106707,15 @@
     "pct": 50.24
    },
    "marginPts": -0.48,
-   "reporting": "~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%)",
+   "reporting": "~98.5% counted (~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "No winner; MultiState no winner recorded. Britt +268; MultiState: hundreds of provisionals under review; county canvass Nov 13, recount requests due Nov 17, state cert Nov 24. Decides Senate control.",
+   "note": "MultiState: No winner recorded; same leader. County canvass Nov 13, recount requests due Nov 17 (MultiState/WFAE).",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
    "asOf": "Nov 9, ~10 PM ET (fetched; NCSBE file unchanged since Nov 6)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -268,
    "lean": true
   },
@@ -107125,7 +107127,7 @@
     "pct": 51.73
    },
    "marginPts": -3.55,
-   "reporting": "OR SOS statewide ballots counted 1,920,323 (61.76% turnout) as of 11/10 4:00 AM PT, up from 1,894,778 on Nov 9 (~25.5k added). No official ballots-remaining figure; page shows '0 of N precincts reported' (OR does not use precinct reporting for mail ballots).",
+   "reporting": "~99% counted (~99% (estimate): OR SOS statewide ballots counted 1,891,605 (Nov 7) -> 1,894,778 (Nov 9, 60.94% turnout); district totals unchanged since Nov 7; remaining = cures/late postmarks. No official ballots-remaining figure.)",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
@@ -107133,7 +107135,7 @@
    "note": "MultiState (fetched Nov 10): no winner recorded. OR SOS shows no winner marks (recount-indicator icon only). Boshart Davis (R) leads by 1,217 (3.55 pts), up from +1,073. Totals updated since Nov 9.",
    "source": "https://results.oregonvotes.gov/resultsSW.aspx?type=HOUSE&map=CTY ; https://www.multistate.us/elections/results/oregon-2026",
    "asOf": "Nov 10, 7:00 AM ET (OR SOS updated 11/10/2026 4:00 AM PT)",
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -1217,
    "other": 32,
    "lean": true
@@ -107154,7 +107156,7 @@
     "pct": 39.75
    },
    "marginPts": 20.4,
-   "reporting": "OR SOS statewide ballots counted 1,920,323 (61.76% turnout) as of 11/10 4:00 AM PT, up from 1,894,778 on Nov 9 (~25.5k added). No official ballots-remaining figure; page shows '0 of N precincts reported' (OR does not use precinct reporting for mail ballots).",
+   "reporting": "~99% counted (~99% (estimate): OR SOS statewide ballots counted 1,891,605 (Nov 7) -> 1,894,778 (Nov 9, 60.94% turnout); district totals unchanged since Nov 7; remaining = cures/late postmarks. No official ballots-remaining figure.)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": false,
@@ -107162,7 +107164,7 @@
    "note": "MultiState (fetched Nov 10): no winner recorded. OR SOS shows no winner marks (recount-indicator icon only). Andersen (D) leads by 5,118 (20.40 pts). Totals updated since Nov 9.",
    "source": "https://results.oregonvotes.gov/resultsSW.aspx?type=HOUSE&map=CTY ; https://www.multistate.us/elections/results/oregon-2026",
    "asOf": "Nov 10, 7:00 AM ET (OR SOS updated 11/10/2026 4:00 AM PT)",
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 24,
    "marginVotes": 5118,
    "lean": true
@@ -107183,7 +107185,7 @@
     "pct": 42.48
    },
    "marginPts": 12.19,
-   "reporting": "OR SOS statewide ballots counted 1,920,323 (61.76% turnout) as of 11/10 4:00 AM PT, up from 1,894,778 on Nov 9 (~25.5k added). No official ballots-remaining figure; page shows '0 of N precincts reported' (OR does not use precinct reporting for mail ballots).",
+   "reporting": "~99% counted (~99% (estimate): OR SOS statewide ballots counted 1,891,605 (Nov 7) -> 1,894,778 (Nov 9, 60.94% turnout); district totals unchanged since Nov 7; remaining = cures/late postmarks. No official ballots-remaining figure.)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": false,
@@ -107191,7 +107193,7 @@
    "note": "MultiState (fetched Nov 10): no winner recorded. OR SOS shows no winner marks (recount-indicator icon only). Evans (D) leads by 3,744 (12.19 pts). Libertarian Taylor A Rickey 811. Totals updated since Nov 9.",
    "source": "https://results.oregonvotes.gov/resultsSW.aspx?type=HOUSE&map=CTY ; https://www.multistate.us/elections/results/oregon-2026",
    "asOf": "Nov 10, 7:00 AM ET (OR SOS updated 11/10/2026 4:00 AM PT)",
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 3744,
    "other": 741,
    "lean": true
@@ -107212,7 +107214,7 @@
     "pct": 45.34
    },
    "marginPts": 9.18,
-   "reporting": "OR SOS statewide ballots counted 1,920,323 (61.76% turnout) as of 11/10 4:00 AM PT, up from 1,894,778 on Nov 9 (~25.5k added). No official ballots-remaining figure; page shows '0 of N precincts reported' (OR does not use precinct reporting for mail ballots).",
+   "reporting": "~99% counted (~99% (estimate): OR SOS statewide ballots counted 1,891,605 (Nov 7) -> 1,894,778 (Nov 9, 60.94% turnout); district totals unchanged since Nov 7; remaining = cures/late postmarks. No official ballots-remaining figure.)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
@@ -107220,7 +107222,7 @@
    "note": "MultiState (fetched Nov 10): no winner recorded. OR SOS shows no winner marks (recount-indicator icon only). Welsh (D) leads incumbent Mannix (R) by 2,074 (9.18 pts). Totals updated since Nov 9. Would be a D flip.",
    "source": "https://results.oregonvotes.gov/resultsSW.aspx?type=HOUSE&map=CTY ; https://www.multistate.us/elections/results/oregon-2026",
    "asOf": "Nov 10, 7:00 AM ET (OR SOS updated 11/10/2026 4:00 AM PT)",
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 2074,
    "other": 28,
    "lean": true
@@ -107241,7 +107243,7 @@
     "pct": 39.85
    },
    "marginPts": 20.09,
-   "reporting": "OR SOS statewide ballots counted 1,920,323 (61.76% turnout) as of 11/10 4:00 AM PT, up from 1,894,778 on Nov 9 (~25.5k added). No official ballots-remaining figure; page shows '0 of N precincts reported' (OR does not use precinct reporting for mail ballots).",
+   "reporting": "~99% counted (~99% (estimate): OR SOS statewide ballots counted 1,891,605 (Nov 7) -> 1,894,778 (Nov 9, 60.94% turnout); district totals unchanged since Nov 7; remaining = cures/late postmarks. No official ballots-remaining figure.)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": false,
@@ -107249,7 +107251,7 @@
    "note": "MultiState (fetched Nov 10): no winner recorded. OR SOS shows no winner marks (recount-indicator icon only). Munoz (D) leads by 3,208 (20.09 pts). Totals updated since Nov 9.",
    "source": "https://results.oregonvotes.gov/resultsSW.aspx?type=HOUSE&map=CTY ; https://www.multistate.us/elections/results/oregon-2026",
    "asOf": "Nov 10, 7:00 AM ET (OR SOS updated 11/10/2026 4:00 AM PT)",
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 26,
    "marginVotes": 3208,
    "lean": true
@@ -107330,15 +107332,15 @@
     "pct": 47.68
    },
    "marginPts": 4.43,
-   "reporting": "OR SOS statewide ballots counted 1,920,323 (61.76% turnout) as of 11/10 4:00 AM PT, up from 1,894,778 on Nov 9 (~25.5k added). No official ballots-remaining figure; page shows '0 of N precincts reported' (OR does not use precinct reporting for mail ballots).",
+   "reporting": "~99% counted (~99% (estimate): OR SOS statewide ballots counted 1,891,605 (Nov 7) -> 1,894,778 (Nov 9, 60.94% turnout); district totals unchanged since Nov 7; remaining = cures/late postmarks. No official ballots-remaining figure.)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. OR SOS shows no winner marks (recount-indicator icon only). Re-fetched contest page (HD-32): vote totals unchanged since Nov 6 (Clatsop/Tillamook/Washington Co. portions). Javadi (D, switched from R) leads by 1,562 (4.43 pts).",
-   "source": "https://results.oregonvotes.gov/SearchResults.aspx?ID=1064 ; https://www.multistate.us/elections/results/oregon-2026",
-   "asOf": "Nov 10, 7:00 AM ET (OR SOS updated 11/10/2026 4:00 AM PT)",
-   "sweep": "Nov 10 seat sweep 11",
+   "note": "Javadi (D, switched from R) +1,562; totals unchanged. No winner mark.",
+   "source": "https://results.oregonvotes.gov/SearchResults.aspx?ID=1064",
+   "asOf": "Nov 10, 7:15 AM ET (OR SOS page updated 11/10/2026 4:15 AM PT)",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 1562,
    "lean": true
   },
@@ -107490,7 +107492,7 @@
     "pct": 44.43
    },
    "marginPts": 10.93,
-   "reporting": "OR SOS statewide ballots counted 1,920,323 (61.76% turnout) as of 11/10 4:00 AM PT, up from 1,894,778 on Nov 9 (~25.5k added). No official ballots-remaining figure; page shows '0 of N precincts reported' (OR does not use precinct reporting for mail ballots).",
+   "reporting": "~99% counted (~99% (estimate): OR SOS statewide ballots counted 1,891,605 (Nov 7) -> 1,894,778 (Nov 9, 60.94% turnout); district totals unchanged since Nov 7; remaining = cures/late postmarks. No official ballots-remaining figure.)",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
@@ -107498,7 +107500,7 @@
    "note": "MultiState (fetched Nov 10): no winner recorded. OR SOS shows no winner marks (recount-indicator icon only). Stapleton (D) leads by 4,238 (10.93 pts). Totals updated since Nov 9.",
    "source": "https://results.oregonvotes.gov/resultsSW.aspx?type=SENATE&map=CTY ; https://www.multistate.us/elections/results/oregon-2026",
    "asOf": "Nov 10, 7:00 AM ET (OR SOS updated 11/10/2026 4:00 AM PT)",
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 69,
    "marginVotes": 4238,
    "lean": true
@@ -107611,15 +107613,15 @@
     "pct": 50.08
    },
    "marginPts": -0.21,
-   "reporting": "~100% counted (Greenville County certified official results (all precincts + absentee))",
+   "reporting": "~100% counted (~100% counted (Greenville County certified official results (all precincts + absentee)) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "Vaughan +38 (0.21%) inside SC 1% automatic recount; MultiState no winner.",
+   "note": "MultiState: Vaughan (R) leads by <50, still being counted; no winner (input says Greenville certified).",
    "source": "https://www.greenvillecounty.org/sharedfolders/vr/results/statewidegeneralel45.html",
    "asOf": "Nov 7 (fetched; certified)",
-   "sweep": "Nov 9 seat sweep 13",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -38,
    "other": 8,
    "lean": true
@@ -108187,9 +108189,9 @@
    "district": "Carroll 3",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~100% counted (NH counts all ballots on election night; Citizens Count shows official Secretary of State results (pct rounded, no vote counts))",
+   "reporting": "~100% counted (~100% counted (NH counts all ballots on election night; Citizens Count shows official Secretary of State results (pct rounded, no vote counts)) [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "Citizens Count lists this as 'Carroll 03' (label matched by candidate names). Ballotpedia district page says outcome not yet called; 4 candidates all ~25% (recount likely)",
+   "note": "MultiState: No winner recorded for this district; no recount note. (Prior note: Citizens Count lists this as 'Carroll 03' (label matched by candidate names). Ballotpedia district page says outcome not yet called; 4 candidates all )",
    "source": "https://www.citizenscount.org/elections/2026-nh-house-general-election",
    "asOf": "Nov 9, ~10 PM ET (fetched)",
    "dem": {
@@ -108210,7 +108212,7 @@
    "leanFlipD": 1,
    "leanFlipR": 0,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NH",
@@ -108588,11 +108590,11 @@
    "district": "Cheshire 18",
    "status": "Counting",
    "leader": "D",
-   "reporting": "~100%; recount pending",
+   "reporting": "~100% counted (~100% counted (NH counts all ballots on election night; Citizens Count shows official Secretary of State results (pct rounded, no vote counts)) [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "2-seat district. Davis (D) 2,879; Lovett Sherman (D) 2,869; Qualey (R-inc) 2,866; Mattson (R-inc) 2,808. 2nd seat: Lovett Sherman +3 over Qualey. RECOUNT scheduled Nov 20, 1 PM, State Archives (per SOS). Votes = top D vs top R.",
-   "source": "https://www.keenesentinel.com/news/local/midterms-nhhouse-seats-recounts/article_6a4bfb40-c686-4341-912f-e03da1e2e185.html",
-   "asOf": "Nov 9 (Keene Sentinel)",
+   "note": "MultiState: No winner recorded for this district; no recount note. (Prior note: Citizens Count lists this as 'Cheshire 18' (label matched by candidate names). 4 candidates all ~25%; 2nd/3rd place margin unknown (recount possible))",
+   "source": "https://www.citizenscount.org/elections/2026-nh-house-general-election?page=1%2C0",
+   "asOf": "Nov 9, ~10 PM ET (fetched)",
    "dem": {
     "name": "Allen Davis / Rory Lovett Sherman",
     "votes": 2879,
@@ -108611,7 +108613,7 @@
    "leanFlipD": 2,
    "leanFlipR": 0,
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 13
   },
   {
@@ -108852,11 +108854,11 @@
    "district": "Grafton 11",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~100%; recount requested",
+   "reporting": "~100% counted (~100% counted (NH counts all ballots on election night; Citizens Count shows official Secretary of State results (pct rounded, no vote counts)) [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "RECOUNT requested (Keene Sentinel list of 18 NH House recount requests; recounts at State Archives Nov 9-20). No vote totals/date found; leader carried from prior entry.",
-   "source": "https://www.keenesentinel.com/news/local/midterms-nhhouse-seats-recounts/article_6a4bfb40-c686-4341-912f-e03da1e2e185.html",
-   "asOf": "Nov 9 (Keene Sentinel)",
+   "note": "MultiState: No winner recorded for this district; no recount note. (Prior note: Citizens Count lists this as 'Grafton 11' (label matched by candidate names). Ballotpedia district page says outcome not yet called; 50-50 (recount li)",
+   "source": "https://www.citizenscount.org/elections/2026-nh-house-general-election?page=1%2C0",
+   "asOf": "Nov 9, ~10 PM ET (fetched)",
    "dem": {
     "name": "Roger Larochelle Jr.",
     "votes": null,
@@ -108869,7 +108871,7 @@
    },
    "lean": true,
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NH",
@@ -109797,11 +109799,11 @@
    "district": "Strafford 18",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~100%; recount requested",
+   "reporting": "~100% counted (~100% counted (NH counts all ballots on election night; Citizens Count shows official Secretary of State results (pct rounded, no vote counts)) [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "RECOUNT requested (Keene Sentinel list of 18 NH House recount requests; recounts at State Archives Nov 9-20). No vote totals/date found; leader carried from prior entry.",
-   "source": "https://www.keenesentinel.com/news/local/midterms-nhhouse-seats-recounts/article_6a4bfb40-c686-4341-912f-e03da1e2e185.html",
-   "asOf": "Nov 9 (Keene Sentinel)",
+   "note": "MultiState: No winner recorded for this district; no recount note. (Prior note: Citizens Count lists this as 'Strafford 18' (label matched by candidate names). 50-50 per Citizens Count; recount possible)",
+   "source": "https://www.citizenscount.org/elections/2026-nh-house-general-election?page=6%2C0",
+   "asOf": "Nov 9, ~10 PM ET (fetched)",
    "dem": {
     "name": "Thom Flynn",
     "votes": null,
@@ -109814,7 +109816,7 @@
    },
    "lean": true,
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NH",
@@ -110176,7 +110178,7 @@
    "district": "LD-12 Position 1",
    "status": "Counting",
    "leader": "D",
-   "reporting": "SOS county estimates of ballots left (countywide): Chelan 175, Snohomish 813, King 22,000 (LD-12 has only a small King portion). All 3 counties reporting.",
+   "reporting": "~97% counted (Estimate ~97%: 3 of 3 counties in; SOS ballots-left estimates small: Chelan 184 (35,631 counted), Douglas 1,450 (16,114 counted), Okanogan 300 (posted Nov 6-7).)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Position 1 (SOS 'Pos. 1'). Willoughby (D) leads incumbent Burnett (R) by 692 (0.95 pts), up from +541. Would be a D flip. (Pos. 2: MultiState records Mike Steele (R) winner.)",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
@@ -110193,7 +110195,9 @@
    },
    "marginVotes": 692,
    "marginPts": 0.95,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true,
+   "wouldFlip": true
   },
   {
    "state": "WA",
@@ -110362,7 +110366,7 @@
    "district": "LD-16 Position 2",
    "status": "Counting",
    "leader": "R",
-   "reporting": "SOS county estimates of ballots left (countywide): Benton 15,000 (stale, 11/4), Walla Walla 12,586 (stale, 11/7), Grant 1,800, Franklin 328. All 4 counties reporting.",
+   "reporting": "~76% counted (Rough estimate 72-78% (borderline): Walla Walla (all in LD-16) shows 12,586 ballots left vs ~12.5k counted (31.3% turnout, posted Nov 7); Benton estimate 15,000 left is stale (election night) though Benton counted to 76,139 by Nov 7; Franklin 1,501 left; vs ~46k ballots counted in LD-16.)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Rude (R) leads by 4,074 (9.02 pts). (Pos. 1: MultiState records Mark Klicker (R) winner.)",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
@@ -110379,7 +110383,9 @@
    },
    "marginVotes": -4074,
    "marginPts": -9.02,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "WA",
@@ -110619,7 +110625,7 @@
    "district": "LD-24 Position 2",
    "status": "Counting",
    "leader": "D",
-   "reporting": "SOS county estimates of ballots left (countywide): Clallam 12,000 (11/10 00:46 UTC), Grays Harbor 2,000, Jefferson 1,470 (stale, 11/6). SOS shows 2 of 3 counties reporting for this contest.",
+   "reporting": "~77% counted (Estimate ~77%: Clallam 15,000 left vs 25,766 counted (posted Nov 7); Jefferson 1,470 left; Grays Harbor 4,300 left countywide (Nov 9; part in LD-24) -> ~18k left vs ~62k counted. SOS shows 2 of 3 counties reporting.)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Kuehn (D) 37,087 vs Marcia Kelbon (States No Party Preference) 28,465: Kuehn leads by 8,622 (13.12 pts of total incl. write-ins). rep field null because Kelbon is NPP. (Pos. 1: MultiState records Adam Bernbaum (D) winner.)",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
@@ -110637,7 +110643,9 @@
      "pct": 42.64
     }
    ],
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "WA",
@@ -110940,7 +110948,7 @@
    "district": "LD-35 Position 1",
    "status": "Counting",
    "leader": "R",
-   "reporting": "SOS county estimates of ballots left (countywide, not district-only): Mason 5,000 (11/10 00:51 UTC), Kitsap 4,000 (11/9 23:26 UTC), Thurston 10,000 (11/10 00:53 UTC). All 3 counties reporting.",
+   "reporting": "~84% counted (Estimate ~84%: WA SOS county 'Estimated Ballots Left to Count' (posted Nov 6-7, latest county counts same dates): Mason (all in LD-35) 9,000 left vs ~21.5k counted (44.7% turnout); Kitsap 7,866 left countywide (~6%), Thurston 14,500 left countywide (~11%) -> ~13k left in LD-35 vs ~67k ballots counted. No county has posted for these since Nov 7.)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Position 1 (SOS 'Pos. 1'). Griffey (R) leads by 2,990 (4.24 pts), up from +2,447.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
@@ -110957,7 +110965,9 @@
    },
    "marginVotes": -2990,
    "marginPts": -4.24,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "WA",
@@ -110965,7 +110975,7 @@
    "district": "LD-35 Position 2",
    "status": "Counting",
    "leader": "R",
-   "reporting": "SOS county estimates of ballots left (countywide, not district-only): Mason 5,000 (11/10 00:51 UTC), Kitsap 4,000 (11/9 23:26 UTC), Thurston 10,000 (11/10 00:53 UTC). All 3 counties reporting.",
+   "reporting": "~84% counted (Estimate ~84%: WA SOS county 'Estimated Ballots Left to Count' (posted Nov 6-7, latest county counts same dates): Mason (all in LD-35) 9,000 left vs ~21.5k counted (44.7% turnout); Kitsap 7,866 left countywide (~6%), Thurston 14,500 left countywide (~11%) -> ~13k left in LD-35 vs ~67k ballots counted. No county has posted for these since Nov 7.)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Couture (R) leads by 2,761 (3.91 pts), up from +2,351.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
@@ -110982,7 +110992,9 @@
    },
    "marginVotes": -2761,
    "marginPts": -3.91,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "WA",
@@ -111118,7 +111130,7 @@
    "district": "LD-39 Position 2",
    "status": "Counting",
    "leader": "R",
-   "reporting": "SOS county estimates of ballots left (countywide): Skagit 7,000 (11/10 00:22 UTC), Snohomish 813. Both counties reporting.",
+   "reporting": "~90% counted (Estimate ~90%: Skagit 13,000 left countywide (posted Nov 7; county split among LD-10/39/40, so ~5k in LD-39); Snohomish 5,000 left countywide (~1.6%) -> ~6k left vs ~63k counted.)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Ewing (R) leads by 2,616 (4.14 pts). (Pos. 1: MultiState records Sam Low (R) winner.)",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
@@ -111135,7 +111147,9 @@
    },
    "marginVotes": -2616,
    "marginPts": -4.14,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "WA",
@@ -111811,7 +111825,7 @@
    "district": "LD-25 Position 2",
    "status": "Counting",
    "leader": "R",
-   "reporting": "LD-25 is within Pierce County (single reporting unit, 1/1 reporting). Pierce ballots-left estimate not confirmed via WebFetch.",
+   "reporting": "~99% counted (~99%: LD-25 is entirely in Pierce County; Pierce SOS estimate 2,000 ballots left countywide (posted Nov 6) vs ~325k counted (56% turnout).)",
    "calledBy": "",
    "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Incumbent Jacobsen (R) leads Strickling (D) by 149 (0.26 pts), down from +222. Within 0.5% recount threshold if final.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
@@ -111828,10 +111842,11 @@
    },
    "marginVotes": -149,
    "marginPts": -0.26,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "incumbent": "Rep. Cyndy Jacobsen (R)",
    "challenger": "Jenn Strickling (D)",
-   "wouldFlip": false
+   "wouldFlip": false,
+   "lean": true
   },
   {
    "state": "CA",
@@ -112463,11 +112478,11 @@
    "district": "7",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Leaning: leads by 6.1 pts with 68% counted (DDHQ expected-vote estimate 68% (Sacramento County only, Nov 6 release); Sacramento's next update is Tue Nov 10, 4:15 PM PT)",
+   "reporting": "Leaning (CA rule): leads by 6.1 pts with ~68% counted (DDHQ expected vote 68% (unchanged since Nov 6). Sacramento next update Tue Nov 10 4:15 PM PT.)",
    "calledBy": "",
-   "note": "Slavensky +7,394. She declared victory Nov 6 (Facebook, per news reports); Hoover has not conceded ('way too early'). No media call. SOS api still serves stale Nov 4 numbers.",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-7-general-election ; https://www.elkgrovenews.net/slavensky-victory-over-hoover-ca07/ ; https://www.yahoo.com/news/politics/articles/democrat-declares-win-republican-doesn-032334982.html ; https://elections.saccounty.gov/content/vre/us/en/election-information/november-3--2026--general-election-results-schedule.html",
-   "asOf": "Nov 6, 8:18 PM PT",
+   "note": "Slavensky +7,394; she declared victory, Hoover not conceded. No call (MultiState 'No winner recorded' Nov 10).",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-7-general-election",
+   "asOf": "Nov 6, 11:18 PM ET (DDHQ)",
    "dem": {
     "name": "Amy L. Slavensky",
     "votes": 64292,
@@ -112481,7 +112496,7 @@
    "marginVotes": 7394,
    "marginPts": 6.1,
    "wouldFlip": true,
-   "sweep": "Nov 9 CA update",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -112518,7 +112533,7 @@
    "district": "33",
    "status": "Counting",
    "leader": "R",
-   "reporting": "100% (349 of 349) precincts reporting (precincts only; ballots still being counted statewide)",
+   "reporting": "AP expected vote 66% (ABC30, Nov 6 5:08 PM PT); DDHQ shows 79% on same totals.",
    "calledBy": "",
    "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found. Incumbent per SOS: Alexandra (Ali) Macedo.",
    "source": "https://api.sos.ca.gov/returns/state-assembly/district/33",
@@ -112536,7 +112551,7 @@
    "marginVotes": -1092,
    "marginPts": -1.28,
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "CA",
@@ -112544,24 +112559,24 @@
    "district": "34",
    "status": "Counting",
    "leader": "R",
-   "reporting": "100% (989 of 989) precincts reporting (precincts only; ballots still being counted statewide)",
+   "reporting": "~94% counted (AP expected vote 94% (ABC7 LA, Nov 9 5:37 PM PT).)",
    "calledBy": "",
-   "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found.",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/34",
-   "asOf": "Nov 9, 10:18 PM ET (CA SOS ReportingTime Nov 9, 7:18 PM PT)",
+   "note": "NEW numbers: Hughes +7,592 (was +8,015). No call.",
+   "source": "https://abc7.com/politics/elections/local/",
+   "asOf": "Nov 9, 5:37 PM PT",
    "dem": {
     "name": "Randall Putz",
     "votes": 70498,
-    "pct": 47.45
+    "pct": 47.4
    },
    "rep": {
     "name": "Charles Frederick Hughes",
     "votes": 78090,
-    "pct": 52.55
+    "pct": 52.6
    },
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -7592,
-   "marginPts": -5.1,
+   "marginPts": -5.2,
    "wouldFlip": false,
    "lean": true
   },
@@ -112599,11 +112614,11 @@
    "district": "47",
    "status": "Counting",
    "leader": "D",
-   "reporting": "100% (574 of 574) precincts reporting (precincts only; ballots still being counted statewide)",
+   "reporting": "Leaning (CA rule): leads by 9.9 pts with ~67% counted (AP expected vote 67% (ABC7, Nov 9 5:57 PM PT). DDHQ summary says >95% but its county table shows Riverside 93%, SB blank, so conflicting; using AP.)",
    "calledBy": "",
-   "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found. Incumbent per SOS: Greg Wallis. NBC Palm Springs (Nov 4-5) reported Namvar leading by ~14,000 and Wallis not conceding (article fetch failed, 429).",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/47",
-   "asOf": "Nov 9, 10:18 PM ET (CA SOS ReportingTime Nov 9, 7:18 PM PT)",
+   "note": "FIRST vote totals: Namvar +15,496 (9.9 pts) over incumbent Wallis; Riverside Namvar +20.1 (112,171 votes), SB Wallis +15.9 (44,233). Would flip R->D. No call.",
+   "source": "https://abc7.com/politics/elections/local/ ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-47-general-election",
+   "asOf": "Nov 9, 5:57 PM PT",
    "dem": {
     "name": "Leila Namvar",
     "votes": 85950,
@@ -112615,7 +112630,7 @@
     "pct": 45.05
    },
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true,
    "marginPts": 9.9,
    "marginVotes": 15496
@@ -112626,11 +112641,11 @@
    "district": "63",
    "status": "Counting",
    "leader": "R",
-   "reporting": "100% (187 of 187) precincts reporting (precincts only; ballots still being counted statewide)",
+   "reporting": "~75% counted (Derived: DDHQ showed 66,159 votes = 50% expected (Nov 4) -> ~132k expected; 99,294 counted at Riverside Update 12 = ~75%. Estimate.)",
    "calledBy": "",
-   "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found. Incumbent per SOS: Natasha Johnson. R vs Peace & Freedom (Kevin Akin 45,320, 43.1%); no Democrat on ballot.",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/63",
-   "asOf": "Nov 9, 10:18 PM ET (CA SOS ReportingTime Nov 9, 7:18 PM PT)",
+   "note": "R vs P&F; no D on ballot, R seat certain. No formal call.",
+   "source": "https://api.sos.ca.gov/returns/state-assembly/district/63/county/riverside ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-63-general-election",
+   "asOf": "Nov 7, 4:28 PM PT (Riverside Update 12)",
    "rep": {
     "name": "Natasha Johnson",
     "votes": 59942,
@@ -112645,7 +112660,7 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "other": 42529,
    "marginVotes": -14236,
    "marginPts": -14.34,
@@ -112678,11 +112693,11 @@
    "district": "70",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Orange County only district: 1,060,431 ballots counted countywide (55.3% turnout of 1,916,510 registered) as of Nov 9 5 PM; ballots-left figure not retrieved",
+   "reporting": "~90% counted (AP expected vote 90% (ABC7, Nov 9 5:38 PM PT; matches OC Nov 9 5 PM post).)",
    "calledBy": "",
-   "note": "Swift (D) leads incumbent Ta (R) by 2,749; lead grew from 244 (Nov 6) and 1,490 (Nov 7). Would FLIP R->D. Not called.",
-   "source": "https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html ; https://ocvote.gov/fileadmin/live/gen2026/Run_13/cumulative.pdf",
-   "asOf": "Nov 9, 5:00 PM PT",
+   "note": "Swift +2,749; would flip R->D. No call. OC not updated since Nov 9 5 PM.",
+   "source": "https://abc7.com/politics/elections/local/ ; https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html",
+   "asOf": "Nov 9, 5:00 PM PT (OC ENR)",
    "dem": {
     "name": "Paula Swift",
     "votes": 69783,
@@ -112693,10 +112708,11 @@
     "votes": 67034,
     "pct": 49.0
    },
-   "sweep": "Nov 9 CA update",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 2749,
    "marginPts": 2.0,
-   "wouldFlip": true
+   "wouldFlip": true,
+   "lean": true
   },
   {
    "state": "CA",
@@ -112704,11 +112720,11 @@
    "district": "71",
    "status": "Counting",
    "leader": "R",
-   "reporting": "100% (356 of 356) precincts reporting (precincts only; ballots still being counted statewide)",
+   "reporting": "Leaning (CA rule): leads by 7.8 pts with ~73% counted (AP expected vote 73% (ABC7, Nov 9 5:57 PM PT). DDHQ had 85% on 145,420 votes Nov 8.)",
    "calledBy": "",
-   "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found. Incumbent per SOS: Kate Sanchez.",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/71",
-   "asOf": "Nov 9, 10:18 PM ET (CA SOS ReportingTime Nov 9, 7:18 PM PT)",
+   "note": "NEW numbers: Sanchez +11,806 (Riverside Nov 9 update included). Under 75% per AP. No call.",
+   "source": "https://abc7.com/politics/elections/local/",
+   "asOf": "Nov 9, 5:57 PM PT",
    "dem": {
     "name": "JJ Galvez",
     "votes": 69767,
@@ -112719,7 +112735,7 @@
     "votes": 81573,
     "pct": 53.9
    },
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -11806,
    "marginPts": -7.8,
    "wouldFlip": false,
@@ -112731,11 +112747,11 @@
    "district": "72",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Orange County only district: 1,060,431 ballots counted countywide as of Nov 9 5 PM; ballots-left figure not retrieved",
+   "reporting": "~90% counted (AP expected vote 90% (ABC7, Nov 9 5:38 PM PT); DDHQ >95% on older Nov 9 AM totals.)",
    "calledBy": "",
-   "note": "Van Der Mark (R) +1,383, narrowing (was +2,214 Nov 6, +1,701 Nov 7). Kluwe led on election night. Too close; not called.",
-   "source": "https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html ; https://ocvote.gov/fileadmin/live/gen2026/Run_13/cumulative.pdf",
-   "asOf": "Nov 9, 5:00 PM PT",
+   "note": "Van Der Mark +1,383, narrowing each update. No call.",
+   "source": "https://abc7.com/politics/elections/local/ ; https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html",
+   "asOf": "Nov 9, 5:00 PM PT (OC ENR)",
    "dem": {
     "name": "Chris Kluwe",
     "votes": 100548,
@@ -112746,10 +112762,11 @@
     "votes": 101931,
     "pct": 50.34
    },
-   "sweep": "Nov 9 CA update",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -1383,
    "marginPts": -0.68,
-   "wouldFlip": false
+   "wouldFlip": false,
+   "lean": true
   },
   {
    "state": "CA",
@@ -112757,11 +112774,11 @@
    "district": "74",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Sum of Orange (Nov 9 5 PM: Davies 47,778 / Farias 36,302) + San Diego (Nov 9 5:57 PM: Farias 53,896 / Davies 38,674). SD county 1,079,098 counted, ~185,000 outstanding (~85%); OC left unknown",
+   "reporting": "~86% counted (AP expected vote 86% (ABC7, Nov 9 5:59 PM PT), totals match OC Nov 9 + SD Nov 9 sum.)",
    "calledBy": "",
-   "note": "Farias (D) +3,746 over incumbent Davies (R); would FLIP R->D. SOS districtwide (Nov 6) had Davies +1,659 but is stale. Not called.",
-   "source": "https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html ; https://www.livevoterturnout.com/ENR/sandiegocaenr/25/en/Index_25.html",
-   "asOf": "Nov 9, 5:57 PM PT",
+   "note": "Farias +3,746; would flip R->D. DDHQ (Nov 9 8:15 PM ET) still shows Davies +1,225 because it lacks SD's Nov 9 batch. No call.",
+   "source": "https://abc7.com/politics/elections/local/",
+   "asOf": "Nov 9, 5:59 PM PT",
    "dem": {
     "name": "Sergio Farias",
     "votes": 90198,
@@ -112772,10 +112789,11 @@
     "votes": 86452,
     "pct": 48.94
    },
-   "sweep": "Nov 9 CA update",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 3746,
    "marginPts": 2.12,
-   "wouldFlip": true
+   "wouldFlip": true,
+   "lean": true
   },
   {
    "state": "CA",
@@ -112783,11 +112801,11 @@
    "district": "75",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Leaning: leads by 9.9 pts with 85.4% counted (San Diego County only district: 1,079,098 ballots counted, ~185,000 projected outstanding countywide → ~85%)",
+   "reporting": "~95% counted (DDHQ expected vote >95% (Nov 9 10:23 PM ET, same totals as SD county Nov 9 post); SD county ~85% counted countywide (1,079,098 counted, ~185k outstanding).)",
    "calledBy": "",
-   "note": "DeMaio (R) +17,453. SOS api districtwide (82,060/65,514) lags the county's Nov 9 post. Not formally called.",
-   "source": "https://www.livevoterturnout.com/ENR/sandiegocaenr/25/en/Index_25.html",
-   "asOf": "Nov 9, 5:57 PM PT",
+   "note": "DeMaio +17,453. No call. SD ENR page now serves test data (cache).",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-75-general-election",
+   "asOf": "Nov 9, 5:57 PM PT (SD county via DDHQ)",
    "dem": {
     "name": "Gerald C. Boursiquot",
     "votes": 79062,
@@ -112798,7 +112816,7 @@
     "votes": 96515,
     "pct": 54.97
    },
-   "sweep": "Nov 9 CA update",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": -17453,
    "marginPts": -9.94,
    "wouldFlip": false,
@@ -112810,7 +112828,7 @@
    "district": "4",
    "status": "Counting",
    "leader": "R",
-   "reporting": "100% (739 of 739) precincts reporting (precincts only; ballots still being counted statewide)",
+   "reporting": "~75% counted (AP expected vote 75% (ABC30, Nov 7 5:58 AM) and DDHQ 75% (Nov 9 7:32 AM ET).)",
    "calledBy": "",
    "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found.",
    "source": "https://api.sos.ca.gov/returns/state-senate/district/4",
@@ -112828,7 +112846,7 @@
    "marginVotes": -17235,
    "marginPts": -5.34,
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -112837,11 +112855,11 @@
    "district": "6",
    "status": "Counting",
    "leader": "R",
-   "reporting": "67% counted (DDHQ expected-vote estimate 67% (Placer 114,890 votes, Niello +10.8; Sacramento 155,479 votes, Frame +4.7). Sacramento and Placer both next report Tue Nov 10)",
+   "reporting": "DDHQ expected vote 67%. Sacramento and Placer next report Tue Nov 10.",
    "calledBy": "",
-   "note": "No new votes since Nov 6. Niello +5,171. No call. Niello: 'it is going to be tight.'",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-senate-6-general-election ; https://www.yahoo.com/news/politics/articles/democratic-challenger-gains-ground-sacramento-015450448.html",
-   "asOf": "Nov 6, 8:18 PM PT",
+   "note": "Niello +5,171. No new votes. No call.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-senate-6-general-election",
+   "asOf": "Nov 6, 11:18 PM ET (DDHQ)",
    "dem": {
     "name": "Sean Frame",
     "votes": 132599,
@@ -112855,7 +112873,7 @@
    "marginVotes": -5171,
    "marginPts": -1.92,
    "wouldFlip": false,
-   "sweep": "Nov 9 CA update"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "CA",
@@ -112863,25 +112881,25 @@
    "district": "32",
    "status": "Counting",
    "leader": "R",
-   "reporting": "100% (583 of 583) precincts reporting (precincts only; ballots still being counted statewide)",
+   "reporting": "Leaning (CA rule): leads by 5.0 pts with ~65% counted (AP expected vote 65% (ABC7, Nov 9 5:59 PM PT). DDHQ shows 79% on older 237,226 total.)",
    "calledBy": "",
-   "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found. Incumbent per SOS: Kelly Seyarto.",
-   "source": "https://api.sos.ca.gov/returns/state-senate/district/32",
-   "asOf": "Nov 9, 10:18 PM ET (CA SOS ReportingTime Nov 9, 7:18 PM PT)",
+   "note": "NEW numbers: Seyarto +12,615. Under 75% per AP. No call.",
+   "source": "https://abc7.com/politics/elections/local/",
+   "asOf": "Nov 9, 5:59 PM PT",
    "dem": {
     "name": "Tiffanie Tate",
     "votes": 119162,
-    "pct": 47.49
+    "pct": 47.5
    },
    "rep": {
     "name": "Kelly Seyarto",
     "votes": 131777,
-    "pct": 52.51
+    "pct": 52.5
    },
    "marginVotes": -12615,
-   "marginPts": -5.02,
+   "marginPts": -5.0,
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -112890,25 +112908,26 @@
    "district": "36",
    "status": "Counting",
    "leader": "D",
-   "reporting": "100% (730 of 730) precincts reporting (precincts only; ballots still being counted statewide)",
+   "reporting": "~90% counted (AP expected vote 90% (ABC7, Nov 9 5:38 PM PT). DDHQ 92% on older total.)",
    "calledBy": "",
-   "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found. Incumbent per SOS: Tony Strickland.",
-   "source": "https://api.sos.ca.gov/returns/state-senate/district/36",
-   "asOf": "Nov 9, 10:18 PM ET (CA SOS ReportingTime Nov 9, 7:18 PM PT)",
+   "note": "NEW numbers: Duncan +6,535 (up from +5,568) incl. OC Nov 9 post (OC: Strickland 165,290 / Duncan 162,683). Would flip R->D. No call.",
+   "source": "https://abc7.com/politics/elections/local/",
+   "asOf": "Nov 9, 5:38 PM PT",
    "dem": {
     "name": "Chris Duncan",
     "votes": 181183,
-    "pct": 50.92
+    "pct": 50.9
    },
    "rep": {
     "name": "Tony Strickland",
     "votes": 174648,
-    "pct": 49.08
+    "pct": 49.1
    },
    "marginVotes": 6535,
-   "marginPts": 1.84,
+   "marginPts": 1.8,
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true
   },
   {
    "state": "CA",
@@ -112916,11 +112935,11 @@
    "district": "40",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Leaning: leads by 8.1 pts with 85.4% counted (San Diego County only district: 1,079,098 ballots counted, ~185,000 projected outstanding countywide → ~85%)",
+   "reporting": "~85% counted (SD county only: 1,079,098 ballots counted, ~185,000 projected outstanding countywide (Nov 9) -> ~85%. DDHQ last 80% on older Nov 6 totals.)",
    "calledBy": "",
-   "note": "Elliott (D) +26,899 (8.1 pts) in open R seat; would FLIP R->D. Not formally called.",
+   "note": "Elliott +26,899; would flip R->D. No call.",
    "source": "https://www.livevoterturnout.com/ENR/sandiegocaenr/25/en/Index_25.html",
-   "asOf": "Nov 9, 5:57 PM PT",
+   "asOf": "Nov 9, 5:57 PM PT (prior sweep; SD page now serving cached test data)",
    "dem": {
     "name": "Mara Elliott",
     "votes": 178953,
@@ -112934,7 +112953,7 @@
    "marginVotes": 26899,
    "marginPts": 8.12,
    "wouldFlip": true,
-   "sweep": "Nov 9 CA update",
+   "sweep": "Nov 10 seat sweep 14",
    "lean": true
   },
   {
@@ -113007,11 +113026,11 @@
    "district": "5",
    "status": "Counting",
    "leader": "I",
-   "reporting": "11 of 12 precincts (precincts, not ballots); Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots out",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 72.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "Open seat (Stutes R ran for Senate). Simpler (NP) leads, would be a flip from R",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Simpler (NP) leads; flip from R (open seat). Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "rep": {
     "name": "Sheldon Prout",
     "votes": null,
@@ -113026,7 +113045,7 @@
     }
    ],
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "AK",
@@ -113034,11 +113053,11 @@
    "district": "6",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outstanding (early votes Oct 30-Nov 3 to be coun",
+   "reporting": "~77.4% counted (Alaska's News Source results page 'votes in' estimate 77.4% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Vance over 50% in first count",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Vance (R) +210; early votes could narrow. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "rep": {
     "name": "Sarah Vance",
     "votes": null,
@@ -113053,19 +113072,20 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true
   },
   {
    "state": "AK",
    "chamber": "House",
    "district": "9",
    "status": "Counting",
-   "leader": null,
-   "reporting": "",
+   "leader": "I",
+   "reporting": "~77.1% counted (Alaska's News Source results page 'votes in' estimate 77.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "No results found; MultiState: no winner recorded",
-   "source": "https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Holland (NP, incumbent) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "rep": {
     "name": "John Boyle",
     "votes": null,
@@ -113079,30 +113099,36 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "AK",
    "chamber": "House",
    "district": "11",
    "status": "Counting",
-   "leader": null,
-   "reporting": "",
+   "leader": "R",
+   "reporting": "~78.6% counted (Alaska's News Source results page 'votes in' estimate 78.6% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "No results found; MultiState: no winner recorded",
-   "source": "https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Coulombe (R) +286. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
-    "name": "Danni Hall",
-    "votes": null,
-    "pct": null
+    "name": "Danni M. Hall",
+    "votes": 3257,
+    "pct": 47.8
    },
    "rep": {
     "name": "Julie Coulombe",
-    "votes": null,
-    "pct": null
+    "votes": 3543,
+    "pct": 52.0
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -286,
+   "marginPts": -4.2,
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "AK",
@@ -113139,44 +113165,47 @@
    "district": "15",
    "status": "Counting",
    "leader": "D",
-   "reporting": "All 6 precincts (precincts, not ballots); Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outsta",
+   "reporting": "~79.7% counted (Alaska's News Source results page 'votes in' estimate 79.7% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Wells (D) leads incumbent Costello; Beacon counts it as a likely D flip",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Wells (D) leads incumbent Costello (R); flip D if it holds. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
     "name": "Denny Wells",
-    "votes": null,
-    "pct": 52.4
+    "votes": 3557,
+    "pct": 53.3
    },
    "rep": {
     "name": "Mia Costello",
-    "votes": null,
-    "pct": 47.6
+    "votes": 3111,
+    "pct": 46.6
    },
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": 446,
+   "marginPts": 6.7,
+   "lean": true
   },
   {
    "state": "AK",
    "chamber": "House",
    "district": "16",
    "status": "Counting",
-   "leader": null,
-   "reporting": "",
+   "leader": "D",
+   "reporting": "~79.2% counted (Alaska's News Source results page 'votes in' estimate 79.2% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "No results found; MultiState: no winner recorded",
-   "source": "https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Hall (D) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
     "name": "Carolyn Hall",
-    "votes": null,
-    "pct": null
+    "votes": 3855,
+    "pct": 57.3
    },
    "rep": {
     "name": "Liz Vazquez",
-    "votes": null,
-    "pct": null
+    "votes": 2566,
+    "pct": 38.1
    },
    "others": [
     {
@@ -113186,7 +113215,11 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": 1289,
+   "marginPts": 19.2,
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "AK",
@@ -113219,23 +113252,27 @@
    "chamber": "House",
    "district": "21",
    "status": "Counting",
-   "leader": null,
-   "reporting": "",
+   "leader": "D",
+   "reporting": "~79.2% counted (Alaska's News Source results page 'votes in' estimate 79.2% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "No results found; MultiState: no winner recorded",
-   "source": "https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Mears (D) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
     "name": "Donna Mears",
-    "votes": null,
-    "pct": null
+    "votes": 3494,
+    "pct": 57.8
    },
    "rep": {
     "name": "Aimee Sims",
-    "votes": null,
-    "pct": null
+    "votes": 2547,
+    "pct": 42.1
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": 947,
+   "marginPts": 15.7,
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "AK",
@@ -113243,23 +113280,25 @@
    "district": "23",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outstanding (early votes Oct 30-Nov 3 to be coun",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 76.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "Heads to RCV; R candidates combined 64.5% first-choice",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Allard (R) leads first choices; R combined 64.5%; RCV decides. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
     "name": "Jim Arlington",
-    "votes": null,
+    "votes": 1916,
     "pct": 28.5
    },
    "rep": {
     "name": "Jamie Allard",
-    "votes": null,
+    "votes": 2564,
     "pct": 38.1
    },
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -648,
+   "marginPts": -9.6
   },
   {
    "state": "AK",
@@ -113288,11 +113327,11 @@
    "district": "25",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outstanding (early votes Oct 30-Nov 3 to be coun",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 82.6% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "Heads to RCV; Merritt (NP) could win on Bowles transfers? R combined 67.1%",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Three-way; top two both R but Merritt (NP) only 98 behind Bowles - RCV could produce NP winner. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "rep": {
     "name": "DeLena Johnson",
     "votes": null,
@@ -113307,7 +113346,7 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "AK",
@@ -113336,23 +113375,26 @@
    "district": "28",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outstanding (early votes Oct 30-Nov 3 to be coun",
+   "reporting": "~80.4% counted (Alaska's News Source results page 'votes in' estimate 80.4% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "RCV; top two are R so R hold near-certain; D second choices decide Wright vs Moore",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Top two both R; R hold near-certain, RCV picks Wright vs Moore. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
-    "name": "Kathleen 'Kit' Kennedy",
-    "votes": null,
+    "name": "Kathleen M. Kennedy",
+    "votes": 1624,
     "pct": 26.9
    },
    "rep": {
     "name": "Stephen Wright",
-    "votes": null,
+    "votes": 2257,
     "pct": 37.4
    },
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -633,
+   "marginPts": -10.5,
+   "lean": true
   },
   {
    "state": "AK",
@@ -113360,19 +113402,19 @@
    "district": "29",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outstanding (early votes Oct 30-Nov 3 to be coun",
+   "reporting": "~77.5% counted (Alaska's News Source results page 'votes in' estimate 77.5% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Sutton seat; RCV decides; top two R",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Top two both R; R hold near-certain. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
     "name": "Kimberly Slone",
-    "votes": null,
+    "votes": 1207,
     "pct": 18.8
    },
    "rep": {
     "name": "Garret Nelson",
-    "votes": null,
+    "votes": 2294,
     "pct": 35.7
    },
    "others": [
@@ -113384,7 +113426,10 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -1087,
+   "marginPts": -16.9,
+   "lean": true
   },
   {
    "state": "AK",
@@ -113392,44 +113437,46 @@
    "district": "30",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outstanding (early votes Oct 30-Nov 3 to be coun",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 68.7% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "RCV; top two R. Later Alaska Beacon headline (not readable): 'Early ranked choice results indicate Republicans Tilton, McCabe trail' => Massie (R) may win",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Top two both R; Alaska Beacon headline says early RCV results show McCabe trailing (Massie R would win). R hold. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
-    "name": "Sandra Loomis",
-    "votes": null,
+    "name": "Sandra D. Loomis",
+    "votes": 1375,
     "pct": 25.4
    },
    "rep": {
-    "name": "Kevin McCabe",
-    "votes": null,
+    "name": "Kevin J. McCabe",
+    "votes": 2079,
     "pct": 38.4
    },
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -704,
+   "marginPts": -13.0
   },
   {
    "state": "AK",
    "chamber": "House",
    "district": "31",
    "status": "Counting",
-   "leader": null,
-   "reporting": "",
+   "leader": "D",
+   "reporting": "~95% counted (Alaska's News Source results page 'votes in' estimate 95% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "No results found; MultiState: no winner recorded",
-   "source": "https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Dibert (D, incumbent) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
-    "name": "Maxine Dibert",
-    "votes": null,
-    "pct": null
+    "name": "Maxine L. Dibert",
+    "votes": 2646,
+    "pct": 58.5
    },
    "rep": {
     "name": "Aimee Moore",
-    "votes": null,
-    "pct": null
+    "votes": 1641,
+    "pct": 36.3
    },
    "others": [
     {
@@ -113439,7 +113486,11 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": 1005,
+   "marginPts": 22.2,
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "AK",
@@ -113447,11 +113498,11 @@
    "district": "33",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Alaska's News Source: ~70% of votes tabulated (statewide figure) as of Nov 4 5:09 PM AKST",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 86.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "RCV; Haney urged supporters to rank Prax 2nd",
-   "source": "https://www.alaskasnewssource.com/2026/11/05/close-races-mark-fairbanks-area-house-elections/",
-   "asOf": "Nov 4, 5:09 PM AKST",
+   "note": "Prax (R) leads; Haney (R) urged supporters to rank Prax 2nd -> R likely in RCV. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "rep": {
     "name": "Glenn 'Mike' Prax",
     "votes": null,
@@ -113466,7 +113517,7 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "AK",
@@ -113474,11 +113525,11 @@
    "district": "34",
    "status": "Counting",
    "leader": "I",
-   "reporting": "6,601 votes counted as of Nov 4; absentee/early outstanding. Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/abse",
+   "reporting": "~83.1% counted (Alaska's News Source results page 'votes in' estimate 83.1% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "Cottle (NP, Dem-backed) leads by 43 votes; would flip R seat",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Cottle (NP, Dem-backed) +43; would flip R seat. Tossup. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "rep": {
     "name": "Harmony Tomaszewski",
     "votes": null,
@@ -113492,20 +113543,21 @@
      "pct": null
     }
    ],
-   "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "wouldFlip": false,
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true
   },
   {
    "state": "AK",
    "chamber": "House",
    "district": "36",
    "status": "Counting",
-   "leader": null,
-   "reporting": "",
+   "leader": "R",
+   "reporting": "~75.6% counted (Alaska's News Source results page 'votes in' estimate 75.6% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "No results found; MultiState: no winner recorded",
-   "source": "https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Schwanke (R) leads. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "rep": {
     "name": "Becky Schwanke",
     "votes": null,
@@ -113519,7 +113571,9 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "lean": true,
+   "wouldFlip": false
   },
   {
    "state": "AK",
@@ -113527,20 +113581,20 @@
    "district": "37",
    "status": "Counting",
    "leader": "D",
-   "reporting": "22 of 35 precincts (precincts, not ballots) as of Nov 4 AM",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 79.2% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "Open (Edgmon ran for Senate); RCV; Wilson win would be GOP flip",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Open (Edgmon). Trefon (D) leads first choices; RCV decides; Wilson win would be R flip. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
-    "name": "Evelynn Trefon",
-    "votes": null,
-    "pct": 36.4
+    "name": "Evelynn M. Trefon",
+    "votes": 1079,
+    "pct": 37.9
    },
    "rep": {
-    "name": "Brenda Wilson",
-    "votes": null,
-    "pct": 33.7
+    "name": "Brenda L. Wilson",
+    "votes": 808,
+    "pct": 28.4
    },
    "others": [
     {
@@ -113557,7 +113611,9 @@
     }
    ],
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": 271,
+   "marginPts": 9.5
   },
   {
    "state": "AK",
@@ -113565,19 +113621,19 @@
    "district": "38",
    "status": "Counting",
    "leader": "D",
-   "reporting": "15 of 22 precincts (precincts, not ballots) as of Nov 4 AM",
+   "reporting": "~85% counted (Alaska's News Source results page 'votes in' estimate 85% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov 10 count of remaining early votes expected to be largest and to lean D/NP.); ranked-choice tabulation Nov 18",
    "calledBy": "",
-   "note": "RCV likely; top two both D",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Top two both D (Jimmie, McCormick); D hold near-certain. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
     "name": "Nellie Jimmie",
-    "votes": null,
-    "pct": 35.5
+    "votes": 1149,
+    "pct": 39.8
    },
    "rep": {
     "name": "Willy Keppel",
-    "votes": null,
+    "votes": 650,
     "pct": 22.5
    },
    "others": [
@@ -113589,23 +113645,26 @@
     }
    ],
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": 499,
+   "marginPts": 17.3,
+   "lean": true
   },
   {
    "state": "AK",
    "chamber": "House",
    "district": "39",
    "status": "Counting",
-   "leader": null,
-   "reporting": "",
+   "leader": "D",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 81.6% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "No results found; MultiState: no winner recorded",
-   "source": "https://www.multistate.us/elections/results/alaska-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "note": "Foster (D, incumbent) leads, just under 50%; RCV with Okitkun transfers. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
-    "name": "Neal Foster",
-    "votes": null,
-    "pct": null
+    "name": "Neal W. Foster",
+    "votes": 1671,
+    "pct": 48.2
    },
    "others": [
     {
@@ -113621,7 +113680,8 @@
      "pct": null
     }
    ],
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "wouldFlip": false
   },
   {
    "state": "AK",
@@ -113721,23 +113781,25 @@
    "district": "M",
    "status": "Counting",
    "leader": "R",
-   "reporting": "All precincts (precincts, not ballots); Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outstand",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 80.8% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "RCV; later Alaska Beacon headline says Tilton trails in early RCV results (article unreadable) - winner could be Berry (R) or Chesbro (D)",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Tilton (R) narrowly leads first choices; Alaska Beacon headline says early RCV results show Tilton trailing; R combined 71.4% -> R likely (Berry), Chesbro (D) third. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
-    "name": "Patricia Chesbro",
-    "votes": null,
+    "name": "Patricia R. Chesbro",
+    "votes": 3878,
     "pct": 28.3
    },
    "rep": {
-    "name": "Cathy Tilton",
-    "votes": null,
+    "name": "Cathy L. Tilton",
+    "votes": 4577,
     "pct": 33.4
    },
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -699,
+   "marginPts": -5.1
   },
   {
    "state": "AK",
@@ -113745,23 +113807,25 @@
    "district": "O",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Statewide estimate only: Alaska's News Source said ~70% of votes tabulated as of Nov 4 5:09 PM AKST; not district-specific. Many early/absentee ballots outstanding (early votes Oct 30-Nov 3 to be coun",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 68.8% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "RCV; top two R",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Top two both R; R hold. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
     "name": "Peter Bauer",
-    "votes": null,
+    "votes": 3036,
     "pct": 26.0
    },
    "rep": {
     "name": "George Rauscher",
-    "votes": null,
+    "votes": 5030,
     "pct": 43.0
    },
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -1994,
+   "marginPts": -17.0
   },
   {
    "state": "AK",
@@ -113769,20 +113833,20 @@
    "district": "S",
    "status": "Counting",
    "leader": "I",
-   "reporting": "37 of 57 precincts (precincts, not ballots) as of Nov 4 AM",
+   "reporting": "Alaska's News Source results page 'votes in' estimate 82.3% (expected-vote estimate, pre-Nov 10 count). Context: ~216k counted with est. 50-75k outstanding statewide (Alaska Public Media, Nov 4); Nov ",
    "calledBy": "",
-   "note": "Edgmon is undeclared, coalition member (former House Speaker); RCV",
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-04/alaska-democrats-flip-at-least-two-republican-state-house-seats-and-grow-coalition-control",
-   "asOf": "Nov 4, 7:26 AM AKST (Alaska Beacon via Alaska Public Media)",
+   "note": "Edgmon (undeclared, coalition) leads first choices; RCV decides; Guy (D) transfers likely favor Edgmon. Not called; MultiState no winner recorded. RCV tabulation Nov 18.",
+   "source": "https://www.alaskasnewssource.com/politics/election-results/ ; https://www.multistate.us/elections/results/alaska-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched); data predates the Nov 10 Division of Elections count of early votes (Oct 30-Nov 2) + absentees",
    "dem": {
-    "name": "Wassilie Guy",
-    "votes": null,
-    "pct": 25.2
+    "name": "Wassilie P. Guy",
+    "votes": 1450,
+    "pct": 25.3
    },
    "rep": {
-    "name": "Darren Deacon",
-    "votes": null,
-    "pct": 28.0
+    "name": "Darren Morgan Deacon",
+    "votes": 1541,
+    "pct": 26.9
    },
    "others": [
     {
@@ -113799,7 +113863,9 @@
     }
    ],
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -91,
+   "marginPts": -1.6
   },
   {
    "state": "AR",
@@ -113807,9 +113873,9 @@
    "district": "81",
    "status": "Counting",
    "leader": "R",
-   "reporting": "75%+ counted: AR counts nearly all ballots on election night",
+   "reporting": "~75% counted (75%+ counted: AR counts nearly all ballots on election night [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "No winner recorded; Hawk (R-inc) leads by ~100 votes, still counting",
+   "note": "MultiState: Hawk (R) leads by ~100, still counting; no winner.",
    "source": "https://www.multistate.us/elections/results/arkansas-2026",
    "asOf": "Nov 9, ~10 PM ET (fetched)",
    "dem": {
@@ -113824,7 +113890,7 @@
    },
    "lean": true,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "CT",
@@ -114069,11 +114135,11 @@
    "district": "103",
    "status": "Counting",
    "leader": "D",
-   "reporting": "75%+ counted: GA counts nearly all ballots on election night",
+   "reporting": "~75% counted (75%+ counted: GA counts nearly all ballots on election night [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "No winner recorded; Luchey (D) leads by <30 votes, still counting",
+   "note": "MultiState: Luchey (D) leads by fewer than 30 votes, still being counted; no winner.",
    "source": "https://www.multistate.us/elections/results/georgia-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Chris Luchey",
     "votes": null,
@@ -114086,7 +114152,7 @@
    },
    "lean": true,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "GA",
@@ -114120,11 +114186,11 @@
    "district": "154",
    "status": "Counting",
    "leader": null,
-   "reporting": "no ballot-count/reporting info found",
+   "reporting": "No count info found",
    "calledBy": "",
-   "note": "No winner recorded; MultiState gives no leader note",
+   "note": "MultiState: No winner recorded, no leader note.",
    "source": "https://www.multistate.us/elections/results/georgia-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Harry James",
     "votes": null,
@@ -114135,7 +114201,7 @@
     "votes": null,
     "pct": null
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "IN",
@@ -114143,11 +114209,11 @@
    "district": "45",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~99% (unofficial; IN counts nearly all ballots election night; provisionals pending)",
+   "reporting": "~75% counted (75%+ counted: IN counts all ballots on election night [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "The totals are from Wikipedia's 'unofficial results' table, which cites Indiana Public Media results retrieved Nov 6. The IPM results app (rtvsapps-elections.webapps.iu.edu) returned 503. Larry Mahaney (L) has 993 (2.24%). On Nov 10, MultiState still shows no winner and says Garten leads by about 300.",
-   "source": "https://en.wikipedia.org/wiki/Chris_Garten",
-   "asOf": "Nov 6 (source retrieved)",
+   "note": "MultiState: Garten (R) leads by ~300, still counting; no winner.",
+   "source": "https://www.multistate.us/elections/results/indiana-2026",
+   "asOf": "Nov 9, ~10 PM ET (fetched)",
    "dem": {
     "name": "Nick Marshall",
     "votes": 21520,
@@ -114160,7 +114226,7 @@
    },
    "lean": true,
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": -0.66,
    "marginVotes": -297
   },
@@ -114196,9 +114262,9 @@
    "district": "123",
    "status": "Counting",
    "leader": "D",
-   "reporting": "75%+ counted: KS counted all but provisionals; county canvass under way",
+   "reporting": "~75% counted (75%+ counted: KS counted all but provisionals; county canvass under way [carried; canvass totals not found])",
    "calledBy": "",
-   "note": "No winner recorded; MultiState highlights say D leads Lewis, still counting",
+   "note": "MultiState (Nov 10): No winner recorded; leader same as input. Johnson County/KS SOS canvass results not found (KS SOS ent page still shows 2024 data).",
    "source": "https://www.multistate.us/elections/results/kansas-2026",
    "asOf": "Nov 9, ~10 PM ET (fetched)",
    "dem": {
@@ -114213,7 +114279,7 @@
    },
    "lean": true,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "MA",
@@ -114221,11 +114287,11 @@
    "district": "2nd Plymouth",
    "status": "Counting",
    "leader": "D",
-   "reporting": "town clerks' unofficial totals (excl. hand counts); mail/provisional ballots still arriving; provisionals due Nov 15",
+   "reporting": "~75% counted (MA counts nearly all ballots on election night (>=75% by structure; no exact %))",
    "calledBy": "",
-   "note": "Hewins +89; uncalled; no concession; within 0.5% recount threshold, no recount filed yet (precinct petitions due Nov 13 5 PM; district-wide Nov 18). MultiState (Nov 10) still no winner, <100. D flip if it holds.",
-   "source": "https://www.statehousenews.com/news/politics/elections/hewins-leads-gaskey-by-89-votes-in-uncalled-second-plymouth-race/article_95172f66-9102-4be8-8065-bc56c52b03ed.html",
-   "asOf": "Nov 6 (SHNS)",
+   "note": "MultiState: No winner recorded; Hewins (D) leads Gaskey (R) by fewer than 100 votes, still being counted. MA counts nearly all ballots election night.",
+   "source": "https://www.multistate.us/elections/results/massachusetts-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Sarah Hewins",
     "votes": 9264,
@@ -114238,7 +114304,7 @@
    },
    "lean": true,
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginVotes": 89
   },
   {
@@ -114609,11 +114675,11 @@
    "district": "15",
    "status": "Counting",
    "leader": "R",
-   "reporting": "75%+ counted: NY counts early and Election Day ballots on election night; only absentee/affidavit ballots remain",
+   "reporting": "~75% counted (NY counts early + Election Day ballots on election night; only absentee/affidavit outstanding (>=75% by structure, no exact %))",
    "calledBy": "",
-   "note": "MultiState: no winner, R leads (no margin found)",
+   "note": "MultiState: No winner recorded; Republican leads; still counting (absentee/affidavit). No vote numbers found.",
    "source": "https://www.multistate.us/elections/results/new-york-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Dean Tarulli",
     "votes": null,
@@ -114626,7 +114692,7 @@
    },
    "lean": true,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NY",
@@ -114634,11 +114700,11 @@
    "district": "16",
    "status": "Counting",
    "leader": "D",
-   "reporting": "75%+ counted: NY counts early and Election Day ballots on election night; only absentee/affidavit ballots remain",
+   "reporting": "~75% counted (NY counts early + Election Day ballots on election night; only absentee/affidavit outstanding (>=75% by structure, no exact %))",
    "calledBy": "",
-   "note": "Keiserman (D) +~2,200, described as likely; open R seat",
-   "source": "https://www.cityandstateny.com/politics/2026/11/where-do-all-key-new-york-state-legislative-races-stand/417054/",
-   "asOf": "Nov 4, 6:30 PM ET",
+   "note": "MultiState: No winner recorded; Democrat leads; still counting (absentee/affidavit). No vote numbers found.",
+   "source": "https://www.multistate.us/elections/results/new-york-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Kim Keiserman",
     "votes": null,
@@ -114651,7 +114717,7 @@
    },
    "lean": true,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NY",
@@ -114659,11 +114725,11 @@
    "district": "63",
    "status": "Counting",
    "leader": "R",
-   "reporting": "75%+ counted: NY counts early and Election Day ballots on election night; only absentee/affidavit ballots remain",
+   "reporting": "~75% counted (NY counts early + Election Day ballots on election night; only absentee/affidavit outstanding (>=75% by structure, no exact %))",
    "calledBy": "",
-   "note": "MultiState: no winner, R leads (no margin found)",
+   "note": "MultiState: No winner recorded; Republican leads; still counting (absentee/affidavit). No vote numbers found.",
    "source": "https://www.multistate.us/elections/results/new-york-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Matthew Mobilia",
     "votes": null,
@@ -114676,7 +114742,7 @@
    },
    "lean": true,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NY",
@@ -114684,11 +114750,11 @@
    "district": "126",
    "status": "Counting",
    "leader": "D",
-   "reporting": "75%+ counted: NY counts early and Election Day ballots on election night; only absentee/affidavit ballots remain",
+   "reporting": "~75% counted (NY counts early + Election Day ballots on election night; only absentee/affidavit outstanding (>=75% by structure, no exact %))",
    "calledBy": "",
-   "note": "Phillips (D) +223 with 1,459 possible uncounted ballots in Onondaga/Cayuga; described as likely D",
-   "source": "https://www.cityandstateny.com/politics/2026/11/where-do-all-key-new-york-state-legislative-races-stand/417054/",
-   "asOf": "Nov 4, 6:30 PM ET",
+   "note": "MultiState: No winner recorded; Democrat leads; still counting (absentee/affidavit). No vote numbers found.",
+   "source": "https://www.multistate.us/elections/results/new-york-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Ian Phillips",
     "votes": null,
@@ -114701,7 +114767,7 @@
    },
    "lean": true,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NY",
@@ -114736,11 +114802,11 @@
    "district": "143",
    "status": "Counting",
    "leader": "D",
-   "reporting": "100% early + ED; ~800 absentees + affidavits pending (count began Nov 9)",
+   "reporting": "NY counts early + Election Day ballots on election night; only absentee/affidavit outstanding (>=75% by structure)",
    "calledBy": "",
-   "note": "Resolves earlier conflict: Taughrin (D) leads by 561. No concession/declaration. MultiState (Nov 10): D leads, no winner. D flip if it holds.",
-   "source": "https://www.yahoo.com/news/politics/articles/only-586-votes-separate-taughrin-021219451.html",
-   "asOf": "Nov 4, 9:12 PM ET (WGRZ via Yahoo)",
+   "note": "CONFLICT: input leader R but MultiState says Democrats lead (Taughrin). MultiState: No winner recorded.",
+   "source": "https://www.multistate.us/elections/results/new-york-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Ryan Taughrin",
     "votes": 23191,
@@ -114751,8 +114817,8 @@
     "votes": 22630,
     "pct": null
    },
-   "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 11",
+   "wouldFlip": true,
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": null,
    "marginVotes": 561
   },
@@ -114841,11 +114907,11 @@
    "district": "7",
    "status": "Counting",
    "leader": "R",
-   "reporting": "75%+ counted: NY counts early and Election Day ballots on election night; only absentee/affidavit ballots remain",
+   "reporting": "~75% counted (NY counts early + Election Day ballots on election night; only absentee/affidavit outstanding (>=75% by structure, no exact %))",
    "calledBy": "",
-   "note": "Blumencranz (R) +~4,800; not called; open seat",
-   "source": "https://www.cityandstateny.com/politics/2026/11/where-do-all-key-new-york-state-legislative-races-stand/417054/",
-   "asOf": "Nov 4, 6:30 PM ET",
+   "note": "MultiState: No winner recorded; Republican leads; still counting (absentee/affidavit). No vote numbers found.",
+   "source": "https://www.multistate.us/elections/results/new-york-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Rory Lancman",
     "votes": null,
@@ -114858,7 +114924,7 @@
    },
    "lean": true,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NY",
@@ -114866,11 +114932,11 @@
    "district": "9",
    "status": "Counting",
    "leader": "D",
-   "reporting": "75%+ counted: NY counts early and Election Day ballots on election night; only absentee/affidavit ballots remain",
+   "reporting": "~75% counted (NY counts early + Election Day ballots on election night; only absentee/affidavit outstanding (>=75% by structure, no exact %))",
    "calledBy": "",
-   "note": "Vider (D) +~2,900 over incumbent; not called",
-   "source": "https://www.cityandstateny.com/politics/2026/11/where-do-all-key-new-york-state-legislative-races-stand/417054/",
-   "asOf": "Nov 4, 6:30 PM ET",
+   "note": "MultiState: No winner recorded; Democrat leads; still counting (absentee/affidavit). No vote numbers found.",
+   "source": "https://www.multistate.us/elections/results/new-york-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Lisa Vider",
     "votes": null,
@@ -114883,7 +114949,7 @@
    },
    "lean": true,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "NY",
@@ -115048,11 +115114,11 @@
    "district": "29",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~97% (unofficial; provisionals/late absentee pending)",
+   "reporting": "No vote counts found (MultiState has no numbers; Ballotpedia district pages not updated; Ohio SOS results page not found via search)",
    "calledBy": "",
-   "note": "Statehouse News Bureau (Karen Kasler): 'Rep. Cindy Abrams (R-Harrison) leads Democratic challenger Jonathan Bradner by 19 votes' in unofficial returns. As of Nov 10, MultiState still shows no winner. This is the first leader and margin found for this seat; the input had none.",
-   "source": "https://www.statenews.org/government-politics/2026-11-04/democratic-gains-in-legislative-races-could-end-supermajority-in-ohio-house",
-   "asOf": "Nov 4, 4:13 AM ET",
+   "note": "MultiState: No winner recorded, still being counted; no leader named, no numbers.",
+   "source": "https://www.multistate.us/elections/results/ohio-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Jonathan Bradner",
     "votes": null,
@@ -115063,9 +115129,10 @@
     "votes": null,
     "pct": null
    },
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": null,
-   "marginVotes": -19
+   "marginVotes": -19,
+   "wouldFlip": false
   },
   {
    "state": "OH",
@@ -115073,11 +115140,11 @@
    "district": "37",
    "status": "Counting",
    "leader": "D",
-   "reporting": "~97% (unofficial; provisionals/late absentee pending)",
+   "reporting": "No vote counts found (MultiState has no numbers; Ballotpedia district pages not updated; Ohio SOS results page not found via search)",
    "calledBy": "",
-   "note": "Statehouse News Bureau, based on unofficial returns: Democrats 'appear to have ousted five Republican incumbents' including 'Tom Young (R-Washington Twp.) was defeated by Tom Herner'. The article gives no margin. That hedged early report is not treated as a call, since MultiState still shows 'No winner recorded / still being counted' on Nov 10. This would be a D flip if it holds.",
-   "source": "https://www.statenews.org/government-politics/2026-11-04/democratic-gains-in-legislative-races-could-end-supermajority-in-ohio-house",
-   "asOf": "Nov 4, 4:13 AM ET",
+   "note": "MultiState: No winner recorded, still being counted; no leader named, no numbers.",
+   "source": "https://www.multistate.us/elections/results/ohio-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Tom Herner",
     "votes": null,
@@ -115088,9 +115155,10 @@
     "votes": null,
     "pct": null
    },
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": null,
-   "marginVotes": null
+   "marginVotes": null,
+   "wouldFlip": true
   },
   {
    "state": "OH",
@@ -115098,11 +115166,11 @@
    "district": "44",
    "status": "Counting",
    "leader": null,
-   "reporting": "~97% (unofficial; provisionals pending, Lucas County BOE rules on them Nov 16)",
+   "reporting": "No vote counts found (MultiState has no numbers; Ballotpedia district pages not updated; Ohio SOS results page not found via search)",
    "calledBy": "",
-   "note": "WTVG 13abc: '56 votes separate Democrat Dave Fournier and Republican Ed Schimmel'; not called as of Thursday. Neither 13abc nor the Statehouse News Bureau names the leader. The Lucas County BOE meets publicly Nov 16 to accept or reject provisionals, and Wood and Ottawa counties follow. Open R seat.",
-   "source": "https://www.13abc.com/2026/11/06/ohio-house-district-44-race-too-close-call-provisional-votes-could-decide-outcome/",
-   "asOf": "Nov 5, 11:39 PM ET",
+   "note": "MultiState: No winner recorded, still being counted; no leader named, no numbers.",
+   "source": "https://www.multistate.us/elections/results/ohio-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "David J. Fournier",
     "votes": null,
@@ -115113,7 +115181,7 @@
     "votes": null,
     "pct": null
    },
-   "sweep": "Nov 10 seat sweep 11"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "OH",
@@ -115148,11 +115216,11 @@
    "district": "75",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~97% (unofficial; provisionals/late absentee pending)",
+   "reporting": "No vote counts found (MultiState has no numbers; Ballotpedia district pages not updated; Ohio SOS results page not found via search)",
    "calledBy": "",
-   "note": "Statehouse News Bureau: 'Rep. Haraz Ghanbari (R-Perrysburg) leads Democratic challenger Richard Rettig by 126 votes' in unofficial returns. As of Nov 10, MultiState still shows no winner. This is the first leader and margin found for this seat.",
-   "source": "https://www.statenews.org/government-politics/2026-11-04/democratic-gains-in-legislative-races-could-end-supermajority-in-ohio-house",
-   "asOf": "Nov 4, 4:13 AM ET",
+   "note": "MultiState: No winner recorded, still being counted; no leader named, no numbers.",
+   "source": "https://www.multistate.us/elections/results/ohio-2026",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Richard J. Rettig",
     "votes": null,
@@ -115163,9 +115231,10 @@
     "votes": null,
     "pct": null
    },
-   "sweep": "Nov 10 seat sweep 11",
+   "sweep": "Nov 10 seat sweep 14",
    "marginPts": null,
-   "marginVotes": -126
+   "marginVotes": -126,
+   "wouldFlip": false
   },
   {
    "state": "OH",
@@ -115200,9 +115269,9 @@
    "district": "147",
    "status": "Counting",
    "leader": "D",
-   "reporting": "75%+ counted: PA counted all but provisional/military ballots",
+   "reporting": "~75% counted (75%+ counted: PA counted all but provisional/military ballots [carried from prior sweep; no newer count found])",
    "calledBy": "",
-   "note": "No winner recorded; Scheuren (R-inc) narrowly trails Burke (D), still counting",
+   "note": "Spotlight PA (Nov 6): D leads by >200 with ~220-230 ballots outstanding; D declared victory, R not conceded; AP no call; MultiState no winner.",
    "source": "https://www.multistate.us/elections/results/pennsylvania-2026",
    "asOf": "Nov 9, ~10 PM ET (fetched)",
    "dem": {
@@ -115217,7 +115286,7 @@
    },
    "lean": true,
    "wouldFlip": true,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "SD",
@@ -115292,11 +115361,11 @@
    "district": "6",
    "status": "Counting",
    "leader": null,
-   "reporting": "no ballot-count/reporting info found",
+   "reporting": "No counts or leader found",
    "calledBy": "",
-   "note": "No winner recorded; no leader note",
+   "note": "MultiState: No winner recorded, no leader note. No news/SOS results found.",
    "source": "https://www.multistate.us/elections/results/west-virginia-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Cody Cumpston",
     "votes": null,
@@ -115307,7 +115376,7 @@
     "votes": null,
     "pct": null
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "WV",
@@ -115315,11 +115384,11 @@
    "district": "31",
    "status": "Counting",
    "leader": "R",
-   "reporting": "75%+ counted: WV counts nearly all ballots on election night",
+   "reporting": "~75% counted (WV counts nearly all ballots election night (>=75% by structure; no exact %))",
    "calledBy": "",
-   "note": "No winner; Mazzocchi (R) leads by <40 votes, counting continues; Ballotpedia: not called",
+   "note": "MultiState: Mazzocchi (R) leads Barker (D) by fewer than 40 votes, counting ongoing; no winner.",
    "source": "https://www.multistate.us/elections/results/west-virginia-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "George Barker",
     "votes": null,
@@ -115332,7 +115401,7 @@
    },
    "lean": true,
    "wouldFlip": false,
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   },
   {
    "state": "WV",
@@ -115340,11 +115409,11 @@
    "district": "32",
    "status": "Counting",
    "leader": null,
-   "reporting": "no ballot-count/reporting info found",
+   "reporting": "No counts or leader found",
    "calledBy": "",
-   "note": "No winner recorded; no leader note (R won by 46.5 in 2024)",
+   "note": "MultiState: No winner recorded, no leader note. No news/SOS results found.",
    "source": "https://www.multistate.us/elections/results/west-virginia-2026",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
    "dem": {
     "name": "Jennifer Allyn Bias Bryant",
     "votes": null,
@@ -115355,7 +115424,7 @@
     "votes": null,
     "pct": null
    },
-   "sweep": "Nov 9 seat sweep 13"
+   "sweep": "Nov 10 seat sweep 14"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:30:00-05:00",
+ "updated": "2026-11-10T08:10:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2308,7 +2308,7 @@
   },
   {
    "id": "AZ-02",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "99% (est.)",
    "dem": {
@@ -2323,8 +2323,8 @@
    },
    "marginPts": -1.1,
    "marginVotes": 3523,
-   "calledBy": null,
-   "source": "https://www.azfamily.com/politics/election-results/",
+   "calledBy": "AP",
+   "source": "https://www.azfamily.com/2026/11/09/us-rep-eli-crane-narrowly-wins-reelection-survives-challenge-nez/",
    "asOf": "2026-11-09T23:28:00-05:00",
    "others": [
     {
@@ -2335,7 +2335,7 @@
     }
    ],
    "totalVotes": 329070,
-   "note": "Votes via azfamily (total 329,070 matches NBC page updated Nov 9 11:28 PM ET; NBC: not called, ~1,000 est. remaining)."
+   "note": "AP called for Crane (R) on Nov 9 (azfamily, 1:03 PM ET). Votes per latest count."
   },
   {
    "id": "UT-01",
@@ -2561,7 +2561,7 @@
   },
   {
    "id": "FL-26",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "99% (NBC est.)",
    "dem": {
@@ -2576,8 +2576,8 @@
    },
    "marginPts": -0.74,
    "marginVotes": 1704,
-   "calledBy": null,
-   "source": "https://floridaelectionwatch.gov/FederalOffices/USRepresentative",
+   "calledBy": "CBS News",
+   "source": "https://www.cbsnews.com/miami/news/florida-district-26-congressional-election-results-2026/",
    "asOf": "2026-11-09T18:37:00-05:00",
    "ddhqUpdated": "2026-11-04 06:24:27.696286+00",
    "others": [
@@ -2588,7 +2588,7 @@
      "pct": 1.02
     }
    ],
-   "note": "FL DOS 1st unofficial returns (total 229,804 matches NBC page updated Nov 9 6:37 PM ET). Diaz-Balart +1,704; not called by NBC.",
+   "note": "CBS News projected Diaz-Balart (R) on Nov 9 (4:54 PM ET). Locklin has not conceded and wants a recount.",
    "totalVotes": 229804
   },
   {
@@ -2970,7 +2970,7 @@
      "pct": 1.2
     },
     {
-     "name": "Micheál O'Leary",
+     "name": "Miche\u00e1l O'Leary",
      "party": "IND",
      "votes": 815,
      "pct": 0.4
@@ -3255,25 +3255,26 @@
   },
   {
    "id": "WA-05",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "226,651 votes counted",
    "dem": {
     "name": "Carmela Conroy",
-    "votes": 110459,
-    "pct": 48.7
+    "votes": 130652,
+    "pct": 48.27
    },
    "rep": {
     "name": "Michael Baumgartner",
-    "votes": 115423,
-    "pct": 50.9
+    "votes": 140011,
+    "pct": 51.73
    },
-   "marginPts": -2.2,
-   "marginVotes": -4964,
-   "calledBy": null,
-   "source": "https://ballotpedia.org/Washington's_5th_Congressional_District_election,_2026",
-   "asOf": "2026-11-09T17:50:00-05:00",
-   "totalVotes": 206429
+   "marginPts": -3.46,
+   "marginVotes": 9359,
+   "calledBy": "Spokesman-Review",
+   "source": "https://www.spokesman.com/stories/2026/nov/06/baumgartner-holds-on-to-win-second-term/",
+   "asOf": "2026-11-07T20:04:00-05:00",
+   "totalVotes": 206429,
+   "note": "Spokesman-Review reports Baumgartner (R) \"holds on to win second term\" (its own call; no AP call found). Conroy has not conceded. Votes from Spokesman-Review results page, Nov 7 5:04 PM PT."
   },
   {
    "id": "WV-01",
@@ -3537,7 +3538,7 @@
    "leader": "D",
    "reporting": "80%",
    "dem": {
-    "name": "Linda Sánchez",
+    "name": "Linda S\u00e1nchez",
     "votes": 109542,
     "pct": 65.0
    },
