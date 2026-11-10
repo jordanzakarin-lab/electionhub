@@ -192,9 +192,9 @@ th.hb,td.hb{width:1%}
   <div class="legend" aria-label="Bar key">
     <span><i style="background:var(--dem-soft)"></i>D seat not up</span>
     <span><i style="background:var(--dem)"></i>D won</span>
-    <span><i style="background:repeating-linear-gradient(135deg,var(--dem) 0 3px,var(--dem-soft) 3px 6px)"></i>D leading, 60%+ counted</span>
+    <span><i style="background:repeating-linear-gradient(135deg,var(--dem) 0 3px,var(--dem-soft) 3px 6px)"></i>D leaning (leads, 75%+ counted)</span>
     <span><i style="background:var(--none);border:1px solid var(--rule)"></i>Not yet called</span>
-    <span><i style="background:repeating-linear-gradient(135deg,var(--rep) 0 3px,var(--rep-soft) 3px 6px)"></i>R leading, 60%+ counted</span>
+    <span><i style="background:repeating-linear-gradient(135deg,var(--rep) 0 3px,var(--rep-soft) 3px 6px)"></i>R leaning (leads, 75%+ counted)</span>
     <span><i style="background:var(--rep)"></i>R won</span>
     <span><i style="background:var(--rep-soft)"></i>R seat not up</span>
     <span><i style="background:var(--ink);width:2px"></i>Majority line</span>
@@ -214,7 +214,7 @@ th.hb,td.hb{width:1%}
   <section class="board" id="offBoard" aria-label="Chambers without 2026 elections"></section>
 
   <footer>
-    <span>Bars count seats toward the majority line: seats not up this year count for the party that holds them, then called races. A chamber is decided once one party's held and won seats reach the majority. Hatched segments are uncalled districts where a party leads with at least 60% of the expected vote counted; they show where the count is heading and never count toward control.</span>
+    <span>Bars count seats toward the majority line: seats not up this year count for the party that holds them, then called races. A chamber is decided once one party's held and won seats reach the majority. Hatched segments are leaning seats: uncalled districts where a party leads with at least 75% of the expected vote counted. They show where the count is heading and never count toward control. Seat flips in leaning districts are counted separately from flips in called races.</span>
     <span>Last margin: the winning party's lead over the runner-up, in percentage points, in the seat's most recent general election (2024, or 2022 for seats with four-year terms; the year is shown when it isn't 2024). Multi-member districts compare the last winner with the first loser. Hover for the winner's name. <b>*</b> District lines have changed since that election, so the margin is from the old lines. Special elections held after 2024 aren't included.</span>
     <span id="srcs"></span>
     <span>Results: official state results sites first, then AP and Decision Desk HQ. North Carolina, Minnesota and Washington numbers come straight from official state results files every few minutes. Other results update every 15 minutes on election night (8pm–3am ET), every 30 minutes until 5am, then every few hours through Nov. 6. Each race shows when its numbers were last updated.</span>
@@ -263,6 +263,14 @@ th.hb,td.hb{width:1%}
     }
   }
 
+  // Leaning: uncalled, and the leader has at least 75% of the expected vote counted (set as r.lean by the results runs)
+  const isLean = r => r.status==='Counting' && (r.lean===true || pctIn(r.reporting)>=75);
+  // Seat flips from one race: multi-seat races carry flipD/flipR (or leanFlipD/leanFlipR); single seats use flip/wouldFlip
+  function raceFlips(r, key){
+    const pre = key==='flip' ? 'flip' : 'leanFlip';
+    if (r[pre+'D']!=null || r[pre+'R']!=null) return {D:+r[pre+'D']||0, R:+r[pre+'R']||0};
+    return r[key] ? {D:r.leader==='D'?1:0, R:r.leader==='R'?1:0} : {D:0,R:0};
+  }
   // Seats won per party from one race (handles two-seat races via `seats`)
   function racePartySeats(r){
     if (r.seats && r.seats.length) return r.seats;
@@ -271,13 +279,13 @@ th.hb,td.hb{width:1%}
 
   function compute(c){
     const won={D:0,R:0,I:0}, lead={D:0,R:0,I:0};
-    let called=0, counting=0, flipsD=0, flipsR=0, rCalled=0;
+    let called=0, counting=0, flipsD=0, flipsR=0, rCalled=0, leanFlipsD=0, leanFlipsR=0;
     for (const row of c.districts){
       if (!row.up) continue;
       for (const r of (RACES.get(c.st+'|'+c.ch+'|'+dkey(row.d))||[])){
         const ps = racePartySeats(r);
-        if (r.status==='Called'){ ps.forEach(p=>won[p]=(won[p]||0)+1); called+=Math.max(ps.length,1); rCalled+=Math.max(ps.length,1); if(r.flip){ r.leader==='D'?flipsD++:flipsR++; } }
-        else if (r.status==='Counting'){ if (pctIn(r.reporting)>=60) ps.forEach(p=>lead[p]=(lead[p]||0)+1); counting++; }
+        if (r.status==='Called'){ ps.forEach(p=>won[p]=(won[p]||0)+1); called+=Math.max(ps.length,1); rCalled+=Math.max(ps.length,1); const f=raceFlips(r,'flip'); flipsD+=f.D; flipsR+=f.R; }
+        else if (r.status==='Counting'){ if (isLean(r)){ ps.forEach(p=>lead[p]=(lead[p]||0)+1); const f=raceFlips(r,'wouldFlip'); leanFlipsD+=f.D; leanFlipsR+=f.R; } counting++; }
       }
     }
     // A chamber tally from the results agent (AP/state seat counts) beats what individual races add up to
@@ -307,7 +315,7 @@ th.hb,td.hb{width:1%}
     const changes = decided && was!==decided;
     const margin = Math.abs(c.cur.D-c.cur.R);
     const bg = c.election && (c.control==='Coalition'||c.control==='Tied'||margin<=Math.max(4,Math.round(c.total*0.08))||c.districts.some(r=>r.comp));
-    return {won,lead,leadD,leadR,called,counting,projD,projR,projI,uncalled,decided,changes,bg,src,flipsD,flipsR,rCalled,flipsFull,asOf:t&&t.asOf};
+    return {won,lead,leadD,leadR,called,counting,projD,projR,projI,uncalled,decided,changes,bg,src,flipsD,flipsR,rCalled,flipsFull,leanFlipsD,leanFlipsR,asOf:t&&t.asOf};
   }
 
   const pct = (n,t) => (100*n/t).toFixed(3)+'%';
@@ -316,7 +324,7 @@ th.hb,td.hb{width:1%}
     const t=c.total, h=c.hold;
     const seg=(cls,n,label)=> n>0?`<i class="${cls}" style="width:${pct(n,t)}" title="${label}: ${n}"></i>`:'';
     return `<div class="bar" role="img" aria-label="${esc(SN(c.state))} ${esc(c.name)}: Democrats ${x.projD}, Republicans ${x.projR}, ${x.uncalled} not called, ${c.majority} needed for a majority">
-      ${seg('dh',h.D,'D seats not up')}${seg('dw',x.won.D,'D won')}${seg('dl',x.leadD||0,'D leading, 60%+ counted')}${seg('iw',x.projI,'Other')}<span class="gap"></span>${seg('rl',x.leadR||0,'R leading, 60%+ counted')}${seg('rw',x.won.R,'R won')}${seg('rh',h.R,'R seats not up')}
+      ${seg('dh',h.D,'D seats not up')}${seg('dw',x.won.D,'D won')}${seg('dl',x.leadD||0,'D leaning (leads, 75%+ counted)')}${seg('iw',x.projI,'Other')}<span class="gap"></span>${seg('rl',x.leadR||0,'R leaning (leads, 75%+ counted)')}${seg('rw',x.won.R,'R won')}${seg('rh',h.R,'R seats not up')}
       <span class="maj" style="left:calc(${pct(c.majority,t)} - 1px)" aria-hidden="true"></span></div>`;
   }
 
@@ -342,7 +350,8 @@ th.hb,td.hb{width:1%}
       : !x.called ? 'Seats flipped: none called yet'
       : partial && !x.rCalled ? 'Seats flipped: not yet tallied'
       : `No seats flipped${scope}`;
-    return `<span class="flips">${txt}</span>`;
+    const lean = [x.leanFlipsD?`<i class="d">${x.leanFlipsD} to D</i>`:'', x.leanFlipsR?`<i class="r">${x.leanFlipsR} to R</i>`:''].filter(Boolean);
+    return `<span class="flips">${txt}${lean.length?` · <em>Leaning: ${lean.join(' · ')}</em>`:''}</span>`;
   }
 
   // Party or news claims about seat flips (chamber "flipClaim" in data.json), shown beside the counted flips
@@ -356,7 +365,7 @@ th.hb,td.hb{width:1%}
 
   function chamberHTML(c,x){
     const sub = c.election ? `${c.up.toLocaleString('en-US')} of ${c.total} seats up${c.note?' · '+esc(c.note):''}` : `${c.total} seats · no regular election in 2026${SPECIAL_NOTE[c.id]?' · 1 special election':''}`;
-    const lp = (n) => n ? ` <small>+${n} leading</small>` : '';
+    const lp = (n) => n ? ` <small>+${n} leaning</small>` : '';
     const nums = c.election ? `<div class="nums"><span class="d"><b>D ${x.projD}</b>${lp(x.leadD)}</span><span>${x.uncalled} not called · ${c.majority} for majority</span><span class="r"><b>R ${x.projR}</b>${lp(x.leadR)}</span></div>` : `<div class="nums"><span class="d"><b>D ${c.cur.D}</b></span><span>${c.majority} for majority</span><span class="r"><b>R ${c.cur.R}</b></span></div>`;
     const bar = c.election ? barHTML(c,x) : barHTML({...c,hold:{D:c.cur.D,R:c.cur.R,I:c.cur.I,V:c.cur.V}}, {won:{D:0,R:0,I:0},projD:c.cur.D,projR:c.cur.R,projI:0,uncalled:0});
     return `<details class="ch" id="${c.id}" data-id="${c.id}">
@@ -372,19 +381,21 @@ th.hb,td.hb{width:1%}
     if (d==null||p==null){ d = num(r.dem&&r.dem.votes); p = num(r.rep&&r.rep.votes); }
     if (d==null||p==null||d+p<=0) return '';
     const dw = (100*d/(d+p)).toFixed(1), rw = (100-dw).toFixed(1);
-    const s = r.status==='Called' ? 'won' : (pctIn(r.reporting)>=60 ? 'lead' : 'early');
+    const s = r.status==='Called' ? 'won' : (isLean(r) ? 'lead' : 'early');
     return `<span class="rbar" role="img" aria-label="Two-party share: D ${dw}%, R ${rw}%"><i class="D ${s}" style="width:${dw}%"></i><i class="mid"></i><i class="R ${s}" style="width:${rw}%"></i></span>`;
   }
   function resultOf(r){
     const s=r.status||'';
-    if (s==='Counting' && pctIn(r.reporting)<60){
+    if (s==='Counting' && !isLean(r)){
       const ahead = r.leader==='D'||r.leader==='R' ? `${r.leader} ahead` : 'Counting';
       const pin = pctIn(r.reporting)>=0 ? ` · ${pctIn(r.reporting)}% in` : '';
-      return {cls:'NONE', html:'Too early to call', sub:`${ahead}${pin}`};
+      return {cls:'NONE', html:'Not called', sub:`${ahead}${pin}`};
     }
     if (s==='Counting'){
       const base = resultOfCore(r);
-      return {cls:base.cls, html:base.html, sub:`Not called · ${pctIn(r.reporting)}% in`};
+      const html = r.seats && r.seats.length ? base.html.replace('leading','leaning').replace('leads','leans') : (r.leader==='D'||r.leader==='R' ? `${r.leader} leaning` : base.html);
+      const pin = pctIn(r.reporting)>=0 ? ` · ${pctIn(r.reporting)}% in` : ' · 75%+ counted';
+      return {cls:base.cls, html, sub:`Not called${pin}`};
     }
     return resultOfCore(r);
   }
@@ -587,8 +598,8 @@ th.hb,td.hb{width:1%}
     renderGov();
     const xs = new Map(CH.map(c=>[c.id,compute(c)]));
     const el = CH.filter(c=>c.election);
-    let dCh=0,rCh=0,chg=0,chD=0,chR=0,sD=0,sR=0,called=0,fD=0,fR=0;
-    el.forEach(c=>{const x=xs.get(c.id); if(x.decided==='D')dCh++; if(x.decided==='R')rCh++; if(x.changes){chg++; if(x.decided==='D')chD++; else chR++;} sD+=x.won.D; sR+=x.won.R; called+=x.called; fD+=x.flipsD; fR+=x.flipsR;});
+    let dCh=0,rCh=0,chg=0,chD=0,chR=0,sD=0,sR=0,called=0,fD=0,fR=0,lfD=0,lfR=0;
+    el.forEach(c=>{const x=xs.get(c.id); if(x.decided==='D')dCh++; if(x.decided==='R')rCh++; if(x.changes){chg++; if(x.decided==='D')chD++; else chR++;} sD+=x.won.D; sR+=x.won.R; called+=x.called; fD+=x.flipsD; fR+=x.flipsR; lfD+=x.leanFlipsD; lfR+=x.leanFlipsR;});
     const up = el.reduce((a,c)=>a+c.up,0);
     $('#tally').innerHTML = `
       <div class="tile"><div class="k">Chambers decided</div><div class="v"><span class="d">${dCh}</span><small> D </small><span class="r">${rCh}</span><small> R</small></div></div>
@@ -596,7 +607,7 @@ th.hb,td.hb{width:1%}
       <div class="tile"><div class="k">Chambers flipped</div><div class="v"><span class="d">${chD}</span><small> R→D </small><span class="r">${chR}</span><small> D→R</small></div></div>
       <div class="tile"><div class="k">Seats called</div><div class="v">${called.toLocaleString('en-US')}<small> of ${up.toLocaleString('en-US')}</small></div></div>
       <div class="tile"><div class="k">Seats won</div><div class="v"><span class="d">${sD.toLocaleString('en-US')}</span><small> D </small><span class="r">${sR.toLocaleString('en-US')}</span><small> R</small></div></div>
-      <div class="tile"><div class="k">Seat flips</div><div class="v"><span class="d">${fD}</span><small> to D </small><span class="r">${fR}</span><small> to R</small></div></div>`;
+      <div class="tile"><div class="k">Seat flips</div><div class="v"><span class="d">${fD}</span><small> to D </small><span class="r">${fR}</span><small> to R</small></div><div class="k" style="margin-top:4px">Leaning: <span class="d">${lfD} to D</span> · <span class="r">${lfR} to R</span></div></div>`;
     const open = new Map([...document.querySelectorAll('details.ch[open]')].map(d=>[d.dataset.id,!!d._hold]));
     const order = (a,b)=> (xs.get(b.id).bg - xs.get(a.id).bg) || a.state.localeCompare(b.state) || (a.ch==='upper') - (b.ch==='upper');
     const list = el.filter(c=>matches(c,xs.get(c.id))).sort(order);
