@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:45:00-05:00",
+ "updated": "2026-11-10T21:40:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -5309,27 +5309,27 @@
    "challenger": "Carolina Mejia (D)",
    "others": [],
    "status": "Counting",
-   "leader": "D",
+   "leader": "R",
    "dem": {
     "name": "Carolina Mejia",
-    "votes": 35370,
-    "pct": 50.01
+    "votes": 37656,
+    "pct": 49.64
    },
    "rep": {
     "name": "Drew C MacEwen",
-    "votes": 35282,
-    "pct": 49.88
+    "votes": 38102,
+    "pct": 50.23
    },
    "other": 65,
-   "marginPts": 0.13,
-   "marginVotes": 88,
-   "reporting": "~84% counted (Estimate ~84%: WA SOS county 'Estimated Ballots Left to Count' (posted Nov 6-7, latest county counts same dates): Mason (all in LD-35) 9,000 left vs ~21.5k counted (44.7% turnout); Kitsap 7,866 left countywide (~6%), Thurston 14,500 left countywide (~11%) -> ~13k left in LD-35 vs ~67k ballots counted. No county has posted for these since Nov 7.)",
+   "marginPts": -0.59,
+   "marginVotes": -446,
+   "reporting": "~90% counted (Estimate ~90%: contest votes rose 70,717 -> 75,853. Mason (all in LD-35) now 29,186 counted (updated Nov 10 ~7 PM ET) vs ~30.5k expected from its Nov 6-7 'ballots left' figure (~96% done); Kitsap updated Nov 10 6:25 PM ET. Earlier estimate put ~80-84k total ballots in LD-35. No fresh ballots-left figures.)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Mejia (D) leads incumbent MacEwen (R) by 88 (0.13 pts), down from +413. Within WA 0.5% recount threshold (and under 2,000 votes) if final. Would be a D flip.",
+   "note": "LEAD FLIPPED: MacEwen (R, inc.) now leads by 446 (0.59 pts); Mejia had led by 88. MultiState: no winner recorded. Still close; outside the 0.5% recount threshold at current margin.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
-   "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 14",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
+   "wouldFlip": false,
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true
   },
   {
@@ -5441,23 +5441,23 @@
    "leader": "D",
    "dem": {
     "name": "David Berg",
-    "votes": 28495,
-    "pct": 50.63
+    "votes": 28851,
+    "pct": 50.76
    },
    "rep": {
     "name": "Michael Keaton",
-    "votes": 27746,
-    "pct": 49.3
+    "votes": 27951,
+    "pct": 49.17
    },
    "other": 0,
-   "marginPts": 1.33,
-   "marginVotes": 749,
-   "reporting": "~99% counted (~99%: LD-25 is entirely in Pierce County; Pierce SOS estimate 2,000 ballots left countywide (posted Nov 6) vs ~325k counted (56% turnout).)",
+   "marginPts": 1.59,
+   "marginVotes": 900,
+   "reporting": "~99% counted (~99%+: LD-25 is entirely in Pierce County; Pierce updated Nov 10 6:40 PM ET (342,509 ballots counted). The earlier estimate was ~99%, and the contest total rose only 56,280 -> 56,841.)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Position 1 (SOS 'Legislative District 25 - State Representative Pos. 1'). Berg (D) leads incumbent Keaton (R) by 749 (1.33 pts), up from +669. Would be a D flip.",
+   "note": "Berg (D) leads by 900 (was 749). MultiState: no winner recorded.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
-   "sweep": "Nov 10 seat sweep 14",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
+   "sweep": "Nov 10 seat sweep 16",
    "wouldFlip": true,
    "lean": true
   },
@@ -5709,12 +5709,12 @@
     "votes": 20289,
     "pct": 49.72
    },
-   "reporting": "~99% counted (APR (SOS data) shows fully reported; 181-204 provisionals (countywide, unknown share in SD-10) reviewed Tue Nov 10 noon; ~99%)",
-   "source": "https://www.alreporter.com/election-results/176614",
-   "asOf": "Nov 10, ~7:30 AM ET (fetched)",
-   "note": "Battles (I) +52 (0.13%); automatic recount if certified margin <=0.5%. Not called.",
+   "reporting": "~99.9% counted (All 79 precincts reported plus provisional and write-in ballots reviewed/counted Tue Nov 10; only county canvass (Fri Nov 13) and certification remain)",
+   "source": "https://weisradio.com/2026/11/10/jesse-battles-wins-alabama-senate-district-10-2/",
+   "asOf": "Nov 10, 4:00 PM CT",
+   "note": "After provisionals Battles still leads: WEIS county table 20,377-20,319 (+58); Battles campaign says +74 (1819 News, Yellowhammer). WEIS headline 'Jesse Battles Wins', and Battles was sworn in Tue afternoon, but results unofficial: no AP/certification, Jones has not conceded and awaits automatic recount (margin <0.5%) after state certification (by Nov 25). Counted as a lead, not a call.",
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 16",
    "others": [
     {
      "name": "Jesse Battles",
@@ -88843,25 +88843,25 @@
    "others": [],
    "dem": {
     "name": "Eliz Markowitz",
-    "votes": 36587,
-    "pct": 50
+    "votes": 36713,
+    "pct": 49.93
    },
    "rep": {
     "name": "Matt Morgan",
-    "votes": 36718,
-    "pct": 50
+    "votes": 36818,
+    "pct": 50.07
    },
-   "marginVotes": -131,
-   "marginPts": 0,
-   "reporting": "~99% counted (~99% counted (100% precincts; TX mail/UOCAVA cure deadline Nov 9, provisionals reviewed for county final count ~Nov 10; canvass Nov 13. Est. ~99%) [carried from prior sweep; no newer count found])",
+   "marginVotes": -105,
+   "marginPts": -0.14,
+   "reporting": "~99.5% counted (All precincts reporting plus Fort Bend post-election (cured mail/provisional) update; canvass Nov 13. Est.)",
    "status": "Counting",
    "leader": "R",
    "wouldFlip": false,
    "calledBy": "",
-   "note": "MultiState: No winner recorded, no leader note. No post-canvass/final-count news found.",
-   "source": "https://www.click2houston.com/decision-2026/2026/10/30/texas-legislature-general-election-results-for-nov-3-2026/",
-   "asOf": "Nov 6, 7:27 AM ET",
-   "sweep": "Nov 10 seat sweep 14",
+   "note": "Margin narrowed from 131 to 105. Covering Katy headline says 'Morgan survives'; Morgan posted 'The results are final'; Markowitz wrote 'This election may be over' (acknowledges loss but no clear concession). Not certified. Close to a call; editor's choice.",
+   "source": "https://coveringkaty.com/news/fort-bend/ibanez-defeats-gates-morgan-survives-105-vote-challenge-in-f",
+   "asOf": "Nov 10, 7:21 AM CT",
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true
   },
   {
@@ -97290,18 +97290,18 @@
     "votes": 60064,
     "pct": null
    },
-   "marginVotes": -93,
-   "reporting": "~98.5% counted (CBS6 (Nov 6): ~120k counted; remaining = up to 808 outstanding Albany Co. absentees (some never returned) + 618 Rensselaer affidavits under review + Washington Co. unknown; UOCAVA through Nov 16 -> est ~98.5%)",
+   "marginVotes": null,
+   "reporting": "~98.5% counted (Floor carried from Nov 6 (~120k counted of ~122k); further absentee/affidavit ballots since counted; UOCAVA accepted through Nov 16. No current total found.)",
    "status": "Counting",
-   "leader": "R",
-   "wouldFlip": false,
+   "leader": "D",
+   "wouldFlip": true,
    "calledBy": "",
-   "note": "Newer than board's Nov 4 figure: Ashby (R) lead narrowed 318 -> 93. Lander filed court petition to preserve challenge rights; hand recount likely (margin <0.5%). Not called.",
-   "source": "https://cbs6albany.com/news/local/ny-21-has-a-winner-the-wait-continues-in-the-43rd-state-senate-district-ashby-constantino-gendebien-lander-new-york-wrgb",
-   "asOf": "Nov 6, 4:28 PM ET (unofficial results cited)",
-   "sweep": "Nov 10 seat sweep 15",
+   "note": "Lead has switched: Lander (D) now leads Ashby (R) per Times Union (\"Ashby now trails\"); Lander declared victory (News10). Latest totals not available; last published count was Ashby +93 (Nov 6). Hand recount likely. Not called.",
+   "source": "https://www.timesunion.com/capitol/article/state-sen-jake-ashby-now-trails-democratic-22522855.php",
+   "asOf": "~Nov 9-10 (search result headline; page blocked to fetch)",
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true,
-   "marginPts": -0.08
+   "marginPts": null
   },
   {
    "state": "NY",
@@ -110182,24 +110182,24 @@
    "district": "LD-12 Position 1",
    "status": "Counting",
    "leader": "D",
-   "reporting": "~97% counted (Estimate ~97%: 3 of 3 counties in; SOS ballots-left estimates small: Chelan 184 (35,631 counted), Douglas 1,450 (16,114 counted), Okanogan 300 (posted Nov 6-7).)",
+   "reporting": "~98% counted (Estimate ~98%: the earlier ~97% estimate (3 of 3 counties with small remainders), with Douglas updated Nov 10 7:31 PM ET.)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Position 1 (SOS 'Pos. 1'). Willoughby (D) leads incumbent Burnett (R) by 692 (0.95 pts), up from +541. Would be a D flip. (Pos. 2: MultiState records Mike Steele (R) winner.)",
+   "note": "Willoughby (D) leads by 698 (was 692). MultiState: no winner recorded.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
    "dem": {
     "name": "Stacy Willoughby",
-    "votes": 36409,
-    "pct": 50.43
+    "votes": 36494,
+    "pct": 50.44
    },
    "rep": {
     "name": "Brian Burnett",
-    "votes": 35717,
-    "pct": 49.48
+    "votes": 35796,
+    "pct": 49.47
    },
-   "marginVotes": 692,
-   "marginPts": 0.95,
-   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": 698,
+   "marginPts": 0.97,
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true,
    "wouldFlip": true
   },
@@ -110370,24 +110370,24 @@
    "district": "LD-16 Position 2",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~76% counted (Rough estimate 72-78% (borderline): Walla Walla (all in LD-16) shows 12,586 ballots left vs ~12.5k counted (31.3% turnout, posted Nov 7); Benton estimate 15,000 left is stale (election night) though Benton counted to 76,139 by Nov 7; Franklin 1,501 left; vs ~46k ballots counted in LD-16.)",
+   "reporting": "~81% counted (Rough ~81%: the earlier 72-78% estimate implied ~59k total, and the contest now has 48,261 votes (was 45,144). Benton updated Nov 10 7:05 PM ET. Franklin and Walla Walla have not posted again.)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Rude (R) leads by 4,074 (9.02 pts). (Pos. 1: MultiState records Mark Klicker (R) winner.)",
+   "note": "Rude (R) leads by 4,312. MultiState: no winner recorded.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
    "dem": {
     "name": "Derek Sarley",
-    "votes": 20535,
-    "pct": 45.44
+    "votes": 21948,
+    "pct": 45.48
    },
    "rep": {
     "name": "Skyler Rude",
-    "votes": 24609,
-    "pct": 54.46
+    "votes": 26260,
+    "pct": 54.41
    },
-   "marginVotes": -4074,
-   "marginPts": -9.02,
-   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -4312,
+   "marginPts": -8.93,
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true,
    "wouldFlip": false
   },
@@ -110629,15 +110629,15 @@
    "district": "LD-24 Position 2",
    "status": "Counting",
    "leader": "D",
-   "reporting": "~77% counted (Estimate ~77%: Clallam 15,000 left vs 25,766 counted (posted Nov 7); Jefferson 1,470 left; Grays Harbor 4,300 left countywide (Nov 9; part in LD-24) -> ~18k left vs ~62k counted. SOS shows 2 of 3 counties reporting.)",
+   "reporting": "~80% counted (Rough ~80%: the earlier ~77% estimate. Clallam updated Nov 10 7:19 PM ET (32,528 counted); Jefferson last posted Nov 6 and Grays Harbor Nov 9.)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Kuehn (D) 37,087 vs Marcia Kelbon (States No Party Preference) 28,465: Kuehn leads by 8,622 (13.12 pts of total incl. write-ins). rep field null because Kelbon is NPP. (Pos. 1: MultiState records Adam Bernbaum (D) winner.)",
+   "note": "Kuehn (D) leads Kelbon (no party preference) by 8,171. Not a same-party race. MultiState: no winner recorded.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
    "dem": {
     "name": "Kaylee Kuehn",
-    "votes": 37087,
-    "pct": 56.44
+    "votes": 38593,
+    "pct": 55.79
    },
    "others": [
     {
@@ -110647,7 +110647,7 @@
      "pct": 42.64
     }
    ],
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true,
    "wouldFlip": false
   },
@@ -110952,24 +110952,24 @@
    "district": "LD-35 Position 1",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~84% counted (Estimate ~84%: WA SOS county 'Estimated Ballots Left to Count' (posted Nov 6-7, latest county counts same dates): Mason (all in LD-35) 9,000 left vs ~21.5k counted (44.7% turnout); Kitsap 7,866 left countywide (~6%), Thurston 14,500 left countywide (~11%) -> ~13k left in LD-35 vs ~67k ballots counted. No county has posted for these since Nov 7.)",
+   "reporting": "~90% counted (Estimate ~90% (same district basis as SD-35: Mason nearly done, Kitsap/Thurston updated Nov 10).)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Position 1 (SOS 'Pos. 1'). Griffey (R) leads by 2,990 (4.24 pts), up from +2,447.",
+   "note": "Griffey (R) lead grew to 3,834. MultiState: no winner recorded.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
    "dem": {
     "name": "Jim Pierson",
-    "votes": 33740,
-    "pct": 47.82
+    "votes": 35858,
+    "pct": 47.4
    },
    "rep": {
     "name": "Dan Griffey",
-    "votes": 36730,
-    "pct": 52.06
+    "votes": 39692,
+    "pct": 52.47
    },
-   "marginVotes": -2990,
-   "marginPts": -4.24,
-   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -3834,
+   "marginPts": -5.07,
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true,
    "wouldFlip": false
   },
@@ -110979,24 +110979,24 @@
    "district": "LD-35 Position 2",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~84% counted (Estimate ~84%: WA SOS county 'Estimated Ballots Left to Count' (posted Nov 6-7, latest county counts same dates): Mason (all in LD-35) 9,000 left vs ~21.5k counted (44.7% turnout); Kitsap 7,866 left countywide (~6%), Thurston 14,500 left countywide (~11%) -> ~13k left in LD-35 vs ~67k ballots counted. No county has posted for these since Nov 7.)",
+   "reporting": "~90% counted (Estimate ~90% (same district basis as SD-35).)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Couture (R) leads by 2,761 (3.91 pts), up from +2,351.",
+   "note": "Couture (R) lead grew to 3,471. MultiState: no winner recorded.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
    "dem": {
     "name": "Maria Littlesun",
-    "votes": 33845,
-    "pct": 47.99
+    "votes": 36037,
+    "pct": 47.64
    },
    "rep": {
     "name": "Travis Couture",
-    "votes": 36606,
-    "pct": 51.9
+    "votes": 39508,
+    "pct": 52.23
    },
-   "marginVotes": -2761,
-   "marginPts": -3.91,
-   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -3471,
+   "marginPts": -4.59,
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true,
    "wouldFlip": false
   },
@@ -111134,24 +111134,24 @@
    "district": "LD-39 Position 2",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~90% counted (Estimate ~90%: Skagit 13,000 left countywide (posted Nov 7; county split among LD-10/39/40, so ~5k in LD-39); Snohomish 5,000 left countywide (~1.6%) -> ~6k left vs ~63k counted.)",
+   "reporting": "~92% counted (Estimate ~92%: the earlier ~90% estimate plus Nov 10 drops (Snohomish and Skagit share). Contest votes 63,078 -> 65,463.)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Ewing (R) leads by 2,616 (4.14 pts). (Pos. 1: MultiState records Sam Low (R) winner.)",
+   "note": "Ewing (R) leads by 2,943. MultiState: no winner recorded.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
    "dem": {
     "name": "Ida Keeley",
-    "votes": 30231,
-    "pct": 47.87
+    "votes": 31221,
+    "pct": 47.69
    },
    "rep": {
     "name": "Steve Ewing",
-    "votes": 32847,
-    "pct": 52.01
+    "votes": 34164,
+    "pct": 52.19
    },
-   "marginVotes": -2616,
-   "marginPts": -4.14,
-   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -2943,
+   "marginPts": -4.5,
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true,
    "wouldFlip": false
   },
@@ -111829,24 +111829,24 @@
    "district": "LD-25 Position 2",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~99% counted (~99%: LD-25 is entirely in Pierce County; Pierce SOS estimate 2,000 ballots left countywide (posted Nov 6) vs ~325k counted (56% turnout).)",
+   "reporting": "~99% counted (~99%+: all in Pierce County; Pierce updated Nov 10 6:40 PM ET.)",
    "calledBy": "",
-   "note": "MultiState (fetched Nov 10): no winner recorded. Position 2 (SOS 'Pos. 2'). Incumbent Jacobsen (R) leads Strickling (D) by 149 (0.26 pts), down from +222. Within 0.5% recount threshold if final.",
+   "note": "MARGIN 4 VOTES: Jacobsen (R) leads Strickling (D) 28,359 to 28,355 (was +149 R). Recount territory. MultiState: no winner recorded.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data ; https://www.multistate.us/elections/results/washington-2026",
-   "asOf": "Nov 9, 8:50 PM ET (WA SOS contest asOf 2026-11-10 01:50 UTC; fetched Nov 10)",
+   "asOf": "Nov 10, 7:44 PM ET (WA SOS contest asOf 2026-11-11 00:44 UTC)",
    "dem": {
     "name": "Jenn Marie Strickling",
-    "votes": 27999,
-    "pct": 49.84
+    "votes": 28355,
+    "pct": 49.96
    },
    "rep": {
     "name": "Cyndy Jacobsen",
-    "votes": 28148,
-    "pct": 50.1
+    "votes": 28359,
+    "pct": 49.97
    },
-   "marginVotes": -149,
-   "marginPts": -0.26,
-   "sweep": "Nov 10 seat sweep 14",
+   "marginVotes": -4,
+   "marginPts": -0.01,
+   "sweep": "Nov 10 seat sweep 16",
    "incumbent": "Rep. Cyndy Jacobsen (R)",
    "challenger": "Jenn Strickling (D)",
    "wouldFlip": false,
@@ -112482,25 +112482,25 @@
    "district": "7",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Leaning (CA rule): leads by 6.1 pts with ~68% counted (DDHQ expected vote 68% (unchanged since Nov 6). Sacramento next update Tue Nov 10 4:15 PM PT.)",
+   "reporting": "~95% counted (DDHQ expected vote >95%)",
    "calledBy": "",
-   "note": "Slavensky +7,394; she declared victory, Hoover not conceded. No call (MultiState 'No winner recorded' Nov 10).",
-   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-7-general-election",
-   "asOf": "Nov 6, 11:18 PM ET (DDHQ)",
+   "note": "Slavensky (D) leads incumbent Hoover (R) by 10,863 after the Sacramento evening post. DDHQ shows no call; MultiState: no winner recorded.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-7-general-election ; https://www.multistate.us/elections/results/california-2026",
+   "asOf": "Nov 10, 7:02 PM ET (DDHQ)",
    "dem": {
     "name": "Amy L. Slavensky",
-    "votes": 64292,
-    "pct": 53.05
+    "votes": 90313,
+    "pct": 53.2
    },
    "rep": {
     "name": "Josh Hoover",
-    "votes": 56898,
-    "pct": 46.95
+    "votes": 79450,
+    "pct": 46.8
    },
-   "marginVotes": 7394,
-   "marginPts": 6.1,
+   "marginVotes": 10863,
+   "marginPts": 6.4,
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true
   },
   {
@@ -112537,11 +112537,11 @@
    "district": "33",
    "status": "Counting",
    "leader": "R",
-   "reporting": "AP expected vote 66% (ABC30, Nov 6 5:08 PM PT); DDHQ shows 79% on same totals.",
+   "reporting": "~84% counted (DDHQ expected vote 84% (AP was 66% on Nov 6). Same votes as the CA SOS Nov 9 7:18 PM PT figures.)",
    "calledBy": "",
-   "note": "No call: MultiState shows no winner recorded; no AP/DDHQ call or concession found. Incumbent per SOS: Alexandra (Ali) Macedo.",
-   "source": "https://api.sos.ca.gov/returns/state-assembly/district/33",
-   "asOf": "Nov 9, 10:18 PM ET (CA SOS ReportingTime Nov 9, 7:18 PM PT)",
+   "note": "Better share-counted figure only. Macedo (R, inc.) leads by 1,092. No Fresno/Tulare/Kings evening update found. No call.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-33-general-election",
+   "asOf": "Nov 10, 9:24 AM ET (DDHQ)",
    "dem": {
     "name": "Hipolito Angel Cerros",
     "votes": 42410,
@@ -112555,7 +112555,8 @@
    "marginVotes": -1092,
    "marginPts": -1.28,
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14"
+   "sweep": "Nov 10 seat sweep 16",
+   "lean": true
   },
   {
    "state": "CA",
@@ -112619,11 +112620,11 @@
    "district": "47",
    "status": "Counting",
    "leader": "D",
-   "reporting": "Leaning (CA rule): leads by 9.9 pts with ~67% counted (AP expected vote 67% (ABC7, Nov 9 5:57 PM PT). DDHQ summary says >95% but its county table shows Riverside 93%, SB blank, so conflicting; using AP.)",
+   "reporting": "~95% counted (DDHQ expected vote >95% (AP/ABC7 says 67% on the same votes, so the two disagree))",
    "calledBy": "",
-   "note": "FIRST vote totals: Namvar +15,496 (9.9 pts) over incumbent Wallis; Riverside Namvar +20.1 (112,171 votes), SB Wallis +15.9 (44,233). Would flip R->D. No call.",
-   "source": "https://abc7.com/politics/elections/local/ ; https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-47-general-election",
-   "asOf": "Nov 9, 5:57 PM PT",
+   "note": "Better share-counted figure only (same votes). Namvar (D) leads incumbent Wallis (R) by 15,496. No call.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-47-general-election",
+   "asOf": "Nov 9, 10:23 PM ET (DDHQ)",
    "dem": {
     "name": "Leila Namvar",
     "votes": 85950,
@@ -112635,7 +112636,7 @@
     "pct": 45.05
    },
    "wouldFlip": true,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true,
    "marginPts": 9.9,
    "marginVotes": 15496
@@ -112699,24 +112700,24 @@
    "district": "70",
    "status": "Counting",
    "leader": "D",
-   "reporting": "~90% counted (AP expected vote 90% (ABC7, Nov 9 5:38 PM PT; matches OC Nov 9 5 PM post).)",
+   "reporting": "~92% counted (Estimate \u226590%: AP put it at 90% on Nov 9 (ABC7), and OC has posted since. AD-70 is entirely in Orange County (OC ENR 11/10 5:00 PM PT). No fresh AP or DDHQ figure; DDHQ's page is stale at 81% (Nov 9).)",
    "calledBy": "",
-   "note": "Swift +2,749; would flip R->D. No call. OC not updated since Nov 9 5 PM.",
-   "source": "https://abc7.com/politics/elections/local/ ; https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html",
-   "asOf": "Nov 9, 5:00 PM PT (OC ENR)",
+   "note": "Swift (D) leads incumbent Ta (R) by 5,254 (was 2,749). No call; MultiState: no winner recorded.",
+   "source": "https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html",
+   "asOf": "Nov 10, 5:00 PM PT (OC ENR)",
    "dem": {
     "name": "Paula Swift",
-    "votes": 69783,
-    "pct": 51.0
+    "votes": 76062,
+    "pct": 51.79
    },
    "rep": {
     "name": "Tri Ta",
-    "votes": 67034,
-    "pct": 49.0
+    "votes": 70808,
+    "pct": 48.21
    },
-   "sweep": "Nov 10 seat sweep 14",
-   "marginVotes": 2749,
-   "marginPts": 2.0,
+   "sweep": "Nov 10 seat sweep 16",
+   "marginVotes": 5254,
+   "marginPts": 3.58,
    "wouldFlip": true,
    "lean": true
   },
@@ -112726,11 +112727,11 @@
    "district": "71",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Leaning (CA rule): leads by 7.8 pts with ~73% counted (AP expected vote 73% (ABC7, Nov 9 5:57 PM PT). DDHQ had 85% on 145,420 votes Nov 8.)",
+   "reporting": "~88% counted (DDHQ expected vote 88% (AP was 73% on Nov 9). Same votes as our entry.)",
    "calledBy": "",
-   "note": "NEW numbers: Sanchez +11,806 (Riverside Nov 9 update included). Under 75% per AP. No call.",
-   "source": "https://abc7.com/politics/elections/local/",
-   "asOf": "Nov 9, 5:57 PM PT",
+   "note": "Better share-counted figure only. Sanchez (R, inc.) leads by 11,806. No call.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-71-general-election",
+   "asOf": "Nov 9, 11:47 PM ET (DDHQ)",
    "dem": {
     "name": "JJ Galvez",
     "votes": 69767,
@@ -112741,7 +112742,7 @@
     "votes": 81573,
     "pct": 53.9
    },
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 16",
    "marginVotes": -11806,
    "marginPts": -7.8,
    "wouldFlip": false,
@@ -112753,24 +112754,24 @@
    "district": "72",
    "status": "Counting",
    "leader": "R",
-   "reporting": "~90% counted (AP expected vote 90% (ABC7, Nov 9 5:38 PM PT); DDHQ >95% on older Nov 9 AM totals.)",
+   "reporting": "~95% counted (DDHQ expected vote >95%. AD-72 is entirely in Orange County; OC ENR updated 11/10/2026 5:00 PM PT (1,126,478 ballots countywide, no remaining figure).)",
    "calledBy": "",
-   "note": "Van Der Mark +1,383, narrowing each update. No call.",
-   "source": "https://abc7.com/politics/elections/local/ ; https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html",
-   "asOf": "Nov 9, 5:00 PM PT (OC ENR)",
+   "note": "MARGIN 111 VOTES: Van Der Mark (R) leads Kluwe (D) by 111 (was 1,383). Very close. No call; MultiState: no winner recorded.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-72-general-election ; https://www.livevoterturnout.com/ENR/orangecaenr/24/en/phkv4sV_Index_24.html",
+   "asOf": "Nov 10, 5:00 PM PT (OC ENR; DDHQ 8:24 PM ET)",
    "dem": {
     "name": "Chris Kluwe",
-    "votes": 100548,
-    "pct": 49.66
+    "votes": 106519,
+    "pct": 49.97
    },
    "rep": {
     "name": "Gracey Van Der Mark",
-    "votes": 101931,
-    "pct": 50.34
+    "votes": 106630,
+    "pct": 50.03
    },
-   "sweep": "Nov 10 seat sweep 14",
-   "marginVotes": -1383,
-   "marginPts": -0.68,
+   "sweep": "Nov 10 seat sweep 16",
+   "marginVotes": -111,
+   "marginPts": -0.06,
    "wouldFlip": false,
    "lean": true
   },
@@ -112888,25 +112889,25 @@
    "district": "32",
    "status": "Counting",
    "leader": "R",
-   "reporting": "Leaning (CA rule): leads by 5.0 pts with ~65% counted (AP expected vote 65% (ABC7, Nov 9 5:59 PM PT). DDHQ shows 79% on older 237,226 total.)",
+   "reporting": "~91% counted (DDHQ expected vote 91%)",
    "calledBy": "",
-   "note": "NEW numbers: Seyarto +12,615. Under 75% per AP. No call.",
-   "source": "https://abc7.com/politics/elections/local/",
-   "asOf": "Nov 9, 5:59 PM PT",
+   "note": "Seyarto (R, inc.) leads by 13,712. No call; MultiState: no winner recorded.",
+   "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-senate-32-general-election",
+   "asOf": "Nov 10, 8:58 PM ET (DDHQ)",
    "dem": {
     "name": "Tiffanie Tate",
-    "votes": 119162,
+    "votes": 130292,
     "pct": 47.5
    },
    "rep": {
     "name": "Kelly Seyarto",
-    "votes": 131777,
+    "votes": 144004,
     "pct": 52.5
    },
-   "marginVotes": -12615,
+   "marginVotes": -13712,
    "marginPts": -5.0,
    "wouldFlip": false,
-   "sweep": "Nov 10 seat sweep 14",
+   "sweep": "Nov 10 seat sweep 16",
    "lean": true
   },
   {

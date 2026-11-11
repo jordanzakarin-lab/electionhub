@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:30:00-05:00",
+ "updated": "2026-11-10T21:40:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3438,32 +3438,32 @@
    "reporting": "69%",
    "dem": {
     "name": "Jonathan Kreiss-Tomkins",
-    "votes": 103610,
-    "pct": 49.1
+    "votes": 107166,
+    "pct": 49.42
    },
    "rep": {
     "name": "Bernadette Wilson",
-    "votes": 61566,
-    "pct": 29.2
+    "votes": 62500,
+    "pct": 28.82
    },
-   "marginPts": 19.9,
-   "marginVotes": 42044,
+   "marginPts": 20.6,
+   "marginVotes": 44666,
    "calledBy": null,
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update",
-   "asOf": "2026-11-04T12:05:57-05:00",
+   "source": "Alaska Division of Elections Nov 9 (2:55 PM AKST) count, via The Alaska Story",
+   "asOf": "2026-11-09T18:55:00-05:00",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
     {
      "name": "Dave Bronson",
-     "party": "GOP",
-     "votes": 29900,
-     "pct": 14.2
+     "party": "R",
+     "votes": 30488,
+     "pct": 14.06
     },
     {
      "name": "Treg Taylor",
-     "party": "GOP",
-     "votes": 15713,
-     "pct": 7.5
+     "party": "R",
+     "votes": 16078,
+     "pct": 7.41
     }
    ],
    "note": "Kreiss-Tomkins (D) leads with 49.6% of first-choice votes (Alaska Public, Nov 9), short of 50%, so the race goes to the ranked-choice tabulation Nov 18."
@@ -3475,21 +3475,35 @@
    "reporting": "74%",
    "dem": {
     "name": "Zachary Johnson",
-    "votes": null,
-    "pct": 49.2
+    "votes": 107166,
+    "pct": 49.42
    },
    "rep": {
     "name": "Mike Shower",
-    "votes": null,
-    "pct": 29.2
+    "votes": 62500,
+    "pct": 28.82
    },
-   "marginPts": 20.0,
-   "marginVotes": null,
+   "marginPts": 20.6,
+   "marginVotes": 44666,
    "calledBy": null,
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-09/peltola-kreiss-tomkins-increase-leads-in-monday-results-update",
-   "asOf": "2026-11-04T11:31:00-05:00",
+   "source": "Alaska Division of Elections Nov 9 (2:55 PM AKST) count, via The Alaska Story",
+   "asOf": "2026-11-09T18:55:00-05:00",
    "totalVotes": 210789,
-   "note": "Kreiss-Tomkins (D) leads with 49.6% of first-choice votes (Alaska Public, Nov 9), short of 50%, so the race goes to the ranked-choice tabulation Nov 18. Joint ticket with governor."
+   "note": "Kreiss-Tomkins (D) leads with 49.6% of first-choice votes (Alaska Public, Nov 9), short of 50%, so the race goes to the ranked-choice tabulation Nov 18. Joint ticket with governor.",
+   "others": [
+    {
+     "name": "Josh Church",
+     "party": "R",
+     "votes": 30488,
+     "pct": 14.06
+    },
+    {
+     "name": "Candi English",
+     "party": "R",
+     "votes": 16078,
+     "pct": 7.41
+    }
+   ]
   },
   {
    "id": "ID-SOS",

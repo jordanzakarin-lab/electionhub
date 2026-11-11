@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:00:00-05:00",
+ "updated": "2026-11-10T21:40:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -24,7 +24,7 @@
    "marginPts": -7.8,
    "reporting": "71.1% of expected vote (NBC)",
    "calledBy": "Decision Desk HQ",
-   "note": "DDHQ called it Failed overnight Nov 6–7 (reported by Bloomberg); votes from NBC LA (NBC still \"Too early to call\"). No AP call.",
+   "note": "DDHQ called it Failed overnight Nov 6\u20137 (reported by Bloomberg); votes from NBC LA (NBC still \"Too early to call\"). No AP call.",
    "source": "https://www.nbclosangeles.com/elections/2026-california-ballot-propositions-election-results/3961904/",
    "asOf": "Nov 6, 11:36 AM ET"
   },
@@ -376,19 +376,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 167369,
-    "pct": 52.51
+    "votes": 169415,
+    "pct": 52.67
    },
    "no": {
-    "votes": 151353,
-    "pct": 47.49
+    "votes": 152252,
+    "pct": 47.33
    },
-   "marginPts": 5.02,
+   "marginPts": 5.34,
    "reporting": "unofficial; AP via KQED (pct counted not stated)",
    "calledBy": "",
-   "note": "KQED shows no call. Votes from KQED page updated 4:02 PM PT Nov 9.",
+   "note": "KQED updated 4:09 PM PT Nov 10; no 'Race called at' line (status text only 'Passes with majority vote'). Yes lead grew to ~17,200. American Banker sidebar (Nov 9) says SF 'poised to approve', which is not a call. Pcts computed from counts.",
    "source": "https://www.kqed.org/elections/results/sanfrancisco/proposition-b",
-   "asOf": "Nov 9, 7:02 PM ET"
+   "asOf": "Nov 10, 7:09 PM ET"
   },
   {
    "category": "Economic Justice",
@@ -1190,7 +1190,7 @@
    "level": "Local",
    "measure": "Front Range Passenger Rail District",
    "ballotNo": "Measure 7A",
-   "description": "0.333% sales tax (~$295M a year) for the Fort Collins–Pueblo Colorado Connector. District voters only.",
+   "description": "0.333% sales tax (~$295M a year) for the Fort Collins\u2013Pueblo Colorado Connector. District voters only.",
    "status": "Called",
    "outcome": "Passed",
    "threshold": "Majority",
@@ -3046,19 +3046,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 1417721,
-    "pct": 47.5
+    "votes": 1435693,
+    "pct": 47.57
    },
    "no": {
-    "votes": 1566783,
-    "pct": 52.5
+    "votes": 1582606,
+    "pct": 52.43
    },
-   "marginPts": -5.0,
-   "reporting": "37 of 39 counties reporting (WA SOS); 2,984,504 votes",
+   "marginPts": -4.86,
+   "reporting": "39 of 39 counties reporting (WA SOS); 3,018,299 votes; unofficial until Nov 24 certification",
    "calledBy": "",
-   "note": "WA SOS results API (Initiative Measure No. IL26-001), asOf 2026-11-10T01:50:48Z. isWinner null; no call found.",
+   "note": "WA SOS results API asOf 2026-11-11T00:44:55Z; isWinner null; no call found. No margin ~146,900. Pcts computed from counts.",
    "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
-   "asOf": "Nov 9, 8:50 PM ET"
+   "asOf": "Nov 10, 7:44 PM ET"
   },
   {
    "category": "Civil Rights & Repro",

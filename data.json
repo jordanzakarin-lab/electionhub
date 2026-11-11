@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:45:00-05:00",
+ "updated": "2026-11-10T21:40:00-05:00",
  "sample": false,
  "races": [
   {
@@ -202,26 +202,26 @@
   },
   {
    "id": "FL-27",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
-   "reporting": "99%; machine recount underway",
+   "reporting": "Machine recount complete (unofficial)",
    "dem": {
     "name": "Eliott Rodriguez",
-    "votes": 123438,
+    "votes": 123433,
     "pct": 49.78
    },
    "rep": {
     "name": "Maria Elvira Salazar",
-    "votes": 124528,
+    "votes": 124519,
     "pct": 50.22
    },
    "marginPts": -0.44,
-   "marginVotes": 1090,
-   "calledBy": null,
-   "source": "https://www.cbsnews.com/miami/news/district-27-machine-recount-begins-judge-denies-garcia-recusal-salazar-rodriguez/",
-   "asOf": "2026-11-10T06:36:00-05:00",
+   "marginVotes": 1086,
+   "calledBy": "NBC News, CBS News",
+   "source": "https://www.nbcmiami.com/elections/florida-district-27-race-recount-results/3886047/",
+   "asOf": "2026-11-10T18:08:00-05:00",
    "ddhqUpdated": "2026-11-04 06:24:27.696286+00",
-   "note": "Miami-Dade machine recount still under way Tuesday morning, expected to finish around midday (WSVN, Nov 10, 8:29 AM ET). Salazar (R) leads by under 0.5 pts; no recount totals yet.",
+   "note": "Salazar (R) wins after the Miami-Dade machine recount finished Nov 10: 124,519 to 123,433. Called by NBC News (~6:08 PM ET) and CBS News. No concession from Rodriguez reported.",
    "totalVotes": 247966
   },
   {
@@ -1122,19 +1122,19 @@
    "reporting": "97.4% expected vote in (NBC)",
    "dem": {
     "name": "Scott Colom",
-    "votes": 467961,
+    "votes": 468020,
     "pct": 49.1
    },
    "rep": {
     "name": "Cindy Hyde-Smith",
-    "votes": 465425,
+    "votes": 465445,
     "pct": 48.8
    },
    "marginPts": 0.3,
-   "marginVotes": 2536,
+   "marginVotes": 2575,
    "calledBy": null,
-   "source": "WLBT/WDAM, Nov 10 8:09 AM CST",
-   "asOf": "2026-11-10T09:09:00-05:00",
+   "source": "WTOK, Nov 10 noon CST",
+   "asOf": "2026-11-10T13:00:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
@@ -1145,7 +1145,7 @@
     }
    ],
    "totalVotes": 953418,
-   "note": "Not called. Colom (D) leads by 2,536. Mail ballots due and affidavit cures due today (Nov 10); about 2,578 mail ballots were outstanding and 76% of 15,547 processed affidavits accepted as of Monday. Counties certify by Nov 13."
+   "note": "Not called. Colom (D) leads by 2,575. Affidavit-cure deadline passed 5 PM Nov 10; counties certify by Nov 13."
   },
   {
    "id": "NC-03",
@@ -2543,19 +2543,19 @@
    "reporting": "100% precincts; NBC est. 92.8% of expected vote",
    "dem": {
     "name": "Tessa Lynn Hodge",
-    "votes": 101572,
-    "pct": 49.2
+    "votes": 101691,
+    "pct": 49.18
    },
    "rep": {
     "name": "Jay Obernolte",
-    "votes": 104956,
-    "pct": 50.8
+    "votes": 105095,
+    "pct": 50.82
    },
-   "marginPts": -1.6,
-   "marginVotes": -3384,
+   "marginPts": -1.64,
+   "marginVotes": 3404,
    "calledBy": null,
    "source": "https://api.sos.ca.gov/returns/us-rep/district/23",
-   "asOf": "2026-11-09T22:18:00-05:00",
+   "asOf": "2026-11-10T20:31:00-05:00",
    "totalVotes": 206528,
    "note": "CA SOS reporting time Nov 9 7:18 PM PT. NBC (Nov 9 9:53 PM ET): not called, ~16,000 est. remaining; Hodge would need 60.6% of them."
   },
