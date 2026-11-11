@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:40:00-05:00",
+ "updated": "2026-11-10T23:55:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3408,53 +3408,53 @@
    "id": "AK-AL",
    "status": "RCV",
    "leader": "R",
-   "reporting": "76% (AP via Wikipedia); first-choice count, RCV tabulation Nov 18",
+   "reporting": "~84% counted (AP estimate)",
    "dem": {
     "name": "Bill Hill",
-    "votes": 88882,
-    "pct": 40.8
+    "votes": null,
+    "pct": 41.0
    },
    "rep": {
     "name": "Nick Begich III",
-    "votes": 107184,
-    "pct": 49.2
+    "votes": null,
+    "pct": 48.9
    },
-   "marginPts": -8.4,
-   "marginVotes": 18302,
+   "marginPts": -7.9,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Alaska",
-   "asOf": "2026-11-09T20:15:00-05:00",
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-10/peltola-and-jkt-strengthen-leads-in-latest-alaska-election-results",
+   "asOf": "2026-11-10T23:25:00-05:00",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
     {
      "name": "Eric Hafner",
      "party": "D",
-     "votes": 15979,
-     "pct": 7.3
+     "votes": null,
+     "pct": 7.5
     }
    ],
-   "note": "Infobox figures as of Nov 9 4:15 PM AKST, cited to AP; pcts match NBC page (total 217,925). Begich under 50%, uncalled. Hill is nonpartisan (in the dem slot as in the input)."
+   "note": "Begich (R) 48.9%, Hill (I) 41.0%, Hafner (D) 7.5% in first-choice votes after the Nov 10 count (AP est. 84% counted). Begich under 50%, so ranked-choice tabulation Nov 18. Raw totals not yet published."
   },
   {
    "id": "AK-SEN",
    "status": "RCV",
    "leader": "D",
-   "reporting": "76% (AP via Wikipedia); NBC 75.9%",
+   "reporting": "~84% counted (AP estimate)",
    "dem": {
     "name": "Mary Peltola",
-    "votes": 106328,
-    "pct": 48.63
+    "votes": null,
+    "pct": 49.0
    },
    "rep": {
     "name": "Dan S. Sullivan",
-    "votes": 103804,
-    "pct": 47.48
+    "votes": null,
+    "pct": 47.2
    },
-   "marginPts": 1.15,
-   "marginVotes": 2524,
+   "marginPts": 1.8,
+   "marginVotes": null,
    "calledBy": null,
-   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "asOf": "2026-11-09T20:15:00-05:00",
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-10/peltola-and-jkt-strengthen-leads-in-latest-alaska-election-results",
+   "asOf": "2026-11-10T23:25:00-05:00",
    "others": [
     {
      "name": "Gerald Heikes",
@@ -3463,7 +3463,7 @@
      "pct": 2.2
     }
    ],
-   "note": "First-choice votes as of Nov 9 4:15 PM AKST, cited to AP. NBC: too early to call, total 218,641, ~70,000 est. remaining, Heikes (R) 2.2%. Nobody above 50%; RCV tabulation Nov 18.",
+   "note": "Peltola (D) leads Sullivan (R) 49.0%\u201347.2% in first-choice votes after the Nov 10 count (24,000+ more ballots; AP estimates 84% counted). Under 50%, so ranked-choice tabulation Nov 18. Raw totals not yet published.",
    "totalVotes": 218641
   },
   {
