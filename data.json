@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:55:00-05:00",
+ "updated": "2026-11-11T19:10:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1117,7 +1117,7 @@
   },
   {
    "id": "MS-SEN",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "97.4% expected vote in (NBC)",
    "dem": {
@@ -1131,10 +1131,10 @@
     "pct": 48.8
    },
    "marginPts": 0.3,
-   "marginVotes": 2575,
-   "calledBy": null,
-   "source": "WTOK, Nov 10 noon CST",
-   "asOf": "2026-11-10T13:00:00-05:00",
+   "marginVotes": 4585,
+   "calledBy": "AP, CNN",
+   "source": "https://www.democracydocket.com/",
+   "asOf": "2026-11-11T18:33:00-05:00",
    "ddhqUpdated": "2026-11-04 16:14:15.547555+00",
    "others": [
     {
@@ -1145,7 +1145,7 @@
     }
    ],
    "totalVotes": 953418,
-   "note": "Not called. Colom (D) leads by 2,575. Affidavit-cure deadline passed 5 PM Nov 10; counties certify by Nov 13."
+   "note": "Colom (D) wins: AP and CNN called it Nov 11 after Hinds County counted affidavit ballots; Hyde-Smith conceded by video. Colom led by 4,585 at the call. Vote totals shown are the last full count published (Nov 10 noon). FLIP (R-held)."
   },
   {
    "id": "NC-03",
@@ -3439,22 +3439,22 @@
    "id": "AK-SEN",
    "status": "RCV",
    "leader": "D",
-   "reporting": "~84% counted (AP estimate)",
+   "reporting": "245,470 ballots counted; at least 37,000 outstanding",
    "dem": {
     "name": "Mary Peltola",
     "votes": null,
-    "pct": 49.0
+    "pct": 48.8
    },
    "rep": {
     "name": "Dan S. Sullivan",
     "votes": null,
-    "pct": 47.2
+    "pct": 47.1
    },
-   "marginPts": 1.8,
-   "marginVotes": null,
+   "marginPts": 1.7,
+   "marginVotes": 4250,
    "calledBy": null,
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-10/peltola-and-jkt-strengthen-leads-in-latest-alaska-election-results",
-   "asOf": "2026-11-10T23:25:00-05:00",
+   "source": "Alaska Beacon via Juneau Empire, Nov 11",
+   "asOf": "2026-11-11T09:30:00-05:00",
    "others": [
     {
      "name": "Gerald Heikes",
@@ -3463,7 +3463,7 @@
      "pct": 2.2
     }
    ],
-   "note": "Peltola (D) leads Sullivan (R) 49.0%\u201347.2% in first-choice votes after the Nov 10 count (24,000+ more ballots; AP estimates 84% counted). Under 50%, so ranked-choice tabulation Nov 18. Raw totals not yet published.",
+   "note": "Peltola (D) leads Sullivan (R) by 4,250 first-choice votes (48.8%\u201347.1%). More counts expected through Friday (mail-ballot deadline); ranked-choice tabulation Nov 18.",
    "totalVotes": 218641
   },
   {
