@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-11T19:10:00-05:00",
+ "updated": "2026-11-11T19:30:00-05:00",
  "sample": false,
  "races": [
   {
    "id": "FL-07",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "99% (NBC est.)",
    "dem": {
@@ -19,8 +19,8 @@
    },
    "marginPts": -0.5,
    "marginVotes": 1631,
-   "calledBy": null,
-   "source": "https://floridaelectionwatch.gov/FederalOffices/USRepresentative",
+   "calledBy": "AP",
+   "source": "https://www.fox35orlando.com/news/elijah-soto-win-close-congressional-district-races",
    "asOf": "2026-11-09T18:37:00-05:00",
    "ddhqUpdated": "2026-11-04 15:52:16.560987+00",
    "others": [
@@ -31,12 +31,12 @@
      "pct": 1.07
     }
    ],
-   "note": "FL DOS 1st unofficial returns (total 324,454 matches NBC page updated Nov 9 6:37 PM ET). Elijah +1,631; NBC shows race not called. No machine recount. Search snippets mention a Florida Voice report calling Elijah congressman-elect, but that page returned 403, so it isn't recorded as a call.",
+   "note": "AP called for Elijah (R) Tue Nov 10 (per FOX 35); Dalton congratulated \"Congressman-elect Ryan Elijah.\" No recount; certification Nov 17.",
    "totalVotes": 324454
   },
   {
    "id": "FL-09",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "99% (NBC est.)",
    "dem": {
@@ -51,11 +51,11 @@
    },
    "marginPts": 0.52,
    "marginVotes": 1506,
-   "calledBy": null,
-   "source": "https://floridaelectionwatch.gov/FederalOffices/USRepresentative",
+   "calledBy": "AP",
+   "source": "https://www.fox35orlando.com/news/elijah-soto-win-close-congressional-district-races",
    "asOf": "2026-11-09T18:37:00-05:00",
    "ddhqUpdated": "2026-11-04 04:56:20.197161+00",
-   "note": "FL DOS 1st unofficial returns (total 285,122 matches NBC page updated Nov 9 6:37 PM ET). Soto +1,506; not called by NBC. No recount.",
+   "note": "AP called for Soto (D) Tue Nov 10 (per FOX 35). Green has not conceded. No recount; certification Nov 17.",
    "totalVotes": 285122
   },
   {
@@ -1149,24 +1149,25 @@
   },
   {
    "id": "NC-03",
-   "status": "Counting",
-   "leader": "R",
-   "reporting": "100%",
+   "status": "Called",
+   "leader": "D",
+   "reporting": "All 190 precincts + provisionals (unofficial)",
    "dem": {
     "name": "Raymond Smith",
-    "votes": 117350,
-    "pct": 49.3
+    "votes": 118488,
+    "pct": 49.43
    },
    "rep": {
     "name": "Greg Murphy",
-    "votes": 117583,
-    "pct": 49.4
+    "votes": 118195,
+    "pct": 49.31
    },
-   "marginPts": -0.1,
-   "marginVotes": 233,
-   "calledBy": null,
-   "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:13:33-05:00"
+   "marginPts": 0.12,
+   "marginVotes": 293,
+   "calledBy": "Concession (Murphy)",
+   "source": "https://abc11.com/post/vote-2026-rep-greg-murphy-concedes-nc-3-race-raymond-smith-county-canvass-approaches/20033978/",
+   "asOf": "2026-11-11T12:00:00-05:00",
+   "note": "Smith (D) took the lead after provisional and cured ballots were counted Nov 10; Rep. Greg Murphy (R) conceded Nov 11. FLIP. Libertarian Cavender 3,007. County canvass Nov 13."
   },
   {
    "id": "NC-11",
@@ -2712,22 +2713,23 @@
    "id": "NC-05",
    "status": "Counting",
    "leader": "D",
-   "reporting": "100%",
+   "reporting": "All 230 precincts + provisionals (unofficial)",
    "dem": {
     "name": "Chuck Hubbard",
-    "votes": 139034,
-    "pct": 48.7
+    "votes": 139788,
+    "pct": 48.74
    },
    "rep": {
     "name": "Virginia Foxx",
-    "votes": 138935,
-    "pct": 48.7
+    "votes": 139453,
+    "pct": 48.62
    },
-   "marginPts": 0.0,
-   "marginVotes": 99,
+   "marginPts": 0.12,
+   "marginVotes": 335,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:21:45-05:00"
+   "asOf": "2026-11-11T12:00:00-05:00",
+   "note": "Not called. Hubbard (D) leads Foxx (R) by 335 after provisionals; Foxx has not conceded. Military/overseas ballots count through Nov 12; county canvass Nov 13; within 1% recount range (requests due Nov 17)."
   },
   {
    "id": "NC-06",
@@ -2755,23 +2757,24 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "100%",
+   "reporting": "All precincts + provisionals (unofficial)",
    "dem": {
     "name": "Kimberly Hardy",
-    "votes": 157560,
-    "pct": 49.1
+    "votes": 158431,
+    "pct": 49.16
    },
    "rep": {
     "name": "David Rouzer",
-    "votes": 159985,
-    "pct": 49.9
+    "votes": 160701,
+    "pct": 49.86
    },
-   "marginPts": -0.8,
-   "marginVotes": 2425,
+   "marginPts": -0.7,
+   "marginVotes": 2270,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-04T00:58:28-05:00",
-   "id": "NC-07"
+   "asOf": "2026-11-11T12:00:00-05:00",
+   "id": "NC-07",
+   "note": "Not called. Rouzer (R) leads Hardy (D) by 2,270 (0.7 pts); Rouzer claims victory, Hardy has not conceded. County canvass Nov 13, state canvass Nov 24."
   },
   {
    "id": "NC-08",

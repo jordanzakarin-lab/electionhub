@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:10:00-05:00",
+ "updated": "2026-11-11T19:30:00-05:00",
  "sample": false,
  "chambers": {
   "AL-H": {
@@ -144,7 +144,7 @@
    "controlSource": "https://www.yahoo.com/news/politics/articles/see-delaware-house-senate-election-141600997.html"
   },
   "FL-H": {
-   "D": 49,
+   "D": 50,
    "R": 70,
    "I": 0,
    "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8",
@@ -902,7 +902,7 @@
    "note": "Bipartisan coalition of Democrats, independents and moderate Republicans will organize the House; Rep. Calvin Schrage (I) incoming speaker (ADN, Nov 5). Member count not given; RCV tabulation pending."
   },
   "CA-H": {
-   "D": 64,
+   "D": 65,
    "R": 12,
    "I": 0,
    "source": "Called seats (MultiState winner tables) incl. unopposed; Nov 5 seat sweep 8; Nov 9 seat sweep 13; Nov 9 CA update (DDHQ); Nov 10 seat sweep 15; Nov 10 seat sweep 17; Nov 11 seat sweep 18",
@@ -96553,25 +96553,25 @@
    "others": [],
    "dem": {
     "name": "Charlie Wallin",
-    "votes": 18875,
-    "pct": 50.3
+    "votes": 19075,
+    "pct": 50.46
    },
    "rep": {
     "name": "Ray Pickett",
-    "votes": 18647,
-    "pct": 49.7
+    "votes": 18730,
+    "pct": 49.54
    },
-   "marginPts": 0.6,
+   "marginPts": 0.92,
    "reporting": "~98.5% counted (~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "MultiState: No winner recorded; same leader. County canvass Nov 13, recount requests due Nov 17 (MultiState/WFAE).",
+   "note": "Not called. Lead 345 after provisionals; within 1% recount range. County canvass Nov 13; recount requests due Nov 17.",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 9, ~10 PM ET (fetched; NCSBE file unchanged since Nov 6)",
+   "asOf": "Nov 11 (NCSBE, after provisionals)",
    "sweep": "Nov 10 seat sweep 14",
-   "marginVotes": 228,
+   "marginVotes": 345,
    "lean": true
   },
   {
@@ -99432,27 +99432,28 @@
    "others": [],
    "dem": {
     "name": "Daniel R. McDow",
-    "votes": 36430,
+    "votes": 36428,
     "pct": 50.2
    },
    "rep": {
     "name": "Monique Miller",
-    "votes": 36141,
+    "votes": 36142,
     "pct": 49.8
    },
-   "marginVotes": 289,
+   "marginVotes": 286,
    "marginPts": 0.4,
    "reporting": "~99.5% counted (~99.5% counted (FL DOS 1st unofficial returns (all counties; FL counts nearly all VBM/early by ED); 'Machine Recount Indicated') [carried from prior sweep; no newer count found])",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "wouldFlip": true,
-   "calledBy": "",
-   "note": "MultiState: No winner, \"headed toward a recount\".",
+   "wouldFlip": false,
+   "calledBy": "Brevard County machine recount (final)",
+   "note": "McDow (D) wins by 286 after the Nov 10 machine recount; margin too wide for a manual recount, county declared results final (Space Coast Daily, WKMG, CF Public). FLIP.",
    "source": "https://floridaelectionwatch.gov/DistrictOffices/StateRepresentative",
-   "asOf": "Nov 9, ~10 PM ET (fetched)",
+   "asOf": "Nov 10 (Brevard County machine recount)",
    "sweep": "Nov 10 seat sweep 14",
    "other": 0,
-   "lean": true
+   "winner": "Daniel R. McDow",
+   "flip": true
   },
   {
    "state": "FL",
@@ -106590,25 +106591,25 @@
    "others": [],
    "dem": {
     "name": "Claire Kempner",
-    "votes": 18187,
-    "pct": 50.24
+    "votes": 18363,
+    "pct": 50.31
    },
    "rep": {
     "name": "Timothy Reeder",
-    "votes": 18012,
-    "pct": 49.76
+    "votes": 18137,
+    "pct": 49.69
    },
-   "marginPts": 0.48,
+   "marginPts": 0.62,
    "reporting": "~98.5% counted (~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "MultiState: No winner recorded; same leader. County canvass Nov 13, recount requests due Nov 17 (MultiState/WFAE).",
+   "note": "Not called. Lead 226 after provisionals; within 1% recount range. County canvass Nov 13; recount requests due Nov 17.",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 9, ~10 PM ET (fetched; NCSBE file unchanged since Nov 6)",
+   "asOf": "Nov 11 (NCSBE, after provisionals)",
    "sweep": "Nov 10 seat sweep 14",
-   "marginVotes": 175,
+   "marginVotes": 226,
    "lean": true
   },
   {
@@ -106618,25 +106619,25 @@
    "others": [],
    "dem": {
     "name": "Tim Merrick",
-    "votes": 22054,
-    "pct": 50.11
+    "votes": 22160,
+    "pct": 50.09
    },
    "rep": {
     "name": "Dane Scalise",
-    "votes": 21953,
-    "pct": 49.89
+    "votes": 22079,
+    "pct": 49.91
    },
-   "marginPts": 0.22,
+   "marginPts": 0.18,
    "reporting": "~98.5% counted (~98.5% counted (NCSBE: all precincts + early + absentee received counted; provisionals 0 counted (to be added at county canvass Nov 13) plus late absentee/UOCAVA. Est. ~98-99%) [carried from prior sweep; no newer count found])",
    "status": "Counting",
    "leader": "D",
    "wouldFlip": true,
    "calledBy": "",
-   "note": "MultiState: No winner recorded; same leader. County canvass Nov 13, recount requests due Nov 17 (MultiState/WFAE).",
+   "note": "Not called. Lead 81 after provisionals; within 1% recount range. County canvass Nov 13; recount requests due Nov 17.",
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "Nov 9, ~10 PM ET (fetched; NCSBE file unchanged since Nov 6)",
+   "asOf": "Nov 11 (NCSBE, after provisionals)",
    "sweep": "Nov 10 seat sweep 14",
-   "marginVotes": 101,
+   "marginVotes": 81,
    "lean": true
   },
   {
@@ -112504,11 +112505,11 @@
    "state": "CA",
    "chamber": "Assembly",
    "district": "7",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "~95% counted (DDHQ expected vote >95%)",
-   "calledBy": "",
-   "note": "Slavensky (D) leads incumbent Hoover (R) by 10,863 after the Sacramento evening post. DDHQ shows no call; MultiState: no winner recorded.",
+   "calledBy": "Concession (Hoover)",
+   "note": "Slavensky (D) wins; Rep. Josh Hoover (R) conceded Nov 10 (Sacramento Bee). FLIP.",
    "source": "https://votes.decisiondeskhq.com/races/2026-11-03/california-state-house-7-general-election ; https://www.multistate.us/elections/results/california-2026",
    "asOf": "Nov 10, 7:02 PM ET (DDHQ)",
    "dem": {
@@ -112523,9 +112524,10 @@
    },
    "marginVotes": 10863,
    "marginPts": 6.4,
-   "wouldFlip": true,
+   "wouldFlip": false,
    "sweep": "Nov 10 seat sweep 16",
-   "lean": true
+   "winner": "Amy L. Slavensky",
+   "flip": true
   },
   {
    "state": "CA",
@@ -112890,23 +112892,23 @@
    "district": "6",
    "status": "Counting",
    "leader": "R",
-   "reporting": "No expected-vote figure found for the Nov 10 update; entry's DDHQ 67% is from Nov 6. Sacramento/Placer posted Nov 10; article says uncounted ballots 'growing slim' but gives no figure.",
+   "reporting": "87% counted (DDHQ)",
    "calledBy": "",
-   "note": "Niello (R) lead narrowed to ~1 pt after Nov 10 Sacramento/Placer update (was 1.9 pts / +5,171 on Nov 6). No exact votes found (CA SOS API and DDHQ pages return stale/test data). Not called; MultiState no winner. If keeping entry votes, update margin note only.",
+   "note": "Not called. Niello (R) lead down to 3,298 (from ~9,000 on Nov 5).",
    "source": "https://www.abridged.org/news/election-results-key-sacramento-california-races/",
-   "asOf": "Nov 10, ~5:16 PM PT (article)",
+   "asOf": "Nov 10, 7:14 PM ET (DDHQ)",
    "dem": {
     "name": "Sean Frame",
-    "votes": 132599,
-    "pct": 49.04
+    "votes": 172591,
+    "pct": 49.53
    },
    "rep": {
     "name": "Roger Niello",
-    "votes": 137770,
-    "pct": 50.96
+    "votes": 175889,
+    "pct": 50.47
    },
-   "marginVotes": -5171,
-   "marginPts": -1.92,
+   "marginVotes": -3298,
+   "marginPts": -0.94,
    "wouldFlip": false,
    "sweep": "Nov 10 seat sweep 17"
   },
