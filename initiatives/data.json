@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:10:00-05:00",
+ "updated": "2026-11-13T09:15:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -138,19 +138,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 6087305,
-    "pct": 51.5
+    "votes": 6297179,
+    "pct": 51.37
    },
    "no": {
-    "votes": 5732613,
-    "pct": 48.5
+    "votes": 5962013,
+    "pct": 48.63
    },
-   "marginPts": 3.0,
-   "reporting": "AP est. 88.99% of votes counted (KQED)",
+   "marginPts": 2.74,
+   "reporting": "CA SOS semi-official count (all precincts in; ballots still being processed)",
    "calledBy": "",
-   "note": "KQED/AP updated 7:03 PM PT Nov 10, no 'Race called at' line. CA SOS API (5:31 PM PT Nov 10) had Yes 6,024,692 / No 5,673,727. Pcts computed from counts.",
-   "source": "https://www.kqed.org/elections/results/california/proposition-42",
-   "asOf": "Nov 10, 10:03 PM ET"
+   "note": "CA SOS API 5:26 PM PT Nov 12 (fresher than KQED, whose 7:00 AM PT Nov 12 update shows 90.76% counted, Yes 6,195,536 / No 5,858,367, no 'Race called at' line). Yes lead ~335,200. Pcts computed from counts.",
+   "source": "https://api.sos.ca.gov/returns/ballot-measures",
+   "asOf": "Nov 12, 8:26 PM ET"
   },
   {
    "category": "Tax Wealthy / Initiative Process",
@@ -885,8 +885,8 @@
    "measure": "Residential Vacancy Tax",
    "ballotNo": "Issue 2J",
    "description": "Tax on homes empty more than 183 days a year: ~$4,000, indexed, capped at $7,000.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
@@ -899,9 +899,9 @@
    },
    "marginPts": 18.76,
    "reporting": "unofficial county count",
-   "calledBy": "",
-   "note": "Not called by AP/DDHQ/officials. Rocky Mountain PBS and Boulder Reporting Lab report it approved. County unofficial results 11/6 11:05 PM MT; pcts computed from counts.",
-   "source": "https://electionresults.bouldercounty.gov/Home/IndexCategory/58.html",
+   "calledBy": "City of Boulder (official news release, based on unofficial results); also Rocky Mountain PBS and Boulder Reporting Lab",
+   "note": "City of Boulder release (Nov 4) says the Vacancy Excise Tax passed: 'Passage of this measure results in a tax on vacant residential property.' No AP/DDHQ call. County counts unchanged since 11/6 11:05 PM MT. Pcts computed from counts.",
+   "source": "https://bouldercolorado.gov/news/city-boulder-voters-support-three-ballot-measures-nov-3-2026-election",
    "asOf": "Nov 7, 1:05 AM ET"
   },
   {
@@ -916,19 +916,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 10167,
-    "pct": 44.72
+    "votes": 12728,
+    "pct": 46.13
    },
    "no": {
-    "votes": 12567,
-    "pct": 55.28
+    "votes": 14863,
+    "pct": 53.87
    },
-   "marginPts": -10.56,
+   "marginPts": -7.74,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC Bay Area San Mateo County page; no call shown; header timestamp stale (Nov 4) but counts larger than prior entry.",
+   "note": "NBC Bay Area, no call; header stale (Nov 4). Counts up; No lead ~2,135 (53.87%), narrowed from ~2,400.",
    "source": "https://www.nbcbayarea.com/news/local/san-mateo-county-november-2026-election-results/4164783/",
-   "asOf": "Nov 10, 7:15 AM ET (fetched)"
+   "asOf": "Nov 13, 8:45 AM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1948,19 +1948,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 5751070,
-    "pct": 49.65
+    "votes": 6037920,
+    "pct": 49.68
    },
    "no": {
-    "votes": 5831415,
-    "pct": 50.35
+    "votes": 6116214,
+    "pct": 50.32
    },
-   "marginPts": -0.7,
-   "reporting": "AP est. 88.95% of votes counted (KQED)",
+   "marginPts": -0.64,
+   "reporting": "AP est. 93.51% of votes counted (KQED)",
    "calledBy": "",
-   "note": "KQED/AP 7:03 PM PT Nov 10, no call; No lead ~80,300. CA SOS API (5:31 PM PT) Yes 5,694,686 / No 5,768,677. Pcts computed from counts.",
+   "note": "KQED/AP updated 6:51 PM PT Nov 12, no call; No lead ~78,300. CA SOS API (5:26 PM PT Nov 12) Yes 5,968,387 / No 6,044,166. Pcts computed from counts.",
    "source": "https://www.kqed.org/elections/results/california/proposition-4",
-   "asOf": "Nov 10, 10:03 PM ET"
+   "asOf": "Nov 12, 9:51 PM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -1969,24 +1969,24 @@
    "measure": "Eliminate Successor Elections in Recalls",
    "ballotNo": "Prop 5",
    "description": "No replacement vote on the same recall ballot.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 5909748,
-    "pct": 51.9
+    "votes": 6186191,
+    "pct": 51.91
    },
    "no": {
-    "votes": 5476956,
-    "pct": 48.1
+    "votes": 5731651,
+    "pct": 48.09
    },
-   "marginPts": 3.8,
-   "reporting": "AP est. 88.93% of votes counted (KQED)",
-   "calledBy": "",
-   "note": "KQED/AP 7:03 PM PT Nov 10, no call. CA SOS API (5:31 PM PT) Yes 5,851,098 / No 5,417,336. Pcts computed from counts.",
+   "marginPts": 3.82,
+   "reporting": "AP est. 93.27% of votes counted (KQED)",
+   "calledBy": "AP (via KQED)",
+   "note": "KQED: 'Race called at 7:05 AM PT on November 12, 2026.' CA SOS API (5:26 PM PT Nov 12) Yes 6,127,885 / No 5,679,394. Pcts computed from counts.",
    "source": "https://www.kqed.org/elections/results/california/proposition-5",
-   "asOf": "Nov 10, 10:03 PM ET"
+   "asOf": "Nov 13, 8:45 AM ET (fetched)"
   },
   {
    "category": "Voting & Democracy",
@@ -2366,19 +2366,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 42261,
-    "pct": 53.18
+    "votes": 43584,
+    "pct": 53.36
    },
    "no": {
-    "votes": 37213,
-    "pct": 46.82
+    "votes": 38102,
+    "pct": 46.64
    },
-   "marginPts": 6.36,
+   "marginPts": 6.72,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC LA Orange County page, no projection. Counts up from the prior entry, and the Yes lead grew to ~5,050.",
+   "note": "NBC LA Orange County page, no projection; header timestamp stale (Nov 3). Yes lead ~5,480, up from ~5,050.",
    "source": "https://www.nbclosangeles.com/elections/orange-county-november-2026-election-results/3962608/",
-   "asOf": "Nov 11, 6:45 PM ET (fetched)"
+   "asOf": "Nov 13, 8:45 AM ET (fetched)"
   },
   {
    "category": "Voting & Democracy",
@@ -2464,19 +2464,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 110298,
-    "pct": 47.43
+    "votes": 114883,
+    "pct": 47.19
    },
    "no": {
-    "votes": 122266,
-    "pct": 52.57
+    "votes": 128573,
+    "pct": 52.81
    },
-   "marginPts": -5.14,
-   "reporting": "Est. 82.8% of votes in",
+   "marginPts": -5.62,
+   "reporting": "Est. 86.7% of votes in",
    "calledBy": "",
-   "note": "No call shown. No leads by ~11,970, up from ~9,500 at 74.6% in. Pcts computed from counts.",
+   "note": "No call shown. No lead ~13,690, up from ~11,970 at 82.8% in. Pcts computed from counts.",
    "source": "https://www.alaskasnewssource.com/politics/election-results/",
-   "asOf": "Nov 11, 6:45 PM ET (fetched)"
+   "asOf": "Nov 13, 8:45 AM ET (fetched)"
   },
   {
    "category": "Voting & Democracy",
@@ -3041,24 +3041,24 @@
    "measure": "Parental Rights in Public Schools",
    "ballotNo": "IL26-001",
    "description": "Re-enacts I-2081, reversing 2025 amendments.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Failed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 1435693,
-    "pct": 47.57
+    "votes": 1451478,
+    "pct": 47.6
    },
    "no": {
-    "votes": 1582606,
-    "pct": 52.43
+    "votes": 1598075,
+    "pct": 52.4
    },
-   "marginPts": -4.86,
-   "reporting": "39 of 39 counties reporting (WA SOS); 3,018,299 votes; unofficial until Nov 24 certification",
-   "calledBy": "",
-   "note": "WA SOS results API asOf 2026-11-11T00:44:55Z; isWinner null; no call found. No margin ~146,900. Pcts computed from counts.",
-   "source": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
-   "asOf": "Nov 10, 7:44 PM ET"
+   "marginPts": -4.8,
+   "reporting": "WA SOS unofficial; 3,049,553 votes; certification Nov 24",
+   "calledBy": "AP (reported by KOMO News); Axios Seattle 'Washington voters reject parents' rights ballot initiative' (Nov 10)",
+   "note": "KOMO (updated Nov 10, 9:52 AM): 'Washington voters have officially rejected Initiative 001... The Associated Press called the race Monday evening.' Counts from WA SOS API asOf 2026-11-13T00:35:57Z (isWinner still null). Pcts computed from counts.",
+   "source": "https://komonews.com/news/politics/midterm-election-results-breaking-news-parents-bill-of-rights-washington-state-voter-results-ballot-initiative-001-legislature-politics-lets-go-washington-xx-xy-athletics",
+   "asOf": "Nov 12, 7:35 PM ET"
   },
   {
    "category": "Civil Rights & Repro",

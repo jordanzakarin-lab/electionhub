@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:30:00-05:00",
+ "updated": "2026-11-13T09:15:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2539,26 +2539,26 @@
   },
   {
    "id": "CA-23",
-   "status": "Counting",
+   "status": "Called",
    "leader": "R",
    "reporting": "100% precincts; NBC est. 92.8% of expected vote",
    "dem": {
     "name": "Tessa Lynn Hodge",
-    "votes": 101691,
-    "pct": 49.18
+    "votes": 104230,
+    "pct": 49.21
    },
    "rep": {
     "name": "Jay Obernolte",
-    "votes": 105095,
-    "pct": 50.82
+    "votes": 107578,
+    "pct": 50.79
    },
-   "marginPts": -1.64,
-   "marginVotes": 3404,
-   "calledBy": null,
+   "marginPts": -1.58,
+   "marginVotes": 3348,
+   "calledBy": "DDHQ",
    "source": "https://api.sos.ca.gov/returns/us-rep/district/23",
-   "asOf": "2026-11-10T20:31:00-05:00",
+   "asOf": "2026-11-12T23:46:00-05:00",
    "totalVotes": 206528,
-   "note": "CA SOS reporting time Nov 9 7:18 PM PT. NBC (Nov 9 9:53 PM ET): not called, ~16,000 est. remaining; Hodge would need 60.6% of them."
+   "note": "DDHQ marked the race decided for Obernolte (R) at 7:32 PM ET Nov 11; no AP call found. Votes: CA SOS, Nov 12 8:46 PM PT."
   },
   {
    "id": "FL-26",
@@ -2760,19 +2760,19 @@
    "reporting": "All precincts + provisionals (unofficial)",
    "dem": {
     "name": "Kimberly Hardy",
-    "votes": 158431,
+    "votes": 158434,
     "pct": 49.16
    },
    "rep": {
     "name": "David Rouzer",
-    "votes": 160701,
+    "votes": 160706,
     "pct": 49.86
    },
    "marginPts": -0.7,
-   "marginVotes": 2270,
+   "marginVotes": 2272,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-11T12:00:00-05:00",
+   "asOf": "2026-11-13T08:50:00-05:00",
    "id": "NC-07",
    "note": "Not called. Rouzer (R) leads Hardy (D) by 2,270 (0.7 pts); Rouzer claims victory, Hardy has not conceded. County canvass Nov 13, state canvass Nov 24."
   },
@@ -3411,22 +3411,22 @@
    "id": "AK-AL",
    "status": "RCV",
    "leader": "R",
-   "reporting": "~84% counted (AP estimate)",
+   "reporting": "~88% counted (AP est.)",
    "dem": {
     "name": "Bill Hill",
     "votes": null,
-    "pct": 41.0
+    "pct": 41.15
    },
    "rep": {
     "name": "Nick Begich III",
     "votes": null,
-    "pct": 48.9
+    "pct": 48.55
    },
-   "marginPts": -7.9,
+   "marginPts": -7.4,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-10/peltola-and-jkt-strengthen-leads-in-latest-alaska-election-results",
-   "asOf": "2026-11-10T23:25:00-05:00",
+   "source": "https://votes.decisiondeskhq.com/",
+   "asOf": "2026-11-12T23:03:00-05:00",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
     {
@@ -3436,28 +3436,28 @@
      "pct": 7.5
     }
    ],
-   "note": "Begich (R) 48.9%, Hill (I) 41.0%, Hafner (D) 7.5% in first-choice votes after the Nov 10 count (AP est. 84% counted). Begich under 50%, so ranked-choice tabulation Nov 18. Raw totals not yet published."
+   "note": "Begich (R) 48.55%, Hill (I) 41.15%, Hafner (D) 7.5% in first-choice votes (DDHQ, Nov 12). Under 50%: ranked-choice tabulation Nov 18."
   },
   {
    "id": "AK-SEN",
    "status": "RCV",
    "leader": "D",
-   "reporting": "245,470 ballots counted; at least 37,000 outstanding",
+   "reporting": "~88% counted (AP est.)",
    "dem": {
     "name": "Mary Peltola",
     "votes": null,
-    "pct": 48.8
+    "pct": 49.0
    },
    "rep": {
     "name": "Dan S. Sullivan",
     "votes": null,
-    "pct": 47.1
+    "pct": 46.8
    },
-   "marginPts": 1.7,
-   "marginVotes": 4250,
+   "marginPts": 2.2,
+   "marginVotes": 5800,
    "calledBy": null,
-   "source": "Alaska Beacon via Juneau Empire, Nov 11",
-   "asOf": "2026-11-11T09:30:00-05:00",
+   "source": "https://alaskapublic.org/",
+   "asOf": "2026-11-12T23:21:00-05:00",
    "others": [
     {
      "name": "Gerald Heikes",
@@ -3466,7 +3466,7 @@
      "pct": 2.2
     }
    ],
-   "note": "Peltola (D) leads Sullivan (R) by 4,250 first-choice votes (48.8%\u201347.1%). More counts expected through Friday (mail-ballot deadline); ranked-choice tabulation Nov 18.",
+   "note": "Peltola (D) leads Sullivan (R) by about 5,800 first-choice votes after Thursday's count (49.0%\u201346.8%, Alaska Public, Nov 12). Under 50%: ranked-choice tabulation Nov 18. Overseas ballots accepted through Nov 18.",
    "totalVotes": 218641
   },
   {

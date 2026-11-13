@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:55:00-05:00",
+ "updated": "2026-11-13T09:15:00-05:00",
  "sample": false,
  "races": [
   {
@@ -1571,26 +1571,26 @@
   },
   {
    "id": "KS-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "98.9%",
    "dem": {
     "name": "Cindy Holscher",
-    "votes": 551250,
-    "pct": 50.35
+    "votes": 551865,
+    "pct": 50.34
    },
    "rep": {
     "name": "Ty Masterson",
-    "votes": 543612,
-    "pct": 49.65
+    "votes": 544432,
+    "pct": 49.66
    },
-   "marginPts": 0.7,
-   "marginVotes": 7638,
-   "calledBy": null,
-   "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T19:47:00-05:00",
+   "marginPts": 0.68,
+   "marginVotes": 7433,
+   "calledBy": "AP, DDHQ",
+   "source": "https://votes.decisiondeskhq.com/",
+   "asOf": "2026-11-12T19:40:00-05:00",
    "totalVotes": 1094862,
-   "note": "Not called. Holscher (D) leads 50.3%\u201349.7%, by 7,000+ votes; Masterson won't concede until the 10% precinct audit finishes. Sedgwick County canvass Nov 12, state certification Nov 16, recount requests due Nov 17 (KWCH, Nov 9)."
+   "note": "AP and DDHQ called it Nov 12 for Holscher (D); Masterson conceded after the AP call (KSN, KCTV5). FLIP."
   },
   {
    "id": "KS-SOS",
@@ -1599,19 +1599,19 @@
    "reporting": "98.9%",
    "dem": {
     "name": "Jennifer Day",
-    "votes": 515738,
-    "pct": 47.48
+    "votes": 515989,
+    "pct": 47.33
    },
    "rep": {
     "name": "Pat Proctor",
-    "votes": 524555,
-    "pct": 48.29
+    "votes": 524921,
+    "pct": 48.15
    },
-   "marginPts": -0.81,
-   "marginVotes": 8817,
+   "marginPts": -0.82,
+   "marginVotes": 8932,
    "calledBy": null,
-   "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T19:47:00-05:00",
+   "source": "https://votes.decisiondeskhq.com/",
+   "asOf": "2026-11-12T14:45:00-05:00",
    "ddhqUpdated": "2026-11-04 15:54:15.905753+00",
    "others": [
     {
@@ -1622,7 +1622,7 @@
     }
    ],
    "totalVotes": 1086329,
-   "note": "Not called. Proctor (R) leads with 48.3%. State certification Nov 16, recount requests due Nov 17 (KWCH, Nov 9)."
+   "note": "Not called. Proctor (R) leads Day (D) by 8,932; Morgan 4.5%. State canvass Nov 16."
   },
   {
    "id": "KS-TREAS",
@@ -2938,26 +2938,26 @@
   },
   {
    "id": "KS-LG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
    "reporting": "98.9%",
    "dem": {
     "name": "KC Ohaebosim",
-    "votes": 551250,
-    "pct": 50.35
+    "votes": 551865,
+    "pct": 50.34
    },
    "rep": {
     "name": "Jeff Klemp",
-    "votes": 543612,
-    "pct": 49.65
+    "votes": 544432,
+    "pct": 49.66
    },
-   "marginPts": 0.7,
-   "marginVotes": 7638,
-   "calledBy": null,
-   "source": "https://www.wibw.com/politics/election-results/",
-   "asOf": "2026-11-06T19:47:00-05:00",
+   "marginPts": 0.68,
+   "marginVotes": 7433,
+   "calledBy": "AP, DDHQ",
+   "source": "https://votes.decisiondeskhq.com/",
+   "asOf": "2026-11-12T19:40:00-05:00",
    "totalVotes": 1094862,
-   "note": "Not called. Holscher (D) leads 50.3%\u201349.7%, by 7,000+ votes; Masterson won't concede until the 10% precinct audit finishes. Sedgwick County canvass Nov 12, state certification Nov 16, recount requests due Nov 17 (KWCH, Nov 9). Joint ticket with governor."
+   "note": "AP and DDHQ called it Nov 12 for Holscher (D); Masterson conceded after the AP call (KSN, KCTV5). FLIP. Joint ticket with governor."
   },
   {
    "id": "NE-LG",
@@ -3433,75 +3433,75 @@
   },
   {
    "id": "AK-GOV",
-   "status": "RCV",
+   "status": "Counting",
    "leader": "D",
-   "reporting": "~84% counted (AP estimate)",
+   "reporting": "~88% counted (AP est.)",
    "dem": {
     "name": "Jonathan Kreiss-Tomkins",
-    "votes": null,
-    "pct": 49.9
+    "votes": 126195,
+    "pct": 50.05
    },
    "rep": {
     "name": "Bernadette Wilson",
-    "votes": null,
-    "pct": 28.8
+    "votes": 72282,
+    "pct": 28.67
    },
-   "marginPts": 21.1,
-   "marginVotes": null,
+   "marginPts": 21.38,
+   "marginVotes": 53913,
    "calledBy": null,
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-10/peltola-and-jkt-strengthen-leads-in-latest-alaska-election-results",
-   "asOf": "2026-11-10T23:25:00-05:00",
+   "source": "https://votes.decisiondeskhq.com/",
+   "asOf": "2026-11-13T08:19:00-05:00",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
     {
      "name": "Dave Bronson",
      "party": "R",
-     "votes": null,
-     "pct": 14.06
+     "votes": 34604,
+     "pct": 13.72
     },
     {
      "name": "Treg Taylor",
      "party": "R",
      "votes": null,
-     "pct": 7.41
+     "pct": null
     }
    ],
-   "note": "Kreiss-Tomkins (D) 49.9%, Wilson (R) 28.8% in first-choice votes after the Nov 10 count (AP est. 84% counted) \u2014 just short of 50%, so ranked-choice tabulation Nov 18. Raw totals not yet published."
+   "note": "Kreiss-Tomkins (D) crossed 50% (50.05%) after Thursday's count; if he stays above 50% he wins without ranked-choice tabulation. Not called."
   },
   {
    "id": "AK-LG",
-   "status": "RCV",
+   "status": "Counting",
    "leader": "D",
-   "reporting": "~84% counted (AP estimate)",
+   "reporting": "~88% counted (AP est.)",
    "dem": {
     "name": "Zachary Johnson",
-    "votes": null,
-    "pct": 49.9
+    "votes": 126195,
+    "pct": 50.05
    },
    "rep": {
     "name": "Mike Shower",
-    "votes": null,
-    "pct": 28.8
+    "votes": 72282,
+    "pct": 28.67
    },
-   "marginPts": 21.1,
-   "marginVotes": null,
+   "marginPts": 21.38,
+   "marginVotes": 53913,
    "calledBy": null,
-   "source": "https://alaskapublic.org/news/politics/elections/2026-11-10/peltola-and-jkt-strengthen-leads-in-latest-alaska-election-results",
-   "asOf": "2026-11-10T23:25:00-05:00",
+   "source": "https://votes.decisiondeskhq.com/",
+   "asOf": "2026-11-13T08:19:00-05:00",
    "totalVotes": 210789,
-   "note": "Joint ticket with governor: Johnson (D) with Kreiss-Tomkins 49.9%, Shower (R) with Wilson 28.8% after the Nov 10 count (AP est. 84%). Ranked-choice tabulation Nov 18.",
+   "note": "Kreiss-Tomkins (D) crossed 50% (50.05%) after Thursday's count; if he stays above 50% he wins without ranked-choice tabulation. Not called. Joint ticket with governor.",
    "others": [
     {
      "name": "Josh Church",
      "party": "R",
-     "votes": null,
-     "pct": 14.06
+     "votes": 34604,
+     "pct": 13.72
     },
     {
      "name": "Candi English",
      "party": "R",
      "votes": null,
-     "pct": 7.41
+     "pct": null
     }
    ]
   },
