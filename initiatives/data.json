@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:15:00-05:00",
+ "updated": "2026-11-16T15:45:00-05:00",
  "sample": false,
  "measures": [
   {
@@ -133,24 +133,24 @@
    "measure": "Ban State Wealth Taxes",
    "ballotNo": "Prop 42",
    "description": "Constitutional ban on state wealth and personal-property taxes and some retroactive taxes. Written to cancel Prop 40.",
-   "status": "Counting",
-   "outcome": null,
+   "status": "Called",
+   "outcome": "Passed",
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 6297179,
-    "pct": 51.37
+    "votes": 6521638,
+    "pct": 51.27
    },
    "no": {
-    "votes": 5962013,
-    "pct": 48.63
+    "votes": 6199087,
+    "pct": 48.73
    },
-   "marginPts": 2.74,
-   "reporting": "CA SOS semi-official count (all precincts in; ballots still being processed)",
-   "calledBy": "",
-   "note": "CA SOS API 5:26 PM PT Nov 12 (fresher than KQED, whose 7:00 AM PT Nov 12 update shows 90.76% counted, Yes 6,195,536 / No 5,858,367, no 'Race called at' line). Yes lead ~335,200. Pcts computed from counts.",
-   "source": "https://api.sos.ca.gov/returns/ballot-measures",
-   "asOf": "Nov 12, 8:26 PM ET"
+   "marginPts": 2.54,
+   "reporting": "CA SOS semi-official count (100% precincts; ballots still being processed)",
+   "calledBy": "AP (via KQED)",
+   "note": "AP called Prop 42 PASSED ('Race called at 5:48 PM PT on November 13, 2026' on KQED; KQED shows 96.09% counted, Yes 6,518,379 / No 6,196,188). Counts from CA SOS API report Nov 13 7:09 PM PT (api.sos.ca.gov/returns/ballot-measures). Yes lead ~322,550. Pcts computed from counts.",
+   "source": "https://www.kqed.org/elections/results/california/proposition-42",
+   "asOf": "Nov 13, 10:09 PM ET"
   },
   {
    "category": "Tax Wealthy / Initiative Process",
@@ -350,19 +350,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 653156,
-    "pct": 60.92
+    "votes": 658230,
+    "pct": 60.9
    },
    "no": {
-    "votes": 419026,
-    "pct": 39.08
+    "votes": 422682,
+    "pct": 39.1
    },
-   "marginPts": 21.84,
+   "marginPts": 21.8,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC LA, no projection. Counts up from the prior entry. Header timestamp is stale (Nov 3).",
+   "note": "NBC LA, no projection; header stale (Nov 3). Counts up slightly from prior entry.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 11, 6:45 PM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -402,19 +402,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 21089,
-    "pct": 44.99
+    "votes": 22717,
+    "pct": 46.31
    },
    "no": {
-    "votes": 25783,
-    "pct": 55.01
+    "votes": 26341,
+    "pct": 53.69
    },
-   "marginPts": -10.02,
+   "marginPts": -7.38,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC Bay Area page header still says 'Updated Nov 4, 12:01 AM' but counts are larger than prior entry; no call shown.",
+   "note": "NBC Bay Area, no call; header stale (Nov 4). No lead ~3,620 (53.69%).",
    "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
-   "asOf": "Nov 10, 7:15 AM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -428,19 +428,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 32958,
-    "pct": 69.7
+    "votes": 34643,
+    "pct": 70.02
    },
    "no": {
-    "votes": 14330,
-    "pct": 30.3
+    "votes": 14830,
+    "pct": 29.98
    },
-   "marginPts": 39.4,
+   "marginPts": 40.04,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC Bay Area page header still says 'Updated Nov 4, 12:01 AM' but counts are larger than prior entry; no call shown.",
+   "note": "NBC Bay Area, no call; header stale (Nov 4).",
    "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
-   "asOf": "Nov 10, 7:15 AM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -522,19 +522,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 1678706,
-    "pct": 62.19
+    "votes": 1688498,
+    "pct": 62.15
    },
    "no": {
-    "votes": 1020797,
-    "pct": 37.81
+    "votes": 1028427,
+    "pct": 37.85
    },
-   "marginPts": 24.38,
+   "marginPts": 24.3,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC LA, no projection. Counts up from the prior entry.",
+   "note": "NBC LA, no projection; counts up slightly.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 11, 6:45 PM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Economic Justice",
@@ -916,19 +916,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 12728,
-    "pct": 46.13
+    "votes": 12832,
+    "pct": 46.24
    },
    "no": {
-    "votes": 14863,
-    "pct": 53.87
+    "votes": 14917,
+    "pct": 53.76
    },
-   "marginPts": -7.74,
+   "marginPts": -7.52,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC Bay Area, no call; header stale (Nov 4). Counts up; No lead ~2,135 (53.87%), narrowed from ~2,400.",
+   "note": "NBC Bay Area, no call; header stale (Nov 4). No lead ~2,085 (53.76%), narrowed from ~2,135.",
    "source": "https://www.nbcbayarea.com/news/local/san-mateo-county-november-2026-election-results/4164783/",
-   "asOf": "Nov 13, 8:45 AM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1016,19 +1016,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 31722,
-    "pct": 69.93
+    "votes": 33538,
+    "pct": 70.57
    },
    "no": {
-    "votes": 13643,
-    "pct": 30.07
+    "votes": 13984,
+    "pct": 29.43
    },
-   "marginPts": 39.86,
+   "marginPts": 41.14,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC Bay Area page header still says 'Updated Nov 4, 12:01 AM' but counts are larger than prior entry; no call shown.",
+   "note": "NBC Bay Area, no call; header stale (Nov 4).",
    "source": "https://www.nbcbayarea.com/news/local/alameda-county-november-2026-election-results/4162298/",
-   "asOf": "Nov 10, 7:15 AM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1042,19 +1042,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 22105,
-    "pct": 58.78
+    "votes": 22257,
+    "pct": 58.81
    },
    "no": {
-    "votes": 15500,
-    "pct": 41.22
+    "votes": 15589,
+    "pct": 41.19
    },
-   "marginPts": 17.56,
+   "marginPts": 17.62,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC LA, no projection. Counts up from the prior entry.",
+   "note": "NBC LA, no projection; counts up slightly.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 11, 6:45 PM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1068,19 +1068,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 27625,
-    "pct": 71.5
+    "votes": 27819,
+    "pct": 71.53
    },
    "no": {
-    "votes": 11014,
-    "pct": 28.5
+    "votes": 11073,
+    "pct": 28.47
    },
-   "marginPts": 43.0,
+   "marginPts": 43.06,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC LA, no projection. Counts up from the prior entry.",
+   "note": "NBC LA, no projection; counts up slightly.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 11, 6:45 PM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1094,19 +1094,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 23661,
-    "pct": 62.52
+    "votes": 23839,
+    "pct": 62.59
    },
    "no": {
-    "votes": 14182,
-    "pct": 37.48
+    "votes": 14248,
+    "pct": 37.41
    },
-   "marginPts": 25.04,
+   "marginPts": 25.18,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC LA, no projection. Counts up from the prior entry.",
+   "note": "NBC LA, no projection; counts up slightly.",
    "source": "https://www.nbclosangeles.com/elections/los-angeles-county-election-results-2026-midterms/3962583/",
-   "asOf": "Nov 11, 6:45 PM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Housing",
@@ -1948,19 +1948,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 6037920,
-    "pct": 49.68
+    "votes": 6214189,
+    "pct": 49.7
    },
    "no": {
-    "votes": 6116214,
-    "pct": 50.32
+    "votes": 6288049,
+    "pct": 50.3
    },
-   "marginPts": -0.64,
-   "reporting": "AP est. 93.51% of votes counted (KQED)",
+   "marginPts": -0.6,
+   "reporting": "AP est. 96.44% of votes counted (KQED)",
    "calledBy": "",
-   "note": "KQED/AP updated 6:51 PM PT Nov 12, no call; No lead ~78,300. CA SOS API (5:26 PM PT Nov 12) Yes 5,968,387 / No 6,044,166. Pcts computed from counts.",
+   "note": "KQED/AP updated 7:09 AM PT Nov 16, still no 'Race called at' line. No lead ~73,860 (was ~78,300). CA SOS API (Nov 13 7:09 PM PT) Yes 6,196,042 / No 6,269,470. Pcts computed from counts.",
    "source": "https://www.kqed.org/elections/results/california/proposition-4",
-   "asOf": "Nov 12, 9:51 PM ET"
+   "asOf": "Nov 16, 10:09 AM ET"
   },
   {
    "category": "Voting & Democracy",
@@ -2366,19 +2366,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 43584,
-    "pct": 53.36
+    "votes": 43717,
+    "pct": 53.37
    },
    "no": {
-    "votes": 38102,
-    "pct": 46.64
+    "votes": 38201,
+    "pct": 46.63
    },
-   "marginPts": 6.72,
+   "marginPts": 6.74,
    "reporting": "not stated",
    "calledBy": "",
-   "note": "NBC LA Orange County page, no projection; header timestamp stale (Nov 3). Yes lead ~5,480, up from ~5,050.",
+   "note": "NBC LA Orange County page, no projection; header stale. Yes lead ~5,516.",
    "source": "https://www.nbclosangeles.com/elections/orange-county-november-2026-election-results/3962608/",
-   "asOf": "Nov 13, 8:45 AM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Voting & Democracy",
@@ -2464,19 +2464,19 @@
    "threshold": "Majority",
    "thresholdPct": 50,
    "yes": {
-    "votes": 114883,
-    "pct": 47.19
+    "votes": 124631,
+    "pct": 46.38
    },
    "no": {
-    "votes": 128573,
-    "pct": 52.81
+    "votes": 144098,
+    "pct": 53.62
    },
-   "marginPts": -5.62,
-   "reporting": "Est. 86.7% of votes in",
+   "marginPts": -7.24,
+   "reporting": "Est. 96.6% of votes in",
    "calledBy": "",
-   "note": "No call shown. No lead ~13,690, up from ~11,970 at 82.8% in. Pcts computed from counts.",
+   "note": "No call shown; no 2026 call found in Alaska Public/ADN search. No lead ~19,470 (up from ~13,690 at 86.7%). Pcts computed from counts.",
    "source": "https://www.alaskasnewssource.com/politics/election-results/",
-   "asOf": "Nov 13, 8:45 AM ET (fetched)"
+   "asOf": "Nov 16, 3:20 PM ET (fetched)"
   },
   {
    "category": "Voting & Democracy",

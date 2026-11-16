@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:15:00-05:00",
+ "updated": "2026-11-16T15:45:00-05:00",
  "sample": false,
  "races": [
   {
@@ -3433,75 +3433,75 @@
   },
   {
    "id": "AK-GOV",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "~88% counted (AP est.)",
+   "reporting": "~97% counted (AP est.)",
    "dem": {
     "name": "Jonathan Kreiss-Tomkins",
-    "votes": 126195,
-    "pct": 50.05
+    "votes": 141623,
+    "pct": 50.9
    },
    "rep": {
     "name": "Bernadette Wilson",
-    "votes": 72282,
-    "pct": 28.67
+    "votes": null,
+    "pct": 28.0
    },
-   "marginPts": 21.38,
-   "marginVotes": 53913,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/",
-   "asOf": "2026-11-13T08:19:00-05:00",
+   "marginPts": 22.9,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-13/peltola-leads-in-u-s-senate-race-nearing-50-mark-with-almost-all-ballots-counted",
+   "asOf": "Nov 15 (counts per gutzy.asia summary)",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
     {
      "name": "Dave Bronson",
      "party": "R",
-     "votes": 34604,
-     "pct": 13.72
+     "votes": null,
+     "pct": 13.6
     },
     {
      "name": "Treg Taylor",
      "party": "R",
      "votes": null,
-     "pct": null
+     "pct": 7.2
     }
    ],
-   "note": "Kreiss-Tomkins (D) crossed 50% (50.05%) after Thursday's count; if he stays above 50% he wins without ranked-choice tabulation. Not called."
+   "note": "AP called the race for Kreiss-Tomkins (D) on Fri Nov 13. He won outright with more than 50% of first-choice votes, so there's no RCV. Republican opponents conceded (Alaska Beacon headline). Bronson 13.6%, Taylor 7.2%. Certification Nov 25."
   },
   {
    "id": "AK-LG",
-   "status": "Counting",
+   "status": "Called",
    "leader": "D",
-   "reporting": "~88% counted (AP est.)",
+   "reporting": "~97% counted (AP est.)",
    "dem": {
     "name": "Zachary Johnson",
-    "votes": 126195,
-    "pct": 50.05
+    "votes": 141623,
+    "pct": 50.9
    },
    "rep": {
     "name": "Mike Shower",
-    "votes": 72282,
-    "pct": 28.67
+    "votes": null,
+    "pct": 28.0
    },
-   "marginPts": 21.38,
-   "marginVotes": 53913,
-   "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/",
-   "asOf": "2026-11-13T08:19:00-05:00",
+   "marginPts": 22.9,
+   "marginVotes": null,
+   "calledBy": "AP",
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-13/peltola-leads-in-u-s-senate-race-nearing-50-mark-with-almost-all-ballots-counted",
+   "asOf": "Nov 15 (counts per gutzy.asia summary)",
    "totalVotes": 210789,
-   "note": "Kreiss-Tomkins (D) crossed 50% (50.05%) after Thursday's count; if he stays above 50% he wins without ranked-choice tabulation. Not called. Joint ticket with governor.",
+   "note": "Joint ticket with the governor. AP called it for Kreiss-Tomkins/Johnson (D) on Nov 13 with over 50% of first-choice votes.",
    "others": [
     {
      "name": "Josh Church",
      "party": "R",
-     "votes": 34604,
-     "pct": 13.72
+     "votes": null,
+     "pct": 13.6
     },
     {
      "name": "Candi English",
      "party": "R",
      "votes": null,
-     "pct": null
+     "pct": 7.2
     }
    ]
   },

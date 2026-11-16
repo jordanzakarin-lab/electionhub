@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:15:00-05:00",
+ "updated": "2026-11-16T15:45:00-05:00",
  "sample": false,
  "races": [
   {
@@ -2713,23 +2713,23 @@
    "id": "NC-05",
    "status": "Counting",
    "leader": "D",
-   "reporting": "All 230 precincts + provisionals (unofficial)",
+   "reporting": "All 230 precincts; post-county-canvass (unofficial)",
    "dem": {
     "name": "Chuck Hubbard",
-    "votes": 139788,
+    "votes": 139770,
     "pct": 48.74
    },
    "rep": {
     "name": "Virginia Foxx",
-    "votes": 139453,
+    "votes": 139439,
     "pct": 48.62
    },
    "marginPts": 0.12,
-   "marginVotes": 335,
+   "marginVotes": 331,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-11T12:00:00-05:00",
-   "note": "Not called. Hubbard (D) leads Foxx (R) by 335 after provisionals; Foxx has not conceded. Military/overseas ballots count through Nov 12; county canvass Nov 13; within 1% recount range (requests due Nov 17)."
+   "asOf": "Nov 16, 3:20 PM ET (fetched)",
+   "note": "Not called. After Nov 13 county canvasses, Hubbard (D) leads Foxx (R) by 331 (ABC45, Nov 13). Within 1% recount range; Foxx must request a recount by noon Tue Nov 17. Foxx's campaign hadn't said as of Nov 13 whether it would; a QC News headline says she will request one, but the article didn't load. State certification Nov 24."
   },
   {
    "id": "NC-06",
@@ -2757,24 +2757,24 @@
   {
    "status": "Counting",
    "leader": "R",
-   "reporting": "All precincts + provisionals (unofficial)",
+   "reporting": "All 183 precincts; post-county-canvass (unofficial)",
    "dem": {
     "name": "Kimberly Hardy",
-    "votes": 158434,
-    "pct": 49.16
+    "votes": 158391,
+    "pct": 49.15
    },
    "rep": {
     "name": "David Rouzer",
-    "votes": 160706,
-    "pct": 49.86
+    "votes": 160702,
+    "pct": 49.87
    },
-   "marginPts": -0.7,
-   "marginVotes": 2272,
+   "marginPts": -0.72,
+   "marginVotes": 2311,
    "calledBy": null,
    "source": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-   "asOf": "2026-11-13T08:50:00-05:00",
+   "asOf": "Nov 16, 3:20 PM ET (fetched)",
    "id": "NC-07",
-   "note": "Not called. Rouzer (R) leads Hardy (D) by 2,270 (0.7 pts); Rouzer claims victory, Hardy has not conceded. County canvass Nov 13, state canvass Nov 24."
+   "note": "Not called. Post-canvass totals put Rouzer (R) ahead of Hardy (D) by 2,311 (0.72 pts). Found no concession from Hardy. Recount requests are due Nov 17; state canvass Nov 24."
   },
   {
    "id": "NC-08",
@@ -3411,22 +3411,22 @@
    "id": "AK-AL",
    "status": "RCV",
    "leader": "R",
-   "reporting": "~88% counted (AP est.)",
+   "reporting": "~97% counted (AP est.)",
    "dem": {
     "name": "Bill Hill",
     "votes": null,
-    "pct": 41.15
+    "pct": 41.7
    },
    "rep": {
     "name": "Nick Begich III",
     "votes": null,
-    "pct": 48.55
+    "pct": 47.7
    },
-   "marginPts": -7.4,
+   "marginPts": -6.0,
    "marginVotes": null,
    "calledBy": null,
-   "source": "https://votes.decisiondeskhq.com/",
-   "asOf": "2026-11-12T23:03:00-05:00",
+   "source": "https://alaskapublic.org/news/politics/elections/2026-11-13/peltola-leads-in-u-s-senate-race-nearing-50-mark-with-almost-all-ballots-counted",
+   "asOf": "Nov 14 (Saturday count)",
    "ddhqUpdated": "2026-11-04 15:18:18.502171+00",
    "others": [
     {
@@ -3436,28 +3436,28 @@
      "pct": 7.5
     }
    ],
-   "note": "Begich (R) 48.55%, Hill (I) 41.15%, Hafner (D) 7.5% in first-choice votes (DDHQ, Nov 12). Under 50%: ranked-choice tabulation Nov 18."
+   "note": "Not called by AP. First-choice votes: Begich (R) 47.7%, Hill (I) 41.7%. Under 50%, so it goes to RCV tabulation on Nov 18."
   },
   {
    "id": "AK-SEN",
    "status": "RCV",
    "leader": "D",
-   "reporting": "~88% counted (AP est.)",
+   "reporting": "~97% counted (AP est.)",
    "dem": {
     "name": "Mary Peltola",
-    "votes": null,
-    "pct": 49.0
+    "votes": 140637,
+    "pct": 49.9
    },
    "rep": {
     "name": "Dan S. Sullivan",
-    "votes": null,
-    "pct": 46.8
+    "votes": 129424,
+    "pct": 46.0
    },
-   "marginPts": 2.2,
-   "marginVotes": 5800,
+   "marginPts": 3.9,
+   "marginVotes": 11213,
    "calledBy": null,
-   "source": "https://alaskapublic.org/",
-   "asOf": "2026-11-12T23:21:00-05:00",
+   "source": "https://www.polialert.com/political-news/alaska-senate-race-peltola-157-votes-short-majority/",
+   "asOf": "Nov 16, 8:40 AM ET",
    "others": [
     {
      "name": "Gerald Heikes",
@@ -3466,7 +3466,7 @@
      "pct": 2.2
     }
    ],
-   "note": "Peltola (D) leads Sullivan (R) by about 5,800 first-choice votes after Thursday's count (49.0%\u201346.8%, Alaska Public, Nov 12). Under 50%: ranked-choice tabulation Nov 18. Overseas ballots accepted through Nov 18.",
+   "note": "Not called. Peltola (D) leads by 11,213 first-choice votes and is 157 votes short of a majority. Heikes 6,002 (2.1%); Daniel J. Sullivan Jr. 4,652 (1.7%). RCV tabulation Nov 18, after the overseas-ballot deadline. Alaska Public also reports 49.9%-46%.",
    "totalVotes": 218641
   },
   {
